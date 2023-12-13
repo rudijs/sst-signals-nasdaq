@@ -1,6 +1,14 @@
 // fetch and store nasdaq data
 // process each symbol and create report
 
+const requiredEnvironmanetVars = ["MARKETDATA_API_KEY"]
+
+requiredEnvironmanetVars.forEach((item) => {
+  if (!process.env[item]) {
+    throw new Error(`Required environment variable missing: ${item}`)
+  }
+})
+
 const apiKey = process.env.MARKETDATA_API_KEY
 
 type NasdaqSymbol = {
