@@ -1,0 +1,30 @@
+{
+  "name": "sst-signals-nasdaq",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "sst dev",
+    "build": "sst build",
+    "deploy": "sst deploy",
+    "remove": "sst remove",
+    "console": "sst console",
+    "typecheck": "tsc --noEmit",
+    "test": "sst bind vitest run",
+    "test-watch": "sst bind vitest",
+    "test-coverage": "sst bind vitest run --coverage",
+    "tsc": "tsc --outDir './dist' -w"
+  },
+  "devDependencies": {
+    "@tsconfig/node18": "^18.2.2",
+    "aws-cdk-lib": "2.110.1",
+    "axios": "^1.6.2",
+    "commander": "^11.1.0",
+    "constructs": "10.3.0",
+    "sst": "^2.38.7",
+    "typescript": "^5.3.3"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
