@@ -1,4 +1,4 @@
-import { describe, test, it, expect } from "vitest"
+import { describe, it, expect } from "vitest"
 import { main } from "../process"
 
 describe("main", () => {
