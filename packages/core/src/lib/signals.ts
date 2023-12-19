@@ -3,12 +3,12 @@ import Decimal from "decimal.js"
 import * as math from "mathjs"
 
 export const rsi = (close: number[], symbol: string, rsiLength = 14, emaLength = 55) => {
-  // let signal: ISignal = {
-  //   name: "RSI 55",
-  //   type: "Momentum",
-  //   symbol,
-  //   signalLevel: 0,
-  // }
+  const signal = {
+    name: `RSI ${rsiLength}`,
+    type: "Momentum",
+    symbol,
+    side: "neutral",
+  }
 
   const rsiInput = {
     values: close,
@@ -17,11 +17,12 @@ export const rsi = (close: number[], symbol: string, rsiLength = 14, emaLength =
 
   // RSI
   const rsi = RSI.calculate(rsiInput)
-  console.log(JSON.stringify(rsi, null, 2))
+  // console.log(JSON.stringify(rsi, null, 2))
 
   if (rsi.length && rsi.length >= 2) {
     const prevRsi = rsi[rsi.length - 2]
     const currRsi = rsi[rsi.length - 1]
+    console.log("currRsi :>> ", currRsi)
     // console.log(prevRsi, currRsi)
 
     // EMA
@@ -30,12 +31,11 @@ export const rsi = (close: number[], symbol: string, rsiLength = 14, emaLength =
     const currEma = ema55[ema55.length - 1]
     // console.log(prevEma, currEma)
 
-    // if (currRsi > currEma) signal.signalLevel += 2
-    // if (currRsi > currEma && prevRsi < prevEma) signal = "BUY";
-    // if (currRsi < currEma && prevRsi > prevEma) signal = "SELL";
+    if (currRsi >= 70) signal.side = "overbought"
+    if (currRsi <= 30) signal.side = "oversold"
   }
 
-  return 101
+  return signal
 }
 
 // export const volumeFlowIndicator = (ohlcv: Iohlcv[], symbol: string) => {
@@ -93,50 +93,29 @@ plot(nz(nFish[1]), color=red, title="Trigger")
 
   const dataReversed = d.reverse()
 
-  // const { fisher, trigger } = fisherTransformCalc(dataReversed)
-  fisherTransformCalc(dataReversed)
-  dataReversed.shift()
-  fisherTransformCalc(dataReversed)
-  dataReversed.shift()
-  fisherTransformCalc(dataReversed)
-  dataReversed.shift()
-  fisherTransformCalc(dataReversed)
-  dataReversed.shift()
-  fisherTransformCalc(dataReversed)
-  dataReversed.shift()
-  fisherTransformCalc(dataReversed)
-  dataReversed.shift()
-  fisherTransformCalc(dataReversed)
-  dataReversed.shift()
-  fisherTransformCalc(dataReversed)
-  dataReversed.shift()
-  fisherTransformCalc(dataReversed)
-  dataReversed.shift()
-  fisherTransformCalc(dataReversed)
-  dataReversed.shift()
-  fisherTransformCalc(dataReversed)
-  dataReversed.shift()
-  fisherTransformCalc(dataReversed)
+  // current period
+  const { fisher, trigger } = fisherTransformCalc(dataReversed)
+
+  // if you need the previous period, for example to look for a crossover
+  // you must remove the first element and recalculate
+  // example:
+  // dataReversed.shift()
+  // fisherTransformCalc(dataReversed)
 
   // const signal: ISignal = {
   const signal = {
     name: "Fisher Transform",
     type: "Momentum",
     symbol,
-    signalLevel: 0,
+    side: "neutral",
   }
 
   // if the momentum signal is bullish
-  // if (fisher > trigger) {
-  //   signal.signalLevel += 1
-  //   // add value weight depending on if the momentum is above or below the zero line
-  //   if (fisher >= 1.5) signal.signalLevel += 1
-  //   if (fisher >= 0.75 && fisher < 1.5) signal.signalLevel += 2
-  //   if (fisher >= 0 && fisher < 0.75) signal.signalLevel += 3
-  //   if (fisher < 0 && fisher >= -0.75) signal.signalLevel += 4
-  //   if (fisher < -0.75 && fisher >= -1.5) signal.signalLevel += 5
-  //   if (fisher < -1.5) signal.signalLevel += 6
-  // }
+  if (fisher > trigger) {
+    signal.side = "bullish"
+  } else {
+    signal.side = "bearish"
+  }
 
   return signal
 }
