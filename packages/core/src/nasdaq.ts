@@ -1,5 +1,6 @@
 // fetch and store nasdaq data
 // process each symbol and create report
+import { miners } from "./symbolsList.js"
 
 const requiredEnvironmanetVars = ["MARKETDATA_API_KEY"]
 
@@ -10,27 +11,6 @@ requiredEnvironmanetVars.forEach((item) => {
 })
 
 const apiKey = process.env.MARKETDATA_API_KEY
-
-type NasdaqSymbol = {
-  name: string
-  symbol: string
-}
-
-const miners: NasdaqSymbol[] = [
-  { name: "Argo Blockchain", symbol: "ARBK" },
-  { name: "Bitfarms", symbol: "BITF" },
-  { name: "Bit Digital", symbol: "BTBT" },
-  { name: "Cipher Mining", symbol: "CIFR" },
-  { name: "CleanSpark", symbol: "CLSK" },
-  { name: "Hive Digital Technologies", symbol: "HIVE" },
-  { name: "Hut 8 Corp", symbol: "HUT" },
-  { name: "Iris Engery", symbol: "IREN" },
-  { name: "Marathon Digital Holdings", symbol: "MARA" },
-  { name: "Riot Platforms", symbol: "RIOT" },
-  { name: "Stronghold Digital Mining", symbol: "SDIG" },
-  { name: "TerraWulf", symbol: "WULF" },
-  // { name: "Core Scientific", symbol: "CORZQ" }, // OTC only
-]
 
 export const main = async () => {
   const currentWorkingDirectory = process.cwd()

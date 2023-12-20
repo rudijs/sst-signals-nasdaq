@@ -2,6 +2,7 @@ import { Command } from "commander"
 // import using the 'js file extension' to avoid the 'Cannot use import statement outside a module' error
 // for this use case of compiling the typescript code to javascript and running it in node
 import { main } from "../packages/core/src/nasdaq.js"
+import { main as tvList } from "../packages/core/src/tradingViewList.js"
 import { main as process } from "../packages/core/src/process.js"
 
 const program = new Command()
@@ -24,6 +25,13 @@ program
   .description("Read data and generate signals")
   .action(async () => {
     await process()
+  })
+
+program
+  .command("list")
+  .description("Print list of symbols for tradingview")
+  .action(async () => {
+    await tvList()
   })
 
 program.parse()
