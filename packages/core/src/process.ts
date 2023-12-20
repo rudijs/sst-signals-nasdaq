@@ -3,8 +3,6 @@ import path from "path"
 import { rsi, fisherTransform } from "./lib/signals.js"
 
 export const main = async () => {
-  console.log(101, process.cwd())
-  console.log(process.env.NODE_ENV)
   let directoryPath = `${process.cwd()}/dist/packages/core/src/data/`
 
   if (process.env.NODE_ENV === "test") {
