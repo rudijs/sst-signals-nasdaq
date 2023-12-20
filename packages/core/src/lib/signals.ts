@@ -22,7 +22,7 @@ export const rsi = (close: number[], symbol: string, rsiLength = 14, emaLength =
   if (rsi.length && rsi.length >= 2) {
     const prevRsi = rsi[rsi.length - 2]
     const currRsi = rsi[rsi.length - 1]
-    console.log("currRsi :>> ", currRsi)
+    // console.log("currRsi :>> ", currRsi)
     // console.log(prevRsi, currRsi)
 
     // EMA
@@ -49,7 +49,7 @@ type CandleSticks = {
   v: number[]
 }
 
-export const fisherTransform2 = (data: CandleSticks, symbol: string): any => {
+export const fisherTransform = (data: CandleSticks, symbol: string): any => {
   // https://gist.githubusercontent.com/marketcalls/e7889dd1d4dbc1d7b1af/raw/864544ad7db297ca3607bf0d337bc7c664489f61/Fisher%2520Transform%2520Indicator%2520by%2520Ehlers
 
   ////////////////////////////////////////////////////////////
@@ -81,7 +81,7 @@ plot(nFish, color=green, title="Fisher")
 plot(nz(nFish[1]), color=red, title="Trigger")
 */
 
-  const d: any[] = []
+  const d: { date: string; high: number; low: number }[] = []
 
   // const dataReversed = data.reverse()
   // const d: { high: number[]; low: number[] } = { high: [], low: [] }
@@ -120,7 +120,7 @@ plot(nz(nFish[1]), color=red, title="Trigger")
   return signal
 }
 
-function fisherTransformCalc(data: any) {
+function fisherTransformCalc(data: { date: string; high: number; low: number }[]) {
   // console.log("data :>> ", data[0])
   // console.log("data :>> ", data[1])
   const LENGTH = 13
@@ -197,7 +197,7 @@ function fisherTransformCalc(data: any) {
   const trigger = nFishs[nFishs.length - 2]
   // console.log("fisher :>> ", fisher)
   // console.log("trigger :>> ", trigger)
-  console.log(fisher > trigger ? "Fisher" : "Trigger")
+  // console.log(fisher > trigger ? "Fisher" : "Trigger")
 
   return { fisher, trigger }
 }

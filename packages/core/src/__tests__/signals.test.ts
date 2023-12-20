@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest"
-import { rsi, fisherTransform2 } from "../lib/signals"
+import { rsi, fisherTransform } from "../lib/signals"
 import mockCandles from "./fixtures/IREN_1D_30.json"
 
 describe("rsi", () => {
@@ -15,7 +15,7 @@ describe("rsi", () => {
 
   it("Fisher Transform should be bullish", () => {
     // console.log(mockCandles)
-    const result = fisherTransform2(mockCandles, "IREN")
+    const result = fisherTransform(mockCandles, "IREN")
     // console.log("result :>> ", result)
     expect(result.name).toBe("Fisher Transform")
     expect(result.type).toBe("Momentum")
