@@ -38,7 +38,7 @@ export const main = async () => {
         }
 
         if (rsiSignal.side === "overbought" && fisherSignal.side === "bullish") {
-          console.log(`==> ${ticker} Profit taking`)
+          console.log(`==> ${ticker} Selling: Profit taking`)
           return
         }
 
