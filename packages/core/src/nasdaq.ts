@@ -26,11 +26,14 @@ export const main = async () => {
     const resolution = "1D"
     const dateformat = "timestamp"
     const symbol = miner.symbol
+    const exchange = miner.exchange
     const output = `${outDir}/${symbol}_${resolution}_${countback}.json`
+
+    if (exchange.match(/TSXV|XETR/)) continue
 
     console.log(`echo '==> Fetching ${symbol} data...'`)
 
-    const cmd = `curl -X 'GET' 'https://api.marketdata.app/v1/stocks/candles/${resolution}/${symbol}/?format=json&countback=${countback}&dateformat=${dateformat}&token=${apiKey}' -H 'accept: */*' -H 'X-CSRFToken: ${apiKey}' -o ${output}`
+    const cmd = `curl -X 'GET' 'https://api.marketdata.app/v1/stocks/candles/${resolution}/${exchange}:${symbol}/?format=json&countback=${countback}&dateformat=${dateformat}&token=${apiKey}' -H 'accept: */*' -H 'X-CSRFToken: ${apiKey}' -o ${output}`
 
     console.log(cmd)
   }
