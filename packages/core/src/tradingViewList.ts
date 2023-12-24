@@ -25,7 +25,7 @@ export const main = () => {
     }
   }
 
-  fs.appendFileSync(outDir + "/Miners-BTC.txt", minersBTC.join(","))
-  fs.appendFileSync(outDir + "/Miners-IA.txt", minersIa.join(","))
-  fs.appendFileSync(outDir + "/Miners-Boom.txt", minersBoom.join(","))
+  fs.writeFileSync(outDir + "/Miners-BTC.txt", minersBTC.join(","))
+  fs.writeFileSync(outDir + "/Miners-IA.txt", minersIa.join(","))
+  fs.writeFileSync(outDir + "/Miners-Boom.txt", minersBoom.join(","))
 }
