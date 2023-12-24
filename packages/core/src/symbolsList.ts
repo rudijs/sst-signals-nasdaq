@@ -318,4 +318,11 @@ export const miners: NasdaqSymbol[] = [
     exchange: "NASDAQ",
     url: "https://finance.yahoo.com/quote/WGMI",
   },
+  {
+    symbol: "BTDR",
+    name: "Bitdeer Technologies Group",
+    exchange: "NASDAQ",
+    url: "https://finance.yahoo.com/quote/BTDR",
+    tradableAt: ["boom"],
+  },
 ]
