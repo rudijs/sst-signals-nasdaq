@@ -326,3 +326,72 @@ export const miners: NasdaqSymbol[] = [
     tradableAt: ["boom"],
   },
 ]
+
+const ai: NasdaqSymbol[] = [
+  {
+    symbol: "METV",
+    name: "MRoundhill Ball Metaverse ETF",
+    exchange: "NYSE",
+    url: "https://finance.yahoo.com/quote/METV",
+  },
+  {
+    symbol: "TECB",
+    name: "iShares U.S. Tech Breakthrough Multisector ETF",
+    exchange: "NYSE",
+    url: "https://finance.yahoo.com/quote/TECB",
+  },
+  {
+    symbol: "AIQ",
+    name: "Global X Artificial Intelligence & Technology ETF",
+    exchange: "NASDAQ",
+    url: "https://finance.yahoo.com/quote/AIQ",
+  },
+  {
+    symbol: "BOTZ",
+    name: "Global X Robotics & Artificial Intelligence ETF",
+    exchange: "NASDAQ",
+    url: "https://finance.yahoo.com/quote/BOTZ",
+  },
+  {
+    symbol: "ROBT",
+    name: "First Trust Nasdaq Artificial Intelligence and Robotics ETF",
+    exchange: "NASDAQ",
+    url: "https://finance.yahoo.com/quote/ROBT",
+  },
+  {
+    symbol: "PNQI",
+    name: "Invesco NASDAQ Internet ETF",
+    exchange: "NASDAQ",
+    url: "https://finance.yahoo.com/quote/PNQI",
+  },
+  {
+    symbol: "QQQ",
+    name: "Invesco QQQ Trust",
+    exchange: "NASDAQ",
+    url: "https://finance.yahoo.com/quote/QQQ",
+  },
+  {
+    symbol: "LOUP",
+    name: "Innovator Deepwater Frontier Tech ETF",
+    exchange: "NYSE",
+    url: "https://finance.yahoo.com/quote/LOUP",
+  },
+  {
+    symbol: "IXN",
+    name: "iShares Global Tech ETF",
+    exchange: "NYSE",
+    url: "https://finance.yahoo.com/quote/IXN",
+  },
+  {
+    symbol: "IYW",
+    name: "iShares U.S. Technology ETF",
+    exchange: "NYSE",
+    url: "https://finance.yahoo.com/quote/IYW",
+  },
+  {
+    symbol: "XLK",
+    name: "Technology Select Sector SPDR Fund",
+    exchange: "NYSE",
+    url: "https://finance.yahoo.com/quote/XLK",
+  },
+]
