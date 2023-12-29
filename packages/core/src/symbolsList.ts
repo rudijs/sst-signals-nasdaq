@@ -325,6 +325,13 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/BTDR",
     tradableAt: ["boom"],
   },
+  {
+    symbol: "SLNH",
+    name: "Soluna Holdings, Inc.",
+    exchange: "NASDAQ",
+    url: "https://finance.yahoo.com/quote/BTDR",
+    tradableAt: ["boom"],
+  },
 ]
 
 const ai: NasdaqSymbol[] = [
