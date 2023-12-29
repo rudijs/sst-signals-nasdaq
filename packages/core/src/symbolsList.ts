@@ -330,6 +330,14 @@ export const miners: NasdaqSymbol[] = [
     tradableAt: ["boom"],
     lists: ["ap"],
   },
+  {
+    symbol: "PHX",
+    name: "Phoenix Group Plc",
+    exchange: "ADX",
+    url: "https://finance.yahoo.com/quote/SLNH",
+    tradableAt: [],
+    lists: [],
+  },
 ]
 
 const ai: NasdaqSymbol[] = [
