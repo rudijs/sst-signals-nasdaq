@@ -55,7 +55,7 @@ export const main = (data: NasdaqSymbol[]) => {
     { name: "WULF", type: "Hosted Mining" },
     { name: "CBTTF", type: "Prop Mining" },
     { name: "BTCM", type: "Prop Mining" },
-    { name: "SGLY", type: "Diversified" },
+    // { name: "SGLY", type: "Diversified" },
     { name: "CIFR", type: "Hosted Mining" },
     { name: "BLQC", type: "Hosted Mining" },
     { name: "BITF", type: "Prop Mining" },
