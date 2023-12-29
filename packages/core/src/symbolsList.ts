@@ -305,7 +305,7 @@ export const miners: NasdaqSymbol[] = [
     symbol: "SATO",
     name: "Sato Technologies Corp.",
     exchange: "TSXV",
-    url: "https://finance.yahoo.com/quote/SATO",
+    url: "https://finance.yahoo.com/quote/SATO.V",
     lists: ["ap"],
   },
   {
@@ -334,7 +334,7 @@ export const miners: NasdaqSymbol[] = [
     symbol: "PHX",
     name: "Phoenix Group Plc",
     exchange: "ADX",
-    url: "https://finance.yahoo.com/quote/SLNH",
+    url: "https://www.tradingview.com/symbols/ADX-PHX/",
     tradableAt: [],
     lists: [],
   },
