@@ -4,6 +4,7 @@ import * as fs from "fs"
 export const main = () => {
   const minersBTC: string[] = []
   const minersIa: string[] = []
+  const minersAp: string[] = []
   const minersBoom: string[] = []
 
   const currentWorkingDirectory = process.cwd()
@@ -20,6 +21,10 @@ export const main = () => {
       minersIa.push(`${exchange}:${symbol}`)
     }
 
+    if (miner.lists?.includes("ap")) {
+      minersAp.push(`${exchange}:${symbol}`)
+    }
+
     if (miner.tradableAt?.includes("boom")) {
       minersBoom.push(`${exchange}:${symbol}`)
     }
@@ -27,5 +32,6 @@ export const main = () => {
 
   fs.writeFileSync(outDir + "/Miners-BTC.txt", minersBTC.join(","))
   fs.writeFileSync(outDir + "/Miners-IA.txt", minersIa.join(","))
+  fs.writeFileSync(outDir + "/Miners-AP.txt", minersAp.join(","))
   fs.writeFileSync(outDir + "/Miners-Boom.txt", minersBoom.join(","))
 }

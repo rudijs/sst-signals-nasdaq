@@ -1,3 +1,4 @@
+import { ap } from "vitest/dist/reporters-OH1c16Kq.js"
 import { NasdaqSymbol } from "./symbolsList.js"
 
 export const main = (data: NasdaqSymbol[]) => {
@@ -28,6 +29,26 @@ export const main = (data: NasdaqSymbol[]) => {
     "SASR",
     "CAN",
     "LEAS",
+  ]
+
+  const apListTickers = [
+    "SLNH",
+    "SATO",
+    "GREE",
+    "DMGI",
+    "SDIG",
+    "ARBK",
+    "BTBT",
+    "HIVE",
+    "IREN",
+    "CORZQ",
+    "WULF",
+    "BTIF",
+    "BTDR",
+    "HUT",
+    "CLSK",
+    "RIOT",
+    "MARA",
   ]
 
   const equityTypes = [
@@ -79,15 +100,22 @@ export const main = (data: NasdaqSymbol[]) => {
     miner.url = `https://finance.yahoo.com/quote/${miner.symbol}`
     // https://finance.yahoo.com/quote/WULF
 
-    if (boomTickers.includes(miner.symbol)) {
-      miner.tradableAt = ["boom"]
-    }
+    // if (boomTickers.includes(miner.symbol)) {
+    //   miner.tradableAt = ["boom"]
+    // }
 
-    // add type
-    const found = equityTypes.find((item) => item.name === miner.symbol)
-    if (found) {
-      // console.log("found :>> ", found)
-      miner.type = found.type
+    // // add type
+    // const found = equityTypes.find((item) => item.name === miner.symbol)
+    // if (found) {
+    //   // console.log("found :>> ", found)
+    //   miner.type = found.type
+    // }
+    if (apListTickers.includes(miner.symbol)) {
+      if (miner.lists) {
+        miner.lists.push("ap")
+      } else {
+        miner.lists = ["ap"]
+      }
     }
   }
 
