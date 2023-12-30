@@ -1,0 +1,951 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": -12.845,
+      "fmt": "-12.85"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "enterpriseToEbitda": {
+      "raw": 3.904,
+      "fmt": "3.90"
+    },
+    "52WeekChange": {
+      "raw": 4.9312716,
+      "fmt": "493.13%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {},
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 4726420,
+      "fmt": "4.73M",
+      "longFmt": "4,726,420"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 49.255,
+      "fmt": "49.26"
+    },
+    "sharesShort": {
+      "raw": 49877,
+      "fmt": "49.88k",
+      "longFmt": "49,877"
+    },
+    "sharesPercentSharesOut": {
+      "raw": 0.007900001,
+      "fmt": "0.79%"
+    },
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.08882,
+      "fmt": "8.88%"
+    },
+    "netIncomeToCommon": {
+      "raw": -41631172,
+      "fmt": "-41.63M",
+      "longFmt": "-41,631,172"
+    },
+    "trailingEps": {
+      "raw": -6.67,
+      "fmt": "-6.67"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.2508303,
+      "fmt": "25.08%"
+    },
+    "priceToBook": {
+      "raw": 0.31062835,
+      "fmt": "0.31"
+    },
+    "heldPercentInsiders": {
+      "raw": 0.00079,
+      "fmt": "0.08%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1703980800,
+      "fmt": "2023-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1688083200,
+      "fmt": "2023-06-30"
+    },
+    "shortRatio": {
+      "raw": 3.76,
+      "fmt": "3.76"
+    },
+    "sharesShortPreviousMonthDate": {
+      "raw": 1700006400,
+      "fmt": "2023-11-15"
+    },
+    "floatShares": {
+      "raw": 4346752,
+      "fmt": "4.35M",
+      "longFmt": "4,346,752"
+    },
+    "beta": {
+      "raw": 1.372,
+      "fmt": "1.37"
+    },
+    "enterpriseValue": {
+      "raw": -145847104,
+      "fmt": "-145.85M",
+      "longFmt": "-145,847,104"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1669075200,
+      "fmt": "2022-11-22"
+    },
+    "lastSplitFactor": "1:30",
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {
+      "raw": 1702598400,
+      "fmt": "2023-12-15"
+    },
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {},
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {
+      "raw": 0.0106,
+      "fmt": "1.06%"
+    },
+    "sharesShortPriorMonth": {
+      "raw": 68389,
+      "fmt": "68.39k",
+      "longFmt": "68,389"
+    },
+    "impliedSharesOutstanding": {
+      "raw": 6280620,
+      "fmt": "6.28M",
+      "longFmt": "6,280,620"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Computer Hardware",
+    "industryKey": "computer-hardware",
+    "sector": "Technology",
+    "sectorDisp": "Technology",
+    "fullTimeEmployees": 297,
+    "longBusinessSummary": "Ebang International Holdings Inc., through its subsidiaries, engages in the research, design, and development of application-specific integrated circuit chips and manufacture of Bitcoin mining machines under the Ebit brand in Singapore, Hong Kong, Australia, the Bahamas, and internationally. It also provides mining machine hosting services; and engages in the development of proprietary cryptocurrency exchange platform. In addition, the company offers fiber-optic communication access devices, including multiprotocol label switching fiber-optic access network devices, multi-service access platform integrated business access devices, and wavelength-division multiplexing fiber-optic devices; and enterprise convergent terminal products, which consists gigabit passive optical network, Fiber to the Room products, passive optical network converged gateways, enterprise cloud gateway devices, industrial Internet of Things access devices, and business enterprise smart wireless access devices. It serves the blockchain and telecommunications industries. The company also operates a cross-border payment and foreign exchange platform. It sells its blockchain products directly, as well as through its website; and telecommunication products under the EBANG brand name primarily through supplier contracts. The company was incorporated in 2018 and is headquartered in Hangzhou, China.",
+    "city": "Hangzhou",
+    "phone": "86 571 8700 1760",
+    "country": "China",
+    "sectorKey": "technology",
+    "companyOfficers": [],
+    "website": "https://www.ebang.com.cn",
+    "maxAge": 86400,
+    "address1": "No.1066 Xinzhou Road",
+    "industry": "Computer Hardware",
+    "address2": "Linping District"
+  },
+  "recommendationTrend": {},
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {},
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 17.29,
+      "fmt": "17.29"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 52877,
+      "fmt": "52.88k",
+      "longFmt": "52,877"
+    },
+    "exchange": "NMS",
+    "regularMarketTime": 1703883602,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 17.29,
+      "fmt": "17.29"
+    },
+    "shortName": "Ebang International Holdings In",
+    "averageDailyVolume10Day": {
+      "raw": 273220,
+      "fmt": "273.22k",
+      "longFmt": "273,220"
+    },
+    "longName": "Ebang International Holdings Inc.",
+    "regularMarketChange": {
+      "raw": -1.96,
+      "fmt": "-1.96"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 17.26,
+      "fmt": "17.26"
+    },
+    "postMarketTime": 1703898000,
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {
+      "raw": -0.3000002,
+      "fmt": "-0.30"
+    },
+    "postMarketPrice": {
+      "raw": 15,
+      "fmt": "15.00"
+    },
+    "exchangeName": "NasdaqGS",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 15.0001,
+      "fmt": "15.00"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 15.3,
+      "fmt": "15.30"
+    },
+    "regularMarketVolume": {
+      "raw": 162107,
+      "fmt": "162.11k",
+      "longFmt": "162,107.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "FREE_REALTIME",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 96093488,
+      "fmt": "96.09M",
+      "longFmt": "96,093,488.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "postMarketSource": "DELAYED",
+    "strikePrice": {},
+    "symbol": "EBON",
+    "postMarketChangePercent": {
+      "raw": -0.019607855,
+      "fmt": "-1.96%"
+    },
+    "preMarketSource": "FREE_REALTIME",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.11355736,
+      "fmt": "-11.36%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "SPDR Portfolio Emerging Markets ETF",
+        "pctHeld": {
+          "raw": 0.0013,
+          "fmt": "0.13%"
+        },
+        "position": {
+          "raw": 6627,
+          "fmt": "6.63k",
+          "longFmt": "6,627"
+        },
+        "value": {
+          "raw": 101393,
+          "fmt": "101.39k",
+          "longFmt": "101,393"
+        },
+        "pctChange": {
+          "raw": 0.017,
+          "fmt": "1.70%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Fidelity NASDAQ Composite Index Fund",
+        "pctHeld": {
+          "raw": 0.0004,
+          "fmt": "0.04%"
+        },
+        "position": {
+          "raw": 1980,
+          "fmt": "1.98k",
+          "longFmt": "1,980"
+        },
+        "value": {
+          "raw": 30294,
+          "fmt": "30.29k",
+          "longFmt": "30,294"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Avantis Emerging Markets Value ETF",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 128,
+          "fmt": "128",
+          "longFmt": "128"
+        },
+        "value": {
+          "raw": 1958,
+          "fmt": "1.96k",
+          "longFmt": "1,958"
+        },
+        "pctChange": {
+          "raw": 0.0159,
+          "fmt": "1.59%"
+        }
+      }
+    ]
+  },
+  "insiderTransactions": {},
+  "insiderHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "maxAge": 1,
+    "period": "6m",
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 4961,
+      "fmt": "4.96k",
+      "longFmt": "4,961"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0.00079,
+      "fmt": "0.08%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0.08882,
+      "fmt": "8.88%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0.08889,
+      "fmt": "8.89%"
+    },
+    "institutionsCount": {
+      "raw": 17,
+      "fmt": "17",
+      "longFmt": "17"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "grossMargins": {
+      "raw": 0.19036,
+      "fmt": "19.04%"
+    },
+    "operatingCashflow": {},
+    "revenueGrowth": {
+      "raw": -0.837,
+      "fmt": "-83.70%"
+    },
+    "operatingMargins": {
+      "raw": -3.09433,
+      "fmt": "-309.43%"
+    },
+    "ebitda": {
+      "raw": -37357088,
+      "fmt": "-37.36M",
+      "longFmt": "-37,357,088"
+    },
+    "targetLowPrice": {},
+    "recommendationKey": "none",
+    "grossProfits": {},
+    "freeCashflow": {},
+    "targetMedianPrice": {},
+    "currentPrice": {
+      "raw": 15.3,
+      "fmt": "15.30"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 27.819,
+      "fmt": "27.82"
+    },
+    "returnOnAssets": {
+      "raw": -0.08956,
+      "fmt": "-8.96%"
+    },
+    "numberOfAnalystOpinions": {},
+    "targetMeanPrice": {},
+    "debtToEquity": {
+      "raw": 1.833,
+      "fmt": "1.83%"
+    },
+    "returnOnEquity": {
+      "raw": -0.12929,
+      "fmt": "-12.93%"
+    },
+    "targetHighPrice": {},
+    "totalCash": {
+      "raw": 249731456,
+      "fmt": "249.73M",
+      "longFmt": "249,731,456"
+    },
+    "totalDebt": {
+      "raw": 5708771,
+      "fmt": "5.71M",
+      "longFmt": "5,708,771"
+    },
+    "totalRevenue": {
+      "raw": 11354826,
+      "fmt": "11.35M",
+      "longFmt": "11,354,826"
+    },
+    "totalCashPerShare": {
+      "raw": 39.762,
+      "fmt": "39.76"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 1.814,
+      "fmt": "1.81"
+    },
+    "quickRatio": {
+      "raw": 27.298,
+      "fmt": "27.30"
+    },
+    "recommendationMean": {}
+  },
+  "quoteType": {
+    "exchange": "NMS",
+    "shortName": "Ebang International Holdings In",
+    "longName": "Ebang International Holdings Inc.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "EBON",
+    "messageBoardId": "finmb_309176246",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Renaissance Technologies, LLC",
+        "pctHeld": {
+          "raw": 0.0089,
+          "fmt": "0.89%"
+        },
+        "position": {
+          "raw": 44213,
+          "fmt": "44.21k",
+          "longFmt": "44,213"
+        },
+        "value": {
+          "raw": 676458,
+          "fmt": "676.46k",
+          "longFmt": "676,458"
+        },
+        "pctChange": {
+          "raw": 0.0279,
+          "fmt": "2.79%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Group One Trading, L.P.",
+        "pctHeld": {
+          "raw": 0.0013,
+          "fmt": "0.13%"
+        },
+        "position": {
+          "raw": 6603,
+          "fmt": "6.6k",
+          "longFmt": "6,603"
+        },
+        "value": {
+          "raw": 101025,
+          "fmt": "101.03k",
+          "longFmt": "101,025"
+        },
+        "pctChange": {
+          "raw": -0.33169997,
+          "fmt": "-33.17%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Blackrock Inc.",
+        "pctHeld": {
+          "raw": 0.0011,
+          "fmt": "0.11%"
+        },
+        "position": {
+          "raw": 5387,
+          "fmt": "5.39k",
+          "longFmt": "5,387"
+        },
+        "value": {
+          "raw": 82421,
+          "fmt": "82.42k",
+          "longFmt": "82,421"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Morgan Stanley",
+        "pctHeld": {
+          "raw": 0.0004,
+          "fmt": "0.04%"
+        },
+        "position": {
+          "raw": 1991,
+          "fmt": "1.99k",
+          "longFmt": "1,991"
+        },
+        "value": {
+          "raw": 30462,
+          "fmt": "30.46k",
+          "longFmt": "30,462"
+        },
+        "pctChange": {
+          "raw": 0.056799997,
+          "fmt": "5.68%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Newbridge Financial Services Group, Inc.",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 5,
+          "fmt": "5",
+          "longFmt": "5"
+        },
+        "value": {
+          "raw": 76,
+          "fmt": "76",
+          "longFmt": "76"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Barclays Plc",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 161,
+          "fmt": "161",
+          "longFmt": "161"
+        },
+        "value": {
+          "raw": 2463,
+          "fmt": "2.46k",
+          "longFmt": "2,463"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Cornerstone Planning Group LLC                          ",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 5,
+          "fmt": "5",
+          "longFmt": "5"
+        },
+        "value": {
+          "raw": 76,
+          "fmt": "76",
+          "longFmt": "76"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Tower Research Capital LLC (TRC)",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 85,
+          "fmt": "85",
+          "longFmt": "85"
+        },
+        "value": {
+          "raw": 1300,
+          "fmt": "1.3k",
+          "longFmt": "1,300"
+        },
+        "pctChange": {
+          "raw": 13.1667,
+          "fmt": "1,316.67%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Bank of America Corporation",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 9,
+          "fmt": "9",
+          "longFmt": "9"
+        },
+        "value": {
+          "raw": 137,
+          "fmt": "137",
+          "longFmt": "137"
+        },
+        "pctChange": {
+          "raw": -0.5,
+          "fmt": "-50.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Sunbelt Securities, Inc.",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 13,
+          "fmt": "13",
+          "longFmt": "13"
+        },
+        "value": {
+          "raw": 198,
+          "fmt": "198",
+          "longFmt": "198"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [],
+      "earningsAverage": {},
+      "earningsLow": {},
+      "earningsHigh": {},
+      "revenueAverage": {},
+      "revenueLow": {},
+      "revenueHigh": {}
+    },
+    "exDividendDate": {},
+    "dividendDate": {}
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 17.26,
+      "fmt": "17.26"
+    },
+    "regularMarketOpen": {
+      "raw": 17.29,
+      "fmt": "17.29"
+    },
+    "twoHundredDayAverage": {
+      "raw": 7.478475,
+      "fmt": "7.48"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 17.29,
+      "fmt": "17.29"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 273220,
+      "fmt": "273.22k",
+      "longFmt": "273,220"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 17.26,
+      "fmt": "17.26"
+    },
+    "fiftyDayAverage": {
+      "raw": 8.25932,
+      "fmt": "8.26"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 17.29,
+      "fmt": "17.29"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 273220,
+      "fmt": "273.22k",
+      "longFmt": "273,220"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 1.372,
+      "fmt": "1.37"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 15.0001,
+      "fmt": "15.00"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 162107,
+      "fmt": "162.11k",
+      "longFmt": "162,107"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 96093488,
+      "fmt": "96.09M",
+      "longFmt": "96,093,488"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 52877,
+      "fmt": "52.88k",
+      "longFmt": "52,877"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 8.462789,
+      "fmt": "8.46"
+    },
+    "dayLow": {
+      "raw": 15.0001,
+      "fmt": "15.00"
+    },
+    "ask": {
+      "raw": 15.45,
+      "fmt": "15.45"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 1000,
+      "fmt": "1k",
+      "longFmt": "1,000"
+    },
+    "volume": {
+      "raw": 162107,
+      "fmt": "162.11k",
+      "longFmt": "162,107"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 18.94,
+      "fmt": "18.94"
+    },
+    "forwardPE": {},
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 2.91,
+      "fmt": "2.91"
+    },
+    "bid": {
+      "raw": 15.1,
+      "fmt": "15.10"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {
+      "raw": 1000,
+      "fmt": "1k",
+      "longFmt": "1,000"
+    },
+    "dayHigh": {
+      "raw": 17.29,
+      "fmt": "17.29"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "EBON",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {},
+  "pageViews": {
+    "shortTermTrend": "UP",
+    "midTermTrend": "UP",
+    "longTermTrend": "UP",
+    "maxAge": 1
+  }
+}

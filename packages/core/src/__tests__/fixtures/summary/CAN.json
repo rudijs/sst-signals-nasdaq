@@ -1,0 +1,1465 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 30.379,
+      "fmt": "30.38"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": -1.70558,
+      "fmt": "-170.56%"
+    },
+    "enterpriseToEbitda": {
+      "raw": -15.355,
+      "fmt": "-15.35"
+    },
+    "52WeekChange": {
+      "raw": 0.19072163,
+      "fmt": "19.07%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {
+      "raw": -0.38,
+      "fmt": "-0.38"
+    },
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 171046000,
+      "fmt": "171.05M",
+      "longFmt": "171,046,000"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 2.125,
+      "fmt": "2.12"
+    },
+    "sharesShort": {
+      "raw": 13392048,
+      "fmt": "13.39M",
+      "longFmt": "13,392,048"
+    },
+    "sharesPercentSharesOut": {
+      "raw": 0.0783,
+      "fmt": "7.83%"
+    },
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.20208,
+      "fmt": "20.21%"
+    },
+    "netIncomeToCommon": {
+      "raw": -274402368,
+      "fmt": "-274.4M",
+      "longFmt": "-274,402,368"
+    },
+    "trailingEps": {
+      "raw": -0.47,
+      "fmt": "-0.4700"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.24729478,
+      "fmt": "24.73%"
+    },
+    "priceToBook": {
+      "raw": 1.0870588,
+      "fmt": "1.09"
+    },
+    "heldPercentInsiders": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1703980800,
+      "fmt": "2023-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1696032000,
+      "fmt": "2023-09-30"
+    },
+    "shortRatio": {
+      "raw": 4.17,
+      "fmt": "4.17"
+    },
+    "sharesShortPreviousMonthDate": {
+      "raw": 1698710400,
+      "fmt": "2023-10-31"
+    },
+    "floatShares": {
+      "raw": 2253680049,
+      "fmt": "2.25B",
+      "longFmt": "2,253,680,049"
+    },
+    "beta": {
+      "raw": 2.978,
+      "fmt": "2.98"
+    },
+    "enterpriseValue": {
+      "raw": 4887473664,
+      "fmt": "4.89B",
+      "longFmt": "4,887,473,664"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {},
+    "lastSplitFactor": null,
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {
+      "raw": 1701302400,
+      "fmt": "2023-11-30"
+    },
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {
+      "raw": -6.078947,
+      "fmt": "-6.08"
+    },
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {
+      "raw": 0.0783,
+      "fmt": "7.83%"
+    },
+    "sharesShortPriorMonth": {
+      "raw": 11818163,
+      "fmt": "11.82M",
+      "longFmt": "11,818,163"
+    },
+    "impliedSharesOutstanding": {
+      "raw": 170038000,
+      "fmt": "170.04M",
+      "longFmt": "170,038,000"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Computer Hardware",
+    "zip": "139959",
+    "industryKey": "computer-hardware",
+    "sector": "Technology",
+    "sectorDisp": "Technology",
+    "fullTimeEmployees": 541,
+    "longBusinessSummary": "Canaan Inc. engages in the research, design, and sale of integrated circuit (IC) final mining equipment products by integrating IC products for bitcoin mining and related components in the People's Republic of China. It is also involved in the assembly and distribution of mining equipment and spare parts. The company has operations in the United States, Australia, Kazakhstan, Hong Kong, Canada, Mainland China, Thailand, Sweden, and internationally. Canaan Inc. was founded in 2013 and is based in Singapore.",
+    "city": "Singapore",
+    "phone": "65 6305 6618",
+    "country": "Singapore",
+    "sectorKey": "technology",
+    "companyOfficers": [],
+    "website": "https://canaan-creative.com",
+    "maxAge": 86400,
+    "address1": "28 Ayer Rajah Crescent #06-08",
+    "industry": "Computer Hardware"
+  },
+  "recommendationTrend": {
+    "trend": [
+      {
+        "period": "0m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 0,
+        "buy": 4,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 0,
+        "buy": 4,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      }
+    ],
+    "maxAge": 86400
+  },
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {
+    "maxAge": 86400,
+    "earningsChart": {
+      "quarterly": [
+        {
+          "date": "4Q2022",
+          "actual": {
+            "raw": -0.26,
+            "fmt": "-0.26"
+          },
+          "estimate": {
+            "raw": -0.14,
+            "fmt": "-0.14"
+          }
+        },
+        {
+          "date": "1Q2023",
+          "actual": {
+            "raw": -0.48,
+            "fmt": "-0.48"
+          },
+          "estimate": {
+            "raw": -0.21,
+            "fmt": "-0.21"
+          }
+        },
+        {
+          "date": "2Q2023",
+          "actual": {
+            "raw": -0.61,
+            "fmt": "-0.61"
+          },
+          "estimate": {
+            "raw": -0.12,
+            "fmt": "-0.12"
+          }
+        },
+        {
+          "date": "3Q2023",
+          "actual": {
+            "raw": -0.42,
+            "fmt": "-0.42"
+          },
+          "estimate": {
+            "raw": -0.25,
+            "fmt": "-0.25"
+          }
+        }
+      ],
+      "currentQuarterEstimate": {
+        "raw": -0.17,
+        "fmt": "-0.17"
+      },
+      "currentQuarterEstimateDate": "4Q",
+      "currentQuarterEstimateYear": 2023,
+      "earningsDate": [
+        {
+          "raw": 1709645400,
+          "fmt": "2024-03-05"
+        },
+        {
+          "raw": 1710163800,
+          "fmt": "2024-03-11"
+        }
+      ]
+    },
+    "financialsChart": {
+      "yearly": [
+        {
+          "date": 2019,
+          "revenue": {
+            "raw": 1422623000,
+            "fmt": "1.42B",
+            "longFmt": "1,422,623,000"
+          },
+          "earnings": {
+            "raw": -1034510000,
+            "fmt": "-1.03B",
+            "longFmt": "-1,034,510,000"
+          }
+        },
+        {
+          "date": 2020,
+          "revenue": {
+            "raw": 447686000,
+            "fmt": "447.69M",
+            "longFmt": "447,686,000"
+          },
+          "earnings": {
+            "raw": -215094000,
+            "fmt": "-215.09M",
+            "longFmt": "-215,094,000"
+          }
+        },
+        {
+          "date": 2021,
+          "revenue": {
+            "raw": 4986706000,
+            "fmt": "4.99B",
+            "longFmt": "4,986,706,000"
+          },
+          "earnings": {
+            "raw": 2000282000,
+            "fmt": "2B",
+            "longFmt": "2,000,282,000"
+          }
+        },
+        {
+          "date": 2022,
+          "revenue": {
+            "raw": 4378907000,
+            "fmt": "4.38B",
+            "longFmt": "4,378,907,000"
+          },
+          "earnings": {
+            "raw": 486357000,
+            "fmt": "486.36M",
+            "longFmt": "486,357,000"
+          }
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "3Q2022",
+          "revenue": {
+            "raw": 978207000,
+            "fmt": "978.21M",
+            "longFmt": "978,207,000"
+          },
+          "earnings": {
+            "raw": 46059000,
+            "fmt": "46.06M",
+            "longFmt": "46,059,000"
+          }
+        },
+        {
+          "date": "4Q2022",
+          "revenue": {
+            "raw": 391926000,
+            "fmt": "391.93M",
+            "longFmt": "391,926,000"
+          },
+          "earnings": {
+            "raw": -610218000,
+            "fmt": "-610.22M",
+            "longFmt": "-610,218,000"
+          }
+        },
+        {
+          "date": "1Q2023",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        },
+        {
+          "date": "2Q2023",
+          "revenue": {
+            "raw": 18621000,
+            "fmt": "18.62M",
+            "longFmt": "18,621,000"
+          },
+          "earnings": {
+            "raw": -26303000,
+            "fmt": "-26.3M",
+            "longFmt": "-26,303,000"
+          }
+        }
+      ]
+    },
+    "financialCurrency": "USD"
+  },
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 2.92,
+      "fmt": "2.9200"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 9163093,
+      "fmt": "9.16M",
+      "longFmt": "9,163,093"
+    },
+    "exchange": "NGM",
+    "regularMarketTime": 1703883601,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 2.96,
+      "fmt": "2.9600"
+    },
+    "shortName": "Canaan Inc.",
+    "averageDailyVolume10Day": {
+      "raw": 35525260,
+      "fmt": "35.53M",
+      "longFmt": "35,525,260"
+    },
+    "longName": "Canaan Inc.",
+    "regularMarketChange": {
+      "raw": -0.5,
+      "fmt": "-0.5000"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 2.81,
+      "fmt": "2.8100"
+    },
+    "postMarketTime": 1703898000,
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {
+      "raw": -0.019899845,
+      "fmt": "-0.02"
+    },
+    "postMarketPrice": {
+      "raw": 2.2901,
+      "fmt": "2.2901"
+    },
+    "exchangeName": "NasdaqGM",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 2.21,
+      "fmt": "2.2100"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 2.31,
+      "fmt": "2.3100"
+    },
+    "regularMarketVolume": {
+      "raw": 41654175,
+      "fmt": "41.65M",
+      "longFmt": "41,654,175.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "FREE_REALTIME",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 395116256,
+      "fmt": "395.12M",
+      "longFmt": "395,116,256.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "postMarketSource": "DELAYED",
+    "strikePrice": {},
+    "symbol": "CAN",
+    "postMarketChangePercent": {
+      "raw": -0.008614652,
+      "fmt": "-0.86%"
+    },
+    "preMarketSource": "FREE_REALTIME",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.17793594,
+      "fmt": "-17.79%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Amplify Transformational Data Sharing ETF",
+        "pctHeld": {
+          "raw": 0.0149,
+          "fmt": "1.49%"
+        },
+        "position": {
+          "raw": 2670724,
+          "fmt": "2.67M",
+          "longFmt": "2,670,724"
+        },
+        "value": {
+          "raw": 6169372,
+          "fmt": "6.17M",
+          "longFmt": "6,169,372"
+        },
+        "pctChange": {
+          "raw": -0.0859,
+          "fmt": "-8.59%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "SPDR (R) Ser Tr-SPDR� Kensho New Economies Composite ETF",
+        "pctHeld": {
+          "raw": 0.0127,
+          "fmt": "1.27%"
+        },
+        "position": {
+          "raw": 2265856,
+          "fmt": "2.27M",
+          "longFmt": "2,265,856"
+        },
+        "value": {
+          "raw": 5234127,
+          "fmt": "5.23M",
+          "longFmt": "5,234,127"
+        },
+        "pctChange": {
+          "raw": 0.011,
+          "fmt": "1.10%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1690761600,
+          "fmt": "2023-07-31"
+        },
+        "organization": "Vanguard International Stock Index-Emerging Markets Stk",
+        "pctHeld": {
+          "raw": 0.0123000005,
+          "fmt": "1.23%"
+        },
+        "position": {
+          "raw": 2204346,
+          "fmt": "2.2M",
+          "longFmt": "2,204,346"
+        },
+        "value": {
+          "raw": 5092039,
+          "fmt": "5.09M",
+          "longFmt": "5,092,039"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1690761600,
+          "fmt": "2023-07-31"
+        },
+        "organization": "Vanguard International Stock Index-Total Intl Stock Indx",
+        "pctHeld": {
+          "raw": 0.0117,
+          "fmt": "1.17%"
+        },
+        "position": {
+          "raw": 2092752,
+          "fmt": "2.09M",
+          "longFmt": "2,092,752"
+        },
+        "value": {
+          "raw": 4834257,
+          "fmt": "4.83M",
+          "longFmt": "4,834,257"
+        },
+        "pctChange": {
+          "raw": 0.0069999998,
+          "fmt": "0.70%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Exchange Traded Concepts Tr-Bitwise Crypto Industry Innovators ETF",
+        "pctHeld": {
+          "raw": 0.0104,
+          "fmt": "1.04%"
+        },
+        "position": {
+          "raw": 1857395,
+          "fmt": "1.86M",
+          "longFmt": "1,857,395"
+        },
+        "value": {
+          "raw": 4290582,
+          "fmt": "4.29M",
+          "longFmt": "4,290,582"
+        },
+        "pctChange": {
+          "raw": 0.11350001,
+          "fmt": "11.35%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "iShares Core MSCI Emerging Markets ETF",
+        "pctHeld": {
+          "raw": 0.01,
+          "fmt": "1.00%"
+        },
+        "position": {
+          "raw": 1782304,
+          "fmt": "1.78M",
+          "longFmt": "1,782,304"
+        },
+        "value": {
+          "raw": 4117122,
+          "fmt": "4.12M",
+          "longFmt": "4,117,122"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "VanEck ETF Trust-VanEck Digital Transformation ETF",
+        "pctHeld": {
+          "raw": 0.0064,
+          "fmt": "0.64%"
+        },
+        "position": {
+          "raw": 1153932,
+          "fmt": "1.15M",
+          "longFmt": "1,153,932"
+        },
+        "value": {
+          "raw": 2665582,
+          "fmt": "2.67M",
+          "longFmt": "2,665,582"
+        },
+        "pctChange": {
+          "raw": 0.3155,
+          "fmt": "31.55%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Global X Fds-Global X Blockchain ETF",
+        "pctHeld": {
+          "raw": 0.0056,
+          "fmt": "0.56%"
+        },
+        "position": {
+          "raw": 1000733,
+          "fmt": "1M",
+          "longFmt": "1,000,733"
+        },
+        "value": {
+          "raw": 2311693,
+          "fmt": "2.31M",
+          "longFmt": "2,311,693"
+        },
+        "pctChange": {
+          "raw": 0.0423,
+          "fmt": "4.23%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1690761600,
+          "fmt": "2023-07-31"
+        },
+        "organization": "Vanguard Intl Equity Index Fds-FTSE All World ex U.S.Small Cap Index",
+        "pctHeld": {
+          "raw": 0.0039,
+          "fmt": "0.39%"
+        },
+        "position": {
+          "raw": 695293,
+          "fmt": "695.29k",
+          "longFmt": "695,293"
+        },
+        "value": {
+          "raw": 1606126,
+          "fmt": "1.61M",
+          "longFmt": "1,606,126"
+        },
+        "pctChange": {
+          "raw": 0.2879,
+          "fmt": "28.79%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Avantis Emerging Markets Equity ETF",
+        "pctHeld": {
+          "raw": 0.0034,
+          "fmt": "0.34%"
+        },
+        "position": {
+          "raw": 615169,
+          "fmt": "615.17k",
+          "longFmt": "615,169"
+        },
+        "value": {
+          "raw": 1421040,
+          "fmt": "1.42M",
+          "longFmt": "1,421,040"
+        },
+        "pctChange": {
+          "raw": 0.041300002,
+          "fmt": "4.13%"
+        }
+      }
+    ]
+  },
+  "insiderTransactions": {},
+  "insiderHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "maxAge": 1,
+    "period": "6m",
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0.20208,
+      "fmt": "20.21%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0.20208,
+      "fmt": "20.21%"
+    },
+    "institutionsCount": {
+      "raw": 103,
+      "fmt": "103",
+      "longFmt": "103"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": -1.9783599,
+      "fmt": "-197.84%"
+    },
+    "profitMargins": {
+      "raw": -1.70558,
+      "fmt": "-170.56%"
+    },
+    "grossMargins": {
+      "raw": -1.23219,
+      "fmt": "-123.22%"
+    },
+    "operatingCashflow": {},
+    "revenueGrowth": {
+      "raw": -0.751,
+      "fmt": "-75.10%"
+    },
+    "operatingMargins": {
+      "raw": -3.3868399,
+      "fmt": "-338.68%"
+    },
+    "ebitda": {
+      "raw": -318289184,
+      "fmt": "-318.29M",
+      "longFmt": "-318,289,184"
+    },
+    "targetLowPrice": {
+      "raw": 2.7,
+      "fmt": "2.70"
+    },
+    "recommendationKey": "buy",
+    "grossProfits": {
+      "raw": 1547800000,
+      "fmt": "1.55B",
+      "longFmt": "1,547,800,000"
+    },
+    "freeCashflow": {},
+    "targetMedianPrice": {
+      "raw": 4.95,
+      "fmt": "4.95"
+    },
+    "currentPrice": {
+      "raw": 2.31,
+      "fmt": "2.31"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 3.842,
+      "fmt": "3.84"
+    },
+    "returnOnAssets": {
+      "raw": -0.35821,
+      "fmt": "-35.82%"
+    },
+    "numberOfAnalystOpinions": {
+      "raw": 3,
+      "fmt": "3",
+      "longFmt": "3"
+    },
+    "targetMeanPrice": {
+      "raw": 4.5,
+      "fmt": "4.50"
+    },
+    "debtToEquity": {
+      "raw": 0.527,
+      "fmt": "0.53%"
+    },
+    "returnOnEquity": {
+      "raw": -0.53227,
+      "fmt": "-53.23%"
+    },
+    "targetHighPrice": {
+      "raw": 5.85,
+      "fmt": "5.85"
+    },
+    "totalCash": {
+      "raw": 40574000,
+      "fmt": "40.57M",
+      "longFmt": "40,574,000"
+    },
+    "totalDebt": {
+      "raw": 1915000,
+      "fmt": "1.92M",
+      "longFmt": "1,915,000"
+    },
+    "totalRevenue": {
+      "raw": 160885456,
+      "fmt": "160.89M",
+      "longFmt": "160,885,456"
+    },
+    "totalCashPerShare": {
+      "raw": 0.016,
+      "fmt": "0.02"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 0.949,
+      "fmt": "0.95"
+    },
+    "quickRatio": {
+      "raw": 0.554,
+      "fmt": "0.55"
+    },
+    "recommendationMean": {
+      "raw": 2,
+      "fmt": "2.00"
+    }
+  },
+  "quoteType": {
+    "exchange": "NGM",
+    "shortName": "Canaan Inc.",
+    "longName": "Canaan Inc.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "CAN",
+    "messageBoardId": "finmb_366948896",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Vanguard Group Inc",
+        "pctHeld": {
+          "raw": 0.035099998,
+          "fmt": "3.51%"
+        },
+        "position": {
+          "raw": 6286878,
+          "fmt": "6.29M",
+          "longFmt": "6,286,878"
+        },
+        "value": {
+          "raw": 14522687,
+          "fmt": "14.52M",
+          "longFmt": "14,522,687"
+        },
+        "pctChange": {
+          "raw": 0.0191,
+          "fmt": "1.91%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Invesco Ltd.",
+        "pctHeld": {
+          "raw": 0.0207,
+          "fmt": "2.07%"
+        },
+        "position": {
+          "raw": 3702627,
+          "fmt": "3.7M",
+          "longFmt": "3,702,627"
+        },
+        "value": {
+          "raw": 8553068,
+          "fmt": "8.55M",
+          "longFmt": "8,553,068"
+        },
+        "pctChange": {
+          "raw": 0.2773,
+          "fmt": "27.73%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Blackrock Inc.",
+        "pctHeld": {
+          "raw": 0.020599999,
+          "fmt": "2.06%"
+        },
+        "position": {
+          "raw": 3682414,
+          "fmt": "3.68M",
+          "longFmt": "3,682,414"
+        },
+        "value": {
+          "raw": 8506376,
+          "fmt": "8.51M",
+          "longFmt": "8,506,376"
+        },
+        "pctChange": {
+          "raw": 0.0633,
+          "fmt": "6.33%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "State Street Corporation",
+        "pctHeld": {
+          "raw": 0.0186,
+          "fmt": "1.86%"
+        },
+        "position": {
+          "raw": 3325205,
+          "fmt": "3.33M",
+          "longFmt": "3,325,205"
+        },
+        "value": {
+          "raw": 7681223,
+          "fmt": "7.68M",
+          "longFmt": "7,681,223"
+        },
+        "pctChange": {
+          "raw": -0.0187,
+          "fmt": "-1.87%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Toroso Investments, LLC",
+        "pctHeld": {
+          "raw": 0.015700001,
+          "fmt": "1.57%"
+        },
+        "position": {
+          "raw": 2812294,
+          "fmt": "2.81M",
+          "longFmt": "2,812,294"
+        },
+        "value": {
+          "raw": 6496398,
+          "fmt": "6.5M",
+          "longFmt": "6,496,398"
+        },
+        "pctChange": {
+          "raw": -0.0332,
+          "fmt": "-3.32%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Van Eck Associates Corporation",
+        "pctHeld": {
+          "raw": 0.013300001,
+          "fmt": "1.33%"
+        },
+        "position": {
+          "raw": 2374354,
+          "fmt": "2.37M",
+          "longFmt": "2,374,354"
+        },
+        "value": {
+          "raw": 5484757,
+          "fmt": "5.48M",
+          "longFmt": "5,484,757"
+        },
+        "pctChange": {
+          "raw": 0.3552,
+          "fmt": "35.52%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Exchange Traded Concepts LLC",
+        "pctHeld": {
+          "raw": 0.0104,
+          "fmt": "1.04%"
+        },
+        "position": {
+          "raw": 1857395,
+          "fmt": "1.86M",
+          "longFmt": "1,857,395"
+        },
+        "value": {
+          "raw": 4290582,
+          "fmt": "4.29M",
+          "longFmt": "4,290,582"
+        },
+        "pctChange": {
+          "raw": 0.11350001,
+          "fmt": "11.35%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Polunin Capital Partners Ltd",
+        "pctHeld": {
+          "raw": 0.007900001,
+          "fmt": "0.79%"
+        },
+        "position": {
+          "raw": 1412141,
+          "fmt": "1.41M",
+          "longFmt": "1,412,141"
+        },
+        "value": {
+          "raw": 3262045,
+          "fmt": "3.26M",
+          "longFmt": "3,262,045"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Mirae Asset Global Investments Co., Ltd.",
+        "pctHeld": {
+          "raw": 0.0058,
+          "fmt": "0.58%"
+        },
+        "position": {
+          "raw": 1035482,
+          "fmt": "1.04M",
+          "longFmt": "1,035,482"
+        },
+        "value": {
+          "raw": 2391963,
+          "fmt": "2.39M",
+          "longFmt": "2,391,963"
+        },
+        "pctChange": {
+          "raw": -0.027999999,
+          "fmt": "-2.80%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Group One Trading, L.P.",
+        "pctHeld": {
+          "raw": 0.0044,
+          "fmt": "0.44%"
+        },
+        "position": {
+          "raw": 785032,
+          "fmt": "785.03k",
+          "longFmt": "785,032"
+        },
+        "value": {
+          "raw": 1813423,
+          "fmt": "1.81M",
+          "longFmt": "1,813,423"
+        },
+        "pctChange": {
+          "raw": 10.0846,
+          "fmt": "1,008.46%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [
+        {
+          "raw": 1709645400,
+          "fmt": "2024-03-05"
+        },
+        {
+          "raw": 1710163800,
+          "fmt": "2024-03-11"
+        }
+      ],
+      "earningsAverage": {
+        "raw": -0.17,
+        "fmt": "-0.17"
+      },
+      "earningsLow": {
+        "raw": -0.17,
+        "fmt": "-0.17"
+      },
+      "earningsHigh": {
+        "raw": -0.17,
+        "fmt": "-0.17"
+      },
+      "revenueAverage": {
+        "raw": 30810000,
+        "fmt": "30.81M",
+        "longFmt": "30,810,000"
+      },
+      "revenueLow": {
+        "raw": 30520000,
+        "fmt": "30.52M",
+        "longFmt": "30,520,000"
+      },
+      "revenueHigh": {
+        "raw": 31100000,
+        "fmt": "31.1M",
+        "longFmt": "31,100,000"
+      }
+    },
+    "exDividendDate": {},
+    "dividendDate": {}
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 2.81,
+      "fmt": "2.8100"
+    },
+    "regularMarketOpen": {
+      "raw": 2.92,
+      "fmt": "2.9200"
+    },
+    "twoHundredDayAverage": {
+      "raw": 2.248725,
+      "fmt": "2.2487"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 2.96,
+      "fmt": "2.9600"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 35525260,
+      "fmt": "35.53M",
+      "longFmt": "35,525,260"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 2.81,
+      "fmt": "2.8100"
+    },
+    "fiftyDayAverage": {
+      "raw": 1.8696,
+      "fmt": "1.8696"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 2.92,
+      "fmt": "2.9200"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 35525260,
+      "fmt": "35.53M",
+      "longFmt": "35,525,260"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 2.978,
+      "fmt": "2.98"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 2.21,
+      "fmt": "2.2100"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 41654175,
+      "fmt": "41.65M",
+      "longFmt": "41,654,175"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 395116256,
+      "fmt": "395.12M",
+      "longFmt": "395,116,256"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 9163093,
+      "fmt": "9.16M",
+      "longFmt": "9,163,093"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 2.4558854,
+      "fmt": "2.46"
+    },
+    "dayLow": {
+      "raw": 2.21,
+      "fmt": "2.2100"
+    },
+    "ask": {
+      "raw": 2.3,
+      "fmt": "2.3000"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 2900,
+      "fmt": "2.9k",
+      "longFmt": "2,900"
+    },
+    "volume": {
+      "raw": 41654175,
+      "fmt": "41.65M",
+      "longFmt": "41,654,175"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 3.98,
+      "fmt": "3.9800"
+    },
+    "forwardPE": {
+      "raw": -6.078947,
+      "fmt": "-6.08"
+    },
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 1.13,
+      "fmt": "1.1300"
+    },
+    "bid": {
+      "raw": 2.32,
+      "fmt": "2.3200"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {
+      "raw": 28000,
+      "fmt": "28k",
+      "longFmt": "28,000"
+    },
+    "dayHigh": {
+      "raw": 2.96,
+      "fmt": "2.9600"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "CAN",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {
+    "history": [
+      {
+        "epochGradeDate": 1701271906,
+        "firm": "Benchmark",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit"
+      },
+      {
+        "epochGradeDate": 1701256045,
+        "firm": "HC Wainwright & Co.",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1693390152,
+        "firm": "HC Wainwright & Co.",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit"
+      },
+      {
+        "epochGradeDate": 1685441324,
+        "firm": "HC Wainwright & Co.",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit"
+      },
+      {
+        "epochGradeDate": 1668509907,
+        "firm": "HC Wainwright & Co.",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1657108229,
+        "firm": "HC Wainwright & Co.",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1654678776,
+        "firm": "Benchmark",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1652709762,
+        "firm": "DA Davidson",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      }
+    ],
+    "maxAge": 86400
+  },
+  "pageViews": {
+    "shortTermTrend": "UP",
+    "midTermTrend": "UP",
+    "longTermTrend": "UP",
+    "maxAge": 1
+  }
+}

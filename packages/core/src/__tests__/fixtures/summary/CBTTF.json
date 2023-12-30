@@ -1,0 +1,1103 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 3.238,
+      "fmt": "3.24"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "enterpriseToEbitda": {
+      "raw": -2.567,
+      "fmt": "-2.57"
+    },
+    "52WeekChange": {
+      "raw": 1.1522956,
+      "fmt": "115.23%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {
+      "raw": -0.17,
+      "fmt": "-0.17"
+    },
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 234219008,
+      "fmt": "234.22M",
+      "longFmt": "234,219,008"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": -0.002,
+      "fmt": "-0.00"
+    },
+    "sharesShort": {},
+    "sharesPercentSharesOut": {},
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.06014,
+      "fmt": "6.01%"
+    },
+    "netIncomeToCommon": {
+      "raw": -32198444,
+      "fmt": "-32.2M",
+      "longFmt": "-32,198,444"
+    },
+    "trailingEps": {
+      "raw": -0.2,
+      "fmt": "-0.2000"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.2508303,
+      "fmt": "25.08%"
+    },
+    "priceToBook": {},
+    "heldPercentInsiders": {
+      "raw": 0.115959994,
+      "fmt": "11.60%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1703980800,
+      "fmt": "2023-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1696032000,
+      "fmt": "2023-09-30"
+    },
+    "shortRatio": {},
+    "sharesShortPreviousMonthDate": {},
+    "floatShares": {
+      "raw": 134531159,
+      "fmt": "134.53M",
+      "longFmt": "134,531,159"
+    },
+    "beta": {
+      "raw": 2.964,
+      "fmt": "2.96"
+    },
+    "enterpriseValue": {
+      "raw": 30268574,
+      "fmt": "30.27M",
+      "longFmt": "30,268,574"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {},
+    "lastSplitFactor": null,
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {},
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {
+      "raw": -0.56529415,
+      "fmt": "-0.57"
+    },
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {},
+    "sharesShortPriorMonth": {},
+    "impliedSharesOutstanding": {
+      "raw": 234680000,
+      "fmt": "234.68M",
+      "longFmt": "234,680,000"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Capital Markets",
+    "zip": "V6G 3K3",
+    "industryKey": "capital-markets",
+    "sector": "Financial Services",
+    "sectorDisp": "Financial Services",
+    "longBusinessSummary": "Cathedra Bitcoin Inc. operates as a bitcoin mining company in the United States. It develops and operates bitcoin mining infrastructure; and data centers. The company was formerly known as Fortress Technologies Inc. and changed its name to Cathedra Bitcoin Inc. in December 2021. Cathedra Bitcoin Inc. was incorporated in 2011 and is headquartered in Vancouver, Canada.",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "Canada",
+    "sectorKey": "financial-services",
+    "companyOfficers": [],
+    "website": "https://www.cathedra.com",
+    "maxAge": 86400,
+    "address1": "638 Broughton Street",
+    "industry": "Capital Markets",
+    "address2": "Suite 320"
+  },
+  "recommendationTrend": {
+    "trend": [
+      {
+        "period": "0m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      }
+    ],
+    "maxAge": 86400
+  },
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {
+    "maxAge": 86400,
+    "earningsChart": {
+      "quarterly": [
+        {
+          "date": "3Q2022",
+          "actual": {
+            "raw": -0.08,
+            "fmt": "-0.08"
+          },
+          "estimate": {
+            "raw": -0.04,
+            "fmt": "-0.04"
+          }
+        }
+      ],
+      "currentQuarterEstimate": {
+        "raw": -0.04,
+        "fmt": "-0.04"
+      },
+      "currentQuarterEstimateDate": "4Q",
+      "currentQuarterEstimateYear": 2022,
+      "earningsDate": [
+        {
+          "raw": 1701208800,
+          "fmt": "2023-11-28"
+        }
+      ]
+    },
+    "financialsChart": {
+      "yearly": [
+        {
+          "date": 2019,
+          "revenue": {
+            "raw": 1683185,
+            "fmt": "1.68M",
+            "longFmt": "1,683,185"
+          },
+          "earnings": {
+            "raw": -1061136,
+            "fmt": "-1.06M",
+            "longFmt": "-1,061,136"
+          }
+        },
+        {
+          "date": 2020,
+          "revenue": {
+            "raw": 1026329,
+            "fmt": "1.03M",
+            "longFmt": "1,026,329"
+          },
+          "earnings": {
+            "raw": 1513058,
+            "fmt": "1.51M",
+            "longFmt": "1,513,058"
+          }
+        },
+        {
+          "date": 2021,
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        },
+        {
+          "date": 2022,
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "3Q2022",
+          "revenue": {
+            "raw": 1493520,
+            "fmt": "1.49M",
+            "longFmt": "1,493,520"
+          },
+          "earnings": {
+            "raw": -7711263,
+            "fmt": "-7.71M",
+            "longFmt": "-7,711,263"
+          }
+        },
+        {
+          "date": "4Q2022",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        },
+        {
+          "date": "1Q2023",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        },
+        {
+          "date": "2Q2023",
+          "revenue": {
+            "raw": 2893204,
+            "fmt": "2.89M",
+            "longFmt": "2,893,204"
+          },
+          "earnings": {
+            "raw": -2949013,
+            "fmt": "-2.95M",
+            "longFmt": "-2,949,013"
+          }
+        }
+      ]
+    },
+    "financialCurrency": "CAD"
+  },
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 0.1,
+      "fmt": "0.1000"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 143756,
+      "fmt": "143.76k",
+      "longFmt": "143,756"
+    },
+    "exchange": "PNK",
+    "regularMarketTime": 1703883474,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.103,
+      "fmt": "0.1030"
+    },
+    "shortName": "CATHEDRA BITCOIN INC",
+    "averageDailyVolume10Day": {
+      "raw": 274583,
+      "fmt": "274.58k",
+      "longFmt": "274,583"
+    },
+    "longName": "Cathedra Bitcoin Inc.",
+    "regularMarketChange": {
+      "raw": -0.0040399954,
+      "fmt": "-0.0040"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 0.10014,
+      "fmt": "0.1001"
+    },
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {},
+    "postMarketPrice": {},
+    "exchangeName": "Other OTC",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 0.0898,
+      "fmt": "0.0898"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 0.0961,
+      "fmt": "0.0961"
+    },
+    "regularMarketVolume": {
+      "raw": 227330,
+      "fmt": "227.33k",
+      "longFmt": "227,330.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "DELAYED",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 22508448,
+      "fmt": "22.51M",
+      "longFmt": "22,508,448.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "symbol": "CBTTF",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.040343475,
+      "fmt": "-4.03%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": []
+  },
+  "insiderTransactions": {
+    "transactions": [
+      {
+        "filerName": "Armstrong (Thomas)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1658880000,
+          "fmt": "2022-07-27"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 680000,
+          "fmt": "680k",
+          "longFmt": "680,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Masiero (Thomas)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1658188800,
+          "fmt": "2022-07-19"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 157449,
+          "fmt": "157.45k",
+          "longFmt": "157,449"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Scalia (Antonin)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1657756800,
+          "fmt": "2022-07-14"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 680000,
+          "fmt": "680k",
+          "longFmt": "680,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Sebag (Roy)",
+        "transactionText": "Exercise of options at price 0.12 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1649376000,
+          "fmt": "2022-04-08"
+        },
+        "value": {
+          "raw": 119000,
+          "fmt": "119k",
+          "longFmt": "119,000"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 1000000,
+          "fmt": "1M",
+          "longFmt": "1,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Sellner (Wesley)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1649030400,
+          "fmt": "2022-04-04"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Jaques (David)",
+        "transactionText": "Exercise of options at price 0.10 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1643932800,
+          "fmt": "2022-02-04"
+        },
+        "value": {
+          "raw": 49000,
+          "fmt": "49k",
+          "longFmt": "49,000"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 500000,
+          "fmt": "500k",
+          "longFmt": "500,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Masiero (Thomas)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1641772800,
+          "fmt": "2022-01-10"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Ty (Sean)",
+        "transactionText": "Exercise of options at price 0.14 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1640822400,
+          "fmt": "2021-12-30"
+        },
+        "value": {
+          "raw": 14099,
+          "fmt": "14.1k",
+          "longFmt": "14,099"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      }
+    ],
+    "maxAge": 1
+  },
+  "insiderHolders": {
+    "holders": [
+      {
+        "maxAge": 1,
+        "name": "Armstrong (Thomas)",
+        "relation": "Director of Issuer",
+        "url": "",
+        "transactionDescription": "Exercise of rights",
+        "latestTransDate": {
+          "raw": 1658880000,
+          "fmt": "2022-07-27"
+        },
+        "positionDirect": {
+          "raw": 1270308,
+          "fmt": "1.27M",
+          "longFmt": "1,270,308"
+        },
+        "positionDirectDate": {
+          "raw": 1658880000,
+          "fmt": "2022-07-27"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "Jaques (David)",
+        "relation": "Director of Issuer",
+        "url": "",
+        "transactionDescription": "Exercise of options",
+        "latestTransDate": {
+          "raw": 1643932800,
+          "fmt": "2022-02-04"
+        },
+        "positionDirect": {
+          "raw": 1000000,
+          "fmt": "1M",
+          "longFmt": "1,000,000"
+        },
+        "positionDirectDate": {
+          "raw": 1643932800,
+          "fmt": "2022-02-04"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "Masiero (Thomas)",
+        "relation": "Senior Officer of Issuer",
+        "url": "",
+        "transactionDescription": "Exercise of rights",
+        "latestTransDate": {
+          "raw": 1658188800,
+          "fmt": "2022-07-19"
+        },
+        "positionDirect": {
+          "raw": 163676,
+          "fmt": "163.68k",
+          "longFmt": "163,676"
+        },
+        "positionDirectDate": {
+          "raw": 1658188800,
+          "fmt": "2022-07-19"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "Scalia (Antonin)",
+        "relation": "Director of Issuer",
+        "url": "",
+        "transactionDescription": "Exercise of rights",
+        "latestTransDate": {
+          "raw": 1657756800,
+          "fmt": "2022-07-14"
+        },
+        "positionDirect": {
+          "raw": 1180000,
+          "fmt": "1.18M",
+          "longFmt": "1,180,000"
+        },
+        "positionDirectDate": {
+          "raw": 1657756800,
+          "fmt": "2022-07-14"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "Sebag (Roy)",
+        "relation": "Director of Issuer",
+        "url": "",
+        "transactionDescription": "Exercise of options",
+        "latestTransDate": {
+          "raw": 1649376000,
+          "fmt": "2022-04-08"
+        },
+        "positionDirect": {
+          "raw": 8556000,
+          "fmt": "8.56M",
+          "longFmt": "8,556,000"
+        },
+        "positionDirectDate": {
+          "raw": 1649376000,
+          "fmt": "2022-04-08"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "Sellner (Wesley)",
+        "relation": "Senior Officer of Issuer",
+        "url": "",
+        "transactionDescription": "Opening Balance-Initial SEDI Report",
+        "latestTransDate": {
+          "raw": 1649030400,
+          "fmt": "2022-04-04"
+        },
+        "positionDirect": {
+          "raw": 3000,
+          "fmt": "3k",
+          "longFmt": "3,000"
+        },
+        "positionDirectDate": {
+          "raw": 1649030400,
+          "fmt": "2022-04-04"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "Ty (Sean)",
+        "relation": "Senior Officer of Issuer",
+        "url": "",
+        "transactionDescription": "Exercise of options",
+        "latestTransDate": {
+          "raw": 1640822400,
+          "fmt": "2021-12-30"
+        },
+        "positionDirect": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "positionDirectDate": {
+          "raw": 1640822400,
+          "fmt": "2021-12-30"
+        }
+      }
+    ],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "maxAge": 1,
+    "period": "6m",
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 15976970,
+      "fmt": "15.98M",
+      "longFmt": "15,976,970"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0.115959994,
+      "fmt": "11.60%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0.06014,
+      "fmt": "6.01%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0.06802,
+      "fmt": "6.80%"
+    },
+    "institutionsCount": {
+      "raw": 1,
+      "fmt": "1",
+      "longFmt": "1"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": -1.26155,
+      "fmt": "-126.15%"
+    },
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "grossMargins": {
+      "raw": 0.3291,
+      "fmt": "32.91%"
+    },
+    "operatingCashflow": {
+      "raw": -5766903,
+      "fmt": "-5.77M",
+      "longFmt": "-5,766,903"
+    },
+    "revenueGrowth": {
+      "raw": 0.848,
+      "fmt": "84.80%"
+    },
+    "operatingMargins": {
+      "raw": -0.68494004,
+      "fmt": "-68.49%"
+    },
+    "ebitda": {
+      "raw": -11792673,
+      "fmt": "-11.79M",
+      "longFmt": "-11,792,673"
+    },
+    "targetLowPrice": {},
+    "recommendationKey": "hold",
+    "grossProfits": {},
+    "freeCashflow": {
+      "raw": 1072693,
+      "fmt": "1.07M",
+      "longFmt": "1,072,693"
+    },
+    "targetMedianPrice": {},
+    "currentPrice": {
+      "raw": 0.0961,
+      "fmt": "0.10"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 1.442,
+      "fmt": "1.44"
+    },
+    "returnOnAssets": {
+      "raw": -0.15255,
+      "fmt": "-15.25%"
+    },
+    "numberOfAnalystOpinions": {},
+    "targetMeanPrice": {},
+    "debtToEquity": {},
+    "returnOnEquity": {
+      "raw": -2.51901,
+      "fmt": "-251.90%"
+    },
+    "targetHighPrice": {},
+    "totalCash": {
+      "raw": 2961347,
+      "fmt": "2.96M",
+      "longFmt": "2,961,347"
+    },
+    "totalDebt": {
+      "raw": 19989262,
+      "fmt": "19.99M",
+      "longFmt": "19,989,262"
+    },
+    "totalRevenue": {
+      "raw": 9347770,
+      "fmt": "9.35M",
+      "longFmt": "9,347,770"
+    },
+    "totalCashPerShare": {
+      "raw": 0.021,
+      "fmt": "0.02"
+    },
+    "financialCurrency": "CAD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 0.07,
+      "fmt": "0.07"
+    },
+    "quickRatio": {
+      "raw": 0.823,
+      "fmt": "0.82"
+    },
+    "recommendationMean": {
+      "raw": 3,
+      "fmt": "3.00"
+    }
+  },
+  "quoteType": {
+    "exchange": "PNK",
+    "shortName": "CATHEDRA BITCOIN INC",
+    "longName": "Cathedra Bitcoin Inc.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "CBTTF",
+    "messageBoardId": "finmb_547856673",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1656547200,
+          "fmt": "2022-06-30"
+        },
+        "organization": "Curbstone Financial Management Corp",
+        "pctHeld": {
+          "raw": 0.0004,
+          "fmt": "0.04%"
+        },
+        "position": {
+          "raw": 50600,
+          "fmt": "50.6k",
+          "longFmt": "50,600"
+        },
+        "value": {
+          "raw": 4862,
+          "fmt": "4.86k",
+          "longFmt": "4,862"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [
+        {
+          "raw": 1701208800,
+          "fmt": "2023-11-28"
+        }
+      ],
+      "earningsAverage": {
+        "raw": -0.04,
+        "fmt": "-0.04"
+      },
+      "earningsLow": {
+        "raw": -0.04,
+        "fmt": "-0.04"
+      },
+      "earningsHigh": {
+        "raw": -0.04,
+        "fmt": "-0.04"
+      },
+      "revenueAverage": {
+        "raw": 1400000,
+        "fmt": "1.4M",
+        "longFmt": "1,400,000"
+      },
+      "revenueLow": {
+        "raw": 1400000,
+        "fmt": "1.4M",
+        "longFmt": "1,400,000"
+      },
+      "revenueHigh": {
+        "raw": 1400000,
+        "fmt": "1.4M",
+        "longFmt": "1,400,000"
+      }
+    },
+    "exDividendDate": {},
+    "dividendDate": {
+      "raw": 1534896000,
+      "fmt": "2018-08-22"
+    }
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 0.10014,
+      "fmt": "0.1001"
+    },
+    "regularMarketOpen": {
+      "raw": 0.1,
+      "fmt": "0.1000"
+    },
+    "twoHundredDayAverage": {
+      "raw": 0.09346285,
+      "fmt": "0.0935"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.103,
+      "fmt": "0.1030"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 274583,
+      "fmt": "274.58k",
+      "longFmt": "274,583"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 0.10014,
+      "fmt": "0.1001"
+    },
+    "fiftyDayAverage": {
+      "raw": 0.08609,
+      "fmt": "0.0861"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 0.1,
+      "fmt": "0.1000"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 274583,
+      "fmt": "274.58k",
+      "longFmt": "274,583"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 2.964,
+      "fmt": "2.96"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 0.0898,
+      "fmt": "0.0898"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 227330,
+      "fmt": "227.33k",
+      "longFmt": "227,330"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 22508448,
+      "fmt": "22.51M",
+      "longFmt": "22,508,448"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 143756,
+      "fmt": "143.76k",
+      "longFmt": "143,756"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 2.4078948,
+      "fmt": "2.41"
+    },
+    "dayLow": {
+      "raw": 0.0898,
+      "fmt": "0.0898"
+    },
+    "ask": {},
+    "ytdReturn": {},
+    "askSize": {},
+    "volume": {
+      "raw": 227330,
+      "fmt": "227.33k",
+      "longFmt": "227,330"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 0.1829,
+      "fmt": "0.1829"
+    },
+    "forwardPE": {
+      "raw": -0.56529415,
+      "fmt": "-0.57"
+    },
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 0.0287,
+      "fmt": "0.0287"
+    },
+    "bid": {},
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {},
+    "dayHigh": {
+      "raw": 0.103,
+      "fmt": "0.1030"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "CBTTF",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {},
+  "pageViews": {}
+}

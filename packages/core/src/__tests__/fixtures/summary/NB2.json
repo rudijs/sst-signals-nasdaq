@@ -1,0 +1,593 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 3.134,
+      "fmt": "3,13"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": 1.51248,
+      "fmt": "151,25%"
+    },
+    "enterpriseToEbitda": {
+      "raw": 4.895,
+      "fmt": "4,89"
+    },
+    "52WeekChange": {
+      "raw": 3.6466432,
+      "fmt": "364,66%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {},
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 42177200,
+      "fmt": "42,18M",
+      "longFmt": "42.177.200"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 25.709,
+      "fmt": "25,71"
+    },
+    "sharesShort": {},
+    "sharesPercentSharesOut": {},
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1640908800,
+      "fmt": "2021-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.024430001,
+      "fmt": "2,44%"
+    },
+    "netIncomeToCommon": {
+      "raw": 287158976,
+      "fmt": "287,16M",
+      "longFmt": "287.158.976"
+    },
+    "trailingEps": {
+      "raw": 12.06,
+      "fmt": "12,06"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.24729478,
+      "fmt": "24,73%"
+    },
+    "priceToBook": {
+      "raw": 1.0229881,
+      "fmt": "1,02"
+    },
+    "heldPercentInsiders": {
+      "raw": 0,
+      "fmt": "0,00%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1609372800,
+      "fmt": "2020-12-31"
+    },
+    "shortRatio": {},
+    "sharesShortPreviousMonthDate": {},
+    "floatShares": {
+      "raw": 23815514,
+      "fmt": "23,82M",
+      "longFmt": "23.815.514"
+    },
+    "beta": {
+      "raw": 0.858,
+      "fmt": "0,86"
+    },
+    "enterpriseValue": {
+      "raw": 594997824,
+      "fmt": "595M",
+      "longFmt": "594.997.824"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {},
+    "lastSplitFactor": null,
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {},
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {},
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {},
+    "sharesShortPriorMonth": {},
+    "impliedSharesOutstanding": {
+      "raw": 43503000,
+      "fmt": "43,5M",
+      "longFmt": "43.503.000"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "IT-Dienstleistungen",
+    "zip": "60322",
+    "industryKey": "information-technology-services",
+    "sector": "Technology",
+    "sectorDisp": "Technologie",
+    "fullTimeEmployees": 157,
+    "longBusinessSummary": "Northern Data AG develops, builds, and operates high-performance computing (HPC) infrastructure solutions in Germany and internationally. It offers infrastructure for various HPC applications in the areas of cloud computing, cryptocurrency hosting services and hardware, and stationary and mobile data centers. The company was formerly known as Northern Bitcoin AG and changed its name to Northern Data AG in January 2020. Northern Data AG is headquartered in Frankfurt am Main, Germany.",
+    "city": "Frankfurt am Main",
+    "phone": "49 69 34 87 52 25",
+    "country": "Germany",
+    "sectorKey": "technology",
+    "companyOfficers": [],
+    "website": "https://northerndata.de",
+    "maxAge": 86400,
+    "address1": "An der Welle 3",
+    "fax": "49 69 34 87 52 96",
+    "industry": "Information Technology Services"
+  },
+  "recommendationTrend": {},
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {},
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 25.75,
+      "fmt": "25,75"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 56858,
+      "fmt": "56,86k",
+      "longFmt": "56.858"
+    },
+    "exchange": "GER",
+    "regularMarketTime": 1703855180,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 26.3,
+      "fmt": "26,30"
+    },
+    "shortName": "NORTHERN DATA AG INH O.N.",
+    "averageDailyVolume10Day": {
+      "raw": 48455,
+      "fmt": "48,45k",
+      "longFmt": "48.455"
+    },
+    "longName": "Northern Data AG",
+    "regularMarketChange": {
+      "raw": 0.8499985,
+      "fmt": "0,85"
+    },
+    "currencySymbol": "€",
+    "regularMarketPreviousClose": {
+      "raw": 25.45,
+      "fmt": "25,45"
+    },
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 15,
+    "toCurrency": null,
+    "postMarketChange": {},
+    "postMarketPrice": {},
+    "exchangeName": "XETRA",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 24.9,
+      "fmt": "24,90"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "EUR",
+    "regularMarketPrice": {
+      "raw": 26.3,
+      "fmt": "26,30"
+    },
+    "regularMarketVolume": {
+      "raw": 22627,
+      "fmt": "22,63k",
+      "longFmt": "22.627,00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "DELAYED",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 1109260288,
+      "fmt": "1,11B",
+      "longFmt": "1.109.260.288,00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "symbol": "NB2.DE",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": 0.03339876,
+      "fmt": "3,34%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": []
+  },
+  "insiderTransactions": {},
+  "insiderHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "maxAge": 1,
+    "period": "6m",
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0,
+      "fmt": "0,00%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0.024430001,
+      "fmt": "2,44%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0.024430001,
+      "fmt": "2,44%"
+    },
+    "institutionsCount": {
+      "raw": 43,
+      "fmt": "43",
+      "longFmt": "43"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0.64018995,
+      "fmt": "64,02%"
+    },
+    "profitMargins": {
+      "raw": 1.51248,
+      "fmt": "151,25%"
+    },
+    "grossMargins": {
+      "raw": 0.52527,
+      "fmt": "52,53%"
+    },
+    "operatingCashflow": {
+      "raw": 88066000,
+      "fmt": "88,07M",
+      "longFmt": "88.066.000"
+    },
+    "revenueGrowth": {
+      "raw": 0.725,
+      "fmt": "72,50%"
+    },
+    "operatingMargins": {
+      "raw": -1.42647,
+      "fmt": "-142,65%"
+    },
+    "ebitda": {
+      "raw": 121546440,
+      "fmt": "121,55M",
+      "longFmt": "121.546.440"
+    },
+    "targetLowPrice": {},
+    "recommendationKey": "none",
+    "grossProfits": {
+      "raw": 99727743,
+      "fmt": "99,73M",
+      "longFmt": "99.727.743"
+    },
+    "freeCashflow": {
+      "raw": -374814592,
+      "fmt": "-374,81M",
+      "longFmt": "-374.814.592"
+    },
+    "targetMedianPrice": {},
+    "currentPrice": {
+      "raw": 26.3,
+      "fmt": "26,30"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 2.01,
+      "fmt": "2,01"
+    },
+    "returnOnAssets": {
+      "raw": 0.074099995,
+      "fmt": "7,41%"
+    },
+    "numberOfAnalystOpinions": {},
+    "targetMeanPrice": {},
+    "debtToEquity": {
+      "raw": 24.083,
+      "fmt": "24,08%"
+    },
+    "returnOnEquity": {
+      "raw": 0.7281,
+      "fmt": "72,81%"
+    },
+    "targetHighPrice": {},
+    "totalCash": {
+      "raw": 73862272,
+      "fmt": "73,86M",
+      "longFmt": "73.862.272"
+    },
+    "totalDebt": {
+      "raw": 42512068,
+      "fmt": "42,51M",
+      "longFmt": "42.512.068"
+    },
+    "totalRevenue": {
+      "raw": 189859584,
+      "fmt": "189,86M",
+      "longFmt": "189.859.584"
+    },
+    "totalCashPerShare": {
+      "raw": 3.101,
+      "fmt": "3,1"
+    },
+    "financialCurrency": "EUR",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 10.755,
+      "fmt": "10,76"
+    },
+    "quickRatio": {
+      "raw": 1.814,
+      "fmt": "1,81"
+    },
+    "recommendationMean": {}
+  },
+  "quoteType": {
+    "exchange": "GER",
+    "shortName": "NORTHERN DATA AG INH O.N.",
+    "longName": "Northern Data AG",
+    "exchangeTimezoneName": "Europe/Berlin",
+    "exchangeTimezoneShortName": "CET",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "3600000",
+    "quoteType": "EQUITY",
+    "symbol": "NB2.DE",
+    "messageBoardId": "finmb_253416425_lang_de",
+    "market": "de_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": []
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [
+        {
+          "raw": 1704139224,
+          "fmt": "2024-01-01"
+        },
+        {
+          "raw": 1704225624,
+          "fmt": "2024-01-02"
+        }
+      ],
+      "earningsAverage": {},
+      "earningsLow": {},
+      "earningsHigh": {},
+      "revenueAverage": {},
+      "revenueLow": {},
+      "revenueHigh": {}
+    },
+    "exDividendDate": {},
+    "dividendDate": {}
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 25.45,
+      "fmt": "25,45"
+    },
+    "regularMarketOpen": {
+      "raw": 25.75,
+      "fmt": "25,75"
+    },
+    "twoHundredDayAverage": {
+      "raw": 20.3578,
+      "fmt": "20,36"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0,00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0,00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 26.3,
+      "fmt": "26,30"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 48455,
+      "fmt": "48,45k",
+      "longFmt": "48.455"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 25.45,
+      "fmt": "25,45"
+    },
+    "fiftyDayAverage": {
+      "raw": 25.391,
+      "fmt": "25,39"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0,00"
+    },
+    "open": {
+      "raw": 25.75,
+      "fmt": "25,75"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 48455,
+      "fmt": "48,45k",
+      "longFmt": "48.455"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 0.858,
+      "fmt": "0,86"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 24.9,
+      "fmt": "24,90"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "EUR",
+    "trailingPE": {
+      "raw": 2.1807628,
+      "fmt": "2,18"
+    },
+    "regularMarketVolume": {
+      "raw": 22627,
+      "fmt": "22,63k",
+      "longFmt": "22.627"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 1109260288,
+      "fmt": "1,11B",
+      "longFmt": "1.109.260.288"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 56858,
+      "fmt": "56,86k",
+      "longFmt": "56.858"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 5.84253,
+      "fmt": "5,84"
+    },
+    "dayLow": {
+      "raw": 24.9,
+      "fmt": "24,90"
+    },
+    "ask": {
+      "raw": 26.25,
+      "fmt": "26,25"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "volume": {
+      "raw": 22627,
+      "fmt": "22,63k",
+      "longFmt": "22.627"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 30.85,
+      "fmt": "30,85"
+    },
+    "forwardPE": {},
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 5.5,
+      "fmt": "5,50"
+    },
+    "bid": {
+      "raw": 26.05,
+      "fmt": "26,05"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "dayHigh": {
+      "raw": 26.3,
+      "fmt": "26,30"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "NB2.DE",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {},
+  "pageViews": {}
+}

@@ -1,0 +1,2161 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 3.229,
+      "fmt": "3.23"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "enterpriseToEbitda": {
+      "raw": -4.278,
+      "fmt": "-4.28"
+    },
+    "52WeekChange": {
+      "raw": -0.43333334,
+      "fmt": "-43.33%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {},
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 1609790,
+      "fmt": "1.61M",
+      "longFmt": "1,609,790"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 19.789,
+      "fmt": "19.79"
+    },
+    "sharesShort": {
+      "raw": 204896,
+      "fmt": "204.9k",
+      "longFmt": "204,896"
+    },
+    "sharesPercentSharesOut": {
+      "raw": 0.1273,
+      "fmt": "12.73%"
+    },
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.115480006,
+      "fmt": "11.55%"
+    },
+    "netIncomeToCommon": {
+      "raw": -50684000,
+      "fmt": "-50.68M",
+      "longFmt": "-50,684,000"
+    },
+    "trailingEps": {
+      "raw": -59.15,
+      "fmt": "-59.1500"
+    },
+    "lastDividendValue": {
+      "raw": 0.37,
+      "fmt": "0.37"
+    },
+    "SandP52WeekChange": {
+      "raw": 0.2508303,
+      "fmt": "25.08%"
+    },
+    "priceToBook": {
+      "raw": 0.20213251,
+      "fmt": "0.20"
+    },
+    "heldPercentInsiders": {
+      "raw": 0.19792,
+      "fmt": "19.79%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1703980800,
+      "fmt": "2023-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1696032000,
+      "fmt": "2023-09-30"
+    },
+    "shortRatio": {
+      "raw": 0.75,
+      "fmt": "0.75"
+    },
+    "sharesShortPreviousMonthDate": {
+      "raw": 1700006400,
+      "fmt": "2023-11-15"
+    },
+    "floatShares": {
+      "raw": 1217257,
+      "fmt": "1.22M",
+      "longFmt": "1,217,257"
+    },
+    "beta": {
+      "raw": 2.619,
+      "fmt": "2.62"
+    },
+    "enterpriseValue": {
+      "raw": 48856152,
+      "fmt": "48.86M",
+      "longFmt": "48,856,152"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1697414400,
+      "fmt": "2023-10-16"
+    },
+    "lastSplitFactor": "1:25",
+    "legalType": null,
+    "lastDividendDate": {
+      "raw": 1552262400,
+      "fmt": "2019-03-11"
+    },
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {
+      "raw": 1702598400,
+      "fmt": "2023-12-15"
+    },
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {},
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {
+      "raw": 0.1444,
+      "fmt": "14.44%"
+    },
+    "sharesShortPriorMonth": {
+      "raw": 31871,
+      "fmt": "31.87k",
+      "longFmt": "31,871"
+    },
+    "impliedSharesOutstanding": {
+      "raw": 1609790,
+      "fmt": "1.61M",
+      "longFmt": "1,609,790"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Information Technology Services",
+    "zip": "12205",
+    "industryKey": "information-technology-services",
+    "sector": "Technology",
+    "sectorDisp": "Technology",
+    "fullTimeEmployees": 30,
+    "longBusinessSummary": "Soluna Holdings, Inc. together with its subsidiaries, engages in the mining of cryptocurrency through data centers. The company operates through two segments, Cryptocurrency Mining and Data Center Hosting. It also operates in the blockchain business. In addition, the company develops and builds modular data centers that use for cryptocurrency mining. Further, it provides data center hosting services, including electrical power and network connectivity to cryptocurrency mining customers. The company was formerly known as Mechanical Technology Inc and as changed to Soluna Holdings, Inc. Soluna Holdings, Inc. was incorporated in 1961 and is headquartered in Albany, New York.",
+    "city": "Albany",
+    "phone": "518 218 2550",
+    "state": "NY",
+    "country": "United States",
+    "sectorKey": "technology",
+    "companyOfficers": [],
+    "website": "https://www.solunacomputing.com",
+    "maxAge": 86400,
+    "address1": "325 Washington Avenue Extension",
+    "industry": "Information Technology Services"
+  },
+  "recommendationTrend": {
+    "trend": [
+      {
+        "period": "0m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      }
+    ],
+    "maxAge": 86400
+  },
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {
+    "maxAge": 86400,
+    "earningsChart": {
+      "quarterly": [],
+      "earningsDate": [
+        {
+          "raw": 1699995600,
+          "fmt": "2023-11-14"
+        }
+      ]
+    },
+    "financialsChart": {
+      "yearly": [
+        {
+          "date": 2019,
+          "revenue": {
+            "raw": 6571000,
+            "fmt": "6.57M",
+            "longFmt": "6,571,000"
+          },
+          "earnings": {
+            "raw": 323000,
+            "fmt": "323k",
+            "longFmt": "323,000"
+          }
+        },
+        {
+          "date": 2020,
+          "revenue": {
+            "raw": 595000,
+            "fmt": "595k",
+            "longFmt": "595,000"
+          },
+          "earnings": {
+            "raw": 1946000,
+            "fmt": "1.95M",
+            "longFmt": "1,946,000"
+          }
+        },
+        {
+          "date": 2021,
+          "revenue": {
+            "raw": 14345000,
+            "fmt": "14.35M",
+            "longFmt": "14,345,000"
+          },
+          "earnings": {
+            "raw": -5261000,
+            "fmt": "-5.26M",
+            "longFmt": "-5,261,000"
+          }
+        },
+        {
+          "date": 2022,
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "3Q2022",
+          "revenue": {
+            "raw": 6372000,
+            "fmt": "6.37M",
+            "longFmt": "6,372,000"
+          },
+          "earnings": {
+            "raw": -55892000,
+            "fmt": "-55.89M",
+            "longFmt": "-55,892,000"
+          }
+        },
+        {
+          "date": "4Q2022",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        },
+        {
+          "date": "1Q2023",
+          "revenue": {
+            "raw": 3082000,
+            "fmt": "3.08M",
+            "longFmt": "3,082,000"
+          },
+          "earnings": {
+            "raw": -7062000,
+            "fmt": "-7.06M",
+            "longFmt": "-7,062,000"
+          }
+        },
+        {
+          "date": "2Q2023",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        }
+      ]
+    },
+    "financialCurrency": "USD"
+  },
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 4.25,
+      "fmt": "4.2500"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 177994,
+      "fmt": "177.99k",
+      "longFmt": "177,994"
+    },
+    "exchange": "NCM",
+    "regularMarketTime": 1703883600,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 4.33,
+      "fmt": "4.3300"
+    },
+    "shortName": "Soluna Holdings, Inc.",
+    "averageDailyVolume10Day": {
+      "raw": 356250,
+      "fmt": "356.25k",
+      "longFmt": "356,250"
+    },
+    "longName": "Soluna Holdings, Inc.",
+    "regularMarketChange": {
+      "raw": -0.25,
+      "fmt": "-0.2500"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 4.25,
+      "fmt": "4.2500"
+    },
+    "postMarketTime": 1703898000,
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "postMarketPrice": {
+      "raw": 4,
+      "fmt": "4.0000"
+    },
+    "exchangeName": "NasdaqCM",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 3.76,
+      "fmt": "3.7600"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 4,
+      "fmt": "4.0000"
+    },
+    "regularMarketVolume": {
+      "raw": 226290,
+      "fmt": "226.29k",
+      "longFmt": "226,290.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "FREE_REALTIME",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 6439160,
+      "fmt": "6.44M",
+      "longFmt": "6,439,160.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "postMarketSource": "DELAYED",
+    "strikePrice": {},
+    "symbol": "SLNH",
+    "postMarketChangePercent": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "preMarketSource": "FREE_REALTIME",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.05882353,
+      "fmt": "-5.88%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Fidelity Extended Market Index Fund",
+        "pctHeld": {
+          "raw": 0.0029,
+          "fmt": "0.29%"
+        },
+        "position": {
+          "raw": 4721,
+          "fmt": "4.72k",
+          "longFmt": "4,721"
+        },
+        "value": {
+          "raw": 18884,
+          "fmt": "18.88k",
+          "longFmt": "18,884"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Fidelity Total Market Index Fund",
+        "pctHeld": {
+          "raw": 0.0002,
+          "fmt": "0.02%"
+        },
+        "position": {
+          "raw": 381,
+          "fmt": "381",
+          "longFmt": "381"
+        },
+        "value": {
+          "raw": 1524,
+          "fmt": "1.52k",
+          "longFmt": "1,524"
+        },
+        "pctChange": {
+          "raw": 0.0026,
+          "fmt": "0.26%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Fidelity Series Total Market Index Fund",
+        "pctHeld": {
+          "raw": 0.0002,
+          "fmt": "0.02%"
+        },
+        "position": {
+          "raw": 365,
+          "fmt": "365",
+          "longFmt": "365"
+        },
+        "value": {
+          "raw": 1460,
+          "fmt": "1.46k",
+          "longFmt": "1,460"
+        },
+        "pctChange": {
+          "raw": 0.0027,
+          "fmt": "0.27%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Fidelity NASDAQ Composite Index Fund",
+        "pctHeld": {
+          "raw": 0.0001,
+          "fmt": "0.01%"
+        },
+        "position": {
+          "raw": 211,
+          "fmt": "211",
+          "longFmt": "211"
+        },
+        "value": {
+          "raw": 844,
+          "fmt": "844",
+          "longFmt": "844"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      }
+    ]
+  },
+  "insiderTransactions": {
+    "transactions": [
+      {
+        "filerName": "THOMAS JESSICA L",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1685404800,
+          "fmt": "2023-05-30"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 16150,
+          "fmt": "16.15k",
+          "longFmt": "16,150"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "OREILLY MARY JENNIFER",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1685404800,
+          "fmt": "2023-05-30"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 7709,
+          "fmt": "7.71k",
+          "longFmt": "7,709"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PATMAN PHILIP F JR",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1681430400,
+          "fmt": "2023-04-14"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PATMAN PHILIP F JR",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1679356800,
+          "fmt": "2023-03-21"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "THOMAS JESSICA L",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1679356800,
+          "fmt": "2023-03-21"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 25000,
+          "fmt": "25k",
+          "longFmt": "25,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "OREILLY MARY JENNIFER",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1679356800,
+          "fmt": "2023-03-21"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 25000,
+          "fmt": "25k",
+          "longFmt": "25,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "THOMAS JESSICA L",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1667260800,
+          "fmt": "2022-11-01"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "OREILLY MARY JENNIFER",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1667260800,
+          "fmt": "2022-11-01"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 12000,
+          "fmt": "12k",
+          "longFmt": "12,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BOTTOMLEY JOHN",
+        "transactionText": "Purchase at price 2.59 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1662076800,
+          "fmt": "2022-09-02"
+        },
+        "value": {
+          "raw": 20720,
+          "fmt": "20.72k",
+          "longFmt": "20,720"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 8000,
+          "fmt": "8k",
+          "longFmt": "8,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PATMAN PHILIP F JR",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1661385600,
+          "fmt": "2022-08-25"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 38820,
+          "fmt": "38.82k",
+          "longFmt": "38,820"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PATMAN PHILIP F JR",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1661385600,
+          "fmt": "2022-08-25"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 38820,
+          "fmt": "38.82k",
+          "longFmt": "38,820"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PHELAN WILLIAM P",
+        "transactionText": "Purchase at price 3.26 - 3.29 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1661299200,
+          "fmt": "2022-08-24"
+        },
+        "value": {
+          "raw": 24968,
+          "fmt": "24.97k",
+          "longFmt": "24,968"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 7657,
+          "fmt": "7.66k",
+          "longFmt": "7,657"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "HAZELIP WILLIAM",
+        "transactionText": "Purchase at price 3.15 - 3.23 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1661212800,
+          "fmt": "2022-08-23"
+        },
+        "value": {
+          "raw": 11150,
+          "fmt": "11.15k",
+          "longFmt": "11,150"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 3500,
+          "fmt": "3.5k",
+          "longFmt": "3,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "TOPOREK MICHAEL M",
+        "transactionText": "Purchase at price 3.10 - 9.80 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1661126400,
+          "fmt": "2022-08-22"
+        },
+        "value": {
+          "raw": 47064,
+          "fmt": "47.06k",
+          "longFmt": "47,064"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 12846,
+          "fmt": "12.85k",
+          "longFmt": "12,846"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LIPMAN MATTHEW E",
+        "transactionText": "Purchase at price 3.19 - 3.26 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1661126400,
+          "fmt": "2022-08-22"
+        },
+        "value": {
+          "raw": 21081,
+          "fmt": "21.08k",
+          "longFmt": "21,081"
+        },
+        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 6500,
+          "fmt": "6.5k",
+          "longFmt": "6,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BELIZAIRE JOHN",
+        "transactionText": "Purchase at price 3.20 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1660867200,
+          "fmt": "2022-08-19"
+        },
+        "value": {
+          "raw": 9997,
+          "fmt": "10k",
+          "longFmt": "9,997"
+        },
+        "filerRelation": "Officer and Director",
+        "shares": {
+          "raw": 3125,
+          "fmt": "3.12k",
+          "longFmt": "3,125"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MICHAELS DAVID C",
+        "transactionText": "Purchase at price 3.27 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1660780800,
+          "fmt": "2022-08-18"
+        },
+        "value": {
+          "raw": 32700,
+          "fmt": "32.7k",
+          "longFmt": "32,700"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "TOPOREK MICHAEL M",
+        "transactionText": "Purchase at price 2.60 - 3.38 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1660780800,
+          "fmt": "2022-08-18"
+        },
+        "value": {
+          "raw": 13435,
+          "fmt": "13.44k",
+          "longFmt": "13,435"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 4400,
+          "fmt": "4.4k",
+          "longFmt": "4,400"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MARUSAK THOMAS J",
+        "transactionText": "Conversion of Exercise of derivative security at price 0.90 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1660780800,
+          "fmt": "2022-08-18"
+        },
+        "value": {
+          "raw": 7538,
+          "fmt": "7.54k",
+          "longFmt": "7,538"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 8375,
+          "fmt": "8.38k",
+          "longFmt": "8,375"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MARUSAK THOMAS J",
+        "transactionText": "Conversion of Exercise of derivative security at price 0.90 - 1.20 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1660780800,
+          "fmt": "2022-08-18"
+        },
+        "value": {
+          "raw": 31238,
+          "fmt": "31.24k",
+          "longFmt": "31,238"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 28375,
+          "fmt": "28.38k",
+          "longFmt": "28,375"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "THOMAS JESSICA L",
+        "transactionText": "Conversion of Exercise of derivative security at price 0.70 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1660780800,
+          "fmt": "2022-08-18"
+        },
+        "value": {
+          "raw": 8750,
+          "fmt": "8.75k",
+          "longFmt": "8,750"
+        },
+        "filerRelation": "Former",
+        "shares": {
+          "raw": 12500,
+          "fmt": "12.5k",
+          "longFmt": "12,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "HAZELIP WILLIAM",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1648166400,
+          "fmt": "2022-03-25"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2500,
+          "fmt": "2.5k",
+          "longFmt": "2,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MADHAVJI ALYKHAN",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1648166400,
+          "fmt": "2022-03-25"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2500,
+          "fmt": "2.5k",
+          "longFmt": "2,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PHELAN WILLIAM P",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1643155200,
+          "fmt": "2022-01-26"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 20500,
+          "fmt": "20.5k",
+          "longFmt": "20,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PHELAN WILLIAM P",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1643155200,
+          "fmt": "2022-01-26"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 20500,
+          "fmt": "20.5k",
+          "longFmt": "20,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LIPMAN MATTHEW E",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1643155200,
+          "fmt": "2022-01-26"
+        },
+        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 20500,
+          "fmt": "20.5k",
+          "longFmt": "20,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BELIZAIRE JOHN",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1643155200,
+          "fmt": "2022-01-26"
+        },
+        "filerRelation": "Officer and Director",
+        "shares": {
+          "raw": 3026,
+          "fmt": "3.03k",
+          "longFmt": "3,026"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BOTTOMLEY JOHN",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1643155200,
+          "fmt": "2022-01-26"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 20500,
+          "fmt": "20.5k",
+          "longFmt": "20,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PHELAN WILLIAM P",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1642118400,
+          "fmt": "2022-01-14"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 60500,
+          "fmt": "60.5k",
+          "longFmt": "60,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PHELAN WILLIAM P",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1642118400,
+          "fmt": "2022-01-14"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 60500,
+          "fmt": "60.5k",
+          "longFmt": "60,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MICHAELS DAVID C",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1642118400,
+          "fmt": "2022-01-14"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 41000,
+          "fmt": "41k",
+          "longFmt": "41,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MARUSAK THOMAS J",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1642118400,
+          "fmt": "2022-01-14"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 41000,
+          "fmt": "41k",
+          "longFmt": "41,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LIPMAN MATTHEW E",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1642118400,
+          "fmt": "2022-01-14"
+        },
+        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 20500,
+          "fmt": "20.5k",
+          "longFmt": "20,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "HIRSHFIELD EDWARD R",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1642118400,
+          "fmt": "2022-01-14"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 20500,
+          "fmt": "20.5k",
+          "longFmt": "20,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "HAZELIP WILLIAM",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1642118400,
+          "fmt": "2022-01-14"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 20500,
+          "fmt": "20.5k",
+          "longFmt": "20,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MADHAVJI ALYKHAN",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1642118400,
+          "fmt": "2022-01-14"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 20500,
+          "fmt": "20.5k",
+          "longFmt": "20,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BOTTOMLEY JOHN",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1642118400,
+          "fmt": "2022-01-14"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 20500,
+          "fmt": "20.5k",
+          "longFmt": "20,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "THOMAS JESSICA L",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1637625600,
+          "fmt": "2021-11-23"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 25000,
+          "fmt": "25k",
+          "longFmt": "25,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "OREILLY MARY JENNIFER",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1635724800,
+          "fmt": "2021-11-01"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 14782,
+          "fmt": "14.78k",
+          "longFmt": "14,782"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BELIZAIRE JOHN",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1635724800,
+          "fmt": "2021-11-01"
+        },
+        "filerRelation": "Officer and Director",
+        "shares": {
+          "raw": 84171,
+          "fmt": "84.17k",
+          "longFmt": "84,171"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      }
+    ],
+    "maxAge": 1
+  },
+  "insiderHolders": {
+    "holders": [
+      {
+        "maxAge": 1,
+        "name": "BELIZAIRE JOHN",
+        "relation": "Officer and Director",
+        "url": "",
+        "transactionDescription": "Purchase",
+        "latestTransDate": {
+          "raw": 1660867200,
+          "fmt": "2022-08-19"
+        },
+        "positionDirect": {
+          "raw": 90322,
+          "fmt": "90.32k",
+          "longFmt": "90,322"
+        },
+        "positionDirectDate": {
+          "raw": 1660867200,
+          "fmt": "2022-08-19"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "BOTTOMLEY JOHN",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Purchase",
+        "latestTransDate": {
+          "raw": 1662076800,
+          "fmt": "2022-09-02"
+        },
+        "positionDirect": {
+          "raw": 49000,
+          "fmt": "49k",
+          "longFmt": "49,000"
+        },
+        "positionDirectDate": {
+          "raw": 1662076800,
+          "fmt": "2022-09-02"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "HAZELIP WILLIAM",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Purchase",
+        "latestTransDate": {
+          "raw": 1661212800,
+          "fmt": "2022-08-23"
+        },
+        "positionDirect": {
+          "raw": 26500,
+          "fmt": "26.5k",
+          "longFmt": "26,500"
+        },
+        "positionDirectDate": {
+          "raw": 1661212800,
+          "fmt": "2022-08-23"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "LIPMAN MATTHEW E",
+        "relation": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "url": "",
+        "transactionDescription": "Purchase",
+        "latestTransDate": {
+          "raw": 1661126400,
+          "fmt": "2022-08-22"
+        },
+        "positionDirect": {
+          "raw": 3805100,
+          "fmt": "3.81M",
+          "longFmt": "3,805,100"
+        },
+        "positionDirectDate": {
+          "raw": 1661126400,
+          "fmt": "2022-08-22"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "MICHAELS DAVID C",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Purchase",
+        "latestTransDate": {
+          "raw": 1660780800,
+          "fmt": "2022-08-18"
+        },
+        "positionDirect": {
+          "raw": 156477,
+          "fmt": "156.48k",
+          "longFmt": "156,477"
+        },
+        "positionDirectDate": {
+          "raw": 1660780800,
+          "fmt": "2022-08-18"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "OREILLY MARY JENNIFER",
+        "relation": "Officer",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1685404800,
+          "fmt": "2023-05-30"
+        },
+        "positionDirect": {
+          "raw": 51882,
+          "fmt": "51.88k",
+          "longFmt": "51,882"
+        },
+        "positionDirectDate": {
+          "raw": 1685404800,
+          "fmt": "2023-05-30"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "PATMAN PHILIP F JR",
+        "relation": "Chief Financial Officer",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1681430400,
+          "fmt": "2023-04-14"
+        },
+        "positionDirect": {
+          "raw": 138820,
+          "fmt": "138.82k",
+          "longFmt": "138,820"
+        },
+        "positionDirectDate": {
+          "raw": 1681430400,
+          "fmt": "2023-04-14"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "PHELAN WILLIAM P",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Purchase",
+        "latestTransDate": {
+          "raw": 1661299200,
+          "fmt": "2022-08-24"
+        },
+        "positionDirect": {
+          "raw": 333407,
+          "fmt": "333.41k",
+          "longFmt": "333,407"
+        },
+        "positionDirectDate": {
+          "raw": 1661299200,
+          "fmt": "2022-08-24"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "THOMAS JESSICA L",
+        "relation": "Officer",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1685404800,
+          "fmt": "2023-05-30"
+        },
+        "positionDirect": {
+          "raw": 73031,
+          "fmt": "73.03k",
+          "longFmt": "73,031"
+        },
+        "positionDirectDate": {
+          "raw": 1685404800,
+          "fmt": "2023-05-30"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "TOPOREK MICHAEL M",
+        "relation": "Chief Executive Officer",
+        "url": "",
+        "transactionDescription": "Purchase",
+        "latestTransDate": {
+          "raw": 1661126400,
+          "fmt": "2022-08-22"
+        },
+        "positionDirect": {
+          "raw": 3772920,
+          "fmt": "3.77M",
+          "longFmt": "3,772,920"
+        },
+        "positionDirectDate": {
+          "raw": 1661126400,
+          "fmt": "2022-08-22"
+        }
+      }
+    ],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "period": "6m",
+    "netPercentInsiderShares": {
+      "raw": -1.3169999,
+      "fmt": "-131.70%"
+    },
+    "netInfoCount": {
+      "raw": 70,
+      "fmt": "70",
+      "longFmt": "70"
+    },
+    "totalInsiderShares": {
+      "raw": 318609,
+      "fmt": "318.61k",
+      "longFmt": "318,609"
+    },
+    "buyInfoShares": {
+      "raw": 1326747,
+      "fmt": "1.33M",
+      "longFmt": "1,326,747"
+    },
+    "buyPercentInsiderShares": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "sellInfoCount": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "sellInfoShares": {
+      "raw": 1785,
+      "fmt": "1.78k",
+      "longFmt": "1,785"
+    },
+    "sellPercentInsiderShares": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "maxAge": 1,
+    "buyInfoCount": {
+      "raw": 68,
+      "fmt": "68",
+      "longFmt": "68"
+    },
+    "netInfoShares": {
+      "raw": 1324962,
+      "fmt": "1.32M",
+      "longFmt": "1,324,962"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0.19792,
+      "fmt": "19.79%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0.115480006,
+      "fmt": "11.55%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0.14398,
+      "fmt": "14.40%"
+    },
+    "institutionsCount": {
+      "raw": 22,
+      "fmt": "22",
+      "longFmt": "22"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": -0.75468004,
+      "fmt": "-75.47%"
+    },
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "grossMargins": {
+      "raw": 0.76829004,
+      "fmt": "76.83%"
+    },
+    "operatingCashflow": {
+      "raw": -5401000,
+      "fmt": "-5.4M",
+      "longFmt": "-5,401,000"
+    },
+    "revenueGrowth": {
+      "raw": -0.09,
+      "fmt": "-9.00%"
+    },
+    "operatingMargins": {
+      "raw": -0.63740003,
+      "fmt": "-63.74%"
+    },
+    "ebitda": {
+      "raw": -11419000,
+      "fmt": "-11.42M",
+      "longFmt": "-11,419,000"
+    },
+    "targetLowPrice": {},
+    "recommendationKey": "none",
+    "grossProfits": {},
+    "freeCashflow": {
+      "raw": -15394750,
+      "fmt": "-15.39M",
+      "longFmt": "-15,394,750"
+    },
+    "targetMedianPrice": {},
+    "currentPrice": {
+      "raw": 4,
+      "fmt": "4.00"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 0.521,
+      "fmt": "0.52"
+    },
+    "returnOnAssets": {
+      "raw": -0.16025999,
+      "fmt": "-16.03%"
+    },
+    "numberOfAnalystOpinions": {},
+    "targetMeanPrice": {},
+    "debtToEquity": {
+      "raw": 38.612,
+      "fmt": "38.61%"
+    },
+    "returnOnEquity": {
+      "raw": -0.80736,
+      "fmt": "-80.74%"
+    },
+    "targetHighPrice": {},
+    "totalCash": {
+      "raw": 5625000,
+      "fmt": "5.62M",
+      "longFmt": "5,625,000"
+    },
+    "totalDebt": {
+      "raw": 21387000,
+      "fmt": "21.39M",
+      "longFmt": "21,387,000"
+    },
+    "totalRevenue": {
+      "raw": 15131000,
+      "fmt": "15.13M",
+      "longFmt": "15,131,000"
+    },
+    "totalCashPerShare": {
+      "raw": 3.494,
+      "fmt": "3.49"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 14.614,
+      "fmt": "14.61"
+    },
+    "quickRatio": {
+      "raw": 0.278,
+      "fmt": "0.28"
+    },
+    "recommendationMean": {}
+  },
+  "quoteType": {
+    "exchange": "NCM",
+    "shortName": "Soluna Holdings, Inc.",
+    "longName": "Soluna Holdings, Inc.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "SLNH",
+    "messageBoardId": "finmb_287018",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "TrinityPoint Wealth, LLC",
+        "pctHeld": {
+          "raw": 0.0067000003,
+          "fmt": "0.67%"
+        },
+        "position": {
+          "raw": 10746,
+          "fmt": "10.75k",
+          "longFmt": "10,746"
+        },
+        "value": {
+          "raw": 42984,
+          "fmt": "42.98k",
+          "longFmt": "42,984"
+        },
+        "pctChange": {
+          "raw": -0.2237,
+          "fmt": "-22.37%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Geode Capital Management, LLC",
+        "pctHeld": {
+          "raw": 0.0036000002,
+          "fmt": "0.36%"
+        },
+        "position": {
+          "raw": 5856,
+          "fmt": "5.86k",
+          "longFmt": "5,856"
+        },
+        "value": {
+          "raw": 23424,
+          "fmt": "23.42k",
+          "longFmt": "23,424"
+        },
+        "pctChange": {
+          "raw": 1.1561,
+          "fmt": "115.61%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Scotia Capital Inc.",
+        "pctHeld": {
+          "raw": 0.0015,
+          "fmt": "0.15%"
+        },
+        "position": {
+          "raw": 2429,
+          "fmt": "2.43k",
+          "longFmt": "2,429"
+        },
+        "value": {
+          "raw": 9716,
+          "fmt": "9.72k",
+          "longFmt": "9,716"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Blackrock Inc.",
+        "pctHeld": {
+          "raw": 0.0013,
+          "fmt": "0.13%"
+        },
+        "position": {
+          "raw": 2049,
+          "fmt": "2.05k",
+          "longFmt": "2,049"
+        },
+        "value": {
+          "raw": 8196,
+          "fmt": "8.2k",
+          "longFmt": "8,196"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "State Street Corporation",
+        "pctHeld": {
+          "raw": 0.0013,
+          "fmt": "0.13%"
+        },
+        "position": {
+          "raw": 2097,
+          "fmt": "2.1k",
+          "longFmt": "2,097"
+        },
+        "value": {
+          "raw": 8388,
+          "fmt": "8.39k",
+          "longFmt": "8,388"
+        },
+        "pctChange": {
+          "raw": 0.8187,
+          "fmt": "81.87%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Mount Yale Investment Advisors, LLC",
+        "pctHeld": {
+          "raw": 0.00090000004,
+          "fmt": "0.09%"
+        },
+        "position": {
+          "raw": 1462,
+          "fmt": "1.46k",
+          "longFmt": "1,462"
+        },
+        "value": {
+          "raw": 5848,
+          "fmt": "5.85k",
+          "longFmt": "5,848"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Sigma Planning Corp",
+        "pctHeld": {
+          "raw": 0.0005,
+          "fmt": "0.05%"
+        },
+        "position": {
+          "raw": 752,
+          "fmt": "752",
+          "longFmt": "752"
+        },
+        "value": {
+          "raw": 3008,
+          "fmt": "3.01k",
+          "longFmt": "3,008"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Northern Trust Corporation",
+        "pctHeld": {
+          "raw": 0.0005,
+          "fmt": "0.05%"
+        },
+        "position": {
+          "raw": 777,
+          "fmt": "777",
+          "longFmt": "777"
+        },
+        "value": {
+          "raw": 3108,
+          "fmt": "3.11k",
+          "longFmt": "3,108"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Two Sigma Securities, LLC",
+        "pctHeld": {
+          "raw": 0.0005,
+          "fmt": "0.05%"
+        },
+        "position": {
+          "raw": 869,
+          "fmt": "869",
+          "longFmt": "869"
+        },
+        "value": {
+          "raw": 3476,
+          "fmt": "3.48k",
+          "longFmt": "3,476"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "UBS Group AG",
+        "pctHeld": {
+          "raw": 0.00029999999,
+          "fmt": "0.03%"
+        },
+        "position": {
+          "raw": 560,
+          "fmt": "560",
+          "longFmt": "560"
+        },
+        "value": {
+          "raw": 2240,
+          "fmt": "2.24k",
+          "longFmt": "2,240"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [
+        {
+          "raw": 1699995600,
+          "fmt": "2023-11-14"
+        }
+      ],
+      "earningsAverage": {},
+      "earningsLow": {},
+      "earningsHigh": {},
+      "revenueAverage": {},
+      "revenueLow": {},
+      "revenueHigh": {}
+    },
+    "exDividendDate": {
+      "raw": 1553126400,
+      "fmt": "2019-03-21"
+    },
+    "dividendDate": {
+      "raw": 1553040000,
+      "fmt": "2019-03-20"
+    }
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 4.25,
+      "fmt": "4.2500"
+    },
+    "regularMarketOpen": {
+      "raw": 4.25,
+      "fmt": "4.2500"
+    },
+    "twoHundredDayAverage": {
+      "raw": 5.15215,
+      "fmt": "5.1522"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 4.33,
+      "fmt": "4.3300"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 356250,
+      "fmt": "356.25k",
+      "longFmt": "356,250"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 4.25,
+      "fmt": "4.2500"
+    },
+    "fiftyDayAverage": {
+      "raw": 3.1584,
+      "fmt": "3.1584"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 4.25,
+      "fmt": "4.2500"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 356250,
+      "fmt": "356.25k",
+      "longFmt": "356,250"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {
+      "raw": 1553126400,
+      "fmt": "2019-03-21"
+    },
+    "beta": {
+      "raw": 2.619,
+      "fmt": "2.62"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 3.76,
+      "fmt": "3.7600"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 226290,
+      "fmt": "226.29k",
+      "longFmt": "226,290"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 6439160,
+      "fmt": "6.44M",
+      "longFmt": "6,439,160"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 177994,
+      "fmt": "177.99k",
+      "longFmt": "177,994"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 0.42556077,
+      "fmt": "0.43"
+    },
+    "dayLow": {
+      "raw": 3.76,
+      "fmt": "3.7600"
+    },
+    "ask": {
+      "raw": 4,
+      "fmt": "4.0000"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 900,
+      "fmt": "900",
+      "longFmt": "900"
+    },
+    "volume": {
+      "raw": 226290,
+      "fmt": "226.29k",
+      "longFmt": "226,290"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 19.25,
+      "fmt": "19.2500"
+    },
+    "forwardPE": {},
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 2.09,
+      "fmt": "2.0900"
+    },
+    "bid": {
+      "raw": 4,
+      "fmt": "4.0000"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {
+      "raw": 1000,
+      "fmt": "1k",
+      "longFmt": "1,000"
+    },
+    "dayHigh": {
+      "raw": 4.33,
+      "fmt": "4.3300"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "SLNH",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {},
+  "pageViews": {}
+}

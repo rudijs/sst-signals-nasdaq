@@ -1,0 +1,2264 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 5.354,
+      "fmt": "5.35"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": -1.617,
+      "fmt": "-161.70%"
+    },
+    "enterpriseToEbitda": {
+      "raw": 53.482,
+      "fmt": "53.48"
+    },
+    "52WeekChange": {
+      "raw": 2.490196,
+      "fmt": "249.02%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {
+      "raw": -0.96,
+      "fmt": "-0.96"
+    },
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 87976200,
+      "fmt": "87.98M",
+      "longFmt": "87,976,200"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 1.425,
+      "fmt": "1.42"
+    },
+    "sharesShort": {
+      "raw": 4741009,
+      "fmt": "4.74M",
+      "longFmt": "4,741,009"
+    },
+    "sharesPercentSharesOut": {
+      "raw": 0.0596,
+      "fmt": "5.96%"
+    },
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1680220800,
+      "fmt": "2023-03-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.1694,
+      "fmt": "16.94%"
+    },
+    "netIncomeToCommon": {
+      "raw": -127538304,
+      "fmt": "-127.54M",
+      "longFmt": "-127,538,304"
+    },
+    "trailingEps": {
+      "raw": -1.51,
+      "fmt": "-1.5100"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.2508303,
+      "fmt": "25.08%"
+    },
+    "priceToBook": {
+      "raw": 3.1789477,
+      "fmt": "3.18"
+    },
+    "heldPercentInsiders": {
+      "raw": 0.0027700001,
+      "fmt": "0.28%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1711843200,
+      "fmt": "2024-03-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1696032000,
+      "fmt": "2023-09-30"
+    },
+    "shortRatio": {
+      "raw": 2.1,
+      "fmt": "2.1"
+    },
+    "sharesShortPreviousMonthDate": {
+      "raw": 1700006400,
+      "fmt": "2023-11-15"
+    },
+    "floatShares": {
+      "raw": 87424685,
+      "fmt": "87.42M",
+      "longFmt": "87,424,685"
+    },
+    "beta": {
+      "raw": 4.218,
+      "fmt": "4.22"
+    },
+    "enterpriseValue": {
+      "raw": 422316704,
+      "fmt": "422.32M",
+      "longFmt": "422,316,704"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1653350400,
+      "fmt": "2022-05-24"
+    },
+    "lastSplitFactor": "1:5",
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {
+      "raw": 1702598400,
+      "fmt": "2023-12-15"
+    },
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {
+      "raw": -4.7187505,
+      "fmt": "-4.72"
+    },
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {},
+    "sharesShortPriorMonth": {
+      "raw": 5052660,
+      "fmt": "5.05M",
+      "longFmt": "5,052,660"
+    },
+    "impliedSharesOutstanding": {
+      "raw": 88216600,
+      "fmt": "88.22M",
+      "longFmt": "88,216,600"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Capital Markets",
+    "zip": "V6C 1H2",
+    "industryKey": "capital-markets",
+    "sector": "Financial Services",
+    "sectorDisp": "Financial Services",
+    "fullTimeEmployees": 18,
+    "longBusinessSummary": "HIVE Digital Technologies Ltd. operates as a cryptocurrency mining company in Canada, Sweden, and Iceland. The company engages in the mining and sale of digital currencies, including Ethereum Classic, Bitcoin, and other coins. It also operates data centers; and offers infrastructure solutions. The company was formerly known as HIVE Blockchain Technologies Ltd. and changed its name to HIVE Digital Technologies Ltd. in July 2023. HIVE Digital Technologies Ltd. was incorporated in 1987 and is headquartered in Vancouver, Canada.",
+    "city": "Vancouver",
+    "phone": "604-664-1078",
+    "state": "BC",
+    "country": "Canada",
+    "sectorKey": "financial-services",
+    "companyOfficers": [],
+    "website": "https://hivedigitaltechnologies.com",
+    "maxAge": 86400,
+    "address1": "789 West Pender Street",
+    "industry": "Capital Markets",
+    "address2": "Suite 855"
+  },
+  "recommendationTrend": {
+    "trend": [
+      {
+        "period": "0m",
+        "strongBuy": 2,
+        "buy": 1,
+        "hold": 2,
+        "sell": 1,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 0,
+        "buy": 3,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 1,
+        "buy": 2,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 1,
+        "buy": 1,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      }
+    ],
+    "maxAge": 86400
+  },
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {
+    "maxAge": 86400,
+    "earningsChart": {
+      "quarterly": [
+        {
+          "date": "4Q2022",
+          "actual": {
+            "raw": -1.09,
+            "fmt": "-1.09"
+          },
+          "estimate": {
+            "raw": 0.02,
+            "fmt": "0.02"
+          }
+        },
+        {
+          "date": "1Q2023",
+          "actual": {
+            "raw": -0.16,
+            "fmt": "-0.16"
+          },
+          "estimate": {
+            "raw": -0.29,
+            "fmt": "-0.29"
+          }
+        },
+        {
+          "date": "2Q2023",
+          "actual": {
+            "raw": -0.19,
+            "fmt": "-0.19"
+          },
+          "estimate": {
+            "raw": -0.14,
+            "fmt": "-0.14"
+          }
+        },
+        {
+          "date": "3Q2023",
+          "actual": {
+            "raw": -0.29,
+            "fmt": "-0.29"
+          },
+          "estimate": {
+            "raw": -0.19,
+            "fmt": "-0.19"
+          }
+        }
+      ],
+      "currentQuarterEstimate": {
+        "raw": -0.23,
+        "fmt": "-0.23"
+      },
+      "currentQuarterEstimateDate": "4Q",
+      "currentQuarterEstimateYear": 2023,
+      "earningsDate": [
+        {
+          "raw": 1708349400,
+          "fmt": "2024-02-19"
+        },
+        {
+          "raw": 1708695000,
+          "fmt": "2024-02-23"
+        }
+      ]
+    },
+    "financialsChart": {
+      "yearly": [
+        {
+          "date": 2020,
+          "revenue": {
+            "raw": 29219843,
+            "fmt": "29.22M",
+            "longFmt": "29,219,843"
+          },
+          "earnings": {
+            "raw": -1662823,
+            "fmt": "-1.66M",
+            "longFmt": "-1,662,823"
+          }
+        },
+        {
+          "date": 2021,
+          "revenue": {
+            "raw": 67693946,
+            "fmt": "67.69M",
+            "longFmt": "67,693,946"
+          },
+          "earnings": {
+            "raw": 24144242,
+            "fmt": "24.14M",
+            "longFmt": "24,144,242"
+          }
+        },
+        {
+          "date": 2022,
+          "revenue": {
+            "raw": 211184029,
+            "fmt": "211.18M",
+            "longFmt": "211,184,029"
+          },
+          "earnings": {
+            "raw": 79622129,
+            "fmt": "79.62M",
+            "longFmt": "79,622,129"
+          }
+        },
+        {
+          "date": 2023,
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "3Q2022",
+          "revenue": {
+            "raw": 29596579,
+            "fmt": "29.6M",
+            "longFmt": "29,596,579"
+          },
+          "earnings": {
+            "raw": -37037567,
+            "fmt": "-37.04M",
+            "longFmt": "-37,037,567"
+          }
+        },
+        {
+          "date": "4Q2022",
+          "revenue": {
+            "raw": 14318711,
+            "fmt": "14.32M",
+            "longFmt": "14,318,711"
+          },
+          "earnings": {
+            "raw": -90010068,
+            "fmt": "-90.01M",
+            "longFmt": "-90,010,068"
+          }
+        },
+        {
+          "date": "1Q2023",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        },
+        {
+          "date": "2Q2023",
+          "revenue": {
+            "raw": 23565143,
+            "fmt": "23.57M",
+            "longFmt": "23,565,143"
+          },
+          "earnings": {
+            "raw": -16251116,
+            "fmt": "-16.25M",
+            "longFmt": "-16,251,116"
+          }
+        }
+      ]
+    },
+    "financialCurrency": "USD"
+  },
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 5.36,
+      "fmt": "5.3600"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 2618153,
+      "fmt": "2.62M",
+      "longFmt": "2,618,153"
+    },
+    "exchange": "NCM",
+    "regularMarketTime": 1703883601,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 5.66,
+      "fmt": "5.6600"
+    },
+    "shortName": "HIVE Digital Technologies Ltd",
+    "averageDailyVolume10Day": {
+      "raw": 7981340,
+      "fmt": "7.98M",
+      "longFmt": "7,981,340"
+    },
+    "longName": "HIVE Digital Technologies Ltd.",
+    "regularMarketChange": {
+      "raw": -0.80999994,
+      "fmt": "-0.8100"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 5.34,
+      "fmt": "5.3400"
+    },
+    "postMarketTime": 1703898000,
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {
+      "raw": 0.01999998,
+      "fmt": "0.02"
+    },
+    "postMarketPrice": {
+      "raw": 4.55,
+      "fmt": "4.5500"
+    },
+    "exchangeName": "NasdaqCM",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 4.435,
+      "fmt": "4.4350"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 4.53,
+      "fmt": "4.5300"
+    },
+    "regularMarketVolume": {
+      "raw": 12936342,
+      "fmt": "12.94M",
+      "longFmt": "12,936,342.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "FREE_REALTIME",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 398532192,
+      "fmt": "398.53M",
+      "longFmt": "398,532,192.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "postMarketSource": "DELAYED",
+    "strikePrice": {},
+    "symbol": "HIVE",
+    "postMarketChangePercent": {
+      "raw": 0.004415007,
+      "fmt": "0.44%"
+    },
+    "preMarketSource": "FREE_REALTIME",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.15168537,
+      "fmt": "-15.17%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Amplify Transformational Data Sharing ETF",
+        "pctHeld": {
+          "raw": 0.038399998,
+          "fmt": "3.84%"
+        },
+        "position": {
+          "raw": 3478097,
+          "fmt": "3.48M",
+          "longFmt": "3,478,097"
+        },
+        "value": {
+          "raw": 15755780,
+          "fmt": "15.76M",
+          "longFmt": "15,755,780"
+        },
+        "pctChange": {
+          "raw": -0.0859,
+          "fmt": "-8.59%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "SPDR (R) Ser Tr-SPDR� Kensho New Economies Composite ETF",
+        "pctHeld": {
+          "raw": 0.0146,
+          "fmt": "1.46%"
+        },
+        "position": {
+          "raw": 1324018,
+          "fmt": "1.32M",
+          "longFmt": "1,324,018"
+        },
+        "value": {
+          "raw": 5997801,
+          "fmt": "6M",
+          "longFmt": "5,997,801"
+        },
+        "pctChange": {
+          "raw": 0.0076,
+          "fmt": "0.76%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Exchange Traded Concepts Tr-Bitwise Crypto Industry Innovators ETF",
+        "pctHeld": {
+          "raw": 0.0094,
+          "fmt": "0.94%"
+        },
+        "position": {
+          "raw": 851470,
+          "fmt": "851.47k",
+          "longFmt": "851,470"
+        },
+        "value": {
+          "raw": 3857159,
+          "fmt": "3.86M",
+          "longFmt": "3,857,159"
+        },
+        "pctChange": {
+          "raw": -0.1843,
+          "fmt": "-18.43%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Global X Fds-Global X Blockchain ETF",
+        "pctHeld": {
+          "raw": 0.0093,
+          "fmt": "0.93%"
+        },
+        "position": {
+          "raw": 840029,
+          "fmt": "840.03k",
+          "longFmt": "840,029"
+        },
+        "value": {
+          "raw": 3805331,
+          "fmt": "3.81M",
+          "longFmt": "3,805,331"
+        },
+        "pctChange": {
+          "raw": 0.0422,
+          "fmt": "4.22%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "VanEck ETF Trust-VanEck Digital Transformation ETF",
+        "pctHeld": {
+          "raw": 0.0070999996,
+          "fmt": "0.71%"
+        },
+        "position": {
+          "raw": 641077,
+          "fmt": "641.08k",
+          "longFmt": "641,077"
+        },
+        "value": {
+          "raw": 2904078,
+          "fmt": "2.9M",
+          "longFmt": "2,904,078"
+        },
+        "pctChange": {
+          "raw": 0.1626,
+          "fmt": "16.26%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Fidelity Crypto Industry and Digital Payment ETF",
+        "pctHeld": {
+          "raw": 0.0032,
+          "fmt": "0.32%"
+        },
+        "position": {
+          "raw": 290411,
+          "fmt": "290.41k",
+          "longFmt": "290,411"
+        },
+        "value": {
+          "raw": 1315561,
+          "fmt": "1.32M",
+          "longFmt": "1,315,561"
+        },
+        "pctChange": {
+          "raw": 0.0417,
+          "fmt": "4.17%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Valkyrie ETF Tr II-Valkyrie Bitcoin Miners ETF",
+        "pctHeld": {
+          "raw": 0.0023999999,
+          "fmt": "0.24%"
+        },
+        "position": {
+          "raw": 213416,
+          "fmt": "213.42k",
+          "longFmt": "213,416"
+        },
+        "value": {
+          "raw": 966774,
+          "fmt": "966.77k",
+          "longFmt": "966,774"
+        },
+        "pctChange": {
+          "raw": -0.20979999,
+          "fmt": "-20.98%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Invesco ETF Tr-Invesco FTSE RAFI US 1500 Small-Mid ETF",
+        "pctHeld": {
+          "raw": 0.0017,
+          "fmt": "0.17%"
+        },
+        "position": {
+          "raw": 153940,
+          "fmt": "153.94k",
+          "longFmt": "153,940"
+        },
+        "value": {
+          "raw": 697348,
+          "fmt": "697.35k",
+          "longFmt": "697,348"
+        },
+        "pctChange": {
+          "raw": 0.0105,
+          "fmt": "1.05%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "iShares Blockchain and Tech ETF",
+        "pctHeld": {
+          "raw": 0.00090000004,
+          "fmt": "0.09%"
+        },
+        "position": {
+          "raw": 77926,
+          "fmt": "77.93k",
+          "longFmt": "77,926"
+        },
+        "value": {
+          "raw": 353004,
+          "fmt": "353k",
+          "longFmt": "353,004"
+        },
+        "pctChange": {
+          "raw": 1.3057001,
+          "fmt": "130.57%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "ETF Series Solutions-Grayscale Future of Finance ETF",
+        "pctHeld": {
+          "raw": 0.0007,
+          "fmt": "0.07%"
+        },
+        "position": {
+          "raw": 60777,
+          "fmt": "60.78k",
+          "longFmt": "60,777"
+        },
+        "value": {
+          "raw": 275319,
+          "fmt": "275.32k",
+          "longFmt": "275,319"
+        },
+        "pctChange": {
+          "raw": 0.0695,
+          "fmt": "6.95%"
+        }
+      }
+    ]
+  },
+  "insiderTransactions": {
+    "transactions": [
+      {
+        "filerName": "Holmes (Frank Edward)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1667433600,
+          "fmt": "2022-11-03"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 83334,
+          "fmt": "83.33k",
+          "longFmt": "83,334"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Holmes (Frank Edward)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1667433600,
+          "fmt": "2022-11-03"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 83334,
+          "fmt": "83.33k",
+          "longFmt": "83,334"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Mann (Ian Hollis)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1666915200,
+          "fmt": "2022-10-28"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Perrill (Dave)",
+        "transactionText": "Acquisition or disposition in the public market at price 4.56 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1663027200,
+          "fmt": "2022-09-13"
+        },
+        "value": {
+          "raw": 16886,
+          "fmt": "16.89k",
+          "longFmt": "16,886"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 3700,
+          "fmt": "3.7k",
+          "longFmt": "3,700"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Perrill (Dave)",
+        "transactionText": "Acquisition or disposition in the public market at price 4.56 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1663027200,
+          "fmt": "2022-09-13"
+        },
+        "value": {
+          "raw": 40101,
+          "fmt": "40.1k",
+          "longFmt": "40,101"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 8800,
+          "fmt": "8.8k",
+          "longFmt": "8,800"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Mann (Ian Hollis)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1657843200,
+          "fmt": "2022-07-15"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Daubaras, Darcy Glenn",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1654041600,
+          "fmt": "2022-06-01"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 40600,
+          "fmt": "40.6k",
+          "longFmt": "40,600"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Holmes (Frank Edward)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1653350400,
+          "fmt": "2022-05-24"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 556000,
+          "fmt": "556k",
+          "longFmt": "556,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Kilic (Aydin)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1653350400,
+          "fmt": "2022-05-24"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 1200,
+          "fmt": "1.2k",
+          "longFmt": "1,200"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Kilic (Aydin)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1653350400,
+          "fmt": "2022-05-24"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 4800,
+          "fmt": "4.8k",
+          "longFmt": "4,800"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Kilic (Aydin)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1653350400,
+          "fmt": "2022-05-24"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 24000,
+          "fmt": "24k",
+          "longFmt": "24,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Mann (Ian Hollis)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1653350400,
+          "fmt": "2022-05-24"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 180000,
+          "fmt": "180k",
+          "longFmt": "180,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "New (Marcus Arthur)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1653350400,
+          "fmt": "2022-05-24"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 326400,
+          "fmt": "326.4k",
+          "longFmt": "326,400"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "New (Marcus Arthur)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1653350400,
+          "fmt": "2022-05-24"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 24000,
+          "fmt": "24k",
+          "longFmt": "24,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Perrill (Dave)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1653350400,
+          "fmt": "2022-05-24"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 200000,
+          "fmt": "200k",
+          "longFmt": "200,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Kilic (Aydin)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1652918400,
+          "fmt": "2022-05-19"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Holmes (Frank Edward)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1646092800,
+          "fmt": "2022-03-01"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 62500,
+          "fmt": "62.5k",
+          "longFmt": "62,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Kilic (Aydin)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1646092800,
+          "fmt": "2022-03-01"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Mann (Ian Hollis)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1646092800,
+          "fmt": "2022-03-01"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 25000,
+          "fmt": "25k",
+          "longFmt": "25,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "New (Marcus Arthur)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1646092800,
+          "fmt": "2022-03-01"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 62500,
+          "fmt": "62.5k",
+          "longFmt": "62,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Perrill (Dave)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1646092800,
+          "fmt": "2022-03-01"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 62500,
+          "fmt": "62.5k",
+          "longFmt": "62,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Mann (Ian Hollis)",
+        "transactionText": "Acquisition or disposition in the public market at price 2.03 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1642723200,
+          "fmt": "2022-01-21"
+        },
+        "value": {
+          "raw": 101650,
+          "fmt": "101.65k",
+          "longFmt": "101,650"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 50000,
+          "fmt": "50k",
+          "longFmt": "50,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Mann (Ian Hollis)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1640908800,
+          "fmt": "2021-12-31"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 25000,
+          "fmt": "25k",
+          "longFmt": "25,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Kilic (Aydin)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1640822400,
+          "fmt": "2021-12-30"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Daubaras, Darcy Glenn",
+        "transactionText": "Acquisition or disposition in the public market at price 3.05 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1640304000,
+          "fmt": "2021-12-24"
+        },
+        "value": {
+          "raw": 15260,
+          "fmt": "15.26k",
+          "longFmt": "15,260"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Kilic (Aydin)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1640217600,
+          "fmt": "2021-12-23"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Daubaras, Darcy Glenn",
+        "transactionText": "Acquisition or disposition in the public market at price 2.87 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1640131200,
+          "fmt": "2021-12-22"
+        },
+        "value": {
+          "raw": 14340,
+          "fmt": "14.34k",
+          "longFmt": "14,340"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "McGee (Susan B)",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1640044800,
+          "fmt": "2021-12-21"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Daubaras, Darcy Glenn",
+        "transactionText": "Acquisition or disposition in the public market at price 2.53 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1639958400,
+          "fmt": "2021-12-20"
+        },
+        "value": {
+          "raw": 12635,
+          "fmt": "12.63k",
+          "longFmt": "12,635"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Daubaras, Darcy Glenn",
+        "transactionText": "Acquisition or disposition in the public market at price 2.74 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1639612800,
+          "fmt": "2021-12-16"
+        },
+        "value": {
+          "raw": 13705,
+          "fmt": "13.71k",
+          "longFmt": "13,705"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Daubaras, Darcy Glenn",
+        "transactionText": "Acquisition or disposition in the public market at price 2.71 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1639440000,
+          "fmt": "2021-12-14"
+        },
+        "value": {
+          "raw": 13570,
+          "fmt": "13.57k",
+          "longFmt": "13,570"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Daubaras, Darcy Glenn",
+        "transactionText": "Acquisition or disposition in the public market at price 2.92 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1639094400,
+          "fmt": "2021-12-10"
+        },
+        "value": {
+          "raw": 14584,
+          "fmt": "14.58k",
+          "longFmt": "14,584"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Mann (Ian Hollis)",
+        "transactionText": "Acquisition or disposition in the public market at price 2.88 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1639094400,
+          "fmt": "2021-12-10"
+        },
+        "value": {
+          "raw": 72125,
+          "fmt": "72.12k",
+          "longFmt": "72,125"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 25000,
+          "fmt": "25k",
+          "longFmt": "25,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Daubaras, Darcy Glenn",
+        "transactionText": "Acquisition or disposition in the public market at price 3.29 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1638921600,
+          "fmt": "2021-12-08"
+        },
+        "value": {
+          "raw": 16440,
+          "fmt": "16.44k",
+          "longFmt": "16,440"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Daubaras, Darcy Glenn",
+        "transactionText": "Acquisition or disposition in the public market at price 2.82 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1638748800,
+          "fmt": "2021-12-06"
+        },
+        "value": {
+          "raw": 14115,
+          "fmt": "14.12k",
+          "longFmt": "14,115"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Daubaras, Darcy Glenn",
+        "transactionText": "Acquisition or disposition in the public market at price 3.51 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1638403200,
+          "fmt": "2021-12-02"
+        },
+        "value": {
+          "raw": 17565,
+          "fmt": "17.57k",
+          "longFmt": "17,565"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      }
+    ],
+    "maxAge": 1
+  },
+  "insiderHolders": {
+    "holders": [
+      {
+        "maxAge": 1,
+        "name": "Daubaras, Darcy Glenn",
+        "relation": "Senior Officer of Issuer",
+        "url": "",
+        "transactionDescription": "Stock split or consolidation",
+        "latestTransDate": {
+          "raw": 1654041600,
+          "fmt": "2022-06-01"
+        },
+        "positionDirect": {
+          "raw": 8900,
+          "fmt": "8.9k",
+          "longFmt": "8,900"
+        },
+        "positionDirectDate": {
+          "raw": 1654041600,
+          "fmt": "2022-06-01"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "Holmes (Frank Edward)",
+        "relation": "Director of Issuer",
+        "url": "",
+        "transactionDescription": "Exercise of rights",
+        "latestTransDate": {
+          "raw": 1667433600,
+          "fmt": "2022-11-03"
+        },
+        "positionDirect": {
+          "raw": 222334,
+          "fmt": "222.33k",
+          "longFmt": "222,334"
+        },
+        "positionDirectDate": {
+          "raw": 1667433600,
+          "fmt": "2022-11-03"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "Kilic (Aydin)",
+        "relation": "Senior Officer of Issuer",
+        "url": "",
+        "transactionDescription": "Stock split or consolidation",
+        "latestTransDate": {
+          "raw": 1653350400,
+          "fmt": "2022-05-24"
+        },
+        "positionDirect": {
+          "raw": 300,
+          "fmt": "300",
+          "longFmt": "300"
+        },
+        "positionDirectDate": {
+          "raw": 1653350400,
+          "fmt": "2022-05-24"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "Mann (Ian Hollis)",
+        "relation": "Director of Issuer",
+        "url": "",
+        "transactionDescription": "Exercise of rights",
+        "latestTransDate": {
+          "raw": 1666915200,
+          "fmt": "2022-10-28"
+        },
+        "positionDirect": {
+          "raw": 55000,
+          "fmt": "55k",
+          "longFmt": "55,000"
+        },
+        "positionDirectDate": {
+          "raw": 1666915200,
+          "fmt": "2022-10-28"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "McGee (Susan B)",
+        "relation": "Director of Issuer",
+        "url": "",
+        "transactionDescription": "Opening Balance-Initial SEDI Report",
+        "latestTransDate": {
+          "raw": 1640044800,
+          "fmt": "2021-12-21"
+        },
+        "positionDirect": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "positionDirectDate": {
+          "raw": 1640044800,
+          "fmt": "2021-12-21"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "New (Marcus Arthur)",
+        "relation": "Director of Issuer",
+        "url": "",
+        "transactionDescription": "Stock split or consolidation",
+        "latestTransDate": {
+          "raw": 1653350400,
+          "fmt": "2022-05-24"
+        },
+        "positionIndirect": {
+          "raw": 81600,
+          "fmt": "81.6k",
+          "longFmt": "81,600"
+        },
+        "positionIndirectDate": {
+          "raw": 1653350400,
+          "fmt": "2022-05-24"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "Perrill (Dave)",
+        "relation": "Director of Issuer",
+        "url": "",
+        "transactionDescription": "Acquisition or disposition in the public market",
+        "latestTransDate": {
+          "raw": 1663027200,
+          "fmt": "2022-09-13"
+        },
+        "positionDirect": {
+          "raw": 46300,
+          "fmt": "46.3k",
+          "longFmt": "46,300"
+        },
+        "positionDirectDate": {
+          "raw": 1663027200,
+          "fmt": "2022-09-13"
+        }
+      }
+    ],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "maxAge": 1,
+    "period": "6m",
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 242736,
+      "fmt": "242.74k",
+      "longFmt": "242,736"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0.0027700001,
+      "fmt": "0.28%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0.1694,
+      "fmt": "16.94%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0.16986999,
+      "fmt": "16.99%"
+    },
+    "institutionsCount": {
+      "raw": 104,
+      "fmt": "104",
+      "longFmt": "104"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0.10012,
+      "fmt": "10.01%"
+    },
+    "profitMargins": {
+      "raw": -1.617,
+      "fmt": "-161.70%"
+    },
+    "grossMargins": {
+      "raw": 0.25678,
+      "fmt": "25.68%"
+    },
+    "operatingCashflow": {
+      "raw": 31376534,
+      "fmt": "31.38M",
+      "longFmt": "31,376,534"
+    },
+    "revenueGrowth": {
+      "raw": -0.231,
+      "fmt": "-23.10%"
+    },
+    "operatingMargins": {
+      "raw": -0.97584,
+      "fmt": "-97.58%"
+    },
+    "ebitda": {
+      "raw": 7896425,
+      "fmt": "7.9M",
+      "longFmt": "7,896,425"
+    },
+    "targetLowPrice": {
+      "raw": 3.5,
+      "fmt": "3.50"
+    },
+    "recommendationKey": "buy",
+    "grossProfits": {},
+    "freeCashflow": {
+      "raw": 4149127,
+      "fmt": "4.15M",
+      "longFmt": "4,149,127"
+    },
+    "targetMedianPrice": {
+      "raw": 4.92,
+      "fmt": "4.92"
+    },
+    "currentPrice": {
+      "raw": 4.53,
+      "fmt": "4.53"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 2.517,
+      "fmt": "2.52"
+    },
+    "returnOnAssets": {
+      "raw": -0.14756,
+      "fmt": "-14.76%"
+    },
+    "numberOfAnalystOpinions": {
+      "raw": 3,
+      "fmt": "3",
+      "longFmt": "3"
+    },
+    "targetMeanPrice": {
+      "raw": 4.81,
+      "fmt": "4.81"
+    },
+    "debtToEquity": {
+      "raw": 26.351,
+      "fmt": "26.35%"
+    },
+    "returnOnEquity": {
+      "raw": -0.72589993,
+      "fmt": "-72.59%"
+    },
+    "targetHighPrice": {
+      "raw": 6,
+      "fmt": "6.00"
+    },
+    "totalCash": {
+      "raw": 7036000,
+      "fmt": "7.04M",
+      "longFmt": "7,036,000"
+    },
+    "totalDebt": {
+      "raw": 32386000,
+      "fmt": "32.39M",
+      "longFmt": "32,386,000"
+    },
+    "totalRevenue": {
+      "raw": 78873216,
+      "fmt": "78.87M",
+      "longFmt": "78,873,216"
+    },
+    "totalCashPerShare": {
+      "raw": 0.08,
+      "fmt": "0.08"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 0.938,
+      "fmt": "0.94"
+    },
+    "quickRatio": {
+      "raw": 0.471,
+      "fmt": "0.47"
+    },
+    "recommendationMean": {
+      "raw": 2.3,
+      "fmt": "2.30"
+    }
+  },
+  "quoteType": {
+    "exchange": "NCM",
+    "shortName": "HIVE Digital Technologies Ltd",
+    "longName": "HIVE Digital Technologies Ltd.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "HIVE",
+    "messageBoardId": "finmb_3175641",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Invesco Ltd.",
+        "pctHeld": {
+          "raw": 0.0322,
+          "fmt": "3.22%"
+        },
+        "position": {
+          "raw": 2918364,
+          "fmt": "2.92M",
+          "longFmt": "2,918,364"
+        },
+        "value": {
+          "raw": 13220189,
+          "fmt": "13.22M",
+          "longFmt": "13,220,189"
+        },
+        "pctChange": {
+          "raw": 0.028499998,
+          "fmt": "2.85%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Toroso Investments, LLC",
+        "pctHeld": {
+          "raw": 0.03,
+          "fmt": "3.00%"
+        },
+        "position": {
+          "raw": 2719517,
+          "fmt": "2.72M",
+          "longFmt": "2,719,517"
+        },
+        "value": {
+          "raw": 12319412,
+          "fmt": "12.32M",
+          "longFmt": "12,319,412"
+        },
+        "pctChange": {
+          "raw": -0.0332,
+          "fmt": "-3.32%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Van Eck Associates Corporation",
+        "pctHeld": {
+          "raw": 0.0146,
+          "fmt": "1.46%"
+        },
+        "position": {
+          "raw": 1319089,
+          "fmt": "1.32M",
+          "longFmt": "1,319,089"
+        },
+        "value": {
+          "raw": 5975473,
+          "fmt": "5.98M",
+          "longFmt": "5,975,473"
+        },
+        "pctChange": {
+          "raw": 0.1976,
+          "fmt": "19.76%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "State Street Corporation",
+        "pctHeld": {
+          "raw": 0.0146,
+          "fmt": "1.46%"
+        },
+        "position": {
+          "raw": 1324018,
+          "fmt": "1.32M",
+          "longFmt": "1,324,018"
+        },
+        "value": {
+          "raw": 5997801,
+          "fmt": "6M",
+          "longFmt": "5,997,801"
+        },
+        "pctChange": {
+          "raw": 0.0148,
+          "fmt": "1.48%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Mirae Asset Global Investments Co., Ltd.",
+        "pctHeld": {
+          "raw": 0.0095,
+          "fmt": "0.95%"
+        },
+        "position": {
+          "raw": 859693,
+          "fmt": "859.69k",
+          "longFmt": "859,693"
+        },
+        "value": {
+          "raw": 3894409,
+          "fmt": "3.89M",
+          "longFmt": "3,894,409"
+        },
+        "pctChange": {
+          "raw": -0.0286,
+          "fmt": "-2.86%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Millennium Management Llc",
+        "pctHeld": {
+          "raw": 0.0091,
+          "fmt": "0.91%"
+        },
+        "position": {
+          "raw": 826469,
+          "fmt": "826.47k",
+          "longFmt": "826,469"
+        },
+        "value": {
+          "raw": 3743904,
+          "fmt": "3.74M",
+          "longFmt": "3,743,904"
+        },
+        "pctChange": {
+          "raw": 0.1664,
+          "fmt": "16.64%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Vident Advisory, LLC                          ",
+        "pctHeld": {
+          "raw": 0.0056,
+          "fmt": "0.56%"
+        },
+        "position": {
+          "raw": 504500,
+          "fmt": "504.5k",
+          "longFmt": "504,500"
+        },
+        "value": {
+          "raw": 2285385,
+          "fmt": "2.29M",
+          "longFmt": "2,285,385"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Geode Capital Management, LLC",
+        "pctHeld": {
+          "raw": 0.0037,
+          "fmt": "0.37%"
+        },
+        "position": {
+          "raw": 331483,
+          "fmt": "331.48k",
+          "longFmt": "331,483"
+        },
+        "value": {
+          "raw": 1501618,
+          "fmt": "1.5M",
+          "longFmt": "1,501,618"
+        },
+        "pctChange": {
+          "raw": 0.0471,
+          "fmt": "4.71%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Susquehanna International Group, LLP",
+        "pctHeld": {
+          "raw": 0.0027,
+          "fmt": "0.27%"
+        },
+        "position": {
+          "raw": 240367,
+          "fmt": "240.37k",
+          "longFmt": "240,367"
+        },
+        "value": {
+          "raw": 1088862,
+          "fmt": "1.09M",
+          "longFmt": "1,088,862"
+        },
+        "pctChange": {
+          "raw": 22.551498,
+          "fmt": "2,255.15%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Blackrock Inc.",
+        "pctHeld": {
+          "raw": 0.0022,
+          "fmt": "0.22%"
+        },
+        "position": {
+          "raw": 201259,
+          "fmt": "201.26k",
+          "longFmt": "201,259"
+        },
+        "value": {
+          "raw": 911703,
+          "fmt": "911.7k",
+          "longFmt": "911,703"
+        },
+        "pctChange": {
+          "raw": 1.4432001,
+          "fmt": "144.32%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [
+        {
+          "raw": 1708349400,
+          "fmt": "2024-02-19"
+        },
+        {
+          "raw": 1708695000,
+          "fmt": "2024-02-23"
+        }
+      ],
+      "earningsAverage": {
+        "raw": -0.23,
+        "fmt": "-0.23"
+      },
+      "earningsLow": {
+        "raw": -0.24,
+        "fmt": "-0.24"
+      },
+      "earningsHigh": {
+        "raw": -0.22,
+        "fmt": "-0.22"
+      },
+      "revenueAverage": {
+        "raw": 25580000,
+        "fmt": "25.58M",
+        "longFmt": "25,580,000"
+      },
+      "revenueLow": {
+        "raw": 23200000,
+        "fmt": "23.2M",
+        "longFmt": "23,200,000"
+      },
+      "revenueHigh": {
+        "raw": 27960000,
+        "fmt": "27.96M",
+        "longFmt": "27,960,000"
+      }
+    },
+    "exDividendDate": {},
+    "dividendDate": {}
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 5.34,
+      "fmt": "5.3400"
+    },
+    "regularMarketOpen": {
+      "raw": 5.36,
+      "fmt": "5.3600"
+    },
+    "twoHundredDayAverage": {
+      "raw": 3.64505,
+      "fmt": "3.6451"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 5.66,
+      "fmt": "5.6600"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 7981340,
+      "fmt": "7.98M",
+      "longFmt": "7,981,340"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 5.34,
+      "fmt": "5.3400"
+    },
+    "fiftyDayAverage": {
+      "raw": 3.4854,
+      "fmt": "3.4854"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 5.36,
+      "fmt": "5.3600"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 7981340,
+      "fmt": "7.98M",
+      "longFmt": "7,981,340"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 4.218,
+      "fmt": "4.22"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 4.435,
+      "fmt": "4.4350"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 12936342,
+      "fmt": "12.94M",
+      "longFmt": "12,936,342"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 398532192,
+      "fmt": "398.53M",
+      "longFmt": "398,532,192"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 2618153,
+      "fmt": "2.62M",
+      "longFmt": "2,618,153"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 5.05282,
+      "fmt": "5.05"
+    },
+    "dayLow": {
+      "raw": 4.435,
+      "fmt": "4.4350"
+    },
+    "ask": {
+      "raw": 4.5,
+      "fmt": "4.5000"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 3000,
+      "fmt": "3k",
+      "longFmt": "3,000"
+    },
+    "volume": {
+      "raw": 12936342,
+      "fmt": "12.94M",
+      "longFmt": "12,936,342"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 6.84,
+      "fmt": "6.8400"
+    },
+    "forwardPE": {
+      "raw": -4.7187505,
+      "fmt": "-4.72"
+    },
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 1.44,
+      "fmt": "1.4400"
+    },
+    "bid": {
+      "raw": 4.55,
+      "fmt": "4.5500"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {
+      "raw": 3100,
+      "fmt": "3.1k",
+      "longFmt": "3,100"
+    },
+    "dayHigh": {
+      "raw": 5.66,
+      "fmt": "5.6600"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "HIVE",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {},
+  "pageViews": {}
+}

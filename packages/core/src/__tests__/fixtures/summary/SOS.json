@@ -1,0 +1,1208 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": -1.052,
+      "fmt": "-1.05"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": -1.04023,
+      "fmt": "-104.02%"
+    },
+    "enterpriseToEbitda": {
+      "raw": 1.144,
+      "fmt": "1.14"
+    },
+    "52WeekChange": {
+      "raw": 1.0102739,
+      "fmt": "101.03%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {},
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 6380540,
+      "fmt": "6.38M",
+      "longFmt": "6,380,540"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 57.006,
+      "fmt": "57.01"
+    },
+    "sharesShort": {
+      "raw": 552515,
+      "fmt": "552.51k",
+      "longFmt": "552,515"
+    },
+    "sharesPercentSharesOut": {
+      "raw": 0.0866,
+      "fmt": "8.66%"
+    },
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.00312,
+      "fmt": "0.31%"
+    },
+    "netIncomeToCommon": {
+      "raw": -218628992,
+      "fmt": "-218.63M",
+      "longFmt": "-218,628,992"
+    },
+    "trailingEps": {
+      "raw": -32.31,
+      "fmt": "-32.3100"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.2508303,
+      "fmt": "25.08%"
+    },
+    "priceToBook": {
+      "raw": 0.08069326,
+      "fmt": "0.08"
+    },
+    "heldPercentInsiders": {
+      "raw": 0.00075,
+      "fmt": "0.08%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1703980800,
+      "fmt": "2023-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1688083200,
+      "fmt": "2023-06-30"
+    },
+    "shortRatio": {
+      "raw": 2.58,
+      "fmt": "2.58"
+    },
+    "sharesShortPreviousMonthDate": {
+      "raw": 1693440000,
+      "fmt": "2023-08-31"
+    },
+    "floatShares": {
+      "raw": 4686135,
+      "fmt": "4.69M",
+      "longFmt": "4,686,135"
+    },
+    "beta": {
+      "raw": 1.920445,
+      "fmt": "1.92"
+    },
+    "enterpriseValue": {
+      "raw": -228367184,
+      "fmt": "-228.37M",
+      "longFmt": "-228,367,184"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1657065600,
+      "fmt": "2022-07-06"
+    },
+    "lastSplitFactor": "1:50",
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {
+      "raw": 1695945600,
+      "fmt": "2023-09-29"
+    },
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {},
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {
+      "raw": 0.0866,
+      "fmt": "8.66%"
+    },
+    "sharesShortPriorMonth": {
+      "raw": 546406,
+      "fmt": "546.41k",
+      "longFmt": "546,406"
+    },
+    "impliedSharesOutstanding": {
+      "raw": 6380540,
+      "fmt": "6.38M",
+      "longFmt": "6,380,540"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Software - Infrastructure",
+    "zip": "266400",
+    "industryKey": "software-infrastructure",
+    "sector": "Technology",
+    "sectorDisp": "Technology",
+    "fullTimeEmployees": 223,
+    "longBusinessSummary": "SOS Limited provides data mining and analysis services to corporate and individual members in the People's Republic of China. It provides marketing data, technology, and solutions for insurance companies; emergency rescue services; and insurance product and health care information portals. The company operates SOS cloud emergency rescue service software as a service platform that offers basic cloud products, such as medical rescue, auto rescue, financial rescue, and life rescue cards; cooperative cloud systems, including information rescue center, intelligent big data, and intelligent software and hardware; and information cloud systems, such as newsToday and E-commerce Today, 10086 hot-line center, information security services, and marketing-related data. It also focuses on cryptocurrency mining, blockchain-based insurance, and security management businesses. The company serves insurance companies, financial institutions, medical institutions, healthcare providers, and other service providers in the emergency rescue services industry. The company is based in Qingdao, the People's Republic of China.",
+    "city": "Qingdao",
+    "phone": "86 53 2866 17117",
+    "country": "China",
+    "sectorKey": "technology",
+    "companyOfficers": [],
+    "website": "https://www.sosyun.com",
+    "maxAge": 86400,
+    "address1": "Building 6, East Seaview Park",
+    "industry": "Software - Infrastructure",
+    "address2": "298 Haijing Road Yinzhu Street West Coast New District"
+  },
+  "recommendationTrend": {
+    "trend": [
+      {
+        "period": "0m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      }
+    ],
+    "maxAge": 86400
+  },
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {
+    "maxAge": 86400,
+    "earningsChart": {
+      "quarterly": [
+        {
+          "date": "4Q2017",
+          "actual": {
+            "raw": 5,
+            "fmt": "5.00"
+          },
+          "estimate": {
+            "raw": 18.33,
+            "fmt": "18.33"
+          }
+        },
+        {
+          "date": "1Q2018",
+          "actual": {
+            "raw": -160,
+            "fmt": "-160.00"
+          },
+          "estimate": {
+            "raw": -23.33,
+            "fmt": "-23.33"
+          }
+        },
+        {
+          "date": "2Q2018",
+          "actual": {
+            "raw": -65,
+            "fmt": "-65.00"
+          },
+          "estimate": {
+            "raw": -37.5,
+            "fmt": "-37.50"
+          }
+        },
+        {
+          "date": "3Q2018",
+          "actual": {
+            "raw": -80,
+            "fmt": "-80.00"
+          },
+          "estimate": {
+            "raw": -24.75,
+            "fmt": "-24.75"
+          }
+        }
+      ],
+      "currentQuarterEstimateDate": "4Q",
+      "currentQuarterEstimateYear": 2018,
+      "earningsDate": []
+    },
+    "financialsChart": {
+      "yearly": [
+        {
+          "date": 2019,
+          "revenue": {
+            "raw": 11577000,
+            "fmt": "11.58M",
+            "longFmt": "11,577,000"
+          },
+          "earnings": {
+            "raw": 1470000,
+            "fmt": "1.47M",
+            "longFmt": "1,470,000"
+          }
+        },
+        {
+          "date": 2020,
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 4404000,
+            "fmt": "4.4M",
+            "longFmt": "4,404,000"
+          }
+        },
+        {
+          "date": 2021,
+          "revenue": {
+            "raw": 290790000,
+            "fmt": "290.79M",
+            "longFmt": "290,790,000"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        },
+        {
+          "date": 2022,
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "3Q2022",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        },
+        {
+          "date": "4Q2022",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        },
+        {
+          "date": "1Q2023",
+          "revenue": {
+            "raw": 20903000,
+            "fmt": "20.9M",
+            "longFmt": "20,903,000"
+          },
+          "earnings": {
+            "raw": -5348500,
+            "fmt": "-5.35M",
+            "longFmt": "-5,348,500"
+          }
+        },
+        {
+          "date": "2Q2023",
+          "revenue": {
+            "raw": 20903000,
+            "fmt": "20.9M",
+            "longFmt": "20,903,000"
+          },
+          "earnings": {
+            "raw": -5348500,
+            "fmt": "-5.35M",
+            "longFmt": "-5,348,500"
+          }
+        }
+      ]
+    },
+    "financialCurrency": "USD"
+  },
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 5.89,
+      "fmt": "5.8900"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 154419,
+      "fmt": "154.42k",
+      "longFmt": "154,419"
+    },
+    "exchange": "NYQ",
+    "regularMarketTime": 1703883602,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 6.1653,
+      "fmt": "6.1653"
+    },
+    "shortName": "SOS Limited",
+    "averageDailyVolume10Day": {
+      "raw": 486700,
+      "fmt": "486.7k",
+      "longFmt": "486,700"
+    },
+    "longName": "SOS Limited",
+    "regularMarketChange": {
+      "raw": -1.27,
+      "fmt": "-1.2700"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 5.87,
+      "fmt": "5.8700"
+    },
+    "postMarketTime": 1703897955,
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "postMarketPrice": {
+      "raw": 4.6,
+      "fmt": "4.6000"
+    },
+    "exchangeName": "NYSE",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 4.6,
+      "fmt": "4.6000"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 4.6,
+      "fmt": "4.6000"
+    },
+    "regularMarketVolume": {
+      "raw": 635930,
+      "fmt": "635.93k",
+      "longFmt": "635,930.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "DELAYED",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 29350484,
+      "fmt": "29.35M",
+      "longFmt": "29,350,484.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "postMarketSource": "DELAYED",
+    "strikePrice": {},
+    "symbol": "SOS",
+    "postMarketChangePercent": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "preMarketSource": "DELAYED",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.21635433,
+      "fmt": "-21.64%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Goldman Sachs ETF Tr-Goldman Sachs Innovate Equity ETF",
+        "pctHeld": {
+          "raw": 0.0002,
+          "fmt": "0.02%"
+        },
+        "position": {
+          "raw": 57156,
+          "fmt": "57.16k",
+          "longFmt": "57,156"
+        },
+        "value": {
+          "raw": 262917,
+          "fmt": "262.92k",
+          "longFmt": "262,917"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "SPDR (R) Idx Shares-SPDR (R) S&P (R) Emerging Asia Pacific ETF",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 16,
+          "fmt": "16",
+          "longFmt": "16"
+        },
+        "value": {
+          "raw": 73,
+          "fmt": "73",
+          "longFmt": "73"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "iShares Blockchain and Tech ETF",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 2783,
+          "fmt": "2.78k",
+          "longFmt": "2,783"
+        },
+        "value": {
+          "raw": 12801,
+          "fmt": "12.8k",
+          "longFmt": "12,801"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "SPDR Portfolio Emerging Markets ETF",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 74,
+          "fmt": "74",
+          "longFmt": "74"
+        },
+        "value": {
+          "raw": 340,
+          "fmt": "340",
+          "longFmt": "340"
+        },
+        "pctChange": {
+          "raw": -0.98080003,
+          "fmt": "-98.08%"
+        }
+      }
+    ]
+  },
+  "insiderTransactions": {},
+  "insiderHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "period": "6m",
+    "netPercentInsiderShares": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 5160,
+      "fmt": "5.16k",
+      "longFmt": "5,160"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "maxAge": 1,
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0.00075,
+      "fmt": "0.08%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0.00312,
+      "fmt": "0.31%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0.00312,
+      "fmt": "0.31%"
+    },
+    "institutionsCount": {
+      "raw": 7,
+      "fmt": "7",
+      "longFmt": "7"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": -0.9197,
+      "fmt": "-91.97%"
+    },
+    "profitMargins": {
+      "raw": -1.04023,
+      "fmt": "-104.02%"
+    },
+    "grossMargins": {
+      "raw": -0.06022,
+      "fmt": "-6.02%"
+    },
+    "operatingCashflow": {
+      "raw": 29421000,
+      "fmt": "29.42M",
+      "longFmt": "29,421,000"
+    },
+    "revenueGrowth": {
+      "raw": -0.685,
+      "fmt": "-68.50%"
+    },
+    "operatingMargins": {
+      "raw": -0.9458,
+      "fmt": "-94.58%"
+    },
+    "ebitda": {
+      "raw": -199644992,
+      "fmt": "-199.64M",
+      "longFmt": "-199,644,992"
+    },
+    "targetLowPrice": {},
+    "recommendationKey": "sell",
+    "grossProfits": {},
+    "freeCashflow": {
+      "raw": 99737000,
+      "fmt": "99.74M",
+      "longFmt": "99,737,000"
+    },
+    "targetMedianPrice": {},
+    "currentPrice": {
+      "raw": 4.6,
+      "fmt": "4.60"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 10.589,
+      "fmt": "10.59"
+    },
+    "returnOnAssets": {
+      "raw": -0.22466,
+      "fmt": "-22.47%"
+    },
+    "numberOfAnalystOpinions": {},
+    "targetMeanPrice": {},
+    "debtToEquity": {
+      "raw": 0.167,
+      "fmt": "0.17%"
+    },
+    "returnOnEquity": {
+      "raw": -0.42978,
+      "fmt": "-42.98%"
+    },
+    "targetHighPrice": {},
+    "totalCash": {
+      "raw": 249884000,
+      "fmt": "249.88M",
+      "longFmt": "249,884,000"
+    },
+    "totalDebt": {
+      "raw": 652000,
+      "fmt": "652k",
+      "longFmt": "652,000"
+    },
+    "totalRevenue": {
+      "raw": 217076992,
+      "fmt": "217.08M",
+      "longFmt": "217,076,992"
+    },
+    "totalCashPerShare": {
+      "raw": 36.315,
+      "fmt": "36.31"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 32.497,
+      "fmt": "32.50"
+    },
+    "quickRatio": {
+      "raw": 7.626,
+      "fmt": "7.63"
+    },
+    "recommendationMean": {
+      "raw": 5,
+      "fmt": "5.00"
+    }
+  },
+  "quoteType": {
+    "exchange": "NYQ",
+    "shortName": "SOS Limited",
+    "longName": "SOS Limited",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "SOS",
+    "messageBoardId": "finmb_24869101",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Balyasny Asset Management LLC",
+        "pctHeld": {
+          "raw": 0.0004,
+          "fmt": "0.04%"
+        },
+        "position": {
+          "raw": 119400,
+          "fmt": "119.4k",
+          "longFmt": "119,400"
+        },
+        "value": {
+          "raw": 549239,
+          "fmt": "549.24k",
+          "longFmt": "549,239"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Blackrock Inc.",
+        "pctHeld": {
+          "raw": 0.0002,
+          "fmt": "0.02%"
+        },
+        "position": {
+          "raw": 52887,
+          "fmt": "52.89k",
+          "longFmt": "52,887"
+        },
+        "value": {
+          "raw": 243280,
+          "fmt": "243.28k",
+          "longFmt": "243,280"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Skandinaviska Enskilda Banken AB Publ",
+        "pctHeld": {
+          "raw": 0.0001,
+          "fmt": "0.01%"
+        },
+        "position": {
+          "raw": 24273,
+          "fmt": "24.27k",
+          "longFmt": "24,273"
+        },
+        "value": {
+          "raw": 111655,
+          "fmt": "111.66k",
+          "longFmt": "111,655"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Northern Trust Corporation",
+        "pctHeld": {
+          "raw": 0.0001,
+          "fmt": "0.01%"
+        },
+        "position": {
+          "raw": 15000,
+          "fmt": "15k",
+          "longFmt": "15,000"
+        },
+        "value": {
+          "raw": 68999,
+          "fmt": "69k",
+          "longFmt": "68,999"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "SignatureFD, LLC",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 2476,
+          "fmt": "2.48k",
+          "longFmt": "2,476"
+        },
+        "value": {
+          "raw": 11389,
+          "fmt": "11.39k",
+          "longFmt": "11,389"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Osaic Holdings Inc",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 3813,
+          "fmt": "3.81k",
+          "longFmt": "3,813"
+        },
+        "value": {
+          "raw": 17539,
+          "fmt": "17.54k",
+          "longFmt": "17,539"
+        },
+        "pctChange": {
+          "raw": -0.1293,
+          "fmt": "-12.93%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Vident Advisory, LLC                          ",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 10042,
+          "fmt": "10.04k",
+          "longFmt": "10,042"
+        },
+        "value": {
+          "raw": 46193,
+          "fmt": "46.19k",
+          "longFmt": "46,193"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Morgan Stanley",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 5841,
+          "fmt": "5.84k",
+          "longFmt": "5,841"
+        },
+        "value": {
+          "raw": 26868,
+          "fmt": "26.87k",
+          "longFmt": "26,868"
+        },
+        "pctChange": {
+          "raw": -0.3012,
+          "fmt": "-30.12%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Quadrant Capital Group LLC",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 3497,
+          "fmt": "3.5k",
+          "longFmt": "3,497"
+        },
+        "value": {
+          "raw": 16086,
+          "fmt": "16.09k",
+          "longFmt": "16,086"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Bank of America Corporation",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 2556,
+          "fmt": "2.56k",
+          "longFmt": "2,556"
+        },
+        "value": {
+          "raw": 11757,
+          "fmt": "11.76k",
+          "longFmt": "11,757"
+        },
+        "pctChange": {
+          "raw": 55.8,
+          "fmt": "5,580.00%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [],
+      "earningsAverage": {},
+      "earningsLow": {},
+      "earningsHigh": {},
+      "revenueAverage": {
+        "raw": 13030000,
+        "fmt": "13.03M",
+        "longFmt": "13,030,000"
+      },
+      "revenueLow": {
+        "raw": 13030000,
+        "fmt": "13.03M",
+        "longFmt": "13,030,000"
+      },
+      "revenueHigh": {
+        "raw": 13030000,
+        "fmt": "13.03M",
+        "longFmt": "13,030,000"
+      }
+    },
+    "exDividendDate": {},
+    "dividendDate": {
+      "raw": 1575331200,
+      "fmt": "2019-12-03"
+    }
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 5.87,
+      "fmt": "5.8700"
+    },
+    "regularMarketOpen": {
+      "raw": 5.89,
+      "fmt": "5.8900"
+    },
+    "twoHundredDayAverage": {
+      "raw": 4.3546,
+      "fmt": "4.3546"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 6.1653,
+      "fmt": "6.1653"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 486700,
+      "fmt": "486.7k",
+      "longFmt": "486,700"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 5.87,
+      "fmt": "5.8700"
+    },
+    "fiftyDayAverage": {
+      "raw": 3.9464,
+      "fmt": "3.9464"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 5.89,
+      "fmt": "5.8900"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 486700,
+      "fmt": "486.7k",
+      "longFmt": "486,700"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 1.920445,
+      "fmt": "1.92"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 4.6,
+      "fmt": "4.6000"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 635930,
+      "fmt": "635.93k",
+      "longFmt": "635,930"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 29350484,
+      "fmt": "29.35M",
+      "longFmt": "29,350,484"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 154419,
+      "fmt": "154.42k",
+      "longFmt": "154,419"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 0.13520771,
+      "fmt": "0.14"
+    },
+    "dayLow": {
+      "raw": 4.6,
+      "fmt": "4.6000"
+    },
+    "ask": {
+      "raw": 4.71,
+      "fmt": "4.7100"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 800,
+      "fmt": "800",
+      "longFmt": "800"
+    },
+    "volume": {
+      "raw": 635930,
+      "fmt": "635.93k",
+      "longFmt": "635,930"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 9.5,
+      "fmt": "9.5000"
+    },
+    "forwardPE": {},
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 2.77,
+      "fmt": "2.7700"
+    },
+    "bid": {
+      "raw": 4.6,
+      "fmt": "4.6000"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {
+      "raw": 1000,
+      "fmt": "1k",
+      "longFmt": "1,000"
+    },
+    "dayHigh": {
+      "raw": 6.1653,
+      "fmt": "6.1653"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "SOS",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {},
+  "pageViews": {
+    "shortTermTrend": "DOWN",
+    "midTermTrend": "UP",
+    "longTermTrend": "UP",
+    "maxAge": 1
+  }
+}

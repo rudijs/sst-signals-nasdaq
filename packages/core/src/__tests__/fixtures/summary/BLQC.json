@@ -1,0 +1,701 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 7.632,
+      "fmt": "7.63"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "enterpriseToEbitda": {
+      "raw": -1.985,
+      "fmt": "-1.99"
+    },
+    "52WeekChange": {
+      "raw": 0.04411769,
+      "fmt": "4.41%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {},
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 12863000,
+      "fmt": "12.86M",
+      "longFmt": "12,863,000"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": -0.092,
+      "fmt": "-0.09"
+    },
+    "sharesShort": {},
+    "sharesPercentSharesOut": {},
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1514678400,
+      "fmt": "2017-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "netIncomeToCommon": {
+      "raw": -3932518,
+      "fmt": "-3.93M",
+      "longFmt": "-3,932,518"
+    },
+    "trailingEps": {
+      "raw": -0.21,
+      "fmt": "-0.2100"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.2508303,
+      "fmt": "25.08%"
+    },
+    "priceToBook": {},
+    "heldPercentInsiders": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1546214400,
+      "fmt": "2018-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1530316800,
+      "fmt": "2018-06-30"
+    },
+    "shortRatio": {},
+    "sharesShortPreviousMonthDate": {},
+    "floatShares": {},
+    "beta": {
+      "raw": 7.636,
+      "fmt": "7.64"
+    },
+    "enterpriseValue": {
+      "raw": 760176,
+      "fmt": "760.18k",
+      "longFmt": "760,176"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1580947200,
+      "fmt": "2020-02-06"
+    },
+    "lastSplitFactor": "1:5000",
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {},
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {},
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {},
+    "sharesShortPriorMonth": {},
+    "impliedSharesOutstanding": {
+      "raw": 51017600,
+      "fmt": "51.02M",
+      "longFmt": "51,017,600"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Capital Markets",
+    "zip": "89501",
+    "industryKey": "capital-markets",
+    "sector": "Financial Services",
+    "sectorDisp": "Financial Services",
+    "longBusinessSummary": "BlockQuarry Corp. provides mining and hosting services in the digital currency space in North America. It uses a blockchain infrastructure to convert unique identifiable assets into interchangeable digital assets, such as Bitcoin and other fungible digital assets. The company was formerly known as ISW Holdings Inc. and changed its name to BlockQuarry Corp. in August 2021. BlockQuarry Corp. is based in Reno, Nevada.",
+    "city": "Reno",
+    "state": "NV",
+    "country": "United States",
+    "sectorKey": "financial-services",
+    "companyOfficers": [],
+    "website": "https://www.blockquarry.io",
+    "maxAge": 86400,
+    "address1": "50 West Liberty Street",
+    "industry": "Capital Markets",
+    "address2": "Suite 880"
+  },
+  "recommendationTrend": {
+    "trend": [
+      {
+        "period": "0m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      }
+    ],
+    "maxAge": 86400
+  },
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {
+    "maxAge": 86400,
+    "earningsChart": {
+      "quarterly": [],
+      "earningsDate": []
+    },
+    "financialsChart": {
+      "yearly": [
+        {
+          "date": 2009,
+          "revenue": {
+            "raw": 5385,
+            "fmt": "5.38k",
+            "longFmt": "5,385"
+          },
+          "earnings": {
+            "raw": -256996,
+            "fmt": "-257k",
+            "longFmt": "-256,996"
+          }
+        },
+        {
+          "date": 2011,
+          "revenue": {
+            "raw": 76174,
+            "fmt": "76.17k",
+            "longFmt": "76,174"
+          },
+          "earnings": {
+            "raw": -419401,
+            "fmt": "-419.4k",
+            "longFmt": "-419,401"
+          }
+        },
+        {
+          "date": 2016,
+          "revenue": {
+            "raw": 150420,
+            "fmt": "150.42k",
+            "longFmt": "150,420"
+          },
+          "earnings": {
+            "raw": -1075327,
+            "fmt": "-1.08M",
+            "longFmt": "-1,075,327"
+          }
+        },
+        {
+          "date": 2017,
+          "revenue": {
+            "raw": 127220,
+            "fmt": "127.22k",
+            "longFmt": "127,220"
+          },
+          "earnings": {
+            "raw": -1239619,
+            "fmt": "-1.24M",
+            "longFmt": "-1,239,619"
+          }
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "1Q2017",
+          "revenue": {
+            "raw": 3600,
+            "fmt": "3.6k",
+            "longFmt": "3,600"
+          },
+          "earnings": {
+            "raw": -649327,
+            "fmt": "-649.33k",
+            "longFmt": "-649,327"
+          }
+        },
+        {
+          "date": "2Q2017",
+          "revenue": {
+            "raw": 24020,
+            "fmt": "24.02k",
+            "longFmt": "24,020"
+          },
+          "earnings": {
+            "raw": 102412,
+            "fmt": "102.41k",
+            "longFmt": "102,412"
+          }
+        },
+        {
+          "date": "1Q2018",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": -532324,
+            "fmt": "-532.32k",
+            "longFmt": "-532,324"
+          }
+        },
+        {
+          "date": "2Q2018",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": -2707490,
+            "fmt": "-2.71M",
+            "longFmt": "-2,707,490"
+          }
+        }
+      ]
+    },
+    "financialCurrency": "USD"
+  },
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 0.142,
+      "fmt": "0.1420"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 832627,
+      "fmt": "832.63k",
+      "longFmt": "832,627"
+    },
+    "exchange": "PNK",
+    "regularMarketTime": 1703883033,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.153,
+      "fmt": "0.1530"
+    },
+    "shortName": "BLOCKQUARRY CORP",
+    "averageDailyVolume10Day": {
+      "raw": 633600,
+      "fmt": "633.6k",
+      "longFmt": "633,600"
+    },
+    "longName": "BlockQuarry Corp.",
+    "regularMarketChange": {
+      "raw": -0.023500003,
+      "fmt": "-0.0235"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 0.142,
+      "fmt": "0.1420"
+    },
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {},
+    "postMarketPrice": {},
+    "exchangeName": "Other OTC",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 0.108625,
+      "fmt": "0.1086"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 0.1185,
+      "fmt": "0.1185"
+    },
+    "regularMarketVolume": {
+      "raw": 746426,
+      "fmt": "746.43k",
+      "longFmt": "746,426.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "DELAYED",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 6045585,
+      "fmt": "6.05M",
+      "longFmt": "6,045,585.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "symbol": "BLQC",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.16549297,
+      "fmt": "-16.55%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": []
+  },
+  "insiderTransactions": {},
+  "insiderHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "maxAge": 1,
+    "period": "6m",
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "grossMargins": {
+      "raw": 0.30285,
+      "fmt": "30.29%"
+    },
+    "operatingCashflow": {
+      "raw": -290992,
+      "fmt": "-290.99k",
+      "longFmt": "-290,992"
+    },
+    "revenueGrowth": {},
+    "operatingMargins": {
+      "raw": -3.86336,
+      "fmt": "-386.34%"
+    },
+    "ebitda": {
+      "raw": -382937,
+      "fmt": "-382.94k",
+      "longFmt": "-382,937"
+    },
+    "targetLowPrice": {},
+    "recommendationKey": "none",
+    "grossProfits": {
+      "raw": 44060,
+      "fmt": "44.06k",
+      "longFmt": "44,060"
+    },
+    "freeCashflow": {},
+    "targetMedianPrice": {},
+    "currentPrice": {
+      "raw": 0.1185,
+      "fmt": "0.12"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 0.024,
+      "fmt": "0.02"
+    },
+    "returnOnAssets": {},
+    "numberOfAnalystOpinions": {},
+    "targetMeanPrice": {},
+    "debtToEquity": {},
+    "returnOnEquity": {},
+    "targetHighPrice": {},
+    "totalCash": {
+      "raw": 82134,
+      "fmt": "82.13k",
+      "longFmt": "82,134"
+    },
+    "totalDebt": {
+      "raw": 840045,
+      "fmt": "840.04k",
+      "longFmt": "840,045"
+    },
+    "totalRevenue": {
+      "raw": 99600,
+      "fmt": "99.6k",
+      "longFmt": "99,600"
+    },
+    "totalCashPerShare": {
+      "raw": 7.688,
+      "fmt": "7.69"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 0.003,
+      "fmt": "0.00"
+    },
+    "quickRatio": {
+      "raw": 0.017,
+      "fmt": "0.02"
+    },
+    "recommendationMean": {}
+  },
+  "quoteType": {
+    "exchange": "PNK",
+    "shortName": "BLOCKQUARRY CORP",
+    "longName": "BlockQuarry Corp.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "BLQC",
+    "messageBoardId": "finmb_38441962",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": []
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [],
+      "earningsAverage": {},
+      "earningsLow": {},
+      "earningsHigh": {},
+      "revenueAverage": {},
+      "revenueLow": {},
+      "revenueHigh": {}
+    },
+    "exDividendDate": {},
+    "dividendDate": {
+      "raw": 1580947200,
+      "fmt": "2020-02-06"
+    }
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 0.142,
+      "fmt": "0.1420"
+    },
+    "regularMarketOpen": {
+      "raw": 0.142,
+      "fmt": "0.1420"
+    },
+    "twoHundredDayAverage": {
+      "raw": 0.08236,
+      "fmt": "0.0824"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.153,
+      "fmt": "0.1530"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 633600,
+      "fmt": "633.6k",
+      "longFmt": "633,600"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 0.142,
+      "fmt": "0.1420"
+    },
+    "fiftyDayAverage": {
+      "raw": 0.07802,
+      "fmt": "0.0780"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 0.142,
+      "fmt": "0.1420"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 633600,
+      "fmt": "633.6k",
+      "longFmt": "633,600"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 7.636,
+      "fmt": "7.64"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 0.108625,
+      "fmt": "0.1086"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 746426,
+      "fmt": "746.43k",
+      "longFmt": "746,426"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 6045585,
+      "fmt": "6.05M",
+      "longFmt": "6,045,585"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 832627,
+      "fmt": "832.63k",
+      "longFmt": "832,627"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 60.698643,
+      "fmt": "60.70"
+    },
+    "dayLow": {
+      "raw": 0.108625,
+      "fmt": "0.1086"
+    },
+    "ask": {},
+    "ytdReturn": {},
+    "askSize": {},
+    "volume": {
+      "raw": 746426,
+      "fmt": "746.43k",
+      "longFmt": "746,426"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 0.447,
+      "fmt": "0.4470"
+    },
+    "forwardPE": {},
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 0.012,
+      "fmt": "0.0120"
+    },
+    "bid": {},
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {},
+    "dayHigh": {
+      "raw": 0.153,
+      "fmt": "0.1530"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "BLQC",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {},
+  "pageViews": {}
+}

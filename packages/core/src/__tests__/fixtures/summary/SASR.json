@@ -1,0 +1,3181 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 4.114,
+      "fmt": "4.11"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": 0.29204,
+      "fmt": "29.20%"
+    },
+    "enterpriseToEbitda": {},
+    "52WeekChange": {
+      "raw": -0.20889527,
+      "fmt": "-20.89%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {
+      "raw": 2.09,
+      "fmt": "2.09"
+    },
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 44895200,
+      "fmt": "44.9M",
+      "longFmt": "44,895,200"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 34.256,
+      "fmt": "34.26"
+    },
+    "sharesShort": {
+      "raw": 644298,
+      "fmt": "644.3k",
+      "longFmt": "644,298"
+    },
+    "sharesPercentSharesOut": {
+      "raw": 0.014400001,
+      "fmt": "1.44%"
+    },
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.67588997,
+      "fmt": "67.59%"
+    },
+    "netIncomeToCommon": {
+      "raw": 130426000,
+      "fmt": "130.43M",
+      "longFmt": "130,426,000"
+    },
+    "trailingEps": {
+      "raw": 2.91,
+      "fmt": "2.91"
+    },
+    "lastDividendValue": {
+      "raw": 0.34,
+      "fmt": "0.34"
+    },
+    "SandP52WeekChange": {
+      "raw": 0.2508303,
+      "fmt": "25.08%"
+    },
+    "priceToBook": {
+      "raw": 0.79518914,
+      "fmt": "0.80"
+    },
+    "heldPercentInsiders": {
+      "raw": 0.03304,
+      "fmt": "3.30%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1703980800,
+      "fmt": "2023-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1696032000,
+      "fmt": "2023-09-30"
+    },
+    "shortRatio": {
+      "raw": 3.37,
+      "fmt": "3.37"
+    },
+    "sharesShortPreviousMonthDate": {
+      "raw": 1700006400,
+      "fmt": "2023-11-15"
+    },
+    "floatShares": {
+      "raw": 43434270,
+      "fmt": "43.43M",
+      "longFmt": "43,434,270"
+    },
+    "beta": {
+      "raw": 0.933,
+      "fmt": "0.93"
+    },
+    "enterpriseValue": {
+      "raw": 1841445120,
+      "fmt": "1.84B",
+      "longFmt": "1,841,445,120"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1008892800,
+      "fmt": "2001-12-21"
+    },
+    "lastSplitFactor": "3:2",
+    "legalType": null,
+    "lastDividendDate": {
+      "raw": 1699315200,
+      "fmt": "2023-11-07"
+    },
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {
+      "raw": -0.382,
+      "fmt": "-38.20%"
+    },
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {
+      "raw": 1702598400,
+      "fmt": "2023-12-15"
+    },
+    "pegRatio": {
+      "raw": 1.04,
+      "fmt": "1.04"
+    },
+    "ytdReturn": {},
+    "forwardPE": {
+      "raw": 13.033493,
+      "fmt": "13.03"
+    },
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {
+      "raw": 0.0148,
+      "fmt": "1.48%"
+    },
+    "sharesShortPriorMonth": {
+      "raw": 606062,
+      "fmt": "606.06k",
+      "longFmt": "606,062"
+    },
+    "impliedSharesOutstanding": {
+      "raw": 44895200,
+      "fmt": "44.9M",
+      "longFmt": "44,895,200"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Banks - Regional",
+    "zip": "20832",
+    "industryKey": "banks-regional",
+    "sector": "Financial Services",
+    "sectorDisp": "Financial Services",
+    "fullTimeEmployees": 1134,
+    "longBusinessSummary": "Sandy Spring Bancorp, Inc. operates as the bank holding company for Sandy Spring Bank that provides commercial and retail banking, mortgage, private banking, and trust services to individuals and businesses in Central Maryland, Northern Virginia, and Washington, D.C. It operates in two segments, Community Banking and Investment Management. The Community Banking segment offers financial products and services, including various loan and deposit products. Its loan products include commercial real estate loans, construction loans, and business loans; residential real estate loans; and consumer loans comprising home equity loans and lines, installment loans, and personal lines of credit. The Investment Management segment offers investment management and financial planning, including cash flow analysis, investment review, tax and retirement planning, insurance analysis, and estate planning to individuals, families, small businesses, and associations. The company also provides wealth management services. Sandy Spring Bancorp, Inc. was founded in 1868 and is headquartered in Olney, Maryland.",
+    "city": "Olney",
+    "phone": "301 774 6400",
+    "state": "MD",
+    "country": "United States",
+    "sectorKey": "financial-services",
+    "companyOfficers": [],
+    "website": "https://www.sandyspringbank.com",
+    "maxAge": 86400,
+    "address1": "17801 Georgia Avenue",
+    "fax": "410 312 0652",
+    "industry": "Banks - Regional"
+  },
+  "recommendationTrend": {
+    "trend": [
+      {
+        "period": "0m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 5,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 4,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 4,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 0,
+        "buy": 3,
+        "hold": 1,
+        "sell": 0,
+        "strongSell": 0
+      }
+    ],
+    "maxAge": 86400
+  },
+  "financialsTemplate": {
+    "code": "B",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {
+    "maxAge": 86400,
+    "earningsChart": {
+      "quarterly": [
+        {
+          "date": "4Q2022",
+          "actual": {
+            "raw": 0.79,
+            "fmt": "0.79"
+          },
+          "estimate": {
+            "raw": 0.92,
+            "fmt": "0.92"
+          }
+        },
+        {
+          "date": "1Q2023",
+          "actual": {
+            "raw": 1.14,
+            "fmt": "1.14"
+          },
+          "estimate": {
+            "raw": 0.67,
+            "fmt": "0.67"
+          }
+        },
+        {
+          "date": "2Q2023",
+          "actual": {
+            "raw": 0.55,
+            "fmt": "0.55"
+          },
+          "estimate": {
+            "raw": 0.66,
+            "fmt": "0.66"
+          }
+        },
+        {
+          "date": "3Q2023",
+          "actual": {
+            "raw": 0.62,
+            "fmt": "0.62"
+          },
+          "estimate": {
+            "raw": 0.56,
+            "fmt": "0.56"
+          }
+        }
+      ],
+      "currentQuarterEstimate": {
+        "raw": 0.52,
+        "fmt": "0.52"
+      },
+      "currentQuarterEstimateDate": "4Q",
+      "currentQuarterEstimateYear": 2023,
+      "earningsDate": [
+        {
+          "raw": 1706103000,
+          "fmt": "2024-01-24"
+        },
+        {
+          "raw": 1706535000,
+          "fmt": "2024-01-29"
+        }
+      ]
+    },
+    "financialsChart": {
+      "yearly": [
+        {
+          "date": 2019,
+          "revenue": {
+            "raw": 331346000,
+            "fmt": "331.35M",
+            "longFmt": "331,346,000"
+          },
+          "earnings": {
+            "raw": 116433000,
+            "fmt": "116.43M",
+            "longFmt": "116,433,000"
+          }
+        },
+        {
+          "date": 2020,
+          "revenue": {
+            "raw": 380206000,
+            "fmt": "380.21M",
+            "longFmt": "380,206,000"
+          },
+          "earnings": {
+            "raw": 96953000,
+            "fmt": "96.95M",
+            "longFmt": "96,953,000"
+          }
+        },
+        {
+          "date": 2021,
+          "revenue": {
+            "raw": 572129000,
+            "fmt": "572.13M",
+            "longFmt": "572,129,000"
+          },
+          "earnings": {
+            "raw": 235107000,
+            "fmt": "235.11M",
+            "longFmt": "235,107,000"
+          }
+        },
+        {
+          "date": 2022,
+          "revenue": {
+            "raw": 479651000,
+            "fmt": "479.65M",
+            "longFmt": "479,651,000"
+          },
+          "earnings": {
+            "raw": 166299000,
+            "fmt": "166.3M",
+            "longFmt": "166,299,000"
+          }
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "3Q2022",
+          "revenue": {
+            "raw": 110952000,
+            "fmt": "110.95M",
+            "longFmt": "110,952,000"
+          },
+          "earnings": {
+            "raw": 33584000,
+            "fmt": "33.58M",
+            "longFmt": "33,584,000"
+          }
+        },
+        {
+          "date": "4Q2022",
+          "revenue": {
+            "raw": 110139000,
+            "fmt": "110.14M",
+            "longFmt": "110,139,000"
+          },
+          "earnings": {
+            "raw": 33980000,
+            "fmt": "33.98M",
+            "longFmt": "33,980,000"
+          }
+        },
+        {
+          "date": "1Q2023",
+          "revenue": {
+            "raw": 134789000,
+            "fmt": "134.79M",
+            "longFmt": "134,789,000"
+          },
+          "earnings": {
+            "raw": 51253000,
+            "fmt": "51.25M",
+            "longFmt": "51,253,000"
+          }
+        },
+        {
+          "date": "2Q2023",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        }
+      ]
+    },
+    "financialCurrency": "USD"
+  },
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 27.41,
+      "fmt": "27.41"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 173172,
+      "fmt": "173.17k",
+      "longFmt": "173,172"
+    },
+    "exchange": "NMS",
+    "regularMarketTime": 1703883601,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 27.7,
+      "fmt": "27.70"
+    },
+    "shortName": "Sandy Spring Bancorp, Inc.",
+    "averageDailyVolume10Day": {
+      "raw": 207840,
+      "fmt": "207.84k",
+      "longFmt": "207,840"
+    },
+    "longName": "Sandy Spring Bancorp, Inc.",
+    "regularMarketChange": {
+      "raw": -0.32999992,
+      "fmt": "-0.33"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 27.57,
+      "fmt": "27.57"
+    },
+    "postMarketTime": 1703898000,
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "postMarketPrice": {
+      "raw": 27.24,
+      "fmt": "27.24"
+    },
+    "exchangeName": "NasdaqGS",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 27.08,
+      "fmt": "27.08"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 27.24,
+      "fmt": "27.24"
+    },
+    "regularMarketVolume": {
+      "raw": 228033,
+      "fmt": "228.03k",
+      "longFmt": "228,033.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "FREE_REALTIME",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 1222945280,
+      "fmt": "1.22B",
+      "longFmt": "1,222,945,280.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "postMarketSource": "DELAYED",
+    "strikePrice": {},
+    "symbol": "SASR",
+    "postMarketChangePercent": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "preMarketSource": "DELAYED",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.011969529,
+      "fmt": "-1.20%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Price (T.Rowe) Small-Cap Value Fund",
+        "pctHeld": {
+          "raw": 0.035,
+          "fmt": "3.50%"
+        },
+        "position": {
+          "raw": 1570937,
+          "fmt": "1.57M",
+          "longFmt": "1,570,937"
+        },
+        "value": {
+          "raw": 42792323,
+          "fmt": "42.79M",
+          "longFmt": "42,792,323"
+        },
+        "pctChange": {
+          "raw": -0.0021,
+          "fmt": "-0.21%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Invesco ETF Tr-Invesco Hi Yld Equity Div Achievers ETF",
+        "pctHeld": {
+          "raw": 0.0298,
+          "fmt": "2.98%"
+        },
+        "position": {
+          "raw": 1336288,
+          "fmt": "1.34M",
+          "longFmt": "1,336,288"
+        },
+        "value": {
+          "raw": 36400484,
+          "fmt": "36.4M",
+          "longFmt": "36,400,484"
+        },
+        "pctChange": {
+          "raw": 0.0889,
+          "fmt": "8.89%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Vanguard Total Stock Market Index Fund",
+        "pctHeld": {
+          "raw": 0.0295,
+          "fmt": "2.95%"
+        },
+        "position": {
+          "raw": 1325600,
+          "fmt": "1.33M",
+          "longFmt": "1,325,600"
+        },
+        "value": {
+          "raw": 36109343,
+          "fmt": "36.11M",
+          "longFmt": "36,109,343"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "iShares Russell 2000 ETF",
+        "pctHeld": {
+          "raw": 0.0235,
+          "fmt": "2.35%"
+        },
+        "position": {
+          "raw": 1053654,
+          "fmt": "1.05M",
+          "longFmt": "1,053,654"
+        },
+        "value": {
+          "raw": 28701534,
+          "fmt": "28.7M",
+          "longFmt": "28,701,534"
+        },
+        "pctChange": {
+          "raw": -0.0429,
+          "fmt": "-4.29%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1693440000,
+          "fmt": "2023-08-31"
+        },
+        "organization": "Delaware Group Equity Funds V-Small Cap Value Fund",
+        "pctHeld": {
+          "raw": 0.0215,
+          "fmt": "2.15%"
+        },
+        "position": {
+          "raw": 964625,
+          "fmt": "964.62k",
+          "longFmt": "964,625"
+        },
+        "value": {
+          "raw": 26276384,
+          "fmt": "26.28M",
+          "longFmt": "26,276,384"
+        },
+        "pctChange": {
+          "raw": 0.1361,
+          "fmt": "13.61%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Price (T.Rowe) U.S. Small-Cap Value Equity Trust",
+        "pctHeld": {
+          "raw": 0.0153,
+          "fmt": "1.53%"
+        },
+        "position": {
+          "raw": 685908,
+          "fmt": "685.91k",
+          "longFmt": "685,908"
+        },
+        "value": {
+          "raw": 18684133,
+          "fmt": "18.68M",
+          "longFmt": "18,684,133"
+        },
+        "pctChange": {
+          "raw": 0.00090000004,
+          "fmt": "0.09%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1693440000,
+          "fmt": "2023-08-31"
+        },
+        "organization": "MFS Series Trust XIII-MFS New Discovery Value Fund",
+        "pctHeld": {
+          "raw": 0.0149,
+          "fmt": "1.49%"
+        },
+        "position": {
+          "raw": 668967,
+          "fmt": "668.97k",
+          "longFmt": "668,967"
+        },
+        "value": {
+          "raw": 18222660,
+          "fmt": "18.22M",
+          "longFmt": "18,222,660"
+        },
+        "pctChange": {
+          "raw": 0.0088,
+          "fmt": "0.88%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Vanguard Extended Market Index Fund",
+        "pctHeld": {
+          "raw": 0.0145000005,
+          "fmt": "1.45%"
+        },
+        "position": {
+          "raw": 653187,
+          "fmt": "653.19k",
+          "longFmt": "653,187"
+        },
+        "value": {
+          "raw": 17792813,
+          "fmt": "17.79M",
+          "longFmt": "17,792,813"
+        },
+        "pctChange": {
+          "raw": 0.0167,
+          "fmt": "1.67%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Fidelity Small Cap Index Fund",
+        "pctHeld": {
+          "raw": 0.0092,
+          "fmt": "0.92%"
+        },
+        "position": {
+          "raw": 413884,
+          "fmt": "413.88k",
+          "longFmt": "413,884"
+        },
+        "value": {
+          "raw": 11274200,
+          "fmt": "11.27M",
+          "longFmt": "11,274,200"
+        },
+        "pctChange": {
+          "raw": 0.0514,
+          "fmt": "5.14%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "iShares Russell 2000 Value ETF",
+        "pctHeld": {
+          "raw": 0.0089,
+          "fmt": "0.89%"
+        },
+        "position": {
+          "raw": 398275,
+          "fmt": "398.27k",
+          "longFmt": "398,275"
+        },
+        "value": {
+          "raw": 10849010,
+          "fmt": "10.85M",
+          "longFmt": "10,849,010"
+        },
+        "pctChange": {
+          "raw": 0.0229,
+          "fmt": "2.29%"
+        }
+      }
+    ]
+  },
+  "insiderTransactions": {
+    "transactions": [
+      {
+        "filerName": "COOK KENNETH C",
+        "transactionText": "Conversion of Exercise of derivative security at price 10.96 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1694476800,
+          "fmt": "2023-09-12"
+        },
+        "value": {
+          "raw": 65037,
+          "fmt": "65.04k",
+          "longFmt": "65,037"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 5934,
+          "fmt": "5.93k",
+          "longFmt": "5,934"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RUPPERT CRAIG A",
+        "transactionText": "Purchase at price 24.86 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1691366400,
+          "fmt": "2023-08-07"
+        },
+        "value": {
+          "raw": 303236,
+          "fmt": "303.24k",
+          "longFmt": "303,236"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 12200,
+          "fmt": "12.2k",
+          "longFmt": "12,200"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "COOK KENNETH C",
+        "transactionText": "Conversion of Exercise of derivative security at price 10.96 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1690934400,
+          "fmt": "2023-08-02"
+        },
+        "value": {
+          "raw": 108866,
+          "fmt": "108.87k",
+          "longFmt": "108,866"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 9933,
+          "fmt": "9.93k",
+          "longFmt": "9,933"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ORNDORFF ROBERT L JR",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2254,
+          "fmt": "2.25k",
+          "longFmt": "2,254"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RUPPERT CRAIG A",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2254,
+          "fmt": "2.25k",
+          "longFmt": "2,254"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BOYD RALPH F JR",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2254,
+          "fmt": "2.25k",
+          "longFmt": "2,254"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "COOK KENNETH C",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2254,
+          "fmt": "2.25k",
+          "longFmt": "2,254"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "FRIIS MARK E",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2254,
+          "fmt": "2.25k",
+          "longFmt": "2,254"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LITTLE PAMELA A",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2254,
+          "fmt": "2.25k",
+          "longFmt": "2,254"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MICHAEL MARK C",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2254,
+          "fmt": "2.25k",
+          "longFmt": "2,254"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "STEPHENSON MONA ABUTALEB",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2254,
+          "fmt": "2.25k",
+          "longFmt": "2,254"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MICKLEM MARK C",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2254,
+          "fmt": "2.25k",
+          "longFmt": "2,254"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "O MEARA CHRISTINA BALDWIN",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2254,
+          "fmt": "2.25k",
+          "longFmt": "2,254"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LEMEK BRIAN J",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2254,
+          "fmt": "2.25k",
+          "longFmt": "2,254"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MARTZ WALTER CLAYTON II",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2254,
+          "fmt": "2.25k",
+          "longFmt": "2,254"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "COOK KENNETH C",
+        "transactionText": "Conversion of Exercise of derivative security at price 10.96 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1683158400,
+          "fmt": "2023-05-04"
+        },
+        "value": {
+          "raw": 131520,
+          "fmt": "131.52k",
+          "longFmt": "131,520"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 12000,
+          "fmt": "12k",
+          "longFmt": "12,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "COOK KENNETH C",
+        "transactionText": "Conversion of Exercise of derivative security at price 10.96 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1682640000,
+          "fmt": "2023-04-28"
+        },
+        "value": {
+          "raw": 219200,
+          "fmt": "219.2k",
+          "longFmt": "219,200"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 20000,
+          "fmt": "20k",
+          "longFmt": "20,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "CACERES R LOUIS",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1678838400,
+          "fmt": "2023-03-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 11033,
+          "fmt": "11.03k",
+          "longFmt": "11,033"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SCHRIDER DANIEL J",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1678838400,
+          "fmt": "2023-03-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 30378,
+          "fmt": "30.38k",
+          "longFmt": "30,378"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MANTUA PHILIP J",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1678838400,
+          "fmt": "2023-03-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 11658,
+          "fmt": "11.66k",
+          "longFmt": "11,658"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "COOK KENNETH C",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1678838400,
+          "fmt": "2023-03-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 5899,
+          "fmt": "5.9k",
+          "longFmt": "5,899"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "O BRIEN JOSEPH J JR",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1678838400,
+          "fmt": "2023-03-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 15416,
+          "fmt": "15.42k",
+          "longFmt": "15,416"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SADOWSKI JOHN D",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1678838400,
+          "fmt": "2023-03-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 6889,
+          "fmt": "6.89k",
+          "longFmt": "6,889"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MCDOWELL RONDA M",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1678838400,
+          "fmt": "2023-03-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Operating Officer",
+        "shares": {
+          "raw": 7239,
+          "fmt": "7.24k",
+          "longFmt": "7,239"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SLANE KEVIN",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1678838400,
+          "fmt": "2023-03-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 7496,
+          "fmt": "7.5k",
+          "longFmt": "7,496"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KASLOW AARON MICHAEL",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1678838400,
+          "fmt": "2023-03-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "General Counsel",
+        "shares": {
+          "raw": 8448,
+          "fmt": "8.45k",
+          "longFmt": "8,448"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "FERNANDES GARY JOHN",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1678838400,
+          "fmt": "2023-03-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 2577,
+          "fmt": "2.58k",
+          "longFmt": "2,577"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LEMEK BRIAN J",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1670457600,
+          "fmt": "2022-12-08"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 1800,
+          "fmt": "1.8k",
+          "longFmt": "1,800"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ORNDORFF ROBERT L JR",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1653436800,
+          "fmt": "2022-05-25"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 1229,
+          "fmt": "1.23k",
+          "longFmt": "1,229"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RUPPERT CRAIG A",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1653436800,
+          "fmt": "2022-05-25"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 1229,
+          "fmt": "1.23k",
+          "longFmt": "1,229"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BOYD RALPH F JR",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1653436800,
+          "fmt": "2022-05-25"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 1229,
+          "fmt": "1.23k",
+          "longFmt": "1,229"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "FRIIS MARK E",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1653436800,
+          "fmt": "2022-05-25"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 1229,
+          "fmt": "1.23k",
+          "longFmt": "1,229"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LITTLE PAMELA A",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1653436800,
+          "fmt": "2022-05-25"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 1229,
+          "fmt": "1.23k",
+          "longFmt": "1,229"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MICHAEL MARK C",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1653436800,
+          "fmt": "2022-05-25"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 1229,
+          "fmt": "1.23k",
+          "longFmt": "1,229"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "STEPHENSON MONA ABUTALEB",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1653436800,
+          "fmt": "2022-05-25"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 1229,
+          "fmt": "1.23k",
+          "longFmt": "1,229"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MICKLEM MARK C",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1653436800,
+          "fmt": "2022-05-25"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 1229,
+          "fmt": "1.23k",
+          "longFmt": "1,229"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "O MEARA CHRISTINA BALDWIN",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1653436800,
+          "fmt": "2022-05-25"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 1229,
+          "fmt": "1.23k",
+          "longFmt": "1,229"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LEMEK BRIAN J",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1653436800,
+          "fmt": "2022-05-25"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 1229,
+          "fmt": "1.23k",
+          "longFmt": "1,229"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MARTZ WALTER CLAYTON II",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1653436800,
+          "fmt": "2022-05-25"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 1229,
+          "fmt": "1.23k",
+          "longFmt": "1,229"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RUPPERT CRAIG A",
+        "transactionText": "Purchase at price 38.43 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1652659200,
+          "fmt": "2022-05-16"
+        },
+        "value": {
+          "raw": 96085,
+          "fmt": "96.08k",
+          "longFmt": "96,085"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2500,
+          "fmt": "2.5k",
+          "longFmt": "2,500"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "CACERES R LOUIS",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1647388800,
+          "fmt": "2022-03-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 3151,
+          "fmt": "3.15k",
+          "longFmt": "3,151"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SCHRIDER DANIEL J",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1647388800,
+          "fmt": "2022-03-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 9364,
+          "fmt": "9.36k",
+          "longFmt": "9,364"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MANTUA PHILIP J",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1647388800,
+          "fmt": "2022-03-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 3151,
+          "fmt": "3.15k",
+          "longFmt": "3,151"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "COOK KENNETH C",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1647388800,
+          "fmt": "2022-03-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 2975,
+          "fmt": "2.98k",
+          "longFmt": "2,975"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "O BRIEN JOSEPH J JR",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1647388800,
+          "fmt": "2022-03-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 4276,
+          "fmt": "4.28k",
+          "longFmt": "4,276"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SADOWSKI JOHN D",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1647388800,
+          "fmt": "2022-03-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 1994,
+          "fmt": "1.99k",
+          "longFmt": "1,994"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MCDOWELL RONDA M",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1647388800,
+          "fmt": "2022-03-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Operating Officer",
+        "shares": {
+          "raw": 2011,
+          "fmt": "2.01k",
+          "longFmt": "2,011"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SLANE KEVIN",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1647388800,
+          "fmt": "2022-03-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 2132,
+          "fmt": "2.13k",
+          "longFmt": "2,132"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KASLOW AARON MICHAEL",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1647388800,
+          "fmt": "2022-03-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "General Counsel",
+        "shares": {
+          "raw": 2093,
+          "fmt": "2.09k",
+          "longFmt": "2,093"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "FERNANDES GARY JOHN",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1647388800,
+          "fmt": "2022-03-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 1463,
+          "fmt": "1.46k",
+          "longFmt": "1,463"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "CACERES R LOUIS",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1644883200,
+          "fmt": "2022-02-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 4493,
+          "fmt": "4.49k",
+          "longFmt": "4,493"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SCHRIDER DANIEL J",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1644883200,
+          "fmt": "2022-02-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 12002,
+          "fmt": "12k",
+          "longFmt": "12,002"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MANTUA PHILIP J",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1644883200,
+          "fmt": "2022-02-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 4611,
+          "fmt": "4.61k",
+          "longFmt": "4,611"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "O BRIEN JOSEPH J JR",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1644883200,
+          "fmt": "2022-02-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 5528,
+          "fmt": "5.53k",
+          "longFmt": "5,528"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SADOWSKI JOHN D",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1644883200,
+          "fmt": "2022-02-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 2607,
+          "fmt": "2.61k",
+          "longFmt": "2,607"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MCDOWELL RONDA M",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1644883200,
+          "fmt": "2022-02-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Operating Officer",
+        "shares": {
+          "raw": 2837,
+          "fmt": "2.84k",
+          "longFmt": "2,837"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SLANE KEVIN",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1644883200,
+          "fmt": "2022-02-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 3311,
+          "fmt": "3.31k",
+          "longFmt": "3,311"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KASLOW AARON MICHAEL",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1644883200,
+          "fmt": "2022-02-15"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "General Counsel",
+        "shares": {
+          "raw": 3484,
+          "fmt": "3.48k",
+          "longFmt": "3,484"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      }
+    ],
+    "maxAge": 1
+  },
+  "insiderHolders": {
+    "holders": [
+      {
+        "maxAge": 1,
+        "name": "BOYD RALPH F JR",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "positionDirect": {
+          "raw": 13253,
+          "fmt": "13.25k",
+          "longFmt": "13,253"
+        },
+        "positionDirectDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "COOK KENNETH C",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Conversion of Exercise of derivative security",
+        "latestTransDate": {
+          "raw": 1694476800,
+          "fmt": "2023-09-12"
+        },
+        "positionDirect": {
+          "raw": 276522,
+          "fmt": "276.52k",
+          "longFmt": "276,522"
+        },
+        "positionDirectDate": {
+          "raw": 1694476800,
+          "fmt": "2023-09-12"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "FRIIS MARK E",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "positionDirect": {
+          "raw": 49947,
+          "fmt": "49.95k",
+          "longFmt": "49,947"
+        },
+        "positionDirectDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "LITTLE PAMELA A",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "positionDirect": {
+          "raw": 32048,
+          "fmt": "32.05k",
+          "longFmt": "32,048"
+        },
+        "positionDirectDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "MICHAEL MARK C",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "positionDirect": {
+          "raw": 29168,
+          "fmt": "29.17k",
+          "longFmt": "29,168"
+        },
+        "positionDirectDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "MICKLEM MARK C",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "positionDirect": {
+          "raw": 18664,
+          "fmt": "18.66k",
+          "longFmt": "18,664"
+        },
+        "positionDirectDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "O MEARA CHRISTINA BALDWIN",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "positionDirect": {
+          "raw": 50275,
+          "fmt": "50.27k",
+          "longFmt": "50,275"
+        },
+        "positionDirectDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "ORNDORFF ROBERT L JR",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "positionDirect": {
+          "raw": 173481,
+          "fmt": "173.48k",
+          "longFmt": "173,481"
+        },
+        "positionDirectDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "RUPPERT CRAIG A",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Purchase",
+        "latestTransDate": {
+          "raw": 1691366400,
+          "fmt": "2023-08-07"
+        },
+        "positionIndirect": {
+          "raw": 130147,
+          "fmt": "130.15k",
+          "longFmt": "130,147"
+        },
+        "positionIndirectDate": {
+          "raw": 1691366400,
+          "fmt": "2023-08-07"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "STEPHENSON MONA ABUTALEB",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        },
+        "positionDirect": {
+          "raw": 10008,
+          "fmt": "10.01k",
+          "longFmt": "10,008"
+        },
+        "positionDirectDate": {
+          "raw": 1684886400,
+          "fmt": "2023-05-24"
+        }
+      }
+    ],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "maxAge": 1,
+    "period": "6m",
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 1483336,
+      "fmt": "1.48M",
+      "longFmt": "1,483,336"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0.03304,
+      "fmt": "3.30%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0.67588997,
+      "fmt": "67.59%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0.69898003,
+      "fmt": "69.90%"
+    },
+    "institutionsCount": {
+      "raw": 259,
+      "fmt": "259",
+      "longFmt": "259"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "profitMargins": {
+      "raw": 0.29204,
+      "fmt": "29.20%"
+    },
+    "grossMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "operatingCashflow": {
+      "raw": 153038000,
+      "fmt": "153.04M",
+      "longFmt": "153,038,000"
+    },
+    "revenueGrowth": {
+      "raw": -0.098,
+      "fmt": "-9.80%"
+    },
+    "operatingMargins": {
+      "raw": 0.31181,
+      "fmt": "31.18%"
+    },
+    "ebitda": {},
+    "targetLowPrice": {
+      "raw": 21,
+      "fmt": "21.00"
+    },
+    "recommendationKey": "hold",
+    "grossProfits": {
+      "raw": 479651000,
+      "fmt": "479.65M",
+      "longFmt": "479,651,000"
+    },
+    "freeCashflow": {},
+    "targetMedianPrice": {
+      "raw": 23,
+      "fmt": "23.00"
+    },
+    "currentPrice": {
+      "raw": 27.24,
+      "fmt": "27.24"
+    },
+    "earningsGrowth": {
+      "raw": -0.386,
+      "fmt": "-38.60%"
+    },
+    "currentRatio": {},
+    "returnOnAssets": {
+      "raw": 0.00937,
+      "fmt": "0.94%"
+    },
+    "numberOfAnalystOpinions": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "targetMeanPrice": {
+      "raw": 23.75,
+      "fmt": "23.75"
+    },
+    "debtToEquity": {},
+    "returnOnEquity": {
+      "raw": 0.08745,
+      "fmt": "8.74%"
+    },
+    "targetHighPrice": {
+      "raw": 28,
+      "fmt": "28.00"
+    },
+    "totalCash": {
+      "raw": 740665984,
+      "fmt": "740.67M",
+      "longFmt": "740,665,984"
+    },
+    "totalDebt": {
+      "raw": 1359166976,
+      "fmt": "1.36B",
+      "longFmt": "1,359,166,976"
+    },
+    "totalRevenue": {
+      "raw": 447627008,
+      "fmt": "447.63M",
+      "longFmt": "447,627,008"
+    },
+    "totalCashPerShare": {
+      "raw": 16.498,
+      "fmt": "16.5"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 10,
+      "fmt": "10.00"
+    },
+    "quickRatio": {},
+    "recommendationMean": {
+      "raw": 3,
+      "fmt": "3.00"
+    }
+  },
+  "quoteType": {
+    "exchange": "NMS",
+    "shortName": "Sandy Spring Bancorp, Inc.",
+    "longName": "Sandy Spring Bancorp, Inc.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "SASR",
+    "messageBoardId": "finmb_356061",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Blackrock Inc.",
+        "pctHeld": {
+          "raw": 0.0937,
+          "fmt": "9.37%"
+        },
+        "position": {
+          "raw": 4206951,
+          "fmt": "4.21M",
+          "longFmt": "4,206,951"
+        },
+        "value": {
+          "raw": 114597344,
+          "fmt": "114.6M",
+          "longFmt": "114,597,344"
+        },
+        "pctChange": {
+          "raw": 0.0431,
+          "fmt": "4.31%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Vanguard Group Inc",
+        "pctHeld": {
+          "raw": 0.0586,
+          "fmt": "5.86%"
+        },
+        "position": {
+          "raw": 2628937,
+          "fmt": "2.63M",
+          "longFmt": "2,628,937"
+        },
+        "value": {
+          "raw": 71612243,
+          "fmt": "71.61M",
+          "longFmt": "71,612,243"
+        },
+        "pctChange": {
+          "raw": 0.0047999998,
+          "fmt": "0.48%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "T. Rowe Price Investment Management, Inc.",
+        "pctHeld": {
+          "raw": 0.056799997,
+          "fmt": "5.68%"
+        },
+        "position": {
+          "raw": 2549818,
+          "fmt": "2.55M",
+          "longFmt": "2,549,818"
+        },
+        "value": {
+          "raw": 69457041,
+          "fmt": "69.46M",
+          "longFmt": "69,457,041"
+        },
+        "pctChange": {
+          "raw": 0.0043,
+          "fmt": "0.43%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Dimensional Fund Advisors LP",
+        "pctHeld": {
+          "raw": 0.048699997,
+          "fmt": "4.87%"
+        },
+        "position": {
+          "raw": 2188076,
+          "fmt": "2.19M",
+          "longFmt": "2,188,076"
+        },
+        "value": {
+          "raw": 59603189,
+          "fmt": "59.6M",
+          "longFmt": "59,603,189"
+        },
+        "pctChange": {
+          "raw": -0.073,
+          "fmt": "-7.30%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Invesco Ltd.",
+        "pctHeld": {
+          "raw": 0.0319,
+          "fmt": "3.19%"
+        },
+        "position": {
+          "raw": 1432995,
+          "fmt": "1.43M",
+          "longFmt": "1,432,995"
+        },
+        "value": {
+          "raw": 39034783,
+          "fmt": "39.03M",
+          "longFmt": "39,034,783"
+        },
+        "pctChange": {
+          "raw": 0.0482,
+          "fmt": "4.82%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Macquarie Group Limited",
+        "pctHeld": {
+          "raw": 0.0301,
+          "fmt": "3.01%"
+        },
+        "position": {
+          "raw": 1351456,
+          "fmt": "1.35M",
+          "longFmt": "1,351,456"
+        },
+        "value": {
+          "raw": 36813661,
+          "fmt": "36.81M",
+          "longFmt": "36,813,661"
+        },
+        "pctChange": {
+          "raw": 0.1346,
+          "fmt": "13.46%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "State Street Corporation",
+        "pctHeld": {
+          "raw": 0.0297,
+          "fmt": "2.97%"
+        },
+        "position": {
+          "raw": 1333260,
+          "fmt": "1.33M",
+          "longFmt": "1,333,260"
+        },
+        "value": {
+          "raw": 36318002,
+          "fmt": "36.32M",
+          "longFmt": "36,318,002"
+        },
+        "pctChange": {
+          "raw": -0.0657,
+          "fmt": "-6.57%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Geode Capital Management, LLC",
+        "pctHeld": {
+          "raw": 0.0208,
+          "fmt": "2.08%"
+        },
+        "position": {
+          "raw": 935286,
+          "fmt": "935.29k",
+          "longFmt": "935,286"
+        },
+        "value": {
+          "raw": 25477190,
+          "fmt": "25.48M",
+          "longFmt": "25,477,190"
+        },
+        "pctChange": {
+          "raw": 0.0187,
+          "fmt": "1.87%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Massachusetts Financial Services Co.",
+        "pctHeld": {
+          "raw": 0.0189,
+          "fmt": "1.89%"
+        },
+        "position": {
+          "raw": 849919,
+          "fmt": "849.92k",
+          "longFmt": "849,919"
+        },
+        "value": {
+          "raw": 23151793,
+          "fmt": "23.15M",
+          "longFmt": "23,151,793"
+        },
+        "pctChange": {
+          "raw": 0.012200001,
+          "fmt": "1.22%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Systematic Financial Management, L.P.",
+        "pctHeld": {
+          "raw": 0.0147,
+          "fmt": "1.47%"
+        },
+        "position": {
+          "raw": 660011,
+          "fmt": "660.01k",
+          "longFmt": "660,011"
+        },
+        "value": {
+          "raw": 17978699,
+          "fmt": "17.98M",
+          "longFmt": "17,978,699"
+        },
+        "pctChange": {
+          "raw": -0.0038,
+          "fmt": "-0.38%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [
+        {
+          "raw": 1706103000,
+          "fmt": "2024-01-24"
+        },
+        {
+          "raw": 1706535000,
+          "fmt": "2024-01-29"
+        }
+      ],
+      "earningsAverage": {
+        "raw": 0.52,
+        "fmt": "0.52"
+      },
+      "earningsLow": {
+        "raw": 0.5,
+        "fmt": "0.50"
+      },
+      "earningsHigh": {
+        "raw": 0.53,
+        "fmt": "0.53"
+      },
+      "revenueAverage": {
+        "raw": 83530000,
+        "fmt": "83.53M",
+        "longFmt": "83,530,000"
+      },
+      "revenueLow": {
+        "raw": 82300000,
+        "fmt": "82.3M",
+        "longFmt": "82,300,000"
+      },
+      "revenueHigh": {
+        "raw": 84290000,
+        "fmt": "84.29M",
+        "longFmt": "84,290,000"
+      }
+    },
+    "exDividendDate": {
+      "raw": 1699315200,
+      "fmt": "2023-11-07"
+    },
+    "dividendDate": {
+      "raw": 1700006400,
+      "fmt": "2023-11-15"
+    }
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 27.57,
+      "fmt": "27.57"
+    },
+    "regularMarketOpen": {
+      "raw": 27.41,
+      "fmt": "27.41"
+    },
+    "twoHundredDayAverage": {
+      "raw": 23.03875,
+      "fmt": "23.04"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0.049328983,
+      "fmt": "4.93%"
+    },
+    "payoutRatio": {
+      "raw": 0.4674,
+      "fmt": "46.74%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 27.7,
+      "fmt": "27.70"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 207840,
+      "fmt": "207.84k",
+      "longFmt": "207,840"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 27.57,
+      "fmt": "27.57"
+    },
+    "fiftyDayAverage": {
+      "raw": 22.9302,
+      "fmt": "22.93"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 1.36,
+      "fmt": "1.36"
+    },
+    "open": {
+      "raw": 27.41,
+      "fmt": "27.41"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 207840,
+      "fmt": "207.84k",
+      "longFmt": "207,840"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {
+      "raw": 1.36,
+      "fmt": "1.36"
+    },
+    "exDividendDate": {
+      "raw": 1699315200,
+      "fmt": "2023-11-07"
+    },
+    "beta": {
+      "raw": 0.933,
+      "fmt": "0.93"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 27.08,
+      "fmt": "27.08"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "trailingPE": {
+      "raw": 9.360825,
+      "fmt": "9.36"
+    },
+    "regularMarketVolume": {
+      "raw": 228033,
+      "fmt": "228.03k",
+      "longFmt": "228,033"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 1222945280,
+      "fmt": "1.22B",
+      "longFmt": "1,222,945,280"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 173172,
+      "fmt": "173.17k",
+      "longFmt": "173,172"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 2.7320633,
+      "fmt": "2.73"
+    },
+    "dayLow": {
+      "raw": 27.08,
+      "fmt": "27.08"
+    },
+    "ask": {
+      "raw": 27.38,
+      "fmt": "27.38"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 900,
+      "fmt": "900",
+      "longFmt": "900"
+    },
+    "volume": {
+      "raw": 228033,
+      "fmt": "228.03k",
+      "longFmt": "228,033"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 35.9,
+      "fmt": "35.90"
+    },
+    "forwardPE": {
+      "raw": 13.033493,
+      "fmt": "13.03"
+    },
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {
+      "raw": 3.96,
+      "fmt": "3.96"
+    },
+    "fiftyTwoWeekLow": {
+      "raw": 19.27,
+      "fmt": "19.27"
+    },
+    "bid": {
+      "raw": 26.22,
+      "fmt": "26.22"
+    },
+    "tradeable": false,
+    "dividendYield": {
+      "raw": 0.0499,
+      "fmt": "4.99%"
+    },
+    "bidSize": {
+      "raw": 900,
+      "fmt": "900",
+      "longFmt": "900"
+    },
+    "dayHigh": {
+      "raw": 27.7,
+      "fmt": "27.70"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "SASR",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {
+    "history": [
+      {
+        "epochGradeDate": 1698683101,
+        "firm": "Piper Sandler",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1696248537,
+        "firm": "DA Davidson",
+        "toGrade": "Neutral",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1682424992,
+        "firm": "Keefe, Bruyette & Woods",
+        "toGrade": "Market Perform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1682344629,
+        "firm": "Piper Sandler",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1682340060,
+        "firm": "DA Davidson",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1682072382,
+        "firm": "Stephens & Co.",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1680784591,
+        "firm": "Keefe, Bruyette & Woods",
+        "toGrade": "Market Perform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1680598332,
+        "firm": "Stephens & Co.",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1675689153,
+        "firm": "Keefe, Bruyette & Woods",
+        "toGrade": "Market Perform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1650634576,
+        "firm": "Keefe, Bruyette & Woods",
+        "toGrade": "Market Perform",
+        "fromGrade": "Outperform",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1647938905,
+        "firm": "DA Davidson",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1611577854,
+        "firm": "Piper Sandler",
+        "toGrade": "Overweight",
+        "fromGrade": "Neutral",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1569502700,
+        "firm": "Sandler O'Neill",
+        "toGrade": "Buy",
+        "fromGrade": "Hold",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1547812841,
+        "firm": "Keefe Bruyette & Woods",
+        "toGrade": "Market Perform",
+        "fromGrade": "Outperform",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1542641729,
+        "firm": "Boenning & Scattergood",
+        "toGrade": "Outperform",
+        "fromGrade": "Neutral",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1539942750,
+        "firm": "Baird",
+        "toGrade": "Outperform",
+        "fromGrade": "Neutral",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1530020783,
+        "firm": "Sandler O'Neill",
+        "toGrade": "Buy",
+        "fromGrade": "Hold",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1524571772,
+        "firm": "Keefe Bruyette & Woods",
+        "toGrade": "Outperform",
+        "fromGrade": "Market Perform",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1519305795,
+        "firm": "Stephens & Co.",
+        "toGrade": "Overweight",
+        "fromGrade": "Equal-Weight",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1437145200,
+        "firm": "Keefe Bruyette & Woods",
+        "toGrade": "Market Perform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1435144256,
+        "firm": "Drexel Hamilton",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1429621200,
+        "firm": "SunTrust Robinson Humphrey",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1429275600,
+        "firm": "Keefe Bruyette & Woods",
+        "toGrade": "Market Perform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1429265510,
+        "firm": "Baird",
+        "toGrade": "Neutral",
+        "fromGrade": "Outperform",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1427972261,
+        "firm": "Raymond James",
+        "toGrade": "Market Perform",
+        "fromGrade": "Outperform",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1405679592,
+        "firm": "Bank of America",
+        "toGrade": "Outperform",
+        "fromGrade": "Neutral",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1405679591,
+        "firm": "Raymond James",
+        "toGrade": "Outperform",
+        "fromGrade": "Market Perform",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1398226738,
+        "firm": "SunTrust Robinson Humphrey",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1381837361,
+        "firm": "Keefe Bruyette & Woods",
+        "toGrade": "Market Perform",
+        "fromGrade": "",
+        "action": "init"
+      }
+    ],
+    "maxAge": 86400
+  },
+  "pageViews": {
+    "shortTermTrend": "UP",
+    "midTermTrend": "UP",
+    "longTermTrend": "UP",
+    "maxAge": 1
+  }
+}

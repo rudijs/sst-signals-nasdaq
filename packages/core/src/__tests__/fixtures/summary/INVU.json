@@ -1,0 +1,1809 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 0.393,
+      "fmt": "0.39"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": -0.18326001,
+      "fmt": "-18.33%"
+    },
+    "enterpriseToEbitda": {
+      "raw": 2.81,
+      "fmt": "2.81"
+    },
+    "52WeekChange": {
+      "raw": 0.48535562,
+      "fmt": "48.54%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {},
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 2333360128,
+      "fmt": "2.33B",
+      "longFmt": "2,333,360,128"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 0.008,
+      "fmt": "0.01"
+    },
+    "sharesShort": {},
+    "sharesPercentSharesOut": {},
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "netIncomeToCommon": {
+      "raw": -12609313,
+      "fmt": "-12.61M",
+      "longFmt": "-12,609,313"
+    },
+    "trailingEps": {
+      "raw": -0.01,
+      "fmt": "-0.0100"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.2508303,
+      "fmt": "25.08%"
+    },
+    "priceToBook": {
+      "raw": 2.09375,
+      "fmt": "2.09"
+    },
+    "heldPercentInsiders": {
+      "raw": 1.00533,
+      "fmt": "100.53%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1703980800,
+      "fmt": "2023-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1696032000,
+      "fmt": "2023-09-30"
+    },
+    "shortRatio": {},
+    "sharesShortPreviousMonthDate": {},
+    "floatShares": {
+      "raw": 1158138163,
+      "fmt": "1.16B",
+      "longFmt": "1,158,138,163"
+    },
+    "beta": {
+      "raw": 3.99,
+      "fmt": "3.99"
+    },
+    "enterpriseValue": {
+      "raw": 25271774,
+      "fmt": "25.27M",
+      "longFmt": "25,271,774"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1333929600,
+      "fmt": "2012-04-09"
+    },
+    "lastSplitFactor": "1:200",
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {},
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {},
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {},
+    "sharesShortPriorMonth": {},
+    "impliedSharesOutstanding": {
+      "raw": 2333360128,
+      "fmt": "2.33B",
+      "longFmt": "2,333,360,128"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Software - Application",
+    "zip": "19041",
+    "industryKey": "software-application",
+    "sector": "Technology",
+    "sectorDisp": "Technology",
+    "fullTimeEmployees": 29,
+    "longBusinessSummary": "Investview, Inc., through its subsidiaries, provides financial products and services in the areas of financial education, digital assets, and related technology for individuals. The company offers digital asset technologies, self-directed brokerage services, institutional trade execution services, advisory services, codeless algorithmic trading technologies, crypto mining services, mining equipment repair services, and blockchain technologies. Its services include research, education, and investment tools to assist the self-directed investor in navigating the financial markets, including equities, options, FOREX, ETFs, binary options, and cryptocurrency. The company also offers education and software applications to assist individuals in debt reduction, savings, budgeting, and proper tax management. The company was formerly known as Global Investor Services, Inc. and changed its name to Investview, Inc. in March 2012. Investview, Inc. was founded in 1946 and is headquartered in Eatontown, New Jersey.",
+    "city": "Haverford",
+    "phone": "732 889 4300",
+    "state": "PA",
+    "country": "United States",
+    "sectorKey": "technology",
+    "companyOfficers": [],
+    "website": "https://investview.com",
+    "maxAge": 86400,
+    "address1": "521 West Lancaster Avenue",
+    "industry": "Software - Application",
+    "address2": "Second Floor"
+  },
+  "recommendationTrend": {},
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {},
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 0.0175,
+      "fmt": "0.0175"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 401084,
+      "fmt": "401.08k",
+      "longFmt": "401,084"
+    },
+    "exchange": "PNK",
+    "regularMarketTime": 1703883579,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.0184,
+      "fmt": "0.0184"
+    },
+    "shortName": "INVESTVIEW INC",
+    "averageDailyVolume10Day": {
+      "raw": 494921,
+      "fmt": "494.92k",
+      "longFmt": "494,921"
+    },
+    "longName": "Investview, Inc.",
+    "regularMarketChange": {
+      "raw": -0.0010000002,
+      "fmt": "-0.0010"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 0.01775,
+      "fmt": "0.0178"
+    },
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {},
+    "postMarketPrice": {},
+    "exchangeName": "Other OTC",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 0.015,
+      "fmt": "0.0150"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 0.01675,
+      "fmt": "0.0168"
+    },
+    "regularMarketVolume": {
+      "raw": 1583514,
+      "fmt": "1.58M",
+      "longFmt": "1,583,514.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "DELAYED",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 39083784,
+      "fmt": "39.08M",
+      "longFmt": "39,083,784.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "symbol": "INVU",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.056338035,
+      "fmt": "-5.63%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": []
+  },
+  "insiderTransactions": {
+    "transactions": [
+      {
+        "filerName": "BELL JAMES R",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1604880000,
+          "fmt": "2020-11-09"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "President",
+        "shares": {
+          "raw": 45000000,
+          "fmt": "45M",
+          "longFmt": "45,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MILLER CHAD",
+        "transactionText": "Sale at price 0.02 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1598918400,
+          "fmt": "2020-09-01"
+        },
+        "value": {
+          "raw": 2544000,
+          "fmt": "2.54M",
+          "longFmt": "2,544,000"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 106000000,
+          "fmt": "106M",
+          "longFmt": "106,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SMITH RYAN ROBINS",
+        "transactionText": "Sale at price 0.02 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1598918400,
+          "fmt": "2020-09-01"
+        },
+        "value": {
+          "raw": 2544000,
+          "fmt": "2.54M",
+          "longFmt": "2,544,000"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 106000000,
+          "fmt": "106M",
+          "longFmt": "106,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ROMANO MARIO A",
+        "transactionText": "Stock Gift at price 0.03 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1597968000,
+          "fmt": "2020-08-21"
+        },
+        "value": {
+          "raw": 1250000,
+          "fmt": "1.25M",
+          "longFmt": "1,250,000"
+        },
+        "filerRelation": "Officer and Treasurer",
+        "shares": {
+          "raw": 50000000,
+          "fmt": "50M",
+          "longFmt": "50,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RAYNOR ANNETTE",
+        "transactionText": "Stock Gift at price 0.03 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1597968000,
+          "fmt": "2020-08-21"
+        },
+        "value": {
+          "raw": 1250000,
+          "fmt": "1.25M",
+          "longFmt": "1,250,000"
+        },
+        "filerRelation": "Chief Operating Officer",
+        "shares": {
+          "raw": 50000000,
+          "fmt": "50M",
+          "longFmt": "50,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOSOFF WILLIAM C",
+        "transactionText": "Sale at price 0.03 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1587686400,
+          "fmt": "2020-04-24"
+        },
+        "value": {
+          "raw": 28000,
+          "fmt": "28k",
+          "longFmt": "28,000"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 1000000,
+          "fmt": "1M",
+          "longFmt": "1,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MILLER CHAD",
+        "transactionText": "Sale at price 0.02 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1586217600,
+          "fmt": "2020-04-07"
+        },
+        "value": {
+          "raw": 395250,
+          "fmt": "395.25k",
+          "longFmt": "395,250"
+        },
+        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 21250000,
+          "fmt": "21.25M",
+          "longFmt": "21,250,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SMITH RYAN ROBINS",
+        "transactionText": "Sale at price 0.02 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1586217600,
+          "fmt": "2020-04-07"
+        },
+        "value": {
+          "raw": 395250,
+          "fmt": "395.25k",
+          "longFmt": "395,250"
+        },
+        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 21250000,
+          "fmt": "21.25M",
+          "longFmt": "21,250,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ROMANO MARIO A",
+        "transactionText": "Stock Gift at price 0.03 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1582675200,
+          "fmt": "2020-02-26"
+        },
+        "value": {
+          "raw": 450000,
+          "fmt": "450k",
+          "longFmt": "450,000"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 15000000,
+          "fmt": "15M",
+          "longFmt": "15,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RAYNOR ANNETTE",
+        "transactionText": "Stock Gift at price 0.03 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1582675200,
+          "fmt": "2020-02-26"
+        },
+        "value": {
+          "raw": 450000,
+          "fmt": "450k",
+          "longFmt": "450,000"
+        },
+        "filerRelation": "Chief Operating Officer",
+        "shares": {
+          "raw": 15000000,
+          "fmt": "15M",
+          "longFmt": "15,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ROMANO MARIO A",
+        "transactionText": "Sale at price 0.03 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1581379200,
+          "fmt": "2020-02-11"
+        },
+        "value": {
+          "raw": 1380000,
+          "fmt": "1.38M",
+          "longFmt": "1,380,000"
+        },
+        "filerRelation": "Officer and Treasurer",
+        "shares": {
+          "raw": 40000000,
+          "fmt": "40M",
+          "longFmt": "40,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RAYNOR ANNETTE",
+        "transactionText": "Sale at price 0.03 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1581379200,
+          "fmt": "2020-02-11"
+        },
+        "value": {
+          "raw": 1380000,
+          "fmt": "1.38M",
+          "longFmt": "1,380,000"
+        },
+        "filerRelation": "Chief Operating Officer",
+        "shares": {
+          "raw": 40000000,
+          "fmt": "40M",
+          "longFmt": "40,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOSOFF WILLIAM C",
+        "transactionText": "Stock Award(Grant) at price 0.01 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1563926400,
+          "fmt": "2019-07-24"
+        },
+        "value": {
+          "raw": 150000,
+          "fmt": "150k",
+          "longFmt": "150,000"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 10000000,
+          "fmt": "10M",
+          "longFmt": "10,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ROMANO MARIO A",
+        "transactionText": "Stock Award(Grant) at price 0.01 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1563926400,
+          "fmt": "2019-07-24"
+        },
+        "value": {
+          "raw": 2470000,
+          "fmt": "2.47M",
+          "longFmt": "2,470,000"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 190000000,
+          "fmt": "190M",
+          "longFmt": "190,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RAYNOR ANNETTE",
+        "transactionText": "Stock Award(Grant) at price 0.01 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1563926400,
+          "fmt": "2019-07-24"
+        },
+        "value": {
+          "raw": 2470000,
+          "fmt": "2.47M",
+          "longFmt": "2,470,000"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 190000000,
+          "fmt": "190M",
+          "longFmt": "190,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOSOFF WILLIAM C",
+        "transactionText": "Sale at price 0.00 - 0.95 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1521072000,
+          "fmt": "2018-03-15"
+        },
+        "value": {
+          "raw": 13335,
+          "fmt": "13.34k",
+          "longFmt": "13,335"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 265238,
+          "fmt": "265.24k",
+          "longFmt": "265,238"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ROMANO MARIO A",
+        "transactionText": "Sale at price 0.02 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1519603200,
+          "fmt": "2018-02-26"
+        },
+        "value": {
+          "raw": 250000,
+          "fmt": "250k",
+          "longFmt": "250,000"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 12500000,
+          "fmt": "12.5M",
+          "longFmt": "12,500,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RAYNOR ANNETTE",
+        "transactionText": "Sale at price 0.02 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1519603200,
+          "fmt": "2018-02-26"
+        },
+        "value": {
+          "raw": 250000,
+          "fmt": "250k",
+          "longFmt": "250,000"
+        },
+        "filerRelation": "Chief Operating Officer",
+        "shares": {
+          "raw": 12500000,
+          "fmt": "12.5M",
+          "longFmt": "12,500,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOSOFF WILLIAM C",
+        "transactionText": "Purchase at price 0.00 - 0.15 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1480550400,
+          "fmt": "2016-12-01"
+        },
+        "value": {
+          "raw": 2482,
+          "fmt": "2.48k",
+          "longFmt": "2,482"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 261300,
+          "fmt": "261.3k",
+          "longFmt": "261,300"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOSOFF WILLIAM C",
+        "transactionText": "Purchase at price 0.07 - 0.30 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1449100800,
+          "fmt": "2015-12-03"
+        },
+        "value": {
+          "raw": 5782,
+          "fmt": "5.78k",
+          "longFmt": "5,782"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 32050,
+          "fmt": "32.05k",
+          "longFmt": "32,050"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RICE GREGORY BARTON",
+        "transactionText": "Stock Award(Grant) at price 1.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1412035200,
+          "fmt": "2014-09-30"
+        },
+        "value": {
+          "raw": 1000000,
+          "fmt": "1M",
+          "longFmt": "1,000,000"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 1000000,
+          "fmt": "1M",
+          "longFmt": "1,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RICE GREGORY BARTON",
+        "transactionText": "Conversion of Exercise of derivative security at price 1.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1404086400,
+          "fmt": "2014-06-30"
+        },
+        "value": {
+          "raw": 394838,
+          "fmt": "394.84k",
+          "longFmt": "394,838"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 394838,
+          "fmt": "394.84k",
+          "longFmt": "394,838"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RICE GREGORY BARTON",
+        "transactionText": "Conversion of Exercise of derivative security at price 1.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1404086400,
+          "fmt": "2014-06-30"
+        },
+        "value": {
+          "raw": 411505,
+          "fmt": "411.5k",
+          "longFmt": "411,505"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 411505,
+          "fmt": "411.5k",
+          "longFmt": "411,505"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LOURO JOSEPH J",
+        "transactionText": "Conversion of Exercise of derivative security at price 1.00 - 1.50 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1404086400,
+          "fmt": "2014-06-30"
+        },
+        "value": {
+          "raw": 545700,
+          "fmt": "545.7k",
+          "longFmt": "545,700"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 409275,
+          "fmt": "409.27k",
+          "longFmt": "409,275"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RICE GREGORY BARTON",
+        "transactionText": "Purchase at price 1.00 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1402272000,
+          "fmt": "2014-06-09"
+        },
+        "value": {
+          "raw": 500000,
+          "fmt": "500k",
+          "longFmt": "500,000"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 500000,
+          "fmt": "500k",
+          "longFmt": "500,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOSOFF WILLIAM C",
+        "transactionText": "Sale at price 0.04 - 3.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1394668800,
+          "fmt": "2014-03-13"
+        },
+        "value": {
+          "raw": 17723,
+          "fmt": "17.72k",
+          "longFmt": "17,723"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 13781,
+          "fmt": "13.78k",
+          "longFmt": "13,781"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RICE GREGORY BARTON",
+        "transactionText": "Purchase at price 1.00 - 1.95 per share.",
+        "moneyText": "",
+        "ownership": "D/I",
+        "startDate": {
+          "raw": 1388966400,
+          "fmt": "2014-01-06"
+        },
+        "value": {
+          "raw": 558598,
+          "fmt": "558.6k",
+          "longFmt": "558,598"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 530050,
+          "fmt": "530.05k",
+          "longFmt": "530,050"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RICE GREGORY BARTON",
+        "transactionText": "Purchase at price 1.00 - 4.79 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1385510400,
+          "fmt": "2013-11-27"
+        },
+        "value": {
+          "raw": 1332793,
+          "fmt": "1.33M",
+          "longFmt": "1,332,793"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 732666,
+          "fmt": "732.67k",
+          "longFmt": "732,666"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RICE GREGORY BARTON",
+        "transactionText": "Purchase at price 1.00 - 4.79 per share.",
+        "moneyText": "",
+        "ownership": "D/I",
+        "startDate": {
+          "raw": 1385510400,
+          "fmt": "2013-11-27"
+        },
+        "value": {
+          "raw": 1332793,
+          "fmt": "1.33M",
+          "longFmt": "1,332,793"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 732666,
+          "fmt": "732.67k",
+          "longFmt": "732,666"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LOURO JOSEPH J",
+        "transactionText": "Purchase at price 3.62 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1353024000,
+          "fmt": "2012-11-16"
+        },
+        "value": {
+          "raw": 36200,
+          "fmt": "36.2k",
+          "longFmt": "36,200"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LOURO JOSEPH J",
+        "transactionText": "Purchase at price 3.63 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1353024000,
+          "fmt": "2012-11-16"
+        },
+        "value": {
+          "raw": 36300,
+          "fmt": "36.3k",
+          "longFmt": "36,300"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LOURO JOSEPH J",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1351036800,
+          "fmt": "2012-10-24"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 250000,
+          "fmt": "250k",
+          "longFmt": "250,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LOURO JOSEPH J",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1351036800,
+          "fmt": "2012-10-24"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 250000,
+          "fmt": "250k",
+          "longFmt": "250,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LOURO JOSEPH J",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1347408000,
+          "fmt": "2012-09-12"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 150000,
+          "fmt": "150k",
+          "longFmt": "150,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOSOFF WILLIAM C",
+        "transactionText": "Sale at price 0.06 - 0.07 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1281398400,
+          "fmt": "2010-08-10"
+        },
+        "value": {
+          "raw": 11415,
+          "fmt": "11.41k",
+          "longFmt": "11,415"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 177000,
+          "fmt": "177k",
+          "longFmt": "177,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MATURO NICHOLAS S",
+        "transactionText": "Stock Award(Grant) at price 0.03 - 0.11 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1277337600,
+          "fmt": "2010-06-24"
+        },
+        "value": {
+          "raw": 1358951,
+          "fmt": "1.36M",
+          "longFmt": "1,358,951"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 19597930,
+          "fmt": "19.6M",
+          "longFmt": "19,597,930"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOSOFF WILLIAM C",
+        "transactionText": "Purchase at price 0.01 - 0.04 per share.",
+        "moneyText": "",
+        "ownership": "D/I",
+        "startDate": {
+          "raw": 1269993600,
+          "fmt": "2010-03-31"
+        },
+        "value": {
+          "raw": 8653,
+          "fmt": "8.65k",
+          "longFmt": "8,653"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 743770,
+          "fmt": "743.77k",
+          "longFmt": "743,770"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOSOFF WILLIAM C",
+        "transactionText": "Purchase at price 0.01 - 0.04 per share.",
+        "moneyText": "",
+        "ownership": "D/I",
+        "startDate": {
+          "raw": 1267401600,
+          "fmt": "2010-03-01"
+        },
+        "value": {
+          "raw": 8653,
+          "fmt": "8.65k",
+          "longFmt": "8,653"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 743770,
+          "fmt": "743.77k",
+          "longFmt": "743,770"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOSOFF WILLIAM C",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1255996800,
+          "fmt": "2009-10-20"
+        },
+        "value": {
+          "raw": 508,
+          "fmt": "508",
+          "longFmt": "508"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 507700,
+          "fmt": "507.7k",
+          "longFmt": "507,700"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOSOFF WILLIAM C",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1255996800,
+          "fmt": "2009-10-20"
+        },
+        "value": {
+          "raw": 508,
+          "fmt": "508",
+          "longFmt": "508"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 507700,
+          "fmt": "507.7k",
+          "longFmt": "507,700"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOSOFF WILLIAM C",
+        "transactionText": "Sale at price 0.05 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1254182400,
+          "fmt": "2009-09-29"
+        },
+        "value": {
+          "raw": 8135,
+          "fmt": "8.13k",
+          "longFmt": "8,135"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 162700,
+          "fmt": "162.7k",
+          "longFmt": "162,700"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOSOFF WILLIAM C",
+        "transactionText": "Stock Award(Grant) at price 0.05 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1253491200,
+          "fmt": "2009-09-21"
+        },
+        "value": {
+          "raw": 2880,
+          "fmt": "2.88k",
+          "longFmt": "2,880"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 60000,
+          "fmt": "60k",
+          "longFmt": "60,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOSOFF WILLIAM C",
+        "transactionText": "Purchase at price 0.05 - 0.06 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1235088000,
+          "fmt": "2009-02-20"
+        },
+        "value": {
+          "raw": 2568,
+          "fmt": "2.57k",
+          "longFmt": "2,568"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 47000,
+          "fmt": "47k",
+          "longFmt": "47,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOSOFF WILLIAM C",
+        "transactionText": "Stock Award(Grant) at price 0.07 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1233619200,
+          "fmt": "2009-02-03"
+        },
+        "value": {
+          "raw": 163250,
+          "fmt": "163.25k",
+          "longFmt": "163,250"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 2332147,
+          "fmt": "2.33M",
+          "longFmt": "2,332,147"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOSOFF WILLIAM C",
+        "transactionText": "Purchase at price 0.06 - 0.35 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1232496000,
+          "fmt": "2009-01-21"
+        },
+        "value": {
+          "raw": 2700,
+          "fmt": "2.7k",
+          "longFmt": "2,700"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 36200,
+          "fmt": "36.2k",
+          "longFmt": "36,200"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      }
+    ],
+    "maxAge": 1
+  },
+  "insiderHolders": {
+    "holders": [
+      {
+        "maxAge": 1,
+        "name": "BELL JAMES R",
+        "relation": "President",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1604880000,
+          "fmt": "2020-11-09"
+        },
+        "positionDirect": {
+          "raw": 40320000,
+          "fmt": "40.32M",
+          "longFmt": "40,320,000"
+        },
+        "positionDirectDate": {
+          "raw": 1604880000,
+          "fmt": "2020-11-09"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "KOSOFF WILLIAM C",
+        "relation": "Officer",
+        "url": "",
+        "transactionDescription": "Sale",
+        "latestTransDate": {
+          "raw": 1587686400,
+          "fmt": "2020-04-24"
+        },
+        "positionDirect": {
+          "raw": 12970700,
+          "fmt": "12.97M",
+          "longFmt": "12,970,700"
+        },
+        "positionDirectDate": {
+          "raw": 1587686400,
+          "fmt": "2020-04-24"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "LOURO JOSEPH J",
+        "relation": "Chief Executive Officer",
+        "url": "",
+        "transactionDescription": "Conversion of Exercise of derivative security",
+        "latestTransDate": {
+          "raw": 1404086400,
+          "fmt": "2014-06-30"
+        },
+        "positionDirect": {
+          "raw": 2269120,
+          "fmt": "2.27M",
+          "longFmt": "2,269,120"
+        },
+        "positionDirectDate": {
+          "raw": 1404086400,
+          "fmt": "2014-06-30"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "MATURO NICHOLAS S",
+        "relation": "Chief Executive Officer",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1277337600,
+          "fmt": "2010-06-24"
+        },
+        "positionDirect": {
+          "raw": 19597900,
+          "fmt": "19.6M",
+          "longFmt": "19,597,900"
+        },
+        "positionDirectDate": {
+          "raw": 1277337600,
+          "fmt": "2010-06-24"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "MILLER CHAD",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "url": "",
+        "transactionDescription": "Sale",
+        "latestTransDate": {
+          "raw": 1598918400,
+          "fmt": "2020-09-01"
+        },
+        "positionIndirect": {
+          "raw": 484625000,
+          "fmt": "484.62M",
+          "longFmt": "484,625,000"
+        },
+        "positionIndirectDate": {
+          "raw": 1598918400,
+          "fmt": "2020-09-01"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "RAYNOR ANNETTE",
+        "relation": "Chief Operating Officer",
+        "url": "",
+        "transactionDescription": "Stock Gift",
+        "latestTransDate": {
+          "raw": 1597968000,
+          "fmt": "2020-08-21"
+        },
+        "positionIndirect": {
+          "raw": 165357000,
+          "fmt": "165.36M",
+          "longFmt": "165,357,000"
+        },
+        "positionIndirectDate": {
+          "raw": 1597968000,
+          "fmt": "2020-08-21"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "RICE GREGORY BARTON",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1412035200,
+          "fmt": "2014-09-30"
+        },
+        "positionDirect": {
+          "raw": 4786650,
+          "fmt": "4.79M",
+          "longFmt": "4,786,650"
+        },
+        "positionDirectDate": {
+          "raw": 1412035200,
+          "fmt": "2014-09-30"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "ROMANO MARIO A",
+        "relation": "Officer and Treasurer",
+        "url": "",
+        "transactionDescription": "Stock Gift",
+        "latestTransDate": {
+          "raw": 1597968000,
+          "fmt": "2020-08-21"
+        },
+        "positionIndirect": {
+          "raw": 165357000,
+          "fmt": "165.36M",
+          "longFmt": "165,357,000"
+        },
+        "positionIndirectDate": {
+          "raw": 1597968000,
+          "fmt": "2020-08-21"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "SMITH RYAN ROBINS",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "url": "",
+        "transactionDescription": "Sale",
+        "latestTransDate": {
+          "raw": 1598918400,
+          "fmt": "2020-09-01"
+        },
+        "positionIndirect": {
+          "raw": 484625000,
+          "fmt": "484.62M",
+          "longFmt": "484,625,000"
+        },
+        "positionIndirectDate": {
+          "raw": 1598918400,
+          "fmt": "2020-09-01"
+        }
+      }
+    ],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "maxAge": 1,
+    "period": "6m",
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 2345793280,
+      "fmt": "2.35B",
+      "longFmt": "2,345,793,280"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 1.00533,
+      "fmt": "100.53%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0,
+      "fmt": "-0.00%"
+    },
+    "institutionsCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0.13978,
+      "fmt": "13.98%"
+    },
+    "profitMargins": {
+      "raw": -0.18326001,
+      "fmt": "-18.33%"
+    },
+    "grossMargins": {
+      "raw": 0.72589993,
+      "fmt": "72.59%"
+    },
+    "operatingCashflow": {
+      "raw": 7826501,
+      "fmt": "7.83M",
+      "longFmt": "7,826,501"
+    },
+    "revenueGrowth": {
+      "raw": 0.278,
+      "fmt": "27.80%"
+    },
+    "operatingMargins": {
+      "raw": 0.117,
+      "fmt": "11.70%"
+    },
+    "ebitda": {
+      "raw": 8992616,
+      "fmt": "8.99M",
+      "longFmt": "8,992,616"
+    },
+    "targetLowPrice": {},
+    "recommendationKey": "none",
+    "grossProfits": {},
+    "freeCashflow": {
+      "raw": 11541759,
+      "fmt": "11.54M",
+      "longFmt": "11,541,759"
+    },
+    "targetMedianPrice": {},
+    "currentPrice": {
+      "raw": 0.01675,
+      "fmt": "0.02"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 2.012,
+      "fmt": "2.01"
+    },
+    "returnOnAssets": {
+      "raw": 0.05212,
+      "fmt": "5.21%"
+    },
+    "numberOfAnalystOpinions": {},
+    "targetMeanPrice": {},
+    "debtToEquity": {
+      "raw": 46.656,
+      "fmt": "46.66%"
+    },
+    "returnOnEquity": {
+      "raw": -0.47098,
+      "fmt": "-47.10%"
+    },
+    "targetHighPrice": {},
+    "totalCash": {
+      "raw": 22512638,
+      "fmt": "22.51M",
+      "longFmt": "22,512,638"
+    },
+    "totalDebt": {
+      "raw": 8700439,
+      "fmt": "8.7M",
+      "longFmt": "8,700,439"
+    },
+    "totalRevenue": {
+      "raw": 64333192,
+      "fmt": "64.33M",
+      "longFmt": "64,333,192"
+    },
+    "totalCashPerShare": {
+      "raw": 0.01,
+      "fmt": "0.01"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 0.024,
+      "fmt": "0.02"
+    },
+    "quickRatio": {
+      "raw": 1.757,
+      "fmt": "1.76"
+    },
+    "recommendationMean": {}
+  },
+  "quoteType": {
+    "exchange": "PNK",
+    "shortName": "INVESTVIEW INC",
+    "longName": "Investview, Inc.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "INVU",
+    "messageBoardId": "finmb_281154764",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": []
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [
+        {
+          "raw": 1711709940,
+          "fmt": "2024-03-29"
+        },
+        {
+          "raw": 1712059200,
+          "fmt": "2024-04-02"
+        }
+      ],
+      "earningsAverage": {},
+      "earningsLow": {},
+      "earningsHigh": {},
+      "revenueAverage": {},
+      "revenueLow": {},
+      "revenueHigh": {}
+    },
+    "exDividendDate": {},
+    "dividendDate": {}
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 0.01775,
+      "fmt": "0.0178"
+    },
+    "regularMarketOpen": {
+      "raw": 0.0175,
+      "fmt": "0.0175"
+    },
+    "twoHundredDayAverage": {
+      "raw": 0.022421,
+      "fmt": "0.0224"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.0184,
+      "fmt": "0.0184"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 494921,
+      "fmt": "494.92k",
+      "longFmt": "494,921"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 0.01775,
+      "fmt": "0.0178"
+    },
+    "fiftyDayAverage": {
+      "raw": 0.0183064,
+      "fmt": "0.0183"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 0.0175,
+      "fmt": "0.0175"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 494921,
+      "fmt": "494.92k",
+      "longFmt": "494,921"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 3.99,
+      "fmt": "3.99"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 0.015,
+      "fmt": "0.0150"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 1583514,
+      "fmt": "1.58M",
+      "longFmt": "1,583,514"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 39083784,
+      "fmt": "39.08M",
+      "longFmt": "39,083,784"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 401084,
+      "fmt": "401.08k",
+      "longFmt": "401,084"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 0.6075213,
+      "fmt": "0.61"
+    },
+    "dayLow": {
+      "raw": 0.015,
+      "fmt": "0.0150"
+    },
+    "ask": {
+      "raw": 0,
+      "fmt": "0.0000"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "volume": {
+      "raw": 1583514,
+      "fmt": "1.58M",
+      "longFmt": "1,583,514"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 0.034,
+      "fmt": "0.0340"
+    },
+    "forwardPE": {},
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 0.0102,
+      "fmt": "0.0102"
+    },
+    "bid": {
+      "raw": 0,
+      "fmt": "0.0000"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "dayHigh": {
+      "raw": 0.0184,
+      "fmt": "0.0184"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "INVU",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {},
+  "pageViews": {}
+}

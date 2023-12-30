@@ -1,0 +1,1480 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 1.526,
+      "fmt": "1.53"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": -1.4209199,
+      "fmt": "-142.09%"
+    },
+    "enterpriseToEbitda": {
+      "raw": -11.793,
+      "fmt": "-11.79"
+    },
+    "52WeekChange": {
+      "raw": 0.875,
+      "fmt": "87.50%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {
+      "raw": -1.62,
+      "fmt": "-1.62"
+    },
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 16644700,
+      "fmt": "16.64M",
+      "longFmt": "16,644,700"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 2.526,
+      "fmt": "2.53"
+    },
+    "sharesShort": {
+      "raw": 84539,
+      "fmt": "84.54k",
+      "longFmt": "84,539"
+    },
+    "sharesPercentSharesOut": {
+      "raw": 0.0050999997,
+      "fmt": "0.51%"
+    },
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.060850002,
+      "fmt": "6.09%"
+    },
+    "netIncomeToCommon": {
+      "raw": -65940816,
+      "fmt": "-65.94M",
+      "longFmt": "-65,940,816"
+    },
+    "trailingEps": {
+      "raw": -4.49,
+      "fmt": "-4.4900"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.2508303,
+      "fmt": "25.08%"
+    },
+    "priceToBook": {
+      "raw": 1.2668251,
+      "fmt": "1.27"
+    },
+    "heldPercentInsiders": {
+      "raw": 0.15233,
+      "fmt": "15.23%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1703980800,
+      "fmt": "2023-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1696032000,
+      "fmt": "2023-09-30"
+    },
+    "shortRatio": {
+      "raw": 0.15,
+      "fmt": "0.15"
+    },
+    "sharesShortPreviousMonthDate": {
+      "raw": 1700006400,
+      "fmt": "2023-11-15"
+    },
+    "floatShares": {
+      "raw": 14109222,
+      "fmt": "14.11M",
+      "longFmt": "14,109,222"
+    },
+    "beta": {
+      "raw": 3.2,
+      "fmt": "3.2"
+    },
+    "enterpriseValue": {
+      "raw": 70820200,
+      "fmt": "70.82M",
+      "longFmt": "70,820,200"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1675900800,
+      "fmt": "2023-02-09"
+    },
+    "lastSplitFactor": "1:6",
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {
+      "raw": 1702598400,
+      "fmt": "2023-12-15"
+    },
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {
+      "raw": -1.9753087,
+      "fmt": "-1.98"
+    },
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {
+      "raw": 0.0057,
+      "fmt": "0.57%"
+    },
+    "sharesShortPriorMonth": {
+      "raw": 117581,
+      "fmt": "117.58k",
+      "longFmt": "117,581"
+    },
+    "impliedSharesOutstanding": {
+      "raw": 16644700,
+      "fmt": "16.64M",
+      "longFmt": "16,644,700"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Capital Markets",
+    "zip": "16146",
+    "industryKey": "capital-markets",
+    "sector": "Financial Services",
+    "sectorDisp": "Financial Services",
+    "fullTimeEmployees": 40,
+    "longBusinessSummary": "Mawson Infrastructure Group, Inc., a digital infrastructure provider, operates in cryptocurrency mining business in the United States and Australia. It owns and operates modular data centers. The company is based in Sharon, Pennsylvania.",
+    "city": "Sharon",
+    "state": "PA",
+    "country": "United States",
+    "sectorKey": "financial-services",
+    "companyOfficers": [],
+    "website": "https://www.mawsoninc.com",
+    "maxAge": 86400,
+    "address1": "201 Clark Street",
+    "industry": "Capital Markets"
+  },
+  "recommendationTrend": {
+    "trend": [
+      {
+        "period": "0m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 0,
+        "buy": 1,
+        "hold": 1,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 0,
+        "buy": 1,
+        "hold": 1,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      }
+    ],
+    "maxAge": 86400
+  },
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {
+    "maxAge": 86400,
+    "earningsChart": {
+      "quarterly": [
+        {
+          "date": "2Q2022",
+          "actual": {
+            "raw": -0.18,
+            "fmt": "-0.18"
+          },
+          "estimate": {
+            "raw": 0.3,
+            "fmt": "0.30"
+          }
+        },
+        {
+          "date": "3Q2022",
+          "actual": {
+            "raw": -1.62,
+            "fmt": "-1.62"
+          },
+          "estimate": {
+            "raw": -0.54,
+            "fmt": "-0.54"
+          }
+        },
+        {
+          "date": "4Q2022",
+          "actual": {
+            "raw": -1.39,
+            "fmt": "-1.39"
+          },
+          "estimate": {
+            "raw": 1.14,
+            "fmt": "1.14"
+          }
+        },
+        {
+          "date": "3Q2023",
+          "actual": {
+            "raw": -1.15,
+            "fmt": "-1.15"
+          },
+          "estimate": {
+            "raw": -0.39,
+            "fmt": "-0.39"
+          }
+        }
+      ],
+      "currentQuarterEstimate": {
+        "raw": -0.73,
+        "fmt": "-0.73"
+      },
+      "currentQuarterEstimateDate": "4Q",
+      "currentQuarterEstimateYear": 2023,
+      "earningsDate": [
+        {
+          "raw": 1711018740,
+          "fmt": "2024-03-21"
+        },
+        {
+          "raw": 1711368000,
+          "fmt": "2024-03-25"
+        }
+      ]
+    },
+    "financialsChart": {
+      "yearly": [
+        {
+          "date": 2019,
+          "revenue": {
+            "raw": 870545,
+            "fmt": "870.54k",
+            "longFmt": "870,545"
+          },
+          "earnings": {
+            "raw": -2252944,
+            "fmt": "-2.25M",
+            "longFmt": "-2,252,944"
+          }
+        },
+        {
+          "date": 2020,
+          "revenue": {
+            "raw": 4448876,
+            "fmt": "4.45M",
+            "longFmt": "4,448,876"
+          },
+          "earnings": {
+            "raw": -5034248,
+            "fmt": "-5.03M",
+            "longFmt": "-5,034,248"
+          }
+        },
+        {
+          "date": 2021,
+          "revenue": {
+            "raw": 43862656,
+            "fmt": "43.86M",
+            "longFmt": "43,862,656"
+          },
+          "earnings": {
+            "raw": -44963720,
+            "fmt": "-44.96M",
+            "longFmt": "-44,963,720"
+          }
+        },
+        {
+          "date": 2022,
+          "revenue": {
+            "raw": 84385407,
+            "fmt": "84.39M",
+            "longFmt": "84,385,407"
+          },
+          "earnings": {
+            "raw": -52762308,
+            "fmt": "-52.76M",
+            "longFmt": "-52,762,308"
+          }
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "3Q2022",
+          "revenue": {
+            "raw": 28328426,
+            "fmt": "28.33M",
+            "longFmt": "28,328,426"
+          },
+          "earnings": {
+            "raw": -20861982,
+            "fmt": "-20.86M",
+            "longFmt": "-20,861,982"
+          }
+        },
+        {
+          "date": "4Q2022",
+          "revenue": {
+            "raw": 16852208,
+            "fmt": "16.85M",
+            "longFmt": "16,852,208"
+          },
+          "earnings": {
+            "raw": -18447267,
+            "fmt": "-18.45M",
+            "longFmt": "-18,447,267"
+          }
+        },
+        {
+          "date": "1Q2023",
+          "revenue": {
+            "raw": 7670605,
+            "fmt": "7.67M",
+            "longFmt": "7,670,605"
+          },
+          "earnings": {
+            "raw": -11102025,
+            "fmt": "-11.1M",
+            "longFmt": "-11,102,025"
+          }
+        },
+        {
+          "date": "2Q2023",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        }
+      ]
+    },
+    "financialCurrency": "USD"
+  },
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 3.71,
+      "fmt": "3.7100"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 540261,
+      "fmt": "540.26k",
+      "longFmt": "540,261"
+    },
+    "exchange": "NCM",
+    "regularMarketTime": 1703883601,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 3.9891,
+      "fmt": "3.9891"
+    },
+    "shortName": "Mawson Infrastructure Group Inc",
+    "averageDailyVolume10Day": {
+      "raw": 1771030,
+      "fmt": "1.77M",
+      "longFmt": "1,771,030"
+    },
+    "longName": "Mawson Infrastructure Group, Inc.",
+    "regularMarketChange": {
+      "raw": -0.39999986,
+      "fmt": "-0.4000"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 3.6,
+      "fmt": "3.6000"
+    },
+    "postMarketTime": 1703898000,
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {
+      "raw": -0.13000011,
+      "fmt": "-0.13"
+    },
+    "postMarketPrice": {
+      "raw": 3.07,
+      "fmt": "3.0700"
+    },
+    "exchangeName": "NasdaqCM",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 2.33,
+      "fmt": "2.3300"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 3.2,
+      "fmt": "3.2000"
+    },
+    "regularMarketVolume": {
+      "raw": 3478261,
+      "fmt": "3.48M",
+      "longFmt": "3,478,261.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "FREE_REALTIME",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 53263040,
+      "fmt": "53.26M",
+      "longFmt": "53,263,040.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "postMarketSource": "DELAYED",
+    "strikePrice": {},
+    "symbol": "MIGI",
+    "postMarketChangePercent": {
+      "raw": -0.040625032,
+      "fmt": "-4.06%"
+    },
+    "preMarketSource": "FREE_REALTIME",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.111111075,
+      "fmt": "-11.11%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Valkyrie ETF Tr II-Valkyrie Bitcoin Miners ETF",
+        "pctHeld": {
+          "raw": 0.0061000003,
+          "fmt": "0.61%"
+        },
+        "position": {
+          "raw": 102228,
+          "fmt": "102.23k",
+          "longFmt": "102,228"
+        },
+        "value": {
+          "raw": 327129,
+          "fmt": "327.13k",
+          "longFmt": "327,129"
+        },
+        "pctChange": {
+          "raw": 0.5888,
+          "fmt": "58.88%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Fidelity Extended Market Index Fund",
+        "pctHeld": {
+          "raw": 0.0044,
+          "fmt": "0.44%"
+        },
+        "position": {
+          "raw": 73132,
+          "fmt": "73.13k",
+          "longFmt": "73,132"
+        },
+        "value": {
+          "raw": 234022,
+          "fmt": "234.02k",
+          "longFmt": "234,022"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "iShares Micro Cap ETF",
+        "pctHeld": {
+          "raw": 0.0016,
+          "fmt": "0.16%"
+        },
+        "position": {
+          "raw": 27055,
+          "fmt": "27.05k",
+          "longFmt": "27,055"
+        },
+        "value": {
+          "raw": 86576,
+          "fmt": "86.58k",
+          "longFmt": "86,576"
+        },
+        "pctChange": {
+          "raw": -0.0063,
+          "fmt": "-0.63%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Fidelity NASDAQ Composite Index Fund",
+        "pctHeld": {
+          "raw": 0.0004,
+          "fmt": "0.04%"
+        },
+        "position": {
+          "raw": 5882,
+          "fmt": "5.88k",
+          "longFmt": "5,882"
+        },
+        "value": {
+          "raw": 18822,
+          "fmt": "18.82k",
+          "longFmt": "18,822"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1690761600,
+          "fmt": "2023-07-31"
+        },
+        "organization": "Victory Portfolios III-Victory Extended Market Index Fd",
+        "pctHeld": {
+          "raw": 0.0001,
+          "fmt": "0.01%"
+        },
+        "position": {
+          "raw": 1492,
+          "fmt": "1.49k",
+          "longFmt": "1,492"
+        },
+        "value": {
+          "raw": 4774,
+          "fmt": "4.77k",
+          "longFmt": "4,774"
+        },
+        "pctChange": {
+          "raw": 0.172,
+          "fmt": "17.20%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "EQ Advisors Trust-1290 VT Micro Cap Port",
+        "pctHeld": {
+          "raw": 0.0001,
+          "fmt": "0.01%"
+        },
+        "position": {
+          "raw": 2145,
+          "fmt": "2.15k",
+          "longFmt": "2,145"
+        },
+        "value": {
+          "raw": 6864,
+          "fmt": "6.86k",
+          "longFmt": "6,864"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "John Hancock Var Ins Tr-Total Stock Market Index Tr",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 254,
+          "fmt": "254",
+          "longFmt": "254"
+        },
+        "value": {
+          "raw": 812,
+          "fmt": "812",
+          "longFmt": "812"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      }
+    ]
+  },
+  "insiderTransactions": {
+    "transactions": [
+      {
+        "filerName": "HUGHES MICHAEL FORREST",
+        "transactionText": "Purchase at price 0.37 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1669593600,
+          "fmt": "2022-11-28"
+        },
+        "value": {
+          "raw": 12873,
+          "fmt": "12.87k",
+          "longFmt": "12,873"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 35000,
+          "fmt": "35k",
+          "longFmt": "35,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MAJITHIA HETAL",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1660176000,
+          "fmt": "2022-08-11"
+        },
+        "filerRelation": "Former",
+        "shares": {
+          "raw": 7862,
+          "fmt": "7.86k",
+          "longFmt": "7,862"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      }
+    ],
+    "maxAge": 1
+  },
+  "insiderHolders": {
+    "holders": [
+      {
+        "maxAge": 1,
+        "name": "HUGHES MICHAEL FORREST",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Purchase",
+        "latestTransDate": {
+          "raw": 1669593600,
+          "fmt": "2022-11-28"
+        },
+        "positionIndirect": {
+          "raw": 417568,
+          "fmt": "417.57k",
+          "longFmt": "417,568"
+        },
+        "positionIndirectDate": {
+          "raw": 1669593600,
+          "fmt": "2022-11-28"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "MAJITHIA HETAL",
+        "relation": "Former",
+        "url": "",
+        "transactionDescription": "Conversion of Exercise of derivative security",
+        "latestTransDate": {
+          "raw": 1660176000,
+          "fmt": "2022-08-11"
+        },
+        "positionDirect": {
+          "raw": 7862,
+          "fmt": "7.86k",
+          "longFmt": "7,862"
+        },
+        "positionDirectDate": {
+          "raw": 1660176000,
+          "fmt": "2022-08-11"
+        }
+      }
+    ],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "maxAge": 1,
+    "period": "6m",
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 2535488,
+      "fmt": "2.54M",
+      "longFmt": "2,535,488"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0.15233,
+      "fmt": "15.23%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0.060850002,
+      "fmt": "6.09%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0.07179,
+      "fmt": "7.18%"
+    },
+    "institutionsCount": {
+      "raw": 20,
+      "fmt": "20",
+      "longFmt": "20"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": -0.1294,
+      "fmt": "-12.94%"
+    },
+    "profitMargins": {
+      "raw": -1.4209199,
+      "fmt": "-142.09%"
+    },
+    "grossMargins": {
+      "raw": 0.43581,
+      "fmt": "43.58%"
+    },
+    "operatingCashflow": {
+      "raw": -15702987,
+      "fmt": "-15.7M",
+      "longFmt": "-15,702,987"
+    },
+    "revenueGrowth": {
+      "raw": -0.6,
+      "fmt": "-60.00%"
+    },
+    "operatingMargins": {
+      "raw": -1.38526,
+      "fmt": "-138.53%"
+    },
+    "ebitda": {
+      "raw": -6005139,
+      "fmt": "-6.01M",
+      "longFmt": "-6,005,139"
+    },
+    "targetLowPrice": {
+      "raw": 1,
+      "fmt": "1.00"
+    },
+    "recommendationKey": "buy",
+    "grossProfits": {
+      "raw": 36670512,
+      "fmt": "36.67M",
+      "longFmt": "36,670,512"
+    },
+    "freeCashflow": {
+      "raw": 22918268,
+      "fmt": "22.92M",
+      "longFmt": "22,918,268"
+    },
+    "targetMedianPrice": {
+      "raw": 2,
+      "fmt": "2.00"
+    },
+    "currentPrice": {
+      "raw": 3.2,
+      "fmt": "3.20"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 0.293,
+      "fmt": "0.29"
+    },
+    "returnOnAssets": {
+      "raw": -0.24108,
+      "fmt": "-24.11%"
+    },
+    "numberOfAnalystOpinions": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "targetMeanPrice": {
+      "raw": 2,
+      "fmt": "2.00"
+    },
+    "debtToEquity": {
+      "raw": 51.756,
+      "fmt": "51.76%"
+    },
+    "returnOnEquity": {
+      "raw": -1.0114399,
+      "fmt": "-101.14%"
+    },
+    "targetHighPrice": {
+      "raw": 3,
+      "fmt": "3.00"
+    },
+    "totalCash": {
+      "raw": 1496838,
+      "fmt": "1.5M",
+      "longFmt": "1,496,838"
+    },
+    "totalDebt": {
+      "raw": 20729826,
+      "fmt": "20.73M",
+      "longFmt": "20,729,826"
+    },
+    "totalRevenue": {
+      "raw": 46406976,
+      "fmt": "46.41M",
+      "longFmt": "46,406,976"
+    },
+    "totalCashPerShare": {
+      "raw": 0.09,
+      "fmt": "0.09"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 3.114,
+      "fmt": "3.11"
+    },
+    "quickRatio": {
+      "raw": 0.26,
+      "fmt": "0.26"
+    },
+    "recommendationMean": {
+      "raw": 2.5,
+      "fmt": "2.50"
+    }
+  },
+  "quoteType": {
+    "exchange": "NCM",
+    "shortName": "Mawson Infrastructure Group Inc",
+    "longName": "Mawson Infrastructure Group, Inc.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "MIGI",
+    "messageBoardId": "finmb_699841766",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Regal Partners Ltd.",
+        "pctHeld": {
+          "raw": 0.0183,
+          "fmt": "1.83%"
+        },
+        "position": {
+          "raw": 305109,
+          "fmt": "305.11k",
+          "longFmt": "305,109"
+        },
+        "value": {
+          "raw": 976348,
+          "fmt": "976.35k",
+          "longFmt": "976,348"
+        },
+        "pctChange": {
+          "raw": 0.2716,
+          "fmt": "27.16%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Segantii Capital Management Ltd",
+        "pctHeld": {
+          "raw": 0.0119,
+          "fmt": "1.19%"
+        },
+        "position": {
+          "raw": 198666,
+          "fmt": "198.67k",
+          "longFmt": "198,666"
+        },
+        "value": {
+          "raw": 635731,
+          "fmt": "635.73k",
+          "longFmt": "635,731"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Vident Advisory, LLC                          ",
+        "pctHeld": {
+          "raw": 0.0061000003,
+          "fmt": "0.61%"
+        },
+        "position": {
+          "raw": 102228,
+          "fmt": "102.23k",
+          "longFmt": "102,228"
+        },
+        "value": {
+          "raw": 327129,
+          "fmt": "327.13k",
+          "longFmt": "327,129"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Monograph Wealth Advisors, LLC",
+        "pctHeld": {
+          "raw": 0.0052,
+          "fmt": "0.52%"
+        },
+        "position": {
+          "raw": 86650,
+          "fmt": "86.65k",
+          "longFmt": "86,650"
+        },
+        "value": {
+          "raw": 277280,
+          "fmt": "277.28k",
+          "longFmt": "277,280"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Geode Capital Management, LLC",
+        "pctHeld": {
+          "raw": 0.0047999998,
+          "fmt": "0.48%"
+        },
+        "position": {
+          "raw": 79179,
+          "fmt": "79.18k",
+          "longFmt": "79,179"
+        },
+        "value": {
+          "raw": 253372,
+          "fmt": "253.37k",
+          "longFmt": "253,372"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Citadel Advisors Llc",
+        "pctHeld": {
+          "raw": 0.0046,
+          "fmt": "0.46%"
+        },
+        "position": {
+          "raw": 75974,
+          "fmt": "75.97k",
+          "longFmt": "75,974"
+        },
+        "value": {
+          "raw": 243116,
+          "fmt": "243.12k",
+          "longFmt": "243,116"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Blackrock Inc.",
+        "pctHeld": {
+          "raw": 0.0018000001,
+          "fmt": "0.18%"
+        },
+        "position": {
+          "raw": 29200,
+          "fmt": "29.2k",
+          "longFmt": "29,200"
+        },
+        "value": {
+          "raw": 93440,
+          "fmt": "93.44k",
+          "longFmt": "93,440"
+        },
+        "pctChange": {
+          "raw": -0.0394,
+          "fmt": "-3.94%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Toroso Investments, LLC",
+        "pctHeld": {
+          "raw": 0.00090000004,
+          "fmt": "0.09%"
+        },
+        "position": {
+          "raw": 15543,
+          "fmt": "15.54k",
+          "longFmt": "15,543"
+        },
+        "value": {
+          "raw": 49737,
+          "fmt": "49.74k",
+          "longFmt": "49,737"
+        },
+        "pctChange": {
+          "raw": -0.2989,
+          "fmt": "-29.89%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Two Sigma Securities, LLC",
+        "pctHeld": {
+          "raw": 0.0007,
+          "fmt": "0.07%"
+        },
+        "position": {
+          "raw": 11202,
+          "fmt": "11.2k",
+          "longFmt": "11,202"
+        },
+        "value": {
+          "raw": 35846,
+          "fmt": "35.85k",
+          "longFmt": "35,846"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Morgan Stanley",
+        "pctHeld": {
+          "raw": 0.0007,
+          "fmt": "0.07%"
+        },
+        "position": {
+          "raw": 11080,
+          "fmt": "11.08k",
+          "longFmt": "11,080"
+        },
+        "value": {
+          "raw": 35456,
+          "fmt": "35.46k",
+          "longFmt": "35,456"
+        },
+        "pctChange": {
+          "raw": 0.6081,
+          "fmt": "60.81%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [
+        {
+          "raw": 1711018740,
+          "fmt": "2024-03-21"
+        },
+        {
+          "raw": 1711368000,
+          "fmt": "2024-03-25"
+        }
+      ],
+      "earningsAverage": {
+        "raw": -0.73,
+        "fmt": "-0.73"
+      },
+      "earningsLow": {
+        "raw": -0.82,
+        "fmt": "-0.82"
+      },
+      "earningsHigh": {
+        "raw": -0.65,
+        "fmt": "-0.65"
+      },
+      "revenueAverage": {
+        "raw": 9750000,
+        "fmt": "9.75M",
+        "longFmt": "9,750,000"
+      },
+      "revenueLow": {
+        "raw": 9200000,
+        "fmt": "9.2M",
+        "longFmt": "9,200,000"
+      },
+      "revenueHigh": {
+        "raw": 10310000,
+        "fmt": "10.31M",
+        "longFmt": "10,310,000"
+      }
+    },
+    "exDividendDate": {},
+    "dividendDate": {
+      "raw": 1520208000,
+      "fmt": "2018-03-05"
+    }
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 3.6,
+      "fmt": "3.6000"
+    },
+    "regularMarketOpen": {
+      "raw": 3.71,
+      "fmt": "3.7100"
+    },
+    "twoHundredDayAverage": {
+      "raw": 1.76415,
+      "fmt": "1.7642"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 3.9891,
+      "fmt": "3.9891"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 1771030,
+      "fmt": "1.77M",
+      "longFmt": "1,771,030"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 3.6,
+      "fmt": "3.6000"
+    },
+    "fiftyDayAverage": {
+      "raw": 1.0336,
+      "fmt": "1.0336"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 3.71,
+      "fmt": "3.7100"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 1771030,
+      "fmt": "1.77M",
+      "longFmt": "1,771,030"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 3.2,
+      "fmt": "3.20"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 2.33,
+      "fmt": "2.3300"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 3478261,
+      "fmt": "3.48M",
+      "longFmt": "3,478,261"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 53263040,
+      "fmt": "53.26M",
+      "longFmt": "53,263,040"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 540261,
+      "fmt": "540.26k",
+      "longFmt": "540,261"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 1.1477377,
+      "fmt": "1.15"
+    },
+    "dayLow": {
+      "raw": 2.33,
+      "fmt": "2.3300"
+    },
+    "ask": {
+      "raw": 3.31,
+      "fmt": "3.3100"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 900,
+      "fmt": "900",
+      "longFmt": "900"
+    },
+    "volume": {
+      "raw": 3478261,
+      "fmt": "3.48M",
+      "longFmt": "3,478,261"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 4.36,
+      "fmt": "4.3600"
+    },
+    "forwardPE": {
+      "raw": -1.9753087,
+      "fmt": "-1.98"
+    },
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 0.43,
+      "fmt": "0.4300"
+    },
+    "bid": {
+      "raw": 3,
+      "fmt": "3.0000"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {
+      "raw": 1000,
+      "fmt": "1k",
+      "longFmt": "1,000"
+    },
+    "dayHigh": {
+      "raw": 3.9891,
+      "fmt": "3.9891"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "MIGI",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {
+    "history": [
+      {
+        "epochGradeDate": 1693922109,
+        "firm": "Cantor Fitzgerald",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "reit"
+      },
+      {
+        "epochGradeDate": 1693237718,
+        "firm": "Cantor Fitzgerald",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "reit"
+      },
+      {
+        "epochGradeDate": 1692872064,
+        "firm": "HC Wainwright & Co.",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit"
+      },
+      {
+        "epochGradeDate": 1692868476,
+        "firm": "Cantor Fitzgerald",
+        "toGrade": "Neutral",
+        "fromGrade": "Overweight",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1679910375,
+        "firm": "Cantor Fitzgerald",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "reit"
+      },
+      {
+        "epochGradeDate": 1648642343,
+        "firm": "Cantor Fitzgerald",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1622546062,
+        "firm": "HC Wainwright & Co.",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      }
+    ],
+    "maxAge": 86400
+  },
+  "pageViews": {
+    "shortTermTrend": "UP",
+    "midTermTrend": "UP",
+    "longTermTrend": "UP",
+    "maxAge": 1
+  }
+}

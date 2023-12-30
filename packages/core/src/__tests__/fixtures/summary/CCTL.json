@@ -1,0 +1,736 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 81.065,
+      "fmt": "81.07"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": -0.085489996,
+      "fmt": "-8.55%"
+    },
+    "enterpriseToEbitda": {},
+    "52WeekChange": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {},
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 3737339904,
+      "fmt": "3.74B",
+      "longFmt": "3,737,339,904"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": -19.243,
+      "fmt": "-19.24"
+    },
+    "sharesShort": {},
+    "sharesPercentSharesOut": {},
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1262217600,
+      "fmt": "2009-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.000030000001,
+      "fmt": "0.00%"
+    },
+    "netIncomeToCommon": {
+      "raw": -7521,
+      "fmt": "-7.52k",
+      "longFmt": "-7,521"
+    },
+    "trailingEps": {
+      "raw": -0.027,
+      "fmt": "-0.0270"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.2508303,
+      "fmt": "25.08%"
+    },
+    "priceToBook": {},
+    "heldPercentInsiders": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1293753600,
+      "fmt": "2010-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1277856000,
+      "fmt": "2010-06-30"
+    },
+    "shortRatio": {},
+    "sharesShortPreviousMonthDate": {},
+    "floatShares": {},
+    "beta": {
+      "raw": 5.907,
+      "fmt": "5.91"
+    },
+    "enterpriseValue": {
+      "raw": 7131333,
+      "fmt": "7.13M",
+      "longFmt": "7,131,333"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1358380800,
+      "fmt": "2013-01-17"
+    },
+    "lastSplitFactor": "1:1000",
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {
+      "raw": 5.586,
+      "fmt": "558.60%"
+    },
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {},
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {},
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {},
+    "sharesShortPriorMonth": {},
+    "impliedSharesOutstanding": {
+      "raw": 3737339904,
+      "fmt": "3.74B",
+      "longFmt": "3,737,339,904"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Capital Markets",
+    "zip": "12901",
+    "industryKey": "capital-markets",
+    "sector": "Financial Services",
+    "sectorDisp": "Financial Services",
+    "fullTimeEmployees": 8,
+    "longBusinessSummary": "Coin Citadel, a digital currency and blockchain investment company, focuses on building, operating, and supporting blockchain technologies. The company engages in cryptocurrency mining activities; and development of exchange and mining pool platforms. The company was formerly known as Global New Energy Industries Inc. and changed its name to Coin Citadel in November 2014. Coin Citadel was incorporated in 1986 and is based in Plattsburgh, New York.",
+    "city": "Plattsburgh",
+    "phone": "212 292 7460",
+    "state": "NY",
+    "country": "United States",
+    "sectorKey": "financial-services",
+    "companyOfficers": [],
+    "website": "https://www.coincitadel.net",
+    "maxAge": 86400,
+    "address1": "146 Power Dam Way",
+    "industry": "Capital Markets",
+    "address2": "Suite 125"
+  },
+  "recommendationTrend": {
+    "trend": [
+      {
+        "period": "0m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      }
+    ],
+    "maxAge": 86400
+  },
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {
+    "maxAge": 86400,
+    "earningsChart": {
+      "quarterly": [],
+      "earningsDate": []
+    },
+    "financialsChart": {
+      "yearly": [
+        {
+          "date": 1999,
+          "revenue": {
+            "raw": 3569907,
+            "fmt": "3.57M",
+            "longFmt": "3,569,907"
+          },
+          "earnings": {
+            "raw": 325011,
+            "fmt": "325.01k",
+            "longFmt": "325,011"
+          }
+        },
+        {
+          "date": 2000,
+          "revenue": {
+            "raw": 2654286,
+            "fmt": "2.65M",
+            "longFmt": "2,654,286"
+          },
+          "earnings": {
+            "raw": -268454,
+            "fmt": "-268.45k",
+            "longFmt": "-268,454"
+          }
+        },
+        {
+          "date": 2001,
+          "revenue": {
+            "raw": 2529652,
+            "fmt": "2.53M",
+            "longFmt": "2,529,652"
+          },
+          "earnings": {
+            "raw": -631862,
+            "fmt": "-631.86k",
+            "longFmt": "-631,862"
+          }
+        },
+        {
+          "date": 2009,
+          "revenue": {
+            "raw": 50695,
+            "fmt": "50.7k",
+            "longFmt": "50,695"
+          },
+          "earnings": {
+            "raw": -5182,
+            "fmt": "-5.18k",
+            "longFmt": "-5,182"
+          }
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "3Q2009",
+          "revenue": {
+            "raw": 12083,
+            "fmt": "12.08k",
+            "longFmt": "12,083"
+          },
+          "earnings": {
+            "raw": -9929,
+            "fmt": "-9.93k",
+            "longFmt": "-9,929"
+          }
+        },
+        {
+          "date": "4Q2009",
+          "revenue": {
+            "raw": 27112,
+            "fmt": "27.11k",
+            "longFmt": "27,112"
+          },
+          "earnings": {
+            "raw": 1853,
+            "fmt": "1.85k",
+            "longFmt": "1,853"
+          }
+        },
+        {
+          "date": "1Q2010",
+          "revenue": {
+            "raw": 19626,
+            "fmt": "19.63k",
+            "longFmt": "19,626"
+          },
+          "earnings": {
+            "raw": -2850,
+            "fmt": "-2.85k",
+            "longFmt": "-2,850"
+          }
+        },
+        {
+          "date": "2Q2010",
+          "revenue": {
+            "raw": 29150,
+            "fmt": "29.15k",
+            "longFmt": "29,150"
+          },
+          "earnings": {
+            "raw": 3405,
+            "fmt": "3.4k",
+            "longFmt": "3,405"
+          }
+        }
+      ]
+    },
+    "financialCurrency": "USD"
+  },
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 0.0001,
+      "fmt": "0.0001"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 751542,
+      "fmt": "751.54k",
+      "longFmt": "751,542"
+    },
+    "exchange": "PNK",
+    "regularMarketTime": 1703883592,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.0001,
+      "fmt": "0.0001"
+    },
+    "shortName": "COIN CITADEL",
+    "averageDailyVolume10Day": {
+      "raw": 1105105,
+      "fmt": "1.11M",
+      "longFmt": "1,105,105"
+    },
+    "longName": "Coin Citadel",
+    "regularMarketChange": {
+      "raw": 0,
+      "fmt": "0.0000"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 0.0001,
+      "fmt": "0.0001"
+    },
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {},
+    "postMarketPrice": {},
+    "exchangeName": "Other OTC",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 0.0001,
+      "fmt": "0.0001"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 0.0001,
+      "fmt": "0.0001"
+    },
+    "regularMarketVolume": {
+      "raw": 639330,
+      "fmt": "639.33k",
+      "longFmt": "639,330.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "DELAYED",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 373733,
+      "fmt": "373.73k",
+      "longFmt": "373,733.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "symbol": "CCTL",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": 0,
+      "fmt": "0.00%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": []
+  },
+  "insiderTransactions": {},
+  "insiderHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "maxAge": 1,
+    "period": "6m",
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0.000030000001,
+      "fmt": "0.00%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0.000030000001,
+      "fmt": "0.00%"
+    },
+    "institutionsCount": {
+      "raw": 1,
+      "fmt": "1",
+      "longFmt": "1"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "profitMargins": {
+      "raw": -0.085489996,
+      "fmt": "-8.55%"
+    },
+    "grossMargins": {
+      "raw": 0.95908,
+      "fmt": "95.91%"
+    },
+    "operatingCashflow": {},
+    "revenueGrowth": {
+      "raw": 5.478,
+      "fmt": "547.80%"
+    },
+    "operatingMargins": {
+      "raw": 0.116809994,
+      "fmt": "11.68%"
+    },
+    "ebitda": {},
+    "targetLowPrice": {},
+    "recommendationKey": "none",
+    "grossProfits": {
+      "raw": 48895,
+      "fmt": "48.9k",
+      "longFmt": "48,895"
+    },
+    "freeCashflow": {},
+    "targetMedianPrice": {},
+    "currentPrice": {
+      "raw": 0.0001,
+      "fmt": "0.00"
+    },
+    "earningsGrowth": {
+      "raw": 5.963,
+      "fmt": "596.30%"
+    },
+    "currentRatio": {
+      "raw": 67.113,
+      "fmt": "67.11"
+    },
+    "returnOnAssets": {},
+    "numberOfAnalystOpinions": {},
+    "targetMeanPrice": {},
+    "debtToEquity": {},
+    "returnOnEquity": {},
+    "targetHighPrice": {},
+    "totalCash": {
+      "raw": -45822,
+      "fmt": "-45.82k",
+      "longFmt": "-45,822"
+    },
+    "totalDebt": {
+      "raw": 7084884,
+      "fmt": "7.08M",
+      "longFmt": "7,084,884"
+    },
+    "totalRevenue": {
+      "raw": 87971,
+      "fmt": "87.97k",
+      "longFmt": "87,971"
+    },
+    "totalCashPerShare": {
+      "raw": -0.163,
+      "fmt": "-0.16"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 0.313,
+      "fmt": "0.31"
+    },
+    "quickRatio": {
+      "raw": -2.011,
+      "fmt": "-2.01"
+    },
+    "recommendationMean": {}
+  },
+  "quoteType": {
+    "exchange": "PNK",
+    "shortName": "COIN CITADEL",
+    "longName": "Coin Citadel",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "CCTL",
+    "messageBoardId": "finmb_1033165",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Archer Investment Corp",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "value": {
+          "raw": 9,
+          "fmt": "9",
+          "longFmt": "9"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [],
+      "earningsAverage": {},
+      "earningsLow": {},
+      "earningsHigh": {},
+      "revenueAverage": {},
+      "revenueLow": {},
+      "revenueHigh": {}
+    },
+    "exDividendDate": {},
+    "dividendDate": {}
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 0.0001,
+      "fmt": "0.0001"
+    },
+    "regularMarketOpen": {
+      "raw": 0.0001,
+      "fmt": "0.0001"
+    },
+    "twoHundredDayAverage": {
+      "raw": 0.0001605,
+      "fmt": "0.0002"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {},
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.0001,
+      "fmt": "0.0001"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 1105105,
+      "fmt": "1.11M",
+      "longFmt": "1,105,105"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 0.0001,
+      "fmt": "0.0001"
+    },
+    "fiftyDayAverage": {
+      "raw": 0.000108,
+      "fmt": "0.0001"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 0.0001,
+      "fmt": "0.0001"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 1105105,
+      "fmt": "1.11M",
+      "longFmt": "1,105,105"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 5.907,
+      "fmt": "5.91"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 0.0001,
+      "fmt": "0.0001"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 639330,
+      "fmt": "639.33k",
+      "longFmt": "639,330"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 373733,
+      "fmt": "373.73k",
+      "longFmt": "373,733"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 751542,
+      "fmt": "751.54k",
+      "longFmt": "751,542"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 4.248366,
+      "fmt": "4.25"
+    },
+    "dayLow": {
+      "raw": 0.0001,
+      "fmt": "0.0001"
+    },
+    "ask": {
+      "raw": 0,
+      "fmt": "0.0000"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "volume": {
+      "raw": 639330,
+      "fmt": "639.33k",
+      "longFmt": "639,330"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 0.0006,
+      "fmt": "0.0006"
+    },
+    "forwardPE": {},
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 0.0001,
+      "fmt": "0.0001"
+    },
+    "bid": {
+      "raw": 0,
+      "fmt": "0.0000"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "dayHigh": {
+      "raw": 0.0001,
+      "fmt": "0.0001"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "CCTL",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {},
+  "pageViews": {}
+}

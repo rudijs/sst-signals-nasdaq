@@ -1,0 +1,861 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {},
+    "beta3Year": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "profitMargins": {},
+    "enterpriseToEbitda": {},
+    "52WeekChange": {},
+    "morningStarRiskRating": {},
+    "forwardEps": {},
+    "revenueQuarterlyGrowth": {},
+    "fundInceptionDate": {
+      "raw": 1644192000,
+      "fmt": "2022-02-07"
+    },
+    "annualReportExpenseRatio": {},
+    "totalAssets": {
+      "raw": 25083632,
+      "fmt": "25.08M",
+      "longFmt": "25,083,632"
+    },
+    "bookValue": {},
+    "fundFamily": "Valkyrie ETF Trust II",
+    "lastFiscalYearEnd": {},
+    "netIncomeToCommon": {},
+    "trailingEps": {},
+    "lastDividendValue": {},
+    "SandP52WeekChange": {},
+    "priceToBook": {},
+    "nextFiscalYearEnd": {},
+    "yield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "mostRecentQuarter": {},
+    "enterpriseValue": {},
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {},
+    "lastSplitFactor": null,
+    "legalType": "Exchange Traded Fund",
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "pegRatio": {},
+    "ytdReturn": {
+      "raw": 3.7118647,
+      "fmt": "371.19%"
+    },
+    "forwardPE": {},
+    "maxAge": 1,
+    "lastCapGain": {},
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "fundProfile": {
+    "initInvestment": {},
+    "family": "Valkyrie ETF Trust II",
+    "categoryName": null,
+    "initAipInvestment": {},
+    "subseqIraInvestment": {},
+    "brokerages": [],
+    "managementInfo": {
+      "managerName": null,
+      "managerBio": null,
+      "startdate": {}
+    },
+    "subseqInvestment": {},
+    "legalType": "Exchange Traded Fund",
+    "styleBoxUrl": "https://s.yimg.com/lq/i/fi/3_0stylelargeeq9.gif",
+    "feesExpensesInvestment": {
+      "annualHoldingsTurnover": {
+        "raw": 0.74,
+        "fmt": "74.00%"
+      },
+      "frontEndSalesLoad": {},
+      "annualReportExpenseRatio": {
+        "raw": 0.0075,
+        "fmt": "0.75%"
+      },
+      "netExpRatio": {},
+      "projectionValues": {},
+      "grossExpRatio": {},
+      "deferredSalesLoad": {},
+      "totalNetAssets": {
+        "raw": 1111.42,
+        "fmt": "1,111.42"
+      },
+      "twelveBOne": {}
+    },
+    "maxAge": 1,
+    "feesExpensesInvestmentCat": {
+      "annualReportExpenseRatio": {},
+      "frontEndSalesLoad": {},
+      "deferredSalesLoad": {},
+      "twelveBOne": {},
+      "annualHoldingsTurnover": {},
+      "totalNetAssets": {
+        "raw": 1111.42,
+        "fmt": "1,111.42"
+      },
+      "projectionValuesCat": {}
+    },
+    "initIraInvestment": {},
+    "subseqAipInvestment": {}
+  },
+  "financialsTemplate": {},
+  "topHoldings": {
+    "preferredPosition": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "bondPosition": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "convertiblePosition": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "sectorWeightings": [
+      {
+        "realestate": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "consumer_cyclical": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "basic_materials": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "consumer_defensive": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "technology": {
+          "raw": 0.1096,
+          "fmt": "10.96%"
+        }
+      },
+      {
+        "communication_services": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "financial_services": {
+          "raw": 0.8904,
+          "fmt": "89.04%"
+        }
+      },
+      {
+        "utilities": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "industrials": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "energy": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "healthcare": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      }
+    ],
+    "holdings": [
+      {
+        "symbol": "CLSK",
+        "holdingName": "Cleanspark Inc",
+        "holdingPercent": {
+          "raw": 0.1347148,
+          "fmt": "13.47%"
+        }
+      },
+      {
+        "symbol": "MARA",
+        "holdingName": "Marathon Digital Holdings Inc",
+        "holdingPercent": {
+          "raw": 0.1173697,
+          "fmt": "11.74%"
+        }
+      },
+      {
+        "symbol": "IREN",
+        "holdingName": "Iris Energy Ltd",
+        "holdingPercent": {
+          "raw": 0.1103303,
+          "fmt": "11.03%"
+        }
+      },
+      {
+        "symbol": "RIOT",
+        "holdingName": "Riot Platforms Inc",
+        "holdingPercent": {
+          "raw": 0.1092552,
+          "fmt": "10.93%"
+        }
+      },
+      {
+        "symbol": "CIFR",
+        "holdingName": "Cipher Mining Inc",
+        "holdingPercent": {
+          "raw": 0.0985154,
+          "fmt": "9.85%"
+        }
+      },
+      {
+        "symbol": "BITF.TO",
+        "holdingName": "Bitfarms Ltd",
+        "holdingPercent": {
+          "raw": 0.0537317,
+          "fmt": "5.37%"
+        }
+      },
+      {
+        "symbol": "BTBT",
+        "holdingName": "Bit Digital Inc Ordinary Shares",
+        "holdingPercent": {
+          "raw": 0.0480422,
+          "fmt": "4.80%"
+        }
+      },
+      {
+        "symbol": "NVDA",
+        "holdingName": "NVIDIA Corp",
+        "holdingPercent": {
+          "raw": 0.0435189,
+          "fmt": "4.35%"
+        }
+      },
+      {
+        "symbol": "HIVE.V",
+        "holdingName": "HIVE Digital Technologies Ltd",
+        "holdingPercent": {
+          "raw": 0.0398434,
+          "fmt": "3.98%"
+        }
+      },
+      {
+        "symbol": "HUT",
+        "holdingName": "Hut 8 Mining Corp",
+        "holdingPercent": {
+          "raw": 0.039272297,
+          "fmt": "3.93%"
+        }
+      }
+    ],
+    "bondHoldings": {
+      "maturity": {},
+      "duration": {},
+      "creditQuality": {},
+      "maturityCat": {},
+      "durationCat": {},
+      "creditQualityCat": {}
+    },
+    "bondRatings": [
+      {
+        "us_government": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      }
+    ],
+    "equityHoldings": {
+      "priceToCashflow": {
+        "raw": 0,
+        "fmt": "0"
+      },
+      "priceToSales": {
+        "raw": 0.50883,
+        "fmt": "0.51"
+      },
+      "priceToBookCat": {},
+      "priceToEarningsCat": {},
+      "medianMarketCapCat": {},
+      "threeYearEarningsGrowthCat": {},
+      "threeYearEarningsGrowth": {},
+      "medianMarketCap": {},
+      "priceToEarnings": {
+        "raw": 0,
+        "fmt": "0"
+      },
+      "priceToBook": {
+        "raw": 0.56625,
+        "fmt": "0.57"
+      },
+      "priceToSalesCat": {},
+      "priceToCashflowCat": {}
+    },
+    "otherPosition": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "maxAge": 1,
+    "cashPosition": {
+      "raw": 0.0326,
+      "fmt": "3.26%"
+    },
+    "stockPosition": {
+      "raw": 0.9675,
+      "fmt": "96.75%"
+    }
+  },
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 21.59,
+      "fmt": "21.59"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 305293,
+      "fmt": "305.29k",
+      "longFmt": "305,293"
+    },
+    "exchange": "NGM",
+    "regularMarketTime": 1703883600,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 21.6,
+      "fmt": "21.60"
+    },
+    "shortName": "Valkyrie Bitcoin Miners ETF",
+    "averageDailyVolume10Day": {
+      "raw": 785440,
+      "fmt": "785.44k",
+      "longFmt": "785,440"
+    },
+    "longName": "Valkyrie Bitcoin Miners ETF",
+    "regularMarketChange": {
+      "raw": -2.9899998,
+      "fmt": "-2.99"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 20.99,
+      "fmt": "20.99"
+    },
+    "postMarketTime": 1703898000,
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {
+      "raw": 0.4699993,
+      "fmt": "0.47"
+    },
+    "postMarketPrice": {
+      "raw": 18.47,
+      "fmt": "18.47"
+    },
+    "exchangeName": "NasdaqGM",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 17.46,
+      "fmt": "17.46"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 18,
+      "fmt": "18.00"
+    },
+    "regularMarketVolume": {
+      "raw": 1582433,
+      "fmt": "1.58M",
+      "longFmt": "1,582,433.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "FREE_REALTIME",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {},
+    "quoteType": "ETF",
+    "volumeAllCurrencies": {},
+    "postMarketSource": "DELAYED",
+    "strikePrice": {},
+    "symbol": "WGMI",
+    "postMarketChangePercent": {
+      "raw": 0.026111074,
+      "fmt": "2.61%"
+    },
+    "preMarketSource": "FREE_REALTIME",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.14244878,
+      "fmt": "-14.24%"
+    }
+  },
+  "fundPerformance": {
+    "trailingReturns": {
+      "threeMonth": {
+        "raw": 1.2264307,
+        "fmt": "122.64%"
+      },
+      "oneYear": {
+        "raw": 4.1496415,
+        "fmt": "414.96%"
+      },
+      "ytd": {
+        "raw": 3.7118647,
+        "fmt": "371.19%"
+      },
+      "lastBearMkt": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "lastBullMkt": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "fiveYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "asOfDate": {
+        "raw": 1703721600,
+        "fmt": "2023-12-28"
+      },
+      "tenYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "oneMonth": {
+        "raw": 0.8822193,
+        "fmt": "88.22%"
+      },
+      "threeYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      }
+    },
+    "performanceOverview": {
+      "bestThreeYrTotalReturn": {},
+      "morningStarReturnRating": {},
+      "ytdReturnPct": {
+        "raw": 3.7118647,
+        "fmt": "371.19%"
+      },
+      "fiveYrAvgReturnPct": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "numYearsUp": {},
+      "worstOneYrTotalReturn": {},
+      "oneYearTotalReturn": {
+        "raw": 4.1496415,
+        "fmt": "414.96%"
+      },
+      "numYearsDown": {},
+      "asOfDate": {
+        "raw": 1703721600,
+        "fmt": "2023-12-28"
+      },
+      "worstThreeYrTotalReturn": {},
+      "bestOneYrTotalReturn": {},
+      "threeYearTotalReturn": {
+        "raw": 0,
+        "fmt": "0.00%"
+      }
+    },
+    "riskOverviewStatistics": {
+      "riskRating": {},
+      "riskStatistics": [
+        {
+          "year": "5y",
+          "alpha": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "beta": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "meanAnnualReturn": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "rSquared": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "stdDev": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "sharpeRatio": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "treynorRatio": {
+            "raw": 0,
+            "fmt": "0"
+          }
+        },
+        {
+          "year": "3y",
+          "alpha": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "beta": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "meanAnnualReturn": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "rSquared": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "stdDev": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "sharpeRatio": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "treynorRatio": {
+            "raw": 0,
+            "fmt": "0"
+          }
+        },
+        {
+          "year": "10y",
+          "alpha": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "beta": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "meanAnnualReturn": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "rSquared": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "stdDev": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "sharpeRatio": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "treynorRatio": {
+            "raw": 0,
+            "fmt": "0"
+          }
+        }
+      ]
+    },
+    "riskOverviewStatisticsCat": {
+      "riskStatisticsCat": []
+    },
+    "performanceOverviewCat": {
+      "bestThreeYrTotalReturn": {},
+      "morningStarReturnRating": {},
+      "ytdReturnPct": {},
+      "fiveYrAvgReturnPct": {},
+      "numYearsUp": {},
+      "worstOneYrTotalReturn": {},
+      "oneYearTotalReturn": {},
+      "numYearsDown": {},
+      "asOfDate": {},
+      "worstThreeYrTotalReturn": {},
+      "bestOneYrTotalReturn": {},
+      "threeYearTotalReturn": {}
+    },
+    "trailingReturnsCat": {
+      "threeMonth": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "oneYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "ytd": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "lastBearMkt": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "lastBullMkt": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "fiveYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "tenYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "oneMonth": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "threeYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      }
+    },
+    "maxAge": 1,
+    "pastQuarterlyReturns": {
+      "returns": []
+    },
+    "trailingReturnsNav": {
+      "ytd": {
+        "raw": 3.7118647,
+        "fmt": "371.19%"
+      },
+      "oneMonth": {
+        "raw": 0.8822193,
+        "fmt": "88.22%"
+      },
+      "threeMonth": {
+        "raw": 1.2264307,
+        "fmt": "122.64%"
+      },
+      "oneYear": {
+        "raw": 4.1496415,
+        "fmt": "414.96%"
+      },
+      "threeYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "fiveYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "tenYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      }
+    },
+    "annualTotalReturns": {
+      "returns": [],
+      "returnsCat": []
+    }
+  },
+  "quoteType": {
+    "exchange": "NGM",
+    "shortName": "Valkyrie Bitcoin Miners ETF",
+    "longName": "Valkyrie Bitcoin Miners ETF",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "ETF",
+    "symbol": "WGMI",
+    "messageBoardId": "finmb_1758497659",
+    "market": "us_market"
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 20.99,
+      "fmt": "20.99"
+    },
+    "regularMarketOpen": {
+      "raw": 21.59,
+      "fmt": "21.59"
+    },
+    "twoHundredDayAverage": {
+      "raw": 11.611435,
+      "fmt": "11.61"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {},
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 21.6,
+      "fmt": "21.60"
+    },
+    "navPrice": {
+      "raw": 20.9941,
+      "fmt": "20.99"
+    },
+    "averageDailyVolume10Day": {
+      "raw": 785440,
+      "fmt": "785.44k",
+      "longFmt": "785,440"
+    },
+    "totalAssets": {
+      "raw": 25083632,
+      "fmt": "25.08M",
+      "longFmt": "25,083,632"
+    },
+    "regularMarketPreviousClose": {
+      "raw": 20.99,
+      "fmt": "20.99"
+    },
+    "fiftyDayAverage": {
+      "raw": 12.2568,
+      "fmt": "12.26"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 21.59,
+      "fmt": "21.59"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 785440,
+      "fmt": "785.44k",
+      "longFmt": "785,440"
+    },
+    "expireDate": {},
+    "yield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {},
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 17.46,
+      "fmt": "17.46"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 1582433,
+      "fmt": "1.58M",
+      "longFmt": "1,582,433"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {},
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 305293,
+      "fmt": "305.29k",
+      "longFmt": "305,293"
+    },
+    "priceToSalesTrailing12Months": {},
+    "dayLow": {
+      "raw": 17.46,
+      "fmt": "17.46"
+    },
+    "ask": {
+      "raw": 21.13,
+      "fmt": "21.13"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 800,
+      "fmt": "800",
+      "longFmt": "800"
+    },
+    "volume": {
+      "raw": 1582433,
+      "fmt": "1.58M",
+      "longFmt": "1,582,433"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 22.48,
+      "fmt": "22.48"
+    },
+    "forwardPE": {},
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 4.42,
+      "fmt": "4.42"
+    },
+    "bid": {
+      "raw": 17.8,
+      "fmt": "17.80"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {
+      "raw": 1200,
+      "fmt": "1.2k",
+      "longFmt": "1,200"
+    },
+    "dayHigh": {
+      "raw": 21.6,
+      "fmt": "21.60"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "WGMI",
+  "assetProfile": {
+    "longBusinessSummary": "The fund is an actively-managed exchange-traded fund (“ETF”) that will invest at least 80% of its net assets (plus borrowings for investment purposes) in securities of companies that derive at least 50% of their revenue or profits from bitcoin mining operations and/or from providing specialized chips, hardware and software or other services to companies engaged in bitcoin mining. It will not directly invest in bitcoin, or indirectly through the use of derivatives or through investments in funds or trusts that hold bitcoin. The fund is non-diversified.",
+    "companyOfficers": [],
+    "maxAge": 86400
+  },
+  "esgScores": {},
+  "pageViews": {
+    "shortTermTrend": "UP",
+    "midTermTrend": "UP",
+    "longTermTrend": "UP",
+    "maxAge": 1
+  }
+}

@@ -1,0 +1,804 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {},
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "enterpriseToEbitda": {},
+    "52WeekChange": {
+      "raw": -0.3,
+      "fmt": "-30.00%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {},
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 138085,
+      "fmt": "138.09k",
+      "longFmt": "138,085"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 0,
+      "fmt": "-0.00"
+    },
+    "sharesShort": {},
+    "sharesPercentSharesOut": {},
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1514678400,
+      "fmt": "2017-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "netIncomeToCommon": {
+      "raw": -69603,
+      "fmt": "-69.6k",
+      "longFmt": "-69,603"
+    },
+    "trailingEps": {
+      "raw": -36.4,
+      "fmt": "-36.4000"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.24729478,
+      "fmt": "24.73%"
+    },
+    "priceToBook": {},
+    "heldPercentInsiders": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1546214400,
+      "fmt": "2018-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1285804800,
+      "fmt": "2010-09-30"
+    },
+    "shortRatio": {},
+    "sharesShortPreviousMonthDate": {},
+    "floatShares": {},
+    "beta": {
+      "raw": 0.986,
+      "fmt": "0.99"
+    },
+    "enterpriseValue": {
+      "raw": 112966344,
+      "fmt": "112.97M",
+      "longFmt": "112,966,344"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1287014400,
+      "fmt": "2010-10-14"
+    },
+    "lastSplitFactor": "1:400",
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {},
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {},
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {},
+    "sharesShortPriorMonth": {},
+    "impliedSharesOutstanding": {
+      "raw": 138085,
+      "fmt": "138.09k",
+      "longFmt": "138,085"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Capital Markets",
+    "zip": "32536",
+    "industryKey": "capital-markets",
+    "sector": "Financial Services",
+    "sectorDisp": "Financial Services",
+    "fullTimeEmployees": 3,
+    "longBusinessSummary": "BitFrontier Capital Holdings, Inc., a blockchain-oriented company, focuses on the cryptocurrency markets. It engages in cryptocurrency mining and blockchain consulting activities. The company was formerly known as Purio, Inc. BitFrontier Capital Holdings, Inc. is based in Crestview, Florida.",
+    "city": "Crestview",
+    "phone": "972-928-5078",
+    "state": "FL",
+    "country": "United States",
+    "sectorKey": "financial-services",
+    "companyOfficers": [],
+    "website": "https://www.bfchco.com",
+    "maxAge": 86400,
+    "address1": "5753 HWY 85 North",
+    "industry": "Capital Markets",
+    "address2": "Suite 6065"
+  },
+  "recommendationTrend": {
+    "trend": [
+      {
+        "period": "0m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      }
+    ],
+    "maxAge": 86400
+  },
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {
+    "maxAge": 86400,
+    "earningsChart": {
+      "quarterly": [],
+      "earningsDate": []
+    },
+    "financialsChart": {
+      "yearly": [
+        {
+          "date": 2007,
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": -641640,
+            "fmt": "-641.64k",
+            "longFmt": "-641,640"
+          }
+        },
+        {
+          "date": 2008,
+          "revenue": {
+            "raw": 3394,
+            "fmt": "3.39k",
+            "longFmt": "3,394"
+          },
+          "earnings": {
+            "raw": -354876,
+            "fmt": "-354.88k",
+            "longFmt": "-354,876"
+          }
+        },
+        {
+          "date": 2009,
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": -154591,
+            "fmt": "-154.59k",
+            "longFmt": "-154,591"
+          }
+        },
+        {
+          "date": 2017,
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": -69603,
+            "fmt": "-69.6k",
+            "longFmt": "-69,603"
+          }
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "4Q2009",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": -35103,
+            "fmt": "-35.1k",
+            "longFmt": "-35,103"
+          }
+        },
+        {
+          "date": "1Q2010",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": -2059,
+            "fmt": "-2.06k",
+            "longFmt": "-2,059"
+          }
+        },
+        {
+          "date": "2Q2010",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": -13888,
+            "fmt": "-13.89k",
+            "longFmt": "-13,888"
+          }
+        },
+        {
+          "date": "3Q2010",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": -44999,
+            "fmt": "-45k",
+            "longFmt": "-44,999"
+          }
+        }
+      ]
+    },
+    "financialCurrency": "USD"
+  },
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 0.0079,
+      "fmt": "0.0079"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 385814,
+      "fmt": "385.81k",
+      "longFmt": "385,814"
+    },
+    "exchange": "PNK",
+    "regularMarketTime": 1703883473,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.0091,
+      "fmt": "0.0091"
+    },
+    "shortName": "BITFRONTIER CAPITAL HOLDINGS IN",
+    "averageDailyVolume10Day": {
+      "raw": 1086774,
+      "fmt": "1.09M",
+      "longFmt": "1,086,774"
+    },
+    "longName": "BitFrontier Capital Holdings, Inc.",
+    "regularMarketChange": {
+      "raw": 0.0005000001,
+      "fmt": "0.0005"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 0.0086,
+      "fmt": "0.0086"
+    },
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {},
+    "postMarketPrice": {},
+    "exchangeName": "Other OTC",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 0.0079,
+      "fmt": "0.0079"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 0.0091,
+      "fmt": "0.0091"
+    },
+    "regularMarketVolume": {
+      "raw": 1140586,
+      "fmt": "1.14M",
+      "longFmt": "1,140,586.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "DELAYED",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 1256,
+      "fmt": "1.26k",
+      "longFmt": "1,256.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "symbol": "BFCH",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": 0.058139544,
+      "fmt": "5.81%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": []
+  },
+  "insiderTransactions": {
+    "transactions": [
+      {
+        "filerName": "ENGLISH DARYL",
+        "transactionText": "Sale at price 0.06 - 0.07 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1242950400,
+          "fmt": "2009-05-22"
+        },
+        "value": {
+          "raw": 16965,
+          "fmt": "16.96k",
+          "longFmt": "16,965"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 299000,
+          "fmt": "299k",
+          "longFmt": "299,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SWANSON J A MAURICE",
+        "transactionText": "Sale at price 0.05 - 0.06 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1240531200,
+          "fmt": "2009-04-24"
+        },
+        "value": {
+          "raw": 2415,
+          "fmt": "2.42k",
+          "longFmt": "2,415"
+        },
+        "filerRelation": "Chief Operating Officer",
+        "shares": {
+          "raw": 48000,
+          "fmt": "48k",
+          "longFmt": "48,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SWANSON J A MAURICE",
+        "transactionText": "Sale at price 0.06 - 0.08 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1240358400,
+          "fmt": "2009-04-22"
+        },
+        "value": {
+          "raw": 30434,
+          "fmt": "30.43k",
+          "longFmt": "30,434"
+        },
+        "filerRelation": "Chief Operating Officer",
+        "shares": {
+          "raw": 466846,
+          "fmt": "466.85k",
+          "longFmt": "466,846"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      }
+    ],
+    "maxAge": 1
+  },
+  "insiderHolders": {
+    "holders": [
+      {
+        "maxAge": 1,
+        "name": "ENGLISH DARYL",
+        "relation": "Chief Executive Officer",
+        "url": "",
+        "transactionDescription": "Sale",
+        "latestTransDate": {
+          "raw": 1242950400,
+          "fmt": "2009-05-22"
+        },
+        "positionDirect": {
+          "raw": 3025770,
+          "fmt": "3.03M",
+          "longFmt": "3,025,770"
+        },
+        "positionDirectDate": {
+          "raw": 1242950400,
+          "fmt": "2009-05-22"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "SWANSON J A MAURICE",
+        "relation": "Chief Operating Officer",
+        "url": "",
+        "transactionDescription": "Sale",
+        "latestTransDate": {
+          "raw": 1240531200,
+          "fmt": "2009-04-24"
+        },
+        "positionDirect": {
+          "raw": 2772420,
+          "fmt": "2.77M",
+          "longFmt": "2,772,420"
+        },
+        "positionDirectDate": {
+          "raw": 1240531200,
+          "fmt": "2009-04-24"
+        }
+      }
+    ],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "maxAge": 1,
+    "period": "6m",
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "grossMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "operatingCashflow": {
+      "raw": -61749,
+      "fmt": "-61.75k",
+      "longFmt": "-61,749"
+    },
+    "revenueGrowth": {},
+    "operatingMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "ebitda": {},
+    "targetLowPrice": {},
+    "recommendationKey": "none",
+    "grossProfits": {},
+    "freeCashflow": {},
+    "targetMedianPrice": {},
+    "currentPrice": {
+      "raw": 0.0091,
+      "fmt": "0.01"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 0.093,
+      "fmt": "0.09"
+    },
+    "returnOnAssets": {},
+    "numberOfAnalystOpinions": {},
+    "targetMeanPrice": {},
+    "debtToEquity": {},
+    "returnOnEquity": {},
+    "targetHighPrice": {},
+    "totalCash": {
+      "raw": 737,
+      "fmt": "737",
+      "longFmt": "737"
+    },
+    "totalDebt": {
+      "raw": 124688,
+      "fmt": "124.69k",
+      "longFmt": "124,688"
+    },
+    "totalRevenue": {},
+    "totalCashPerShare": {
+      "raw": 0,
+      "fmt": "0"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {},
+    "quickRatio": {
+      "raw": 0.017,
+      "fmt": "0.02"
+    },
+    "recommendationMean": {}
+  },
+  "quoteType": {
+    "exchange": "PNK",
+    "shortName": "BITFRONTIER CAPITAL HOLDINGS IN",
+    "longName": "BitFrontier Capital Holdings, Inc.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "BFCH",
+    "messageBoardId": "finmb_39440449",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": []
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [],
+      "earningsAverage": {},
+      "earningsLow": {},
+      "earningsHigh": {},
+      "revenueAverage": {},
+      "revenueLow": {},
+      "revenueHigh": {}
+    },
+    "exDividendDate": {},
+    "dividendDate": {}
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 0.0086,
+      "fmt": "0.0086"
+    },
+    "regularMarketOpen": {
+      "raw": 0.0079,
+      "fmt": "0.0079"
+    },
+    "twoHundredDayAverage": {
+      "raw": 0.00885005,
+      "fmt": "0.0089"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.0091,
+      "fmt": "0.0091"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 1086774,
+      "fmt": "1.09M",
+      "longFmt": "1,086,774"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 0.0086,
+      "fmt": "0.0086"
+    },
+    "fiftyDayAverage": {
+      "raw": 0.007908,
+      "fmt": "0.0079"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 0.0079,
+      "fmt": "0.0079"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 1086774,
+      "fmt": "1.09M",
+      "longFmt": "1,086,774"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 0.986,
+      "fmt": "0.99"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 0.0079,
+      "fmt": "0.0079"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 1140586,
+      "fmt": "1.14M",
+      "longFmt": "1,140,586"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 1256,
+      "fmt": "1.26k",
+      "longFmt": "1,256"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 385814,
+      "fmt": "385.81k",
+      "longFmt": "385,814"
+    },
+    "priceToSalesTrailing12Months": {},
+    "dayLow": {
+      "raw": 0.0079,
+      "fmt": "0.0079"
+    },
+    "ask": {
+      "raw": 0,
+      "fmt": "0.0000"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "volume": {
+      "raw": 1140586,
+      "fmt": "1.14M",
+      "longFmt": "1,140,586"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 0.0235,
+      "fmt": "0.0235"
+    },
+    "forwardPE": {},
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 0.0002,
+      "fmt": "0.0002"
+    },
+    "bid": {
+      "raw": 0,
+      "fmt": "0.0000"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "dayHigh": {
+      "raw": 0.0091,
+      "fmt": "0.0091"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "BFCH",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {},
+  "pageViews": {}
+}

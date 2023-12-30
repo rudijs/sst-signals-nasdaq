@@ -1,0 +1,549 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {},
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "enterpriseToEbitda": {},
+    "52WeekChange": {
+      "raw": 2.3333333,
+      "fmt": "233.33%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {},
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 1169140,
+      "fmt": "1.17M",
+      "longFmt": "1,169,140"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 0,
+      "fmt": "-0.00"
+    },
+    "sharesShort": {},
+    "sharesPercentSharesOut": {},
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1609372800,
+      "fmt": "2020-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.0001,
+      "fmt": "0.01%"
+    },
+    "netIncomeToCommon": {
+      "raw": -251821,
+      "fmt": "-251.82k",
+      "longFmt": "-251,821"
+    },
+    "trailingEps": {
+      "raw": -0.88,
+      "fmt": "-0.8800"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.24729478,
+      "fmt": "24.73%"
+    },
+    "priceToBook": {},
+    "heldPercentInsiders": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1640908800,
+      "fmt": "2021-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1632960000,
+      "fmt": "2021-09-30"
+    },
+    "shortRatio": {},
+    "sharesShortPreviousMonthDate": {},
+    "floatShares": {},
+    "beta": {
+      "raw": 3.5,
+      "fmt": "3.5"
+    },
+    "enterpriseValue": {},
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1316390400,
+      "fmt": "2011-09-19"
+    },
+    "lastSplitFactor": "1:1500",
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {},
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {},
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {},
+    "sharesShortPriorMonth": {},
+    "impliedSharesOutstanding": {
+      "raw": 479372992,
+      "fmt": "479.37M",
+      "longFmt": "479,372,992"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Capital Markets",
+    "zip": "83619",
+    "industryKey": "capital-markets",
+    "sector": "Financial Services",
+    "sectorDisp": "Financial Services",
+    "fullTimeEmployees": 1,
+    "longBusinessSummary": "XTRA Bitcoin Inc. operates as a bitcoin mining company. The company was formerly known as Therapy Cells, Inc. and changed its name to XTRA Bitcoin Inc. is based in Fruitland, Idaho.",
+    "city": "Fruitland",
+    "state": "ID",
+    "country": "United States",
+    "sectorKey": "financial-services",
+    "companyOfficers": [],
+    "website": "https://www.xtrabitcoin.com",
+    "maxAge": 86400,
+    "address1": "917 Bobwhite Street",
+    "industry": "Capital Markets",
+    "address2": "Street 800"
+  },
+  "recommendationTrend": {},
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {},
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 0.0035,
+      "fmt": "0.0035"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 7656344,
+      "fmt": "7.66M",
+      "longFmt": "7,656,344"
+    },
+    "exchange": "PNK",
+    "regularMarketTime": 1703883374,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.0039,
+      "fmt": "0.0039"
+    },
+    "shortName": "XTRA BITCOIN INC",
+    "averageDailyVolume10Day": {
+      "raw": 10853300,
+      "fmt": "10.85M",
+      "longFmt": "10,853,300"
+    },
+    "longName": "XTRA Bitcoin Inc.",
+    "regularMarketChange": {
+      "raw": -0.000020000152,
+      "fmt": "-0.0000"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 0.0035,
+      "fmt": "0.0035"
+    },
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {},
+    "postMarketPrice": {},
+    "exchangeName": "Other OTC",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 0.003,
+      "fmt": "0.0030"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 0.00348,
+      "fmt": "0.0035"
+    },
+    "regularMarketVolume": {
+      "raw": 9210021,
+      "fmt": "9.21M",
+      "longFmt": "9,210,021.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "DELAYED",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 551280,
+      "fmt": "551.28k",
+      "longFmt": "551,280.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "symbol": "CBTC",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.005714329,
+      "fmt": "-0.57%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": []
+  },
+  "insiderTransactions": {},
+  "insiderHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "maxAge": 1,
+    "period": "6m",
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0.0001,
+      "fmt": "0.01%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0.0001,
+      "fmt": "0.01%"
+    },
+    "institutionsCount": {
+      "raw": 1,
+      "fmt": "1",
+      "longFmt": "1"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "grossMargins": {
+      "raw": 0.99984,
+      "fmt": "99.98%"
+    },
+    "operatingCashflow": {
+      "raw": -993,
+      "fmt": "-993",
+      "longFmt": "-993"
+    },
+    "revenueGrowth": {},
+    "operatingMargins": {
+      "raw": -12.00244,
+      "fmt": "-1,200.24%"
+    },
+    "ebitda": {},
+    "targetLowPrice": {},
+    "recommendationKey": "none",
+    "grossProfits": {
+      "raw": 3891,
+      "fmt": "3.89k",
+      "longFmt": "3,891"
+    },
+    "freeCashflow": {},
+    "targetMedianPrice": {},
+    "currentPrice": {
+      "raw": 0.00348,
+      "fmt": "0.00"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 0.004,
+      "fmt": "0.00"
+    },
+    "returnOnAssets": {},
+    "numberOfAnalystOpinions": {},
+    "targetMeanPrice": {},
+    "debtToEquity": {},
+    "returnOnEquity": {},
+    "targetHighPrice": {},
+    "totalCash": {},
+    "totalDebt": {
+      "raw": 621563,
+      "fmt": "621.56k",
+      "longFmt": "621,563"
+    },
+    "totalRevenue": {
+      "raw": 62514,
+      "fmt": "62.51k",
+      "longFmt": "62,514"
+    },
+    "totalCashPerShare": {},
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "quickRatio": {},
+    "recommendationMean": {}
+  },
+  "quoteType": {
+    "exchange": "PNK",
+    "shortName": "XTRA BITCOIN INC",
+    "longName": "XTRA Bitcoin Inc.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "CBTC",
+    "messageBoardId": "finmb_107483574",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Ferguson Wellman Capital Management, Inc.",
+        "pctHeld": {
+          "raw": 0.0001,
+          "fmt": "0.01%"
+        },
+        "position": {
+          "raw": 200000,
+          "fmt": "200k",
+          "longFmt": "200,000"
+        },
+        "value": {
+          "raw": 695,
+          "fmt": "695",
+          "longFmt": "695"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [],
+      "earningsAverage": {},
+      "earningsLow": {},
+      "earningsHigh": {},
+      "revenueAverage": {},
+      "revenueLow": {},
+      "revenueHigh": {}
+    },
+    "exDividendDate": {},
+    "dividendDate": {}
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 0.0035,
+      "fmt": "0.0035"
+    },
+    "regularMarketOpen": {
+      "raw": 0.0035,
+      "fmt": "0.0035"
+    },
+    "twoHundredDayAverage": {
+      "raw": 0.0017802,
+      "fmt": "0.0018"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.0039,
+      "fmt": "0.0039"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 10853300,
+      "fmt": "10.85M",
+      "longFmt": "10,853,300"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 0.0035,
+      "fmt": "0.0035"
+    },
+    "fiftyDayAverage": {
+      "raw": 0.0017998,
+      "fmt": "0.0018"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 0.0035,
+      "fmt": "0.0035"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 10853300,
+      "fmt": "10.85M",
+      "longFmt": "10,853,300"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 3.5,
+      "fmt": "3.50"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 0.003,
+      "fmt": "0.0030"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 9210021,
+      "fmt": "9.21M",
+      "longFmt": "9,210,021"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 551280,
+      "fmt": "551.28k",
+      "longFmt": "551,280"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 7656344,
+      "fmt": "7.66M",
+      "longFmt": "7,656,344"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 8.818504,
+      "fmt": "8.82"
+    },
+    "dayLow": {
+      "raw": 0.003,
+      "fmt": "0.0030"
+    },
+    "ask": {},
+    "ytdReturn": {},
+    "askSize": {},
+    "volume": {
+      "raw": 9210021,
+      "fmt": "9.21M",
+      "longFmt": "9,210,021"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 0.005,
+      "fmt": "0.0050"
+    },
+    "forwardPE": {},
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 0.0008,
+      "fmt": "0.0008"
+    },
+    "bid": {},
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {},
+    "dayHigh": {
+      "raw": 0.0039,
+      "fmt": "0.0039"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "CBTC",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {},
+  "pageViews": {}
+}

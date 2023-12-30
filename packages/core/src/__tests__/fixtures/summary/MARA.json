@@ -1,0 +1,2784 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 21.045,
+      "fmt": "21.05"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": -1.3372099,
+      "fmt": "-133.72%"
+    },
+    "enterpriseToEbitda": {
+      "raw": 150.748,
+      "fmt": "150.75"
+    },
+    "52WeekChange": {
+      "raw": 7.267647,
+      "fmt": "726.76%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {
+      "raw": 0.17,
+      "fmt": "0.17"
+    },
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 222624992,
+      "fmt": "222.62M",
+      "longFmt": "222,624,992"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 4.853,
+      "fmt": "4.85"
+    },
+    "sharesShort": {
+      "raw": 44985720,
+      "fmt": "44.99M",
+      "longFmt": "44,985,720"
+    },
+    "sharesPercentSharesOut": {
+      "raw": 0.2021,
+      "fmt": "20.21%"
+    },
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.3822,
+      "fmt": "38.22%"
+    },
+    "netIncomeToCommon": {
+      "raw": -348668000,
+      "fmt": "-348.67M",
+      "longFmt": "-348,668,000"
+    },
+    "trailingEps": {
+      "raw": -3.08,
+      "fmt": "-3.08"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.2508303,
+      "fmt": "25.08%"
+    },
+    "priceToBook": {
+      "raw": 4.840305,
+      "fmt": "4.84"
+    },
+    "heldPercentInsiders": {
+      "raw": 0.02674,
+      "fmt": "2.67%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1703980800,
+      "fmt": "2023-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1696032000,
+      "fmt": "2023-09-30"
+    },
+    "shortRatio": {
+      "raw": 0.87,
+      "fmt": "0.87"
+    },
+    "sharesShortPreviousMonthDate": {
+      "raw": 1700006400,
+      "fmt": "2023-11-15"
+    },
+    "floatShares": {
+      "raw": 221554236,
+      "fmt": "221.55M",
+      "longFmt": "221,554,236"
+    },
+    "beta": {
+      "raw": 5.111,
+      "fmt": "5.11"
+    },
+    "enterpriseValue": {
+      "raw": 5454056960,
+      "fmt": "5.45B",
+      "longFmt": "5,454,056,960"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1554681600,
+      "fmt": "2019-04-08"
+    },
+    "lastSplitFactor": "1:4",
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {
+      "raw": 1702598400,
+      "fmt": "2023-12-15"
+    },
+    "pegRatio": {
+      "raw": 56.22,
+      "fmt": "56.22"
+    },
+    "ytdReturn": {},
+    "forwardPE": {
+      "raw": 138.17647,
+      "fmt": "138.18"
+    },
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {
+      "raw": 0.2029,
+      "fmt": "20.29%"
+    },
+    "sharesShortPriorMonth": {
+      "raw": 53975956,
+      "fmt": "53.98M",
+      "longFmt": "53,975,956"
+    },
+    "impliedSharesOutstanding": {
+      "raw": 222624992,
+      "fmt": "222.62M",
+      "longFmt": "222,624,992"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Capital Markets",
+    "zip": "33301",
+    "industryKey": "capital-markets",
+    "sector": "Financial Services",
+    "sectorDisp": "Financial Services",
+    "fullTimeEmployees": 48,
+    "longBusinessSummary": "Marathon Digital Holdings, Inc. operates as a digital asset technology company that mines digital assets with a focus on the blockchain ecosystem and the generation of digital assets in United States. The company was formerly known as Marathon Patent Group, Inc. and changed its name to Marathon Digital Holdings, Inc. in February 2021. Marathon Digital Holdings, Inc. was incorporated in 2010 and is headquartered in Fort Lauderdale, Florida.",
+    "city": "Fort Lauderdale",
+    "phone": "702 945 2773",
+    "state": "FL",
+    "country": "United States",
+    "sectorKey": "financial-services",
+    "companyOfficers": [],
+    "website": "https://www.marathondh.com",
+    "maxAge": 86400,
+    "address1": "101 NE Third Avenue",
+    "industry": "Capital Markets",
+    "address2": "Suite 1200"
+  },
+  "recommendationTrend": {
+    "trend": [
+      {
+        "period": "0m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 1,
+        "buy": 2,
+        "hold": 6,
+        "sell": 1,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 1,
+        "buy": 2,
+        "hold": 5,
+        "sell": 1,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 0,
+        "buy": 1,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      }
+    ],
+    "maxAge": 86400
+  },
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {
+    "maxAge": 86400,
+    "earningsChart": {
+      "quarterly": [
+        {
+          "date": "4Q2022",
+          "actual": {
+            "raw": -0.53,
+            "fmt": "-0.53"
+          },
+          "estimate": {
+            "raw": -0.16,
+            "fmt": "-0.16"
+          }
+        },
+        {
+          "date": "1Q2023",
+          "actual": {
+            "raw": -0.05,
+            "fmt": "-0.05"
+          },
+          "estimate": {
+            "raw": -0.08,
+            "fmt": "-0.08"
+          }
+        },
+        {
+          "date": "2Q2023",
+          "actual": {
+            "raw": -0.13,
+            "fmt": "-0.13"
+          },
+          "estimate": {
+            "raw": -0.07,
+            "fmt": "-0.07"
+          }
+        },
+        {
+          "date": "3Q2023",
+          "actual": {
+            "raw": 0.35,
+            "fmt": "0.35"
+          },
+          "estimate": {
+            "raw": -0.1,
+            "fmt": "-0.10"
+          }
+        }
+      ],
+      "currentQuarterEstimate": {
+        "raw": -0.06,
+        "fmt": "-0.06"
+      },
+      "currentQuarterEstimateDate": "4Q",
+      "currentQuarterEstimateYear": 2023,
+      "earningsDate": [
+        {
+          "raw": 1710446400,
+          "fmt": "2024-03-14"
+        },
+        {
+          "raw": 1710792000,
+          "fmt": "2024-03-18"
+        }
+      ]
+    },
+    "financialsChart": {
+      "yearly": [
+        {
+          "date": 2019,
+          "revenue": {
+            "raw": 1185227,
+            "fmt": "1.19M",
+            "longFmt": "1,185,227"
+          },
+          "earnings": {
+            "raw": -3517065,
+            "fmt": "-3.52M",
+            "longFmt": "-3,517,065"
+          }
+        },
+        {
+          "date": 2020,
+          "revenue": {
+            "raw": 4357000,
+            "fmt": "4.36M",
+            "longFmt": "4,357,000"
+          },
+          "earnings": {
+            "raw": -10448000,
+            "fmt": "-10.45M",
+            "longFmt": "-10,448,000"
+          }
+        },
+        {
+          "date": 2021,
+          "revenue": {
+            "raw": 159163000,
+            "fmt": "159.16M",
+            "longFmt": "159,163,000"
+          },
+          "earnings": {
+            "raw": -37096000,
+            "fmt": "-37.1M",
+            "longFmt": "-37,096,000"
+          }
+        },
+        {
+          "date": 2022,
+          "revenue": {
+            "raw": 117753000,
+            "fmt": "117.75M",
+            "longFmt": "117,753,000"
+          },
+          "earnings": {
+            "raw": -686740000,
+            "fmt": "-686.74M",
+            "longFmt": "-686,740,000"
+          }
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "3Q2022",
+          "revenue": {
+            "raw": 12690452,
+            "fmt": "12.69M",
+            "longFmt": "12,690,452"
+          },
+          "earnings": {
+            "raw": -75422407,
+            "fmt": "-75.42M",
+            "longFmt": "-75,422,407"
+          }
+        },
+        {
+          "date": "4Q2022",
+          "revenue": {
+            "raw": 28423014,
+            "fmt": "28.42M",
+            "longFmt": "28,423,014"
+          },
+          "earnings": {
+            "raw": -406712362,
+            "fmt": "-406.71M",
+            "longFmt": "-406,712,362"
+          }
+        },
+        {
+          "date": "1Q2023",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        },
+        {
+          "date": "2Q2023",
+          "revenue": {
+            "raw": 81759000,
+            "fmt": "81.76M",
+            "longFmt": "81,759,000"
+          },
+          "earnings": {
+            "raw": -19133000,
+            "fmt": "-19.13M",
+            "longFmt": "-19,133,000"
+          }
+        }
+      ]
+    },
+    "financialCurrency": "USD"
+  },
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 28.95,
+      "fmt": "28.95"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 50431932,
+      "fmt": "50.43M",
+      "longFmt": "50,431,932"
+    },
+    "exchange": "NCM",
+    "regularMarketTime": 1703883601,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 29.6699,
+      "fmt": "29.67"
+    },
+    "shortName": "Marathon Digital Holdings, Inc.",
+    "averageDailyVolume10Day": {
+      "raw": 91246600,
+      "fmt": "91.25M",
+      "longFmt": "91,246,600"
+    },
+    "longName": "Marathon Digital Holdings, Inc.",
+    "regularMarketChange": {
+      "raw": -4.620001,
+      "fmt": "-4.62"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 28.11,
+      "fmt": "28.11"
+    },
+    "postMarketTime": 1703898000,
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {
+      "raw": -0.049999237,
+      "fmt": "-0.05"
+    },
+    "postMarketPrice": {
+      "raw": 23.44,
+      "fmt": "23.44"
+    },
+    "exchangeName": "NasdaqCM",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 23.05,
+      "fmt": "23.05"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 23.49,
+      "fmt": "23.49"
+    },
+    "regularMarketVolume": {
+      "raw": 143861558,
+      "fmt": "143.86M",
+      "longFmt": "143,861,558.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "FREE_REALTIME",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 5229460992,
+      "fmt": "5.23B",
+      "longFmt": "5,229,460,992.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "postMarketSource": "DELAYED",
+    "strikePrice": {},
+    "symbol": "MARA",
+    "postMarketChangePercent": {
+      "raw": -0.0021285329,
+      "fmt": "-0.21%"
+    },
+    "preMarketSource": "FREE_REALTIME",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.16435437,
+      "fmt": "-16.44%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Vanguard Total Stock Market Index Fund",
+        "pctHeld": {
+          "raw": 0.023,
+          "fmt": "2.30%"
+        },
+        "position": {
+          "raw": 5113546,
+          "fmt": "5.11M",
+          "longFmt": "5,113,546"
+        },
+        "value": {
+          "raw": 120117194,
+          "fmt": "120.12M",
+          "longFmt": "120,117,194"
+        },
+        "pctChange": {
+          "raw": 0.017,
+          "fmt": "1.70%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Vanguard Small-Cap Index Fund",
+        "pctHeld": {
+          "raw": 0.0191,
+          "fmt": "1.91%"
+        },
+        "position": {
+          "raw": 4252290,
+          "fmt": "4.25M",
+          "longFmt": "4,252,290"
+        },
+        "value": {
+          "raw": 99886291,
+          "fmt": "99.89M",
+          "longFmt": "99,886,291"
+        },
+        "pctChange": {
+          "raw": 0.036,
+          "fmt": "3.60%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "iShares Russell 2000 ETF",
+        "pctHeld": {
+          "raw": 0.0178,
+          "fmt": "1.78%"
+        },
+        "position": {
+          "raw": 3972417,
+          "fmt": "3.97M",
+          "longFmt": "3,972,417"
+        },
+        "value": {
+          "raw": 93312074,
+          "fmt": "93.31M",
+          "longFmt": "93,312,074"
+        },
+        "pctChange": {
+          "raw": 0.035,
+          "fmt": "3.50%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Vanguard Extended Market Index Fund",
+        "pctHeld": {
+          "raw": 0.0112,
+          "fmt": "1.12%"
+        },
+        "position": {
+          "raw": 2497435,
+          "fmt": "2.5M",
+          "longFmt": "2,497,435"
+        },
+        "value": {
+          "raw": 58664747,
+          "fmt": "58.66M",
+          "longFmt": "58,664,747"
+        },
+        "pctChange": {
+          "raw": 0.0793,
+          "fmt": "7.93%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1693440000,
+          "fmt": "2023-08-31"
+        },
+        "organization": "Vanguard Information Technology Index Fund",
+        "pctHeld": {
+          "raw": 0.011,
+          "fmt": "1.10%"
+        },
+        "position": {
+          "raw": 2439125,
+          "fmt": "2.44M",
+          "longFmt": "2,439,125"
+        },
+        "value": {
+          "raw": 57295045,
+          "fmt": "57.3M",
+          "longFmt": "57,295,045"
+        },
+        "pctChange": {
+          "raw": 2.0908,
+          "fmt": "209.08%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Vanguard Small-Cap Growth Index Fund",
+        "pctHeld": {
+          "raw": 0.0107,
+          "fmt": "1.07%"
+        },
+        "position": {
+          "raw": 2381714,
+          "fmt": "2.38M",
+          "longFmt": "2,381,714"
+        },
+        "value": {
+          "raw": 55946461,
+          "fmt": "55.95M",
+          "longFmt": "55,946,461"
+        },
+        "pctChange": {
+          "raw": 0.012999999,
+          "fmt": "1.30%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Fidelity Small Cap Index Fund",
+        "pctHeld": {
+          "raw": 0.0072000003,
+          "fmt": "0.72%"
+        },
+        "position": {
+          "raw": 1604861,
+          "fmt": "1.6M",
+          "longFmt": "1,604,861"
+        },
+        "value": {
+          "raw": 37698184,
+          "fmt": "37.7M",
+          "longFmt": "37,698,184"
+        },
+        "pctChange": {
+          "raw": 0.0679,
+          "fmt": "6.79%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "iShares Russell 2000 Growth ETF",
+        "pctHeld": {
+          "raw": 0.0066000004,
+          "fmt": "0.66%"
+        },
+        "position": {
+          "raw": 1469688,
+          "fmt": "1.47M",
+          "longFmt": "1,469,688"
+        },
+        "value": {
+          "raw": 34522970,
+          "fmt": "34.52M",
+          "longFmt": "34,522,970"
+        },
+        "pctChange": {
+          "raw": 0.040599998,
+          "fmt": "4.06%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "SPDR (R) Ser Tr-SPDR� Kensho New Economies Composite ETF",
+        "pctHeld": {
+          "raw": 0.0061000003,
+          "fmt": "0.61%"
+        },
+        "position": {
+          "raw": 1357493,
+          "fmt": "1.36M",
+          "longFmt": "1,357,493"
+        },
+        "value": {
+          "raw": 31887510,
+          "fmt": "31.89M",
+          "longFmt": "31,887,510"
+        },
+        "pctChange": {
+          "raw": 0.0087,
+          "fmt": "0.87%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Amplify Transformational Data Sharing ETF",
+        "pctHeld": {
+          "raw": 0.0053,
+          "fmt": "0.53%"
+        },
+        "position": {
+          "raw": 1177436,
+          "fmt": "1.18M",
+          "longFmt": "1,177,436"
+        },
+        "value": {
+          "raw": 27657971,
+          "fmt": "27.66M",
+          "longFmt": "27,657,971"
+        },
+        "pctChange": {
+          "raw": -0.3028,
+          "fmt": "-30.28%"
+        }
+      }
+    ]
+  },
+  "insiderTransactions": {
+    "transactions": [
+      {
+        "filerName": "CRAWFORD JAMES",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1701993600,
+          "fmt": "2023-12-08"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Operating Officer",
+        "shares": {
+          "raw": 100441,
+          "fmt": "100.44k",
+          "longFmt": "100,441"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SWAMI ASHU",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1701993600,
+          "fmt": "2023-12-08"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 146617,
+          "fmt": "146.62k",
+          "longFmt": "146,617"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SWICK ADAM MICHAEL",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1701993600,
+          "fmt": "2023-12-08"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 24035,
+          "fmt": "24.04k",
+          "longFmt": "24,035"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SWAMI ASHU",
+        "transactionText": "Sale at price 13.80 - 13.81 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1693440000,
+          "fmt": "2023-08-31"
+        },
+        "value": {
+          "raw": 151833,
+          "fmt": "151.83k",
+          "longFmt": "151,833"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 11000,
+          "fmt": "11k",
+          "longFmt": "11,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "OUISSAL SAID",
+        "transactionText": "Sale at price 11.80 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1692748800,
+          "fmt": "2023-08-23"
+        },
+        "value": {
+          "raw": 59000,
+          "fmt": "59k",
+          "longFmt": "59,000"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "OUISSAL SAID",
+        "transactionText": "Sale at price 10.95 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1692662400,
+          "fmt": "2023-08-22"
+        },
+        "value": {
+          "raw": 164250,
+          "fmt": "164.25k",
+          "longFmt": "164,250"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 15000,
+          "fmt": "15k",
+          "longFmt": "15,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "THIEL FREDERICK G",
+        "transactionText": "Conversion of Exercise of derivative security at price 8.75 - 13.11 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1682467200,
+          "fmt": "2023-04-26"
+        },
+        "value": {
+          "raw": 887915,
+          "fmt": "887.91k",
+          "longFmt": "887,915"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 85701,
+          "fmt": "85.7k",
+          "longFmt": "85,701"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SWAMI ASHU",
+        "transactionText": "Conversion of Exercise of derivative security at price 3.20 - 8.51 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1680134400,
+          "fmt": "2023-03-30"
+        },
+        "value": {
+          "raw": 79827,
+          "fmt": "79.83k",
+          "longFmt": "79,827"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 18491,
+          "fmt": "18.49k",
+          "longFmt": "18,491"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "CRAWFORD JAMES",
+        "transactionText": "Conversion of Exercise of derivative security at price 7.11 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1677456000,
+          "fmt": "2023-02-27"
+        },
+        "value": {
+          "raw": 146502,
+          "fmt": "146.5k",
+          "longFmt": "146,502"
+        },
+        "filerRelation": "Chief Operating Officer",
+        "shares": {
+          "raw": 20605,
+          "fmt": "20.61k",
+          "longFmt": "20,605"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MELLINGER DOUGLAS K",
+        "transactionText": "Conversion of Exercise of derivative security at price 7.68 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1673827200,
+          "fmt": "2023-01-16"
+        },
+        "value": {
+          "raw": 249999,
+          "fmt": "250k",
+          "longFmt": "249,999"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 32552,
+          "fmt": "32.55k",
+          "longFmt": "32,552"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "DENUCCIO KEVIN A",
+        "transactionText": "Conversion of Exercise of derivative security at price 7.68 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1673827200,
+          "fmt": "2023-01-16"
+        },
+        "value": {
+          "raw": 249999,
+          "fmt": "250k",
+          "longFmt": "249,999"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 32552,
+          "fmt": "32.55k",
+          "longFmt": "32,552"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ANTOUN GEORGES J",
+        "transactionText": "Conversion of Exercise of derivative security at price 7.68 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1673827200,
+          "fmt": "2023-01-16"
+        },
+        "value": {
+          "raw": 249999,
+          "fmt": "250k",
+          "longFmt": "249,999"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 32552,
+          "fmt": "32.55k",
+          "longFmt": "32,552"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "OUISSAL SAID",
+        "transactionText": "Conversion of Exercise of derivative security at price 7.68 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1673827200,
+          "fmt": "2023-01-16"
+        },
+        "value": {
+          "raw": 117581,
+          "fmt": "117.58k",
+          "longFmt": "117,581"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 15310,
+          "fmt": "15.31k",
+          "longFmt": "15,310"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "JAMES SARITA M",
+        "transactionText": "Conversion of Exercise of derivative security at price 7.68 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1673827200,
+          "fmt": "2023-01-16"
+        },
+        "value": {
+          "raw": 144292,
+          "fmt": "144.29k",
+          "longFmt": "144,292"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 18788,
+          "fmt": "18.79k",
+          "longFmt": "18,788"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MELLINGER DOUGLAS K",
+        "transactionText": "Purchase at price 3.27 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1672185600,
+          "fmt": "2022-12-28"
+        },
+        "value": {
+          "raw": 32700,
+          "fmt": "32.7k",
+          "longFmt": "32,700"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MELLINGER DOUGLAS K",
+        "transactionText": "Purchase at price 3.27 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1672185600,
+          "fmt": "2022-12-28"
+        },
+        "value": {
+          "raw": 32700,
+          "fmt": "32.7k",
+          "longFmt": "32,700"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MELLINGER DOUGLAS K",
+        "transactionText": "Purchase at price 3.84 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1671408000,
+          "fmt": "2022-12-19"
+        },
+        "value": {
+          "raw": 38400,
+          "fmt": "38.4k",
+          "longFmt": "38,400"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "THIEL FREDERICK G",
+        "transactionText": "Purchase at price 3.82 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1671148800,
+          "fmt": "2022-12-16"
+        },
+        "value": {
+          "raw": 19100,
+          "fmt": "19.1k",
+          "longFmt": "19,100"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LEUPP JAY P",
+        "transactionText": "Conversion of Exercise of derivative security at price 4.84 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1670976000,
+          "fmt": "2022-12-14"
+        },
+        "value": {
+          "raw": 5285,
+          "fmt": "5.29k",
+          "longFmt": "5,285"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 1092,
+          "fmt": "1.09k",
+          "longFmt": "1,092"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "DENUCCIO KEVIN A",
+        "transactionText": "Purchase at price 4.84 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1670889600,
+          "fmt": "2022-12-13"
+        },
+        "value": {
+          "raw": 338800,
+          "fmt": "338.8k",
+          "longFmt": "338,800"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 70000,
+          "fmt": "70k",
+          "longFmt": "70,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "DENUCCIO KEVIN A",
+        "transactionText": "Purchase at price 13.72 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1661212800,
+          "fmt": "2022-08-23"
+        },
+        "value": {
+          "raw": 68600,
+          "fmt": "68.6k",
+          "longFmt": "68,600"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "DENUCCIO KEVIN A",
+        "transactionText": "Purchase at price 10.15 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1652313600,
+          "fmt": "2022-05-12"
+        },
+        "value": {
+          "raw": 156554,
+          "fmt": "156.55k",
+          "longFmt": "156,554"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 15424,
+          "fmt": "15.42k",
+          "longFmt": "15,424"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "DENUCCIO KEVIN A",
+        "transactionText": "Conversion of Exercise of derivative security at price 18.15 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1650844800,
+          "fmt": "2022-04-25"
+        },
+        "value": {
+          "raw": 229271,
+          "fmt": "229.27k",
+          "longFmt": "229,271"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 12632,
+          "fmt": "12.63k",
+          "longFmt": "12,632"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "THIEL FREDERICK G",
+        "transactionText": "Conversion of Exercise of derivative security at price 18.15 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1650844800,
+          "fmt": "2022-04-25"
+        },
+        "value": {
+          "raw": 1600848,
+          "fmt": "1.6M",
+          "longFmt": "1,600,848"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 88201,
+          "fmt": "88.2k",
+          "longFmt": "88,201"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ANTOUN GEORGES J",
+        "transactionText": "Conversion of Exercise of derivative security at price 18.15 - 20.90 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1650844800,
+          "fmt": "2022-04-25"
+        },
+        "value": {
+          "raw": 282043,
+          "fmt": "282.04k",
+          "longFmt": "282,043"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 15157,
+          "fmt": "15.16k",
+          "longFmt": "15,157"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "OUISSAL SAID",
+        "transactionText": "Conversion of Exercise of derivative security at price 18.15 - 20.90 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1650844800,
+          "fmt": "2022-04-25"
+        },
+        "value": {
+          "raw": 164801,
+          "fmt": "164.8k",
+          "longFmt": "164,801"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 8786,
+          "fmt": "8.79k",
+          "longFmt": "8,786"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LEUPP JAY P",
+        "transactionText": "Conversion of Exercise of derivative security at price 18.15 - 20.90 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1650844800,
+          "fmt": "2022-04-25"
+        },
+        "value": {
+          "raw": 314313,
+          "fmt": "314.31k",
+          "longFmt": "314,313"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 16701,
+          "fmt": "16.7k",
+          "longFmt": "16,701"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "JAMES SARITA M",
+        "transactionText": "Conversion of Exercise of derivative security at price 18.15 - 20.90 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1650844800,
+          "fmt": "2022-04-25"
+        },
+        "value": {
+          "raw": 183076,
+          "fmt": "183.08k",
+          "longFmt": "183,076"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 9760,
+          "fmt": "9.76k",
+          "longFmt": "9,760"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "CRAWFORD JAMES",
+        "transactionText": "Conversion of Exercise of derivative security at price 25.55 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1644883200,
+          "fmt": "2022-02-15"
+        },
+        "value": {
+          "raw": 255500,
+          "fmt": "255.5k",
+          "longFmt": "255,500"
+        },
+        "filerRelation": "Chief Operating Officer",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SALZMAN SIMEON",
+        "transactionText": "Conversion of Exercise of derivative security at price 25.55 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1644883200,
+          "fmt": "2022-02-15"
+        },
+        "value": {
+          "raw": 255500,
+          "fmt": "255.5k",
+          "longFmt": "255,500"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BENZ PETER T",
+        "transactionText": "Conversion of Exercise of derivative security at price 25.72 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1644796800,
+          "fmt": "2022-02-14"
+        },
+        "value": {
+          "raw": 1157400,
+          "fmt": "1.16M",
+          "longFmt": "1,157,400"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 45000,
+          "fmt": "45k",
+          "longFmt": "45,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ANTOUN GEORGES J",
+        "transactionText": "Conversion of Exercise of derivative security at price 32.89 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1641168000,
+          "fmt": "2022-01-03"
+        },
+        "value": {
+          "raw": 83738,
+          "fmt": "83.74k",
+          "longFmt": "83,738"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2546,
+          "fmt": "2.55k",
+          "longFmt": "2,546"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "OUISSAL SAID",
+        "transactionText": "Conversion of Exercise of derivative security at price 32.89 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1641168000,
+          "fmt": "2022-01-03"
+        },
+        "value": {
+          "raw": 65550,
+          "fmt": "65.55k",
+          "longFmt": "65,550"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 1993,
+          "fmt": "1.99k",
+          "longFmt": "1,993"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LEUPP JAY P",
+        "transactionText": "Conversion of Exercise of derivative security at price 32.89 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1641168000,
+          "fmt": "2022-01-03"
+        },
+        "value": {
+          "raw": 133829,
+          "fmt": "133.83k",
+          "longFmt": "133,829"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 4069,
+          "fmt": "4.07k",
+          "longFmt": "4,069"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "JAMES SARITA M",
+        "transactionText": "Conversion of Exercise of derivative security at price 32.89 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1641168000,
+          "fmt": "2022-01-03"
+        },
+        "value": {
+          "raw": 77127,
+          "fmt": "77.13k",
+          "longFmt": "77,127"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2345,
+          "fmt": "2.35k",
+          "longFmt": "2,345"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      }
+    ],
+    "maxAge": 1
+  },
+  "insiderHolders": {
+    "holders": [
+      {
+        "maxAge": 1,
+        "name": "ANTOUN GEORGES J",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Conversion of Exercise of derivative security",
+        "latestTransDate": {
+          "raw": 1673827200,
+          "fmt": "2023-01-16"
+        },
+        "positionDirect": {
+          "raw": 55384,
+          "fmt": "55.38k",
+          "longFmt": "55,384"
+        },
+        "positionDirectDate": {
+          "raw": 1673827200,
+          "fmt": "2023-01-16"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "CRAWFORD JAMES",
+        "relation": "Chief Operating Officer",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1701993600,
+          "fmt": "2023-12-08"
+        },
+        "positionDirect": {
+          "raw": 340731,
+          "fmt": "340.73k",
+          "longFmt": "340,731"
+        },
+        "positionDirectDate": {
+          "raw": 1701993600,
+          "fmt": "2023-12-08"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "DENUCCIO KEVIN A",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Conversion of Exercise of derivative security",
+        "latestTransDate": {
+          "raw": 1673827200,
+          "fmt": "2023-01-16"
+        },
+        "positionDirect": {
+          "raw": 207552,
+          "fmt": "207.55k",
+          "longFmt": "207,552"
+        },
+        "positionDirectDate": {
+          "raw": 1673827200,
+          "fmt": "2023-01-16"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "JAMES SARITA M",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Conversion of Exercise of derivative security",
+        "latestTransDate": {
+          "raw": 1673827200,
+          "fmt": "2023-01-16"
+        },
+        "positionDirect": {
+          "raw": 37519,
+          "fmt": "37.52k",
+          "longFmt": "37,519"
+        },
+        "positionDirectDate": {
+          "raw": 1673827200,
+          "fmt": "2023-01-16"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "LEUPP JAY P",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Conversion of Exercise of derivative security",
+        "latestTransDate": {
+          "raw": 1670976000,
+          "fmt": "2022-12-14"
+        },
+        "positionDirect": {
+          "raw": 30000,
+          "fmt": "30k",
+          "longFmt": "30,000"
+        },
+        "positionDirectDate": {
+          "raw": 1670976000,
+          "fmt": "2022-12-14"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "MELLINGER DOUGLAS K",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Conversion of Exercise of derivative security",
+        "latestTransDate": {
+          "raw": 1673827200,
+          "fmt": "2023-01-16"
+        },
+        "positionDirect": {
+          "raw": 52552,
+          "fmt": "52.55k",
+          "longFmt": "52,552"
+        },
+        "positionDirectDate": {
+          "raw": 1673827200,
+          "fmt": "2023-01-16"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "OUISSAL SAID",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Sale",
+        "latestTransDate": {
+          "raw": 1692748800,
+          "fmt": "2023-08-23"
+        },
+        "positionDirect": {
+          "raw": 10217,
+          "fmt": "10.22k",
+          "longFmt": "10,217"
+        },
+        "positionDirectDate": {
+          "raw": 1692748800,
+          "fmt": "2023-08-23"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "SWAMI ASHU",
+        "relation": "Chief Technology Officer",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1701993600,
+          "fmt": "2023-12-08"
+        },
+        "positionDirect": {
+          "raw": 168809,
+          "fmt": "168.81k",
+          "longFmt": "168,809"
+        },
+        "positionDirectDate": {
+          "raw": 1701993600,
+          "fmt": "2023-12-08"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "SWICK ADAM MICHAEL",
+        "relation": "Officer",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1701993600,
+          "fmt": "2023-12-08"
+        },
+        "positionDirect": {
+          "raw": 60130,
+          "fmt": "60.13k",
+          "longFmt": "60,130"
+        },
+        "positionDirectDate": {
+          "raw": 1701993600,
+          "fmt": "2023-12-08"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "THIEL FREDERICK G",
+        "relation": "Chief Executive Officer",
+        "url": "",
+        "transactionDescription": "Conversion of Exercise of derivative security",
+        "latestTransDate": {
+          "raw": 1682467200,
+          "fmt": "2023-04-26"
+        },
+        "positionDirect": {
+          "raw": 239876,
+          "fmt": "239.88k",
+          "longFmt": "239,876"
+        },
+        "positionDirectDate": {
+          "raw": 1682467200,
+          "fmt": "2023-04-26"
+        }
+      }
+    ],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "period": "6m",
+    "netPercentInsiderShares": {
+      "raw": 0.048,
+      "fmt": "4.80%"
+    },
+    "netInfoCount": {
+      "raw": 7,
+      "fmt": "7",
+      "longFmt": "7"
+    },
+    "totalInsiderShares": {
+      "raw": 5952994,
+      "fmt": "5.95M",
+      "longFmt": "5,952,994"
+    },
+    "buyInfoShares": {
+      "raw": 303645,
+      "fmt": "303.64k",
+      "longFmt": "303,645"
+    },
+    "buyPercentInsiderShares": {
+      "raw": 0.053000003,
+      "fmt": "5.30%"
+    },
+    "sellInfoCount": {
+      "raw": 3,
+      "fmt": "3",
+      "longFmt": "3"
+    },
+    "sellInfoShares": {
+      "raw": 31000,
+      "fmt": "31k",
+      "longFmt": "31,000"
+    },
+    "sellPercentInsiderShares": {
+      "raw": 0.005,
+      "fmt": "0.50%"
+    },
+    "maxAge": 1,
+    "buyInfoCount": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "netInfoShares": {
+      "raw": 272645,
+      "fmt": "272.64k",
+      "longFmt": "272,645"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0.02674,
+      "fmt": "2.67%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0.3822,
+      "fmt": "38.22%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0.39270002,
+      "fmt": "39.27%"
+    },
+    "institutionsCount": {
+      "raw": 309,
+      "fmt": "309",
+      "longFmt": "309"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0.13961,
+      "fmt": "13.96%"
+    },
+    "profitMargins": {
+      "raw": -1.3372099,
+      "fmt": "-133.72%"
+    },
+    "grossMargins": {
+      "raw": 0.3133,
+      "fmt": "31.33%"
+    },
+    "operatingCashflow": {
+      "raw": -317224992,
+      "fmt": "-317.22M",
+      "longFmt": "-317,224,992"
+    },
+    "revenueGrowth": {
+      "raw": 6.711,
+      "fmt": "671.10%"
+    },
+    "operatingMargins": {
+      "raw": -0.15977,
+      "fmt": "-15.98%"
+    },
+    "ebitda": {
+      "raw": 36180000,
+      "fmt": "36.18M",
+      "longFmt": "36,180,000"
+    },
+    "targetLowPrice": {
+      "raw": 8.5,
+      "fmt": "8.50"
+    },
+    "recommendationKey": "hold",
+    "grossProfits": {
+      "raw": 45036000,
+      "fmt": "45.04M",
+      "longFmt": "45,036,000"
+    },
+    "freeCashflow": {
+      "raw": -206754592,
+      "fmt": "-206.75M",
+      "longFmt": "-206,754,592"
+    },
+    "targetMedianPrice": {
+      "raw": 11.75,
+      "fmt": "11.75"
+    },
+    "currentPrice": {
+      "raw": 23.49,
+      "fmt": "23.49"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 11.334,
+      "fmt": "11.33"
+    },
+    "returnOnAssets": {
+      "raw": -0.03768,
+      "fmt": "-3.77%"
+    },
+    "numberOfAnalystOpinions": {
+      "raw": 8,
+      "fmt": "8",
+      "longFmt": "8"
+    },
+    "targetMeanPrice": {
+      "raw": 12.88,
+      "fmt": "12.88"
+    },
+    "debtToEquity": {
+      "raw": 31.943,
+      "fmt": "31.94%"
+    },
+    "returnOnEquity": {
+      "raw": -0.42132,
+      "fmt": "-42.13%"
+    },
+    "targetHighPrice": {
+      "raw": 24,
+      "fmt": "24.00"
+    },
+    "totalCash": {
+      "raw": 101210000,
+      "fmt": "101.21M",
+      "longFmt": "101,210,000"
+    },
+    "totalDebt": {
+      "raw": 325804000,
+      "fmt": "325.8M",
+      "longFmt": "325,804,000"
+    },
+    "totalRevenue": {
+      "raw": 259156992,
+      "fmt": "259.16M",
+      "longFmt": "259,156,992"
+    },
+    "totalCashPerShare": {
+      "raw": 0.455,
+      "fmt": "0.46"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 1.638,
+      "fmt": "1.64"
+    },
+    "quickRatio": {
+      "raw": 2.683,
+      "fmt": "2.68"
+    },
+    "recommendationMean": {
+      "raw": 2.7,
+      "fmt": "2.70"
+    }
+  },
+  "quoteType": {
+    "exchange": "NCM",
+    "shortName": "Marathon Digital Holdings, Inc.",
+    "longName": "Marathon Digital Holdings, Inc.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "MARA",
+    "messageBoardId": "finmb_158387416",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Vanguard Group Inc",
+        "pctHeld": {
+          "raw": 0.0832,
+          "fmt": "8.32%"
+        },
+        "position": {
+          "raw": 18523195,
+          "fmt": "18.52M",
+          "longFmt": "18,523,195"
+        },
+        "value": {
+          "raw": 435109846,
+          "fmt": "435.11M",
+          "longFmt": "435,109,846"
+        },
+        "pctChange": {
+          "raw": 0.0571,
+          "fmt": "5.71%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Blackrock Inc.",
+        "pctHeld": {
+          "raw": 0.056399997,
+          "fmt": "5.64%"
+        },
+        "position": {
+          "raw": 12562673,
+          "fmt": "12.56M",
+          "longFmt": "12,562,673"
+        },
+        "value": {
+          "raw": 295097185,
+          "fmt": "295.1M",
+          "longFmt": "295,097,185"
+        },
+        "pctChange": {
+          "raw": 0.0293,
+          "fmt": "2.93%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Susquehanna International Group, LLP",
+        "pctHeld": {
+          "raw": 0.0327,
+          "fmt": "3.27%"
+        },
+        "position": {
+          "raw": 7283451,
+          "fmt": "7.28M",
+          "longFmt": "7,283,451"
+        },
+        "value": {
+          "raw": 171088262,
+          "fmt": "171.09M",
+          "longFmt": "171,088,262"
+        },
+        "pctChange": {
+          "raw": 1.978,
+          "fmt": "197.80%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Morgan Stanley",
+        "pctHeld": {
+          "raw": 0.031400003,
+          "fmt": "3.14%"
+        },
+        "position": {
+          "raw": 6999580,
+          "fmt": "7M",
+          "longFmt": "6,999,580"
+        },
+        "value": {
+          "raw": 164420132,
+          "fmt": "164.42M",
+          "longFmt": "164,420,132"
+        },
+        "pctChange": {
+          "raw": 2.0865,
+          "fmt": "208.65%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "State Street Corporation",
+        "pctHeld": {
+          "raw": 0.0233,
+          "fmt": "2.33%"
+        },
+        "position": {
+          "raw": 5187780,
+          "fmt": "5.19M",
+          "longFmt": "5,187,780"
+        },
+        "value": {
+          "raw": 121860951,
+          "fmt": "121.86M",
+          "longFmt": "121,860,951"
+        },
+        "pctChange": {
+          "raw": 0.0082,
+          "fmt": "0.82%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Geode Capital Management, LLC",
+        "pctHeld": {
+          "raw": 0.0179,
+          "fmt": "1.79%"
+        },
+        "position": {
+          "raw": 3992668,
+          "fmt": "3.99M",
+          "longFmt": "3,992,668"
+        },
+        "value": {
+          "raw": 93787770,
+          "fmt": "93.79M",
+          "longFmt": "93,787,770"
+        },
+        "pctChange": {
+          "raw": 0.0776,
+          "fmt": "7.76%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Goldman Sachs Group Inc",
+        "pctHeld": {
+          "raw": 0.0109,
+          "fmt": "1.09%"
+        },
+        "position": {
+          "raw": 2433380,
+          "fmt": "2.43M",
+          "longFmt": "2,433,380"
+        },
+        "value": {
+          "raw": 57160095,
+          "fmt": "57.16M",
+          "longFmt": "57,160,095"
+        },
+        "pctChange": {
+          "raw": 0.89959997,
+          "fmt": "89.96%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Jane Street Group, LLC",
+        "pctHeld": {
+          "raw": 0.0074,
+          "fmt": "0.74%"
+        },
+        "position": {
+          "raw": 1648297,
+          "fmt": "1.65M",
+          "longFmt": "1,648,297"
+        },
+        "value": {
+          "raw": 38718496,
+          "fmt": "38.72M",
+          "longFmt": "38,718,496"
+        },
+        "pctChange": {
+          "raw": -0.0735,
+          "fmt": "-7.35%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Northern Trust Corporation",
+        "pctHeld": {
+          "raw": 0.0073,
+          "fmt": "0.73%"
+        },
+        "position": {
+          "raw": 1630209,
+          "fmt": "1.63M",
+          "longFmt": "1,630,209"
+        },
+        "value": {
+          "raw": 38293609,
+          "fmt": "38.29M",
+          "longFmt": "38,293,609"
+        },
+        "pctChange": {
+          "raw": 0.0249,
+          "fmt": "2.49%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Charles Schwab Investment Management, Inc.",
+        "pctHeld": {
+          "raw": 0.0063,
+          "fmt": "0.63%"
+        },
+        "position": {
+          "raw": 1413593,
+          "fmt": "1.41M",
+          "longFmt": "1,413,593"
+        },
+        "value": {
+          "raw": 33205299,
+          "fmt": "33.21M",
+          "longFmt": "33,205,299"
+        },
+        "pctChange": {
+          "raw": 0.0519,
+          "fmt": "5.19%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [
+        {
+          "raw": 1710446400,
+          "fmt": "2024-03-14"
+        },
+        {
+          "raw": 1710792000,
+          "fmt": "2024-03-18"
+        }
+      ],
+      "earningsAverage": {
+        "raw": -0.06,
+        "fmt": "-0.06"
+      },
+      "earningsLow": {
+        "raw": -0.16,
+        "fmt": "-0.16"
+      },
+      "earningsHigh": {
+        "raw": 0.11,
+        "fmt": "0.11"
+      },
+      "revenueAverage": {
+        "raw": 124190000,
+        "fmt": "124.19M",
+        "longFmt": "124,190,000"
+      },
+      "revenueLow": {
+        "raw": 111400000,
+        "fmt": "111.4M",
+        "longFmt": "111,400,000"
+      },
+      "revenueHigh": {
+        "raw": 138000000,
+        "fmt": "138M",
+        "longFmt": "138,000,000"
+      }
+    },
+    "exDividendDate": {},
+    "dividendDate": {
+      "raw": 1554681600,
+      "fmt": "2019-04-08"
+    }
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 28.11,
+      "fmt": "28.11"
+    },
+    "regularMarketOpen": {
+      "raw": 28.95,
+      "fmt": "28.95"
+    },
+    "twoHundredDayAverage": {
+      "raw": 11.7187,
+      "fmt": "11.72"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 29.6699,
+      "fmt": "29.67"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 91246600,
+      "fmt": "91.25M",
+      "longFmt": "91,246,600"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 28.11,
+      "fmt": "28.11"
+    },
+    "fiftyDayAverage": {
+      "raw": 13.5204,
+      "fmt": "13.52"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 28.95,
+      "fmt": "28.95"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 91246600,
+      "fmt": "91.25M",
+      "longFmt": "91,246,600"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 5.111,
+      "fmt": "5.11"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 23.05,
+      "fmt": "23.05"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 143861558,
+      "fmt": "143.86M",
+      "longFmt": "143,861,558"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 5229460992,
+      "fmt": "5.23B",
+      "longFmt": "5,229,460,992"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 50431932,
+      "fmt": "50.43M",
+      "longFmt": "50,431,932"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 20.178738,
+      "fmt": "20.18"
+    },
+    "dayLow": {
+      "raw": 23.05,
+      "fmt": "23.05"
+    },
+    "ask": {
+      "raw": 23.45,
+      "fmt": "23.45"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 1400,
+      "fmt": "1.4k",
+      "longFmt": "1,400"
+    },
+    "volume": {
+      "raw": 143861558,
+      "fmt": "143.86M",
+      "longFmt": "143,861,558"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 31.3,
+      "fmt": "31.30"
+    },
+    "forwardPE": {
+      "raw": 138.17647,
+      "fmt": "138.18"
+    },
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 3.28,
+      "fmt": "3.28"
+    },
+    "bid": {
+      "raw": 23.3,
+      "fmt": "23.30"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {
+      "raw": 2200,
+      "fmt": "2.2k",
+      "longFmt": "2,200"
+    },
+    "dayHigh": {
+      "raw": 29.6699,
+      "fmt": "29.67"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "MARA",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {
+    "history": [
+      {
+        "epochGradeDate": 1703070363,
+        "firm": "HC Wainwright & Co.",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1698748905,
+        "firm": "Bernstein",
+        "toGrade": "Market Perform",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1697021115,
+        "firm": "JP Morgan",
+        "toGrade": "Underweight",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1696243153,
+        "firm": "Needham",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1693996116,
+        "firm": "HC Wainwright & Co.",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit"
+      },
+      {
+        "epochGradeDate": 1691672037,
+        "firm": "B. Riley Securities",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1691656425,
+        "firm": "Chardan Capital",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "reit"
+      },
+      {
+        "epochGradeDate": 1691610756,
+        "firm": "Compass Point",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1691575443,
+        "firm": "HC Wainwright & Co.",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit"
+      },
+      {
+        "epochGradeDate": 1691414936,
+        "firm": "Chardan Capital",
+        "toGrade": "Neutral",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1684156117,
+        "firm": "B. Riley Securities",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1683886198,
+        "firm": "HC Wainwright & Co.",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit"
+      },
+      {
+        "epochGradeDate": 1682426371,
+        "firm": "B. Riley Securities",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1681475878,
+        "firm": "Compass Point",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1680514731,
+        "firm": "Chardan Capital",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "reit"
+      },
+      {
+        "epochGradeDate": 1680004132,
+        "firm": "Chardan Capital",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1679319023,
+        "firm": "B. Riley Securities",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1673534943,
+        "firm": "DA Davidson",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1673258182,
+        "firm": "Jefferies",
+        "toGrade": "Hold",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1667991879,
+        "firm": "HC Wainwright & Co.",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1666701729,
+        "firm": "Compass Point",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1665150343,
+        "firm": "B. Riley Securities",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1663937757,
+        "firm": "BTIG",
+        "toGrade": "Neutral",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1663244364,
+        "firm": "DA Davidson",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1661259014,
+        "firm": "Cowen & Co.",
+        "toGrade": "Market Perform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1660229417,
+        "firm": "Jefferies",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1657639399,
+        "firm": "B. Riley Securities",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1656069749,
+        "firm": "Cowen & Co.",
+        "toGrade": "Market Perform",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1655985034,
+        "firm": "B. Riley Securities",
+        "toGrade": "Neutral",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1654252372,
+        "firm": "BTIG",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1654251574,
+        "firm": "Chardan Capital",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1651832080,
+        "firm": "HC Wainwright & Co.",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1649165679,
+        "firm": "B. Riley Securities",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1646745461,
+        "firm": "Compass Point",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1643378353,
+        "firm": "Jefferies",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1642504652,
+        "firm": "BTIG",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1634289053,
+        "firm": "DA Davidson",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1631712198,
+        "firm": "B. Riley Securities",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1624275375,
+        "firm": "Compass Point",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1622026346,
+        "firm": "B. Riley Securities",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1612783852,
+        "firm": "HC Wainwright & Co.",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1607945220,
+        "firm": "HC Wainwright & Co.",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1606130462,
+        "firm": "HC Wainwright & Co.",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1454432492,
+        "firm": "JP Morgan",
+        "toGrade": "Underweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1444221289,
+        "firm": "Wells Fargo",
+        "toGrade": "Outperform",
+        "fromGrade": "Market Perform",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1434115309,
+        "firm": "Northland Securities",
+        "toGrade": "Outperform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1430476497,
+        "firm": "Roth Capital",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      }
+    ],
+    "maxAge": 86400
+  },
+  "pageViews": {
+    "shortTermTrend": "UP",
+    "midTermTrend": "UP",
+    "longTermTrend": "UP",
+    "maxAge": 1
+  }
+}

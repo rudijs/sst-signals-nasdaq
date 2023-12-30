@@ -1,0 +1,668 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 2.741,
+      "fmt": "2.74"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "enterpriseToEbitda": {
+      "raw": -0.523,
+      "fmt": "-0.52"
+    },
+    "52WeekChange": {
+      "raw": -0.12941176,
+      "fmt": "-12.94%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {},
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 3999990,
+      "fmt": "4M",
+      "longFmt": "3,999,990"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": -0.363,
+      "fmt": "-0.36"
+    },
+    "sharesShort": {},
+    "sharesPercentSharesOut": {},
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1688083200,
+      "fmt": "2023-06-30"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "netIncomeToCommon": {
+      "raw": -35051004,
+      "fmt": "-35.05M",
+      "longFmt": "-35,051,004"
+    },
+    "trailingEps": {
+      "raw": -14.16,
+      "fmt": "-14.1600"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.2508303,
+      "fmt": "25.08%"
+    },
+    "priceToBook": {},
+    "heldPercentInsiders": {
+      "raw": 0.49943,
+      "fmt": "49.94%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1719705600,
+      "fmt": "2024-06-30"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1696032000,
+      "fmt": "2023-09-30"
+    },
+    "shortRatio": {},
+    "sharesShortPreviousMonthDate": {},
+    "floatShares": {
+      "raw": 2097436,
+      "fmt": "2.1M",
+      "longFmt": "2,097,436"
+    },
+    "beta": {
+      "raw": 2.939,
+      "fmt": "2.94"
+    },
+    "enterpriseValue": {
+      "raw": 11967952,
+      "fmt": "11.97M",
+      "longFmt": "11,967,952"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1682035200,
+      "fmt": "2023-04-21"
+    },
+    "lastSplitFactor": "1:125",
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {},
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {},
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {},
+    "sharesShortPriorMonth": {},
+    "impliedSharesOutstanding": {
+      "raw": 3999990,
+      "fmt": "4M",
+      "longFmt": "3,999,990"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Software - Application",
+    "zip": "16946",
+    "industryKey": "software-application",
+    "sector": "Technology",
+    "sectorDisp": "Technology",
+    "fullTimeEmployees": 1,
+    "longBusinessSummary": "Integrated Ventures, Inc. engages in the mining of digital currency. The company manufactures and sells mining equipment and mining rigs; as well as develops blockchain software. It also provides transaction verification services for digital currency networks of cryptocurrencies, such as Bitcoin, Quant, and Dogecoin. The company is based in Tioga, Pennsylvania.",
+    "city": "Tioga",
+    "phone": "215 613 9898",
+    "state": "PA",
+    "country": "United States",
+    "sectorKey": "technology",
+    "companyOfficers": [],
+    "website": "https://www.integratedventuresinc.com",
+    "maxAge": 86400,
+    "address1": "18385 Route 287",
+    "fax": "215 933 5224",
+    "industry": "Software - Application"
+  },
+  "recommendationTrend": {},
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {},
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 1.9075,
+      "fmt": "1.9075"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 5422,
+      "fmt": "5.42k",
+      "longFmt": "5,422"
+    },
+    "exchange": "PNK",
+    "regularMarketTime": 1703881949,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 1.9075,
+      "fmt": "1.9075"
+    },
+    "shortName": "INTEGRATED VENTURES INC",
+    "averageDailyVolume10Day": {
+      "raw": 16400,
+      "fmt": "16.4k",
+      "longFmt": "16,400"
+    },
+    "longName": "Integrated Ventures, Inc.",
+    "regularMarketChange": {
+      "raw": 0,
+      "fmt": "0.0000"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 1.85,
+      "fmt": "1.8500"
+    },
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {},
+    "postMarketPrice": {},
+    "exchangeName": "Other OTC",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 1.85,
+      "fmt": "1.8500"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 1.85,
+      "fmt": "1.8500"
+    },
+    "regularMarketVolume": {
+      "raw": 21552,
+      "fmt": "21.55k",
+      "longFmt": "21,552.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "DELAYED",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 7399981,
+      "fmt": "7.40M",
+      "longFmt": "7,399,981.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "symbol": "INTV",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": 0,
+      "fmt": "0.00%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": []
+  },
+  "insiderTransactions": {
+    "transactions": [
+      {
+        "filerName": "RUBAKH STEVEN",
+        "transactionText": "Purchase at price 1.55 - 1.81 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1693180800,
+          "fmt": "2023-08-28"
+        },
+        "value": {
+          "raw": 16084,
+          "fmt": "16.08k",
+          "longFmt": "16,084"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      }
+    ],
+    "maxAge": 1
+  },
+  "insiderHolders": {
+    "holders": [
+      {
+        "maxAge": 1,
+        "name": "RUBAKH STEVEN",
+        "relation": "Chief Executive Officer",
+        "url": "",
+        "transactionDescription": "Purchase",
+        "latestTransDate": {
+          "raw": 1693180800,
+          "fmt": "2023-08-28"
+        },
+        "positionDirect": {
+          "raw": 4020560,
+          "fmt": "4.02M",
+          "longFmt": "4,020,560"
+        },
+        "positionDirectDate": {
+          "raw": 1693180800,
+          "fmt": "2023-08-28"
+        }
+      }
+    ],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "maxAge": 1,
+    "period": "6m",
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 1997716,
+      "fmt": "2M",
+      "longFmt": "1,997,716"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0.49943,
+      "fmt": "49.94%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "grossMargins": {
+      "raw": -0.62644,
+      "fmt": "-62.64%"
+    },
+    "operatingCashflow": {
+      "raw": -3469283,
+      "fmt": "-3.47M",
+      "longFmt": "-3,469,283"
+    },
+    "revenueGrowth": {
+      "raw": 0.907,
+      "fmt": "90.70%"
+    },
+    "operatingMargins": {
+      "raw": -8.490231,
+      "fmt": "-849.02%"
+    },
+    "ebitda": {
+      "raw": -22866840,
+      "fmt": "-22.87M",
+      "longFmt": "-22,866,840"
+    },
+    "targetLowPrice": {},
+    "recommendationKey": "none",
+    "grossProfits": {
+      "raw": -2434618,
+      "fmt": "-2.43M",
+      "longFmt": "-2,434,618"
+    },
+    "freeCashflow": {
+      "raw": 11513243,
+      "fmt": "11.51M",
+      "longFmt": "11,513,243"
+    },
+    "targetMedianPrice": {},
+    "currentPrice": {
+      "raw": 1.85,
+      "fmt": "1.85"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 0.022,
+      "fmt": "0.02"
+    },
+    "returnOnAssets": {
+      "raw": -1.54338,
+      "fmt": "-154.34%"
+    },
+    "numberOfAnalystOpinions": {},
+    "targetMeanPrice": {},
+    "debtToEquity": {
+      "raw": 18.712,
+      "fmt": "18.71%"
+    },
+    "returnOnEquity": {
+      "raw": -4.04732,
+      "fmt": "-404.73%"
+    },
+    "targetHighPrice": {},
+    "totalCash": {
+      "raw": 57672,
+      "fmt": "57.67k",
+      "longFmt": "57,672"
+    },
+    "totalDebt": {
+      "raw": 500000,
+      "fmt": "500k",
+      "longFmt": "500,000"
+    },
+    "totalRevenue": {
+      "raw": 4366548,
+      "fmt": "4.37M",
+      "longFmt": "4,366,548"
+    },
+    "totalCashPerShare": {
+      "raw": 0.014,
+      "fmt": "0.01"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 1.663,
+      "fmt": "1.66"
+    },
+    "quickRatio": {
+      "raw": 0.019,
+      "fmt": "0.02"
+    },
+    "recommendationMean": {}
+  },
+  "quoteType": {
+    "exchange": "PNK",
+    "shortName": "INTEGRATED VENTURES INC",
+    "longName": "Integrated Ventures, Inc.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "INTV",
+    "messageBoardId": "finmb_290587552",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Sabby Management, LLC",
+        "pctHeld": {
+          "raw": 0.0128,
+          "fmt": "1.28%"
+        },
+        "position": {
+          "raw": 4559874,
+          "fmt": "4.56M",
+          "longFmt": "4,559,874"
+        },
+        "value": {
+          "raw": 8435767,
+          "fmt": "8.44M",
+          "longFmt": "8,435,767"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [
+        {
+          "raw": 1707735540,
+          "fmt": "2024-02-12"
+        },
+        {
+          "raw": 1708084800,
+          "fmt": "2024-02-16"
+        }
+      ],
+      "earningsAverage": {},
+      "earningsLow": {},
+      "earningsHigh": {},
+      "revenueAverage": {},
+      "revenueLow": {},
+      "revenueHigh": {}
+    },
+    "exDividendDate": {},
+    "dividendDate": {
+      "raw": 1505952000,
+      "fmt": "2017-09-21"
+    }
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 1.85,
+      "fmt": "1.8500"
+    },
+    "regularMarketOpen": {
+      "raw": 1.9075,
+      "fmt": "1.9075"
+    },
+    "twoHundredDayAverage": {
+      "raw": 2.256275,
+      "fmt": "2.2563"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 1.9075,
+      "fmt": "1.9075"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 16400,
+      "fmt": "16.4k",
+      "longFmt": "16,400"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 1.85,
+      "fmt": "1.8500"
+    },
+    "fiftyDayAverage": {
+      "raw": 1.80618,
+      "fmt": "1.8062"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 1.9075,
+      "fmt": "1.9075"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 16400,
+      "fmt": "16.4k",
+      "longFmt": "16,400"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 2.939,
+      "fmt": "2.94"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 1.85,
+      "fmt": "1.8500"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 21552,
+      "fmt": "21.55k",
+      "longFmt": "21,552"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 7399981,
+      "fmt": "7.4M",
+      "longFmt": "7,399,981"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 5422,
+      "fmt": "5.42k",
+      "longFmt": "5,422"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 1.6946982,
+      "fmt": "1.69"
+    },
+    "dayLow": {
+      "raw": 1.85,
+      "fmt": "1.8500"
+    },
+    "ask": {
+      "raw": 0,
+      "fmt": "0.0000"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "volume": {
+      "raw": 21552,
+      "fmt": "21.55k",
+      "longFmt": "21,552"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 5.625,
+      "fmt": "5.6250"
+    },
+    "forwardPE": {},
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 0.94,
+      "fmt": "0.9400"
+    },
+    "bid": {
+      "raw": 0,
+      "fmt": "0.0000"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "dayHigh": {
+      "raw": 1.9075,
+      "fmt": "1.9075"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "INTV",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {},
+  "pageViews": {}
+}

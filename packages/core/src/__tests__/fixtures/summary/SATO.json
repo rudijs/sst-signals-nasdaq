@@ -1,0 +1,1002 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 3.194,
+      "fmt": "3.19"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": -0.10868,
+      "fmt": "-10.87%"
+    },
+    "enterpriseToEbitda": {
+      "raw": 34.525,
+      "fmt": "34.53"
+    },
+    "52WeekChange": {
+      "raw": 4,
+      "fmt": "400.00%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {
+      "raw": -0.03,
+      "fmt": "-0.03"
+    },
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 72589504,
+      "fmt": "72.59M",
+      "longFmt": "72,589,504"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 0.076,
+      "fmt": "0.08"
+    },
+    "sharesShort": {
+      "raw": 9788,
+      "fmt": "9.79k",
+      "longFmt": "9,788"
+    },
+    "sharesPercentSharesOut": {
+      "raw": 0.0001,
+      "fmt": "0.01%"
+    },
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "netIncomeToCommon": {
+      "raw": -1770530,
+      "fmt": "-1.77M",
+      "longFmt": "-1,770,530"
+    },
+    "trailingEps": {
+      "raw": -0.02,
+      "fmt": "-0.0200"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.24729478,
+      "fmt": "24.73%"
+    },
+    "priceToBook": {
+      "raw": 7.3684216,
+      "fmt": "7.37"
+    },
+    "heldPercentInsiders": {
+      "raw": 0.40960997,
+      "fmt": "40.96%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1703980800,
+      "fmt": "2023-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1696032000,
+      "fmt": "2023-09-30"
+    },
+    "shortRatio": {
+      "raw": 0.45,
+      "fmt": "0.45"
+    },
+    "sharesShortPreviousMonthDate": {
+      "raw": 1700006400,
+      "fmt": "2023-11-15"
+    },
+    "floatShares": {
+      "raw": 42812541,
+      "fmt": "42.81M",
+      "longFmt": "42,812,541"
+    },
+    "beta": {
+      "raw": 6.578,
+      "fmt": "6.58"
+    },
+    "enterpriseValue": {
+      "raw": 52037676,
+      "fmt": "52.04M",
+      "longFmt": "52,037,676"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1631750400,
+      "fmt": "2021-09-16"
+    },
+    "lastSplitFactor": "1:2.7",
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {
+      "raw": 1702598400,
+      "fmt": "2023-12-15"
+    },
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {
+      "raw": -18.666668,
+      "fmt": "-18.67"
+    },
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {},
+    "sharesShortPriorMonth": {
+      "raw": 24321,
+      "fmt": "24.32k",
+      "longFmt": "24,321"
+    },
+    "impliedSharesOutstanding": {
+      "raw": 72589504,
+      "fmt": "72.59M",
+      "longFmt": "72,589,504"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Capital Markets",
+    "zip": "M5K 1E6",
+    "industryKey": "capital-markets",
+    "sector": "Financial Services",
+    "sectorDisp": "Financial Services",
+    "longBusinessSummary": "SATO Technologies Corp., a blockchain company, engages in the cryptocurrency mining in Quebec, Canada. The company operates a data center to support blockchain infrastructure cryptocurrency mining, AI deployments, and other computationally intensive processes. It also hosts mining equipment for third parties. The company was formerly known as Canada Computational Unlimited Corp. SATO Technologies Corp. was founded in 2017 and is headquartered in Toronto, Canada.",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "Canada",
+    "sectorKey": "financial-services",
+    "companyOfficers": [],
+    "website": "https://bysato.com",
+    "maxAge": 86400,
+    "address1": "66 Wellington Street West",
+    "industry": "Capital Markets",
+    "address2": "Suite 5300"
+  },
+  "recommendationTrend": {
+    "trend": [
+      {
+        "period": "0m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      }
+    ],
+    "maxAge": 86400
+  },
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {
+    "maxAge": 86400,
+    "earningsChart": {
+      "quarterly": [],
+      "currentQuarterEstimate": {
+        "raw": -0.01,
+        "fmt": "-0.01"
+      },
+      "earningsDate": []
+    },
+    "financialsChart": {
+      "yearly": [
+        {
+          "date": 2019,
+          "revenue": {
+            "raw": 2309252,
+            "fmt": "2.31M",
+            "longFmt": "2,309,252"
+          },
+          "earnings": {
+            "raw": -1005748,
+            "fmt": "-1.01M",
+            "longFmt": "-1,005,748"
+          }
+        },
+        {
+          "date": 2020,
+          "revenue": {
+            "raw": 1860089,
+            "fmt": "1.86M",
+            "longFmt": "1,860,089"
+          },
+          "earnings": {
+            "raw": -855424,
+            "fmt": "-855.42k",
+            "longFmt": "-855,424"
+          }
+        },
+        {
+          "date": 2021,
+          "revenue": {
+            "raw": 6118420,
+            "fmt": "6.12M",
+            "longFmt": "6,118,420"
+          },
+          "earnings": {
+            "raw": -1729669,
+            "fmt": "-1.73M",
+            "longFmt": "-1,729,669"
+          }
+        },
+        {
+          "date": 2022,
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "3Q2022",
+          "revenue": {
+            "raw": 2790270,
+            "fmt": "2.79M",
+            "longFmt": "2,790,270"
+          },
+          "earnings": {
+            "raw": -1313426,
+            "fmt": "-1.31M",
+            "longFmt": "-1,313,426"
+          }
+        },
+        {
+          "date": "4Q2022",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        },
+        {
+          "date": "1Q2023",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        },
+        {
+          "date": "2Q2023",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        }
+      ]
+    },
+    "financialCurrency": "CAD"
+  },
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 0.58,
+      "fmt": "0.5800"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 25095,
+      "fmt": "25.09k",
+      "longFmt": "25,095"
+    },
+    "exchange": "VAN",
+    "regularMarketTime": 1703883521,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.59,
+      "fmt": "0.5900"
+    },
+    "shortName": "SATO TECHNOLOGIES CORP",
+    "averageDailyVolume10Day": {
+      "raw": 65773,
+      "fmt": "65.77k",
+      "longFmt": "65,773"
+    },
+    "longName": "SATO Technologies Corp.",
+    "regularMarketChange": {
+      "raw": -0.04000002,
+      "fmt": "-0.0400"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 0.6,
+      "fmt": "0.6000"
+    },
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {},
+    "postMarketPrice": {},
+    "exchangeName": "TSXV",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 0.52,
+      "fmt": "0.5200"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "CAD",
+    "regularMarketPrice": {
+      "raw": 0.56,
+      "fmt": "0.5600"
+    },
+    "regularMarketVolume": {
+      "raw": 58733,
+      "fmt": "58.73k",
+      "longFmt": "58,733.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "FREE_REALTIME",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 40650124,
+      "fmt": "40.65M",
+      "longFmt": "40,650,124.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "symbol": "SATO.V",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.0666667,
+      "fmt": "-6.67%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": []
+  },
+  "insiderTransactions": {
+    "transactions": [
+      {
+        "filerName": "Di Tomaso (Frank)",
+        "transactionText": "Acquisition or disposition in the public market at price 0.19 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1663286400,
+          "fmt": "2022-09-16"
+        },
+        "value": {
+          "raw": 15120,
+          "fmt": "15.12k",
+          "longFmt": "15,120"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 80000,
+          "fmt": "80k",
+          "longFmt": "80,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Di Tomaso (Frank)",
+        "transactionText": "Acquisition or disposition in the public market at price 0.19 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1661990400,
+          "fmt": "2022-09-01"
+        },
+        "value": {
+          "raw": 19000,
+          "fmt": "19k",
+          "longFmt": "19,000"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Di Tomaso (Frank)",
+        "transactionText": "Acquisition or disposition in the public market at price 0.19 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1661731200,
+          "fmt": "2022-08-29"
+        },
+        "value": {
+          "raw": 32640,
+          "fmt": "32.64k",
+          "longFmt": "32,640"
+        },
+        "filerRelation": "Director of Issuer",
+        "shares": {
+          "raw": 170000,
+          "fmt": "170k",
+          "longFmt": "170,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Appleby (Kyle Michael)",
+        "transactionText": "Acquisition or disposition carried out privately at price 0.67 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1642636800,
+          "fmt": "2022-01-20"
+        },
+        "value": {
+          "raw": 8000,
+          "fmt": "8k",
+          "longFmt": "8,000"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 11905,
+          "fmt": "11.9k",
+          "longFmt": "11,905"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "Philip (Fanny)",
+        "transactionText": "Acquisition or disposition under a prospectus exemption at price 0.67 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1642636800,
+          "fmt": "2022-01-20"
+        },
+        "value": {
+          "raw": 35999,
+          "fmt": "36k",
+          "longFmt": "35,999"
+        },
+        "filerRelation": "Senior Officer of Issuer",
+        "shares": {
+          "raw": 53571,
+          "fmt": "53.57k",
+          "longFmt": "53,571"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      }
+    ],
+    "maxAge": 1
+  },
+  "insiderHolders": {
+    "holders": [
+      {
+        "maxAge": 1,
+        "name": "Appleby (Kyle Michael)",
+        "relation": "Senior Officer of Issuer",
+        "url": "",
+        "transactionDescription": "Acquisition or disposition carried out privately",
+        "latestTransDate": {
+          "raw": 1642636800,
+          "fmt": "2022-01-20"
+        },
+        "positionIndirect": {
+          "raw": 11905,
+          "fmt": "11.9k",
+          "longFmt": "11,905"
+        },
+        "positionIndirectDate": {
+          "raw": 1642636800,
+          "fmt": "2022-01-20"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "Di Tomaso (Frank)",
+        "relation": "Director of Issuer",
+        "url": "",
+        "transactionDescription": "Acquisition or disposition in the public market",
+        "latestTransDate": {
+          "raw": 1663286400,
+          "fmt": "2022-09-16"
+        },
+        "positionDirect": {
+          "raw": 500000,
+          "fmt": "500k",
+          "longFmt": "500,000"
+        },
+        "positionDirectDate": {
+          "raw": 1663286400,
+          "fmt": "2022-09-16"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "Philip (Fanny)",
+        "relation": "Senior Officer of Issuer",
+        "url": "",
+        "transactionDescription": "Acquisition or disposition under a prospectus exemption",
+        "latestTransDate": {
+          "raw": 1642636800,
+          "fmt": "2022-01-20"
+        },
+        "positionDirect": {
+          "raw": 103571,
+          "fmt": "103.57k",
+          "longFmt": "103,571"
+        },
+        "positionDirectDate": {
+          "raw": 1642636800,
+          "fmt": "2022-01-20"
+        }
+      }
+    ],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "maxAge": 1,
+    "period": "6m",
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 29733368,
+      "fmt": "29.73M",
+      "longFmt": "29,733,368"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0.40960997,
+      "fmt": "40.96%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0.09252,
+      "fmt": "9.25%"
+    },
+    "profitMargins": {
+      "raw": -0.10868,
+      "fmt": "-10.87%"
+    },
+    "grossMargins": {
+      "raw": 0.39926997,
+      "fmt": "39.93%"
+    },
+    "operatingCashflow": {
+      "raw": 3142294,
+      "fmt": "3.14M",
+      "longFmt": "3,142,294"
+    },
+    "revenueGrowth": {
+      "raw": 0.459,
+      "fmt": "45.90%"
+    },
+    "operatingMargins": {
+      "raw": -0.16625999,
+      "fmt": "-16.63%"
+    },
+    "ebitda": {
+      "raw": 1507256,
+      "fmt": "1.51M",
+      "longFmt": "1,507,256"
+    },
+    "targetLowPrice": {
+      "raw": 0.74,
+      "fmt": "0.74"
+    },
+    "recommendationKey": "buy",
+    "grossProfits": {},
+    "freeCashflow": {
+      "raw": -6519063,
+      "fmt": "-6.52M",
+      "longFmt": "-6,519,063"
+    },
+    "targetMedianPrice": {
+      "raw": 0.74,
+      "fmt": "0.74"
+    },
+    "currentPrice": {
+      "raw": 0.56,
+      "fmt": "0.56"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 0.704,
+      "fmt": "0.70"
+    },
+    "returnOnAssets": {
+      "raw": -0.00387,
+      "fmt": "-0.39%"
+    },
+    "numberOfAnalystOpinions": {
+      "raw": 1,
+      "fmt": "1",
+      "longFmt": "1"
+    },
+    "targetMeanPrice": {
+      "raw": 0.74,
+      "fmt": "0.74"
+    },
+    "debtToEquity": {
+      "raw": 217.987,
+      "fmt": "217.99%"
+    },
+    "returnOnEquity": {
+      "raw": -0.30478,
+      "fmt": "-30.48%"
+    },
+    "targetHighPrice": {
+      "raw": 0.74,
+      "fmt": "0.74"
+    },
+    "totalCash": {
+      "raw": 633621,
+      "fmt": "633.62k",
+      "longFmt": "633,621"
+    },
+    "totalDebt": {
+      "raw": 12021197,
+      "fmt": "12.02M",
+      "longFmt": "12,021,197"
+    },
+    "totalRevenue": {
+      "raw": 16291503,
+      "fmt": "16.29M",
+      "longFmt": "16,291,503"
+    },
+    "totalCashPerShare": {
+      "raw": 0.009,
+      "fmt": "0.01"
+    },
+    "financialCurrency": "CAD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 0.224,
+      "fmt": "0.22"
+    },
+    "quickRatio": {
+      "raw": 0.275,
+      "fmt": "0.28"
+    },
+    "recommendationMean": {
+      "raw": 2.5,
+      "fmt": "2.50"
+    }
+  },
+  "quoteType": {
+    "exchange": "VAN",
+    "shortName": "SATO TECHNOLOGIES CORP",
+    "longName": "SATO Technologies Corp.",
+    "exchangeTimezoneName": "America/Toronto",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "SATO.V",
+    "messageBoardId": "finmb_571959689",
+    "market": "ca_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1656547200,
+          "fmt": "2022-06-30"
+        },
+        "organization": "Valkyrie ETF Tr II-Valkyrie Bitcoin Miners ETF",
+        "pctHeld": {
+          "raw": 0.0017,
+          "fmt": "0.17%"
+        },
+        "position": {
+          "raw": 116864,
+          "fmt": "116.86k",
+          "longFmt": "116,864"
+        },
+        "value": {
+          "raw": 65443,
+          "fmt": "65.44k",
+          "longFmt": "65,443"
+        },
+        "pctChange": {
+          "raw": 0.09729999,
+          "fmt": "9.73%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [],
+      "earningsAverage": {
+        "raw": -0.01,
+        "fmt": "-0.01"
+      },
+      "earningsLow": {
+        "raw": -0.01,
+        "fmt": "-0.01"
+      },
+      "earningsHigh": {
+        "raw": -0.01,
+        "fmt": "-0.01"
+      },
+      "revenueAverage": {},
+      "revenueLow": {
+        "raw": 4500000,
+        "fmt": "4.5M",
+        "longFmt": "4,500,000"
+      },
+      "revenueHigh": {
+        "raw": 4500000,
+        "fmt": "4.5M",
+        "longFmt": "4,500,000"
+      }
+    },
+    "exDividendDate": {},
+    "dividendDate": {
+      "raw": 1490054400,
+      "fmt": "2017-03-21"
+    }
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 0.6,
+      "fmt": "0.6000"
+    },
+    "regularMarketOpen": {
+      "raw": 0.58,
+      "fmt": "0.5800"
+    },
+    "twoHundredDayAverage": {
+      "raw": 0.4009,
+      "fmt": "0.4009"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.59,
+      "fmt": "0.5900"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 65773,
+      "fmt": "65.77k",
+      "longFmt": "65,773"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 0.6,
+      "fmt": "0.6000"
+    },
+    "fiftyDayAverage": {
+      "raw": 0.4731,
+      "fmt": "0.4731"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 0.58,
+      "fmt": "0.5800"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 65773,
+      "fmt": "65.77k",
+      "longFmt": "65,773"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 6.578,
+      "fmt": "6.58"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 0.52,
+      "fmt": "0.5200"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "CAD",
+    "regularMarketVolume": {
+      "raw": 58733,
+      "fmt": "58.73k",
+      "longFmt": "58,733"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 40650124,
+      "fmt": "40.65M",
+      "longFmt": "40,650,124"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 25095,
+      "fmt": "25.09k",
+      "longFmt": "25,095"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 2.4951735,
+      "fmt": "2.50"
+    },
+    "dayLow": {
+      "raw": 0.52,
+      "fmt": "0.5200"
+    },
+    "ask": {
+      "raw": 0.58,
+      "fmt": "0.5800"
+    },
+    "ytdReturn": {},
+    "askSize": {},
+    "volume": {
+      "raw": 58733,
+      "fmt": "58.73k",
+      "longFmt": "58,733"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 0.63,
+      "fmt": "0.6300"
+    },
+    "forwardPE": {
+      "raw": -18.666668,
+      "fmt": "-18.67"
+    },
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 0.12,
+      "fmt": "0.1200"
+    },
+    "bid": {
+      "raw": 0.56,
+      "fmt": "0.5600"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {},
+    "dayHigh": {
+      "raw": 0.59,
+      "fmt": "0.5900"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "SATO.V",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {},
+  "pageViews": {}
+}

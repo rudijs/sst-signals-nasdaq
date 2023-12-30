@@ -1,0 +1,2741 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 9.429,
+      "fmt": "9.43"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": 26.70309,
+      "fmt": "2,670.31%"
+    },
+    "enterpriseToEbitda": {
+      "raw": -3.065,
+      "fmt": "-3.07"
+    },
+    "52WeekChange": {
+      "raw": -0.02439022,
+      "fmt": "-2.44%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {
+      "raw": -0.04,
+      "fmt": "-0.04"
+    },
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 805171008,
+      "fmt": "805.17M",
+      "longFmt": "805,171,008"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": -0.005,
+      "fmt": "-0.00"
+    },
+    "sharesShort": {
+      "raw": 2722481,
+      "fmt": "2.72M",
+      "longFmt": "2,722,481"
+    },
+    "sharesPercentSharesOut": {
+      "raw": 0.105299994,
+      "fmt": "10.53%"
+    },
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.0022,
+      "fmt": "0.22%"
+    },
+    "netIncomeToCommon": {
+      "raw": 11242000,
+      "fmt": "11.24M",
+      "longFmt": "11,242,000"
+    },
+    "trailingEps": {
+      "raw": 0.02,
+      "fmt": "0.0200"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.2508303,
+      "fmt": "25.08%"
+    },
+    "priceToBook": {},
+    "heldPercentInsiders": {
+      "raw": 0.17537001,
+      "fmt": "17.54%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1703980800,
+      "fmt": "2023-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1696032000,
+      "fmt": "2023-09-30"
+    },
+    "shortRatio": {
+      "raw": 0.83,
+      "fmt": "0.83"
+    },
+    "sharesShortPreviousMonthDate": {
+      "raw": 1472601600,
+      "fmt": "2016-08-31"
+    },
+    "floatShares": {
+      "raw": 802924476,
+      "fmt": "802.92M",
+      "longFmt": "802,924,476"
+    },
+    "beta": {
+      "raw": 3.028,
+      "fmt": "3.03"
+    },
+    "enterpriseValue": {
+      "raw": 3969649,
+      "fmt": "3.97M",
+      "longFmt": "3,969,649"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1332374400,
+      "fmt": "2012-03-22"
+    },
+    "lastSplitFactor": "15:500",
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {
+      "raw": 1475193600,
+      "fmt": "2016-09-30"
+    },
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {},
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {
+      "raw": 0.121800005,
+      "fmt": "12.18%"
+    },
+    "sharesShortPriorMonth": {
+      "raw": 2969075,
+      "fmt": "2.97M",
+      "longFmt": "2,969,075"
+    },
+    "impliedSharesOutstanding": {
+      "raw": 805171008,
+      "fmt": "805.17M",
+      "longFmt": "805,171,008"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Capital Markets",
+    "zip": "27601",
+    "industryKey": "capital-markets",
+    "sector": "Financial Services",
+    "sectorDisp": "Financial Services",
+    "fullTimeEmployees": 2,
+    "longBusinessSummary": "MGT Capital Investments, Inc. engages in cryptocurrency mining business in the United States. It also leases space to other bitcoin miners; and provides hosting services for owners of mining equipment. The company was incorporated in 1977 and is headquartered in Raleigh, North Carolina.",
+    "city": "Raleigh",
+    "phone": "914 630 7430",
+    "state": "NC",
+    "country": "United States",
+    "sectorKey": "financial-services",
+    "companyOfficers": [],
+    "website": "https://www.mgtci.com",
+    "maxAge": 86400,
+    "address1": "150 Fayetteville Street",
+    "industry": "Capital Markets",
+    "address2": "Suite 1110"
+  },
+  "recommendationTrend": {
+    "trend": [
+      {
+        "period": "0m",
+        "strongBuy": 0,
+        "buy": 1,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 0,
+        "buy": 1,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 0,
+        "buy": 1,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 0,
+        "buy": 1,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      }
+    ],
+    "maxAge": 86400
+  },
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {
+    "maxAge": 86400,
+    "earningsChart": {
+      "quarterly": [
+        {
+          "date": "1Q2019",
+          "actual": {
+            "raw": -0.01,
+            "fmt": "-0.01"
+          },
+          "estimate": {
+            "raw": -0.04,
+            "fmt": "-0.04"
+          }
+        },
+        {
+          "date": "2Q2019",
+          "actual": {
+            "raw": -0.02,
+            "fmt": "-0.02"
+          },
+          "estimate": {
+            "raw": -0.02,
+            "fmt": "-0.02"
+          }
+        },
+        {
+          "date": "3Q2019",
+          "actual": {
+            "raw": -0.01,
+            "fmt": "-0.01"
+          },
+          "estimate": {
+            "raw": -0.01,
+            "fmt": "-0.01"
+          }
+        },
+        {
+          "date": "4Q2019",
+          "actual": {
+            "raw": 0,
+            "fmt": "0.00"
+          },
+          "estimate": {
+            "raw": -0.01,
+            "fmt": "-0.01"
+          }
+        }
+      ],
+      "currentQuarterEstimateDate": "1Q",
+      "currentQuarterEstimateYear": 2020,
+      "earningsDate": [
+        {
+          "raw": 1702465140,
+          "fmt": "2023-12-13"
+        }
+      ]
+    },
+    "financialsChart": {
+      "yearly": [
+        {
+          "date": 2019,
+          "revenue": {
+            "raw": 450000,
+            "fmt": "450k",
+            "longFmt": "450,000"
+          },
+          "earnings": {
+            "raw": -8781000,
+            "fmt": "-8.78M",
+            "longFmt": "-8,781,000"
+          }
+        },
+        {
+          "date": 2020,
+          "revenue": {
+            "raw": 1434000,
+            "fmt": "1.43M",
+            "longFmt": "1,434,000"
+          },
+          "earnings": {
+            "raw": -3887000,
+            "fmt": "-3.89M",
+            "longFmt": "-3,887,000"
+          }
+        },
+        {
+          "date": 2021,
+          "revenue": {
+            "raw": 883000,
+            "fmt": "883k",
+            "longFmt": "883,000"
+          },
+          "earnings": {
+            "raw": -1539000,
+            "fmt": "-1.54M",
+            "longFmt": "-1,539,000"
+          }
+        },
+        {
+          "date": 2022,
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": -5978000,
+            "fmt": "-5.98M",
+            "longFmt": "-5,978,000"
+          }
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "2Q2022",
+          "revenue": {
+            "raw": 284000,
+            "fmt": "284k",
+            "longFmt": "284,000"
+          },
+          "earnings": {
+            "raw": 35000,
+            "fmt": "35k",
+            "longFmt": "35,000"
+          }
+        },
+        {
+          "date": "3Q2022",
+          "revenue": {
+            "raw": 146000,
+            "fmt": "146k",
+            "longFmt": "146,000"
+          },
+          "earnings": {
+            "raw": -16416000,
+            "fmt": "-16.42M",
+            "longFmt": "-16,416,000"
+          }
+        },
+        {
+          "date": "4Q2022",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 11921000,
+            "fmt": "11.92M",
+            "longFmt": "11,921,000"
+          }
+        },
+        {
+          "date": "1Q2023",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        }
+      ]
+    },
+    "financialCurrency": "USD"
+  },
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 0.0033,
+      "fmt": "0.0033"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 1827104,
+      "fmt": "1.83M",
+      "longFmt": "1,827,104"
+    },
+    "exchange": "PNK",
+    "regularMarketTime": 1703883599,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.0047,
+      "fmt": "0.0047"
+    },
+    "shortName": "MGT CAPITAL INVESTMENTS INC",
+    "averageDailyVolume10Day": {
+      "raw": 6316707,
+      "fmt": "6.32M",
+      "longFmt": "6,316,707"
+    },
+    "longName": "MGT Capital Investments, Inc.",
+    "regularMarketChange": {
+      "raw": -0.00020000013,
+      "fmt": "-0.0002"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 0.004,
+      "fmt": "0.0040"
+    },
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {},
+    "postMarketPrice": {},
+    "exchangeName": "Other OTC",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 0.0033,
+      "fmt": "0.0033"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 0.0038,
+      "fmt": "0.0038"
+    },
+    "regularMarketVolume": {
+      "raw": 1431280,
+      "fmt": "1.43M",
+      "longFmt": "1,431,280.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "DELAYED",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 3059650,
+      "fmt": "3.06M",
+      "longFmt": "3,059,650.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "symbol": "MGTI",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.050000027,
+      "fmt": "-5.00%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": []
+  },
+  "insiderTransactions": {
+    "transactions": [
+      {
+        "filerName": "SCHAEFFER STEPHEN",
+        "transactionText": "Purchase at price 0.66 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1534291200,
+          "fmt": "2018-08-15"
+        },
+        "value": {
+          "raw": 16375,
+          "fmt": "16.38k",
+          "longFmt": "16,375"
+        },
+        "filerRelation": "Chief Operating Officer",
+        "shares": {
+          "raw": 25000,
+          "fmt": "25k",
+          "longFmt": "25,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LOWREY ROBERT S",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1533081600,
+          "fmt": "2018-08-01"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 250000,
+          "fmt": "250k",
+          "longFmt": "250,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Sale at price 1.00 - 1.03 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1529280000,
+          "fmt": "2018-06-18"
+        },
+        "value": {
+          "raw": 607650,
+          "fmt": "607.65k",
+          "longFmt": "607,650"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 600000,
+          "fmt": "600k",
+          "longFmt": "600,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BUSHNELL NOLAN K",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1522972800,
+          "fmt": "2018-04-06"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 200000,
+          "fmt": "200k",
+          "longFmt": "200,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1522972800,
+          "fmt": "2018-04-06"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 900000,
+          "fmt": "900k",
+          "longFmt": "900,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "HOLMES HUGH ROBERT",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1522972800,
+          "fmt": "2018-04-06"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 200000,
+          "fmt": "200k",
+          "longFmt": "200,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ONGHAI MICHAEL",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1522972800,
+          "fmt": "2018-04-06"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 200000,
+          "fmt": "200k",
+          "longFmt": "200,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LOWREY ROBERT S",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1520467200,
+          "fmt": "2018-03-08"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 750000,
+          "fmt": "750k",
+          "longFmt": "750,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BUSHNELL NOLAN K",
+        "transactionText": "Sale at price 4.68 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1514937600,
+          "fmt": "2018-01-03"
+        },
+        "value": {
+          "raw": 468000,
+          "fmt": "468k",
+          "longFmt": "468,000"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "HOLMES HUGH ROBERT",
+        "transactionText": "Sale at price 6.39 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1513641600,
+          "fmt": "2017-12-19"
+        },
+        "value": {
+          "raw": 230040,
+          "fmt": "230.04k",
+          "longFmt": "230,040"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 36000,
+          "fmt": "36k",
+          "longFmt": "36,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "HOLMES HUGH ROBERT",
+        "transactionText": "Sale at price 3.85 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1504051200,
+          "fmt": "2017-08-30"
+        },
+        "value": {
+          "raw": 385480,
+          "fmt": "385.48k",
+          "longFmt": "385,480"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Sale at price 2.67 - 2.80 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1503878400,
+          "fmt": "2017-08-28"
+        },
+        "value": {
+          "raw": 276398,
+          "fmt": "276.4k",
+          "longFmt": "276,398"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "HOLMES HUGH ROBERT",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1503014400,
+          "fmt": "2017-08-18"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BUSHNELL NOLAN K",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1498176000,
+          "fmt": "2017-06-23"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 300000,
+          "fmt": "300k",
+          "longFmt": "300,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "HOLMES HUGH ROBERT",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1498176000,
+          "fmt": "2017-06-23"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 300000,
+          "fmt": "300k",
+          "longFmt": "300,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ONGHAI MICHAEL",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1498176000,
+          "fmt": "2017-06-23"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 300000,
+          "fmt": "300k",
+          "longFmt": "300,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Sale at price 1.07 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1496880000,
+          "fmt": "2017-06-08"
+        },
+        "value": {
+          "raw": 72874,
+          "fmt": "72.87k",
+          "longFmt": "72,874"
+        },
+        "filerRelation": "President",
+        "shares": {
+          "raw": 67850,
+          "fmt": "67.85k",
+          "longFmt": "67,850"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Sale at price 0.90 - 0.92 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1496275200,
+          "fmt": "2017-06-01"
+        },
+        "value": {
+          "raw": 120749,
+          "fmt": "120.75k",
+          "longFmt": "120,749"
+        },
+        "filerRelation": "President",
+        "shares": {
+          "raw": 132150,
+          "fmt": "132.15k",
+          "longFmt": "132,150"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1467849600,
+          "fmt": "2016-07-07"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "President",
+        "shares": {
+          "raw": 2000000,
+          "fmt": "2M",
+          "longFmt": "2,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Sale at price 2.44 - 2.53 per share.",
+        "moneyText": "",
+        "ownership": "D/I",
+        "startDate": {
+          "raw": 1464652800,
+          "fmt": "2016-05-31"
+        },
+        "value": {
+          "raw": 468828,
+          "fmt": "468.83k",
+          "longFmt": "468,828"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 190903,
+          "fmt": "190.9k",
+          "longFmt": "190,903"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1464220800,
+          "fmt": "2016-05-26"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 300000,
+          "fmt": "300k",
+          "longFmt": "300,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "HOLMES HUGH ROBERT",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1464220800,
+          "fmt": "2016-05-26"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 400000,
+          "fmt": "400k",
+          "longFmt": "400,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ONGHAI MICHAEL",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1464220800,
+          "fmt": "2016-05-26"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 300000,
+          "fmt": "300k",
+          "longFmt": "300,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ONGHAI MICHAEL",
+        "transactionText": "Sale at price 2.62 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1463529600,
+          "fmt": "2016-05-18"
+        },
+        "value": {
+          "raw": 17148,
+          "fmt": "17.15k",
+          "longFmt": "17,148"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 6545,
+          "fmt": "6.54k",
+          "longFmt": "6,545"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Sale at price 0.25 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1448841600,
+          "fmt": "2015-11-30"
+        },
+        "value": {
+          "raw": 25000,
+          "fmt": "25k",
+          "longFmt": "25,000"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SILVERMAN JOSHUA N.",
+        "transactionText": "Purchase at price 0.26 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1444262400,
+          "fmt": "2015-10-08"
+        },
+        "value": {
+          "raw": 78000,
+          "fmt": "78k",
+          "longFmt": "78,000"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 300000,
+          "fmt": "300k",
+          "longFmt": "300,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1444176000,
+          "fmt": "2015-10-07"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 200000,
+          "fmt": "200k",
+          "longFmt": "200,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Purchase at price 0.40 - 0.46 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1434499200,
+          "fmt": "2015-06-17"
+        },
+        "value": {
+          "raw": 4698,
+          "fmt": "4.7k",
+          "longFmt": "4,698"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 10603,
+          "fmt": "10.6k",
+          "longFmt": "10,603"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "TRAVERSA ROBERT PAUL",
+        "transactionText": "Purchase at price 1.26 - 1.29 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1400716800,
+          "fmt": "2014-05-22"
+        },
+        "value": {
+          "raw": 6399,
+          "fmt": "6.4k",
+          "longFmt": "6,399"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "HOLMES HUGH ROBERT",
+        "transactionText": "Purchase at price 2.60 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1388966400,
+          "fmt": "2014-01-06"
+        },
+        "value": {
+          "raw": 13000,
+          "fmt": "13k",
+          "longFmt": "13,000"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 5000,
+          "fmt": "5k",
+          "longFmt": "5,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Sale at price 4.64 - 4.72 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1371600000,
+          "fmt": "2013-06-19"
+        },
+        "value": {
+          "raw": 187200,
+          "fmt": "187.2k",
+          "longFmt": "187,200"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 40000,
+          "fmt": "40k",
+          "longFmt": "40,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "TRAVERSA ROBERT PAUL",
+        "transactionText": "Purchase at price 4.39 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1345161600,
+          "fmt": "2012-08-17"
+        },
+        "value": {
+          "raw": 9658,
+          "fmt": "9.66k",
+          "longFmt": "9,658"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 2200,
+          "fmt": "2.2k",
+          "longFmt": "2,200"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ONGHAI MICHAEL",
+        "transactionText": "Purchase at price 4.50 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1345161600,
+          "fmt": "2012-08-17"
+        },
+        "value": {
+          "raw": 4500,
+          "fmt": "4.5k",
+          "longFmt": "4,500"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 1000,
+          "fmt": "1k",
+          "longFmt": "1,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Purchase at price 4.48 - 4.65 per share.",
+        "moneyText": "",
+        "ownership": "D/I",
+        "startDate": {
+          "raw": 1344384000,
+          "fmt": "2012-08-08"
+        },
+        "value": {
+          "raw": 8917,
+          "fmt": "8.92k",
+          "longFmt": "8,917"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 1950,
+          "fmt": "1.95k",
+          "longFmt": "1,950"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Purchase at price 4.00 - 4.34 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1339459200,
+          "fmt": "2012-06-12"
+        },
+        "value": {
+          "raw": 8570,
+          "fmt": "8.57k",
+          "longFmt": "8,570"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 2100,
+          "fmt": "2.1k",
+          "longFmt": "2,100"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "TRAVERSA ROBERT PAUL",
+        "transactionText": "Purchase at price 4.41 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1339459200,
+          "fmt": "2012-06-12"
+        },
+        "value": {
+          "raw": 4410,
+          "fmt": "4.41k",
+          "longFmt": "4,410"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 1000,
+          "fmt": "1k",
+          "longFmt": "1,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Purchase at price 1.89 - 1.90 per share.",
+        "moneyText": "",
+        "ownership": "D/I",
+        "startDate": {
+          "raw": 1332892800,
+          "fmt": "2012-03-28"
+        },
+        "value": {
+          "raw": 11170,
+          "fmt": "11.17k",
+          "longFmt": "11,170"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 5909,
+          "fmt": "5.91k",
+          "longFmt": "5,909"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Purchase at price 0.05 - 0.06 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1332288000,
+          "fmt": "2012-03-21"
+        },
+        "value": {
+          "raw": 21703,
+          "fmt": "21.7k",
+          "longFmt": "21,703"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 394320,
+          "fmt": "394.32k",
+          "longFmt": "394,320"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "TRAVERSA ROBERT PAUL",
+        "transactionText": "Purchase at price 0.05 - 0.06 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1332288000,
+          "fmt": "2012-03-21"
+        },
+        "value": {
+          "raw": 5066,
+          "fmt": "5.07k",
+          "longFmt": "5,066"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 80314,
+          "fmt": "80.31k",
+          "longFmt": "80,314"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Purchase at price 0.04 - 0.05 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1331769600,
+          "fmt": "2012-03-15"
+        },
+        "value": {
+          "raw": 6912,
+          "fmt": "6.91k",
+          "longFmt": "6,912"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 145000,
+          "fmt": "145k",
+          "longFmt": "145,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Purchase at price 0.07 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1325203200,
+          "fmt": "2011-12-30"
+        },
+        "value": {
+          "raw": 3786,
+          "fmt": "3.79k",
+          "longFmt": "3,786"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 54086,
+          "fmt": "54.09k",
+          "longFmt": "54,086"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Sale at price 0.07 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1325203200,
+          "fmt": "2011-12-30"
+        },
+        "value": {
+          "raw": 350000,
+          "fmt": "350k",
+          "longFmt": "350,000"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 5000000,
+          "fmt": "5M",
+          "longFmt": "5,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "TRAVERSA ROBERT PAUL",
+        "transactionText": "Purchase at price 0.07 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1325203200,
+          "fmt": "2011-12-30"
+        },
+        "value": {
+          "raw": 350000,
+          "fmt": "350k",
+          "longFmt": "350,000"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 5000000,
+          "fmt": "5M",
+          "longFmt": "5,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LADD ROBERT B",
+        "transactionText": "Purchase at price 0.06 - 0.07 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1325116800,
+          "fmt": "2011-12-29"
+        },
+        "value": {
+          "raw": 15962,
+          "fmt": "15.96k",
+          "longFmt": "15,962"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 250000,
+          "fmt": "250k",
+          "longFmt": "250,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "TRAVERSA ROBERT PAUL",
+        "transactionText": "Purchase at price 0.06 - 0.07 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1325116800,
+          "fmt": "2011-12-29"
+        },
+        "value": {
+          "raw": 2166,
+          "fmt": "2.17k",
+          "longFmt": "2,166"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 33550,
+          "fmt": "33.55k",
+          "longFmt": "33,550"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "VENTON PETER",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1299456000,
+          "fmt": "2011-03-07"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "WYMAN NEAL",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1299456000,
+          "fmt": "2011-03-07"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PATERSON BROWN TIM",
+        "transactionText": "Purchase at price 3.50 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1195171200,
+          "fmt": "2007-11-16"
+        },
+        "value": {
+          "raw": 1750000,
+          "fmt": "1.75M",
+          "longFmt": "1,750,000"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 500000,
+          "fmt": "500k",
+          "longFmt": "500,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PATERSON BROWN TIM",
+        "transactionText": "Purchase at price 3.75 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1191801600,
+          "fmt": "2007-10-08"
+        },
+        "value": {
+          "raw": 937500,
+          "fmt": "937.5k",
+          "longFmt": "937,500"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 250000,
+          "fmt": "250k",
+          "longFmt": "250,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "STG HOLDINGS P L C",
+        "transactionText": "Sale at price 5.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1183680000,
+          "fmt": "2007-07-06"
+        },
+        "value": {
+          "raw": 5000000,
+          "fmt": "5M",
+          "longFmt": "5,000,000"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 1000000,
+          "fmt": "1M",
+          "longFmt": "1,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PATERSON BROWN TIM",
+        "transactionText": "Purchase at price 5.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1183680000,
+          "fmt": "2007-07-06"
+        },
+        "value": {
+          "raw": 5000000,
+          "fmt": "5M",
+          "longFmt": "5,000,000"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 1000000,
+          "fmt": "1M",
+          "longFmt": "1,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "VHC INTERNATIONAL LTD",
+        "transactionText": "Sale at price 3.99 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1160006400,
+          "fmt": "2006-10-05"
+        },
+        "value": {
+          "raw": 1117172,
+          "fmt": "1.12M",
+          "longFmt": "1,117,172"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 280000,
+          "fmt": "280k",
+          "longFmt": "280,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PAINE CHRISTOPHER",
+        "transactionText": "Purchase at price 4.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1137110400,
+          "fmt": "2006-01-13"
+        },
+        "value": {
+          "raw": 8800,
+          "fmt": "8.8k",
+          "longFmt": "8,800"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 2200,
+          "fmt": "2.2k",
+          "longFmt": "2,200"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "VAN HOOF HANS",
+        "transactionText": "Purchase at price 4.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1137110400,
+          "fmt": "2006-01-13"
+        },
+        "value": {
+          "raw": 500000,
+          "fmt": "500k",
+          "longFmt": "500,000"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 125000,
+          "fmt": "125k",
+          "longFmt": "125,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "VHC INTERNATIONAL LTD",
+        "transactionText": "Purchase at price 5.00 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1133222400,
+          "fmt": "2005-11-29"
+        },
+        "value": {
+          "raw": 1250625,
+          "fmt": "1.25M",
+          "longFmt": "1,250,625"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 250000,
+          "fmt": "250k",
+          "longFmt": "250,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "VHC INTERNATIONAL LTD",
+        "transactionText": "Sale at price 5.00 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1133222400,
+          "fmt": "2005-11-29"
+        },
+        "value": {
+          "raw": 1249375,
+          "fmt": "1.25M",
+          "longFmt": "1,249,375"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 250000,
+          "fmt": "250k",
+          "longFmt": "250,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PATERSON BROWN TIM",
+        "transactionText": "Purchase at price 4.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1130371200,
+          "fmt": "2005-10-27"
+        },
+        "value": {
+          "raw": 1000000,
+          "fmt": "1M",
+          "longFmt": "1,000,000"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 250000,
+          "fmt": "250k",
+          "longFmt": "250,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "VHC INTERNATIONAL LTD",
+        "transactionText": "Purchase at price 4.93 - 5.11 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1125446400,
+          "fmt": "2005-08-31"
+        },
+        "value": {
+          "raw": 1911161,
+          "fmt": "1.91M",
+          "longFmt": "1,911,161"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 380861,
+          "fmt": "380.86k",
+          "longFmt": "380,861"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "VHC INTERNATIONAL LTD",
+        "transactionText": "Sale at price 4.92 - 5.05 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1121990400,
+          "fmt": "2005-07-22"
+        },
+        "value": {
+          "raw": 1475441,
+          "fmt": "1.48M",
+          "longFmt": "1,475,441"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 294861,
+          "fmt": "294.86k",
+          "longFmt": "294,861"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "VHC PARTNERS L L P",
+        "transactionText": "Purchase at price 4.90 - 5.14 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1112140800,
+          "fmt": "2005-03-30"
+        },
+        "value": {
+          "raw": 3109742,
+          "fmt": "3.11M",
+          "longFmt": "3,109,742"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 615033,
+          "fmt": "615.03k",
+          "longFmt": "615,033"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "STG HOLDINGS P L C",
+        "transactionText": "Purchase at price 1.90 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1040601600,
+          "fmt": "2002-12-23"
+        },
+        "value": {
+          "raw": 2859177,
+          "fmt": "2.86M",
+          "longFmt": "2,859,177"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 1504830,
+          "fmt": "1.5M",
+          "longFmt": "1,504,830"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "STG HOLDINGS P L C",
+        "transactionText": "Sale at price 1.90 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1040601600,
+          "fmt": "2002-12-23"
+        },
+        "value": {
+          "raw": 5383327,
+          "fmt": "5.38M",
+          "longFmt": "5,383,327"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 2833330,
+          "fmt": "2.83M",
+          "longFmt": "2,833,330"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ALLESCH TAYLOR STEFAN",
+        "transactionText": "Purchase at price 1.90 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1040601600,
+          "fmt": "2002-12-23"
+        },
+        "value": {
+          "raw": 8242504,
+          "fmt": "8.24M",
+          "longFmt": "8,242,504"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 4338160,
+          "fmt": "4.34M",
+          "longFmt": "4,338,160"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ALLESCH TAYLOR STEFAN",
+        "transactionText": "Sale at price 1.90 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1040601600,
+          "fmt": "2002-12-23"
+        },
+        "value": {
+          "raw": 2859177,
+          "fmt": "2.86M",
+          "longFmt": "2,859,177"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 1504830,
+          "fmt": "1.5M",
+          "longFmt": "1,504,830"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ALLESCH TAYLOR STEFAN",
+        "transactionText": "Purchase at price 2.50 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1015977600,
+          "fmt": "2002-03-13"
+        },
+        "value": {
+          "raw": 10536195,
+          "fmt": "10.54M",
+          "longFmt": "10,536,195"
+        },
+        "filerRelation": "Chairman of the Board",
+        "shares": {
+          "raw": 4214478,
+          "fmt": "4.21M",
+          "longFmt": "4,214,478"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "STG HOLDINGS P L C",
+        "transactionText": "Purchase at price 2.37 - 4.76 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1013472000,
+          "fmt": "2002-02-12"
+        },
+        "value": {
+          "raw": 48472155,
+          "fmt": "48.47M",
+          "longFmt": "48,472,155"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 18202764,
+          "fmt": "18.2M",
+          "longFmt": "18,202,764"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ALLESCH TAYLOR STEFAN",
+        "transactionText": "Purchase at price 2.37 - 4.76 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1013472000,
+          "fmt": "2002-02-12"
+        },
+        "value": {
+          "raw": 48472155,
+          "fmt": "48.47M",
+          "longFmt": "48,472,155"
+        },
+        "filerRelation": "Chairman of the Board",
+        "shares": {
+          "raw": 18202764,
+          "fmt": "18.2M",
+          "longFmt": "18,202,764"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "STG HOLDINGS P L C",
+        "transactionText": "Purchase at price 4.89 - 6.50 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1004486400,
+          "fmt": "2001-10-31"
+        },
+        "value": {
+          "raw": 25274085,
+          "fmt": "25.27M",
+          "longFmt": "25,274,085"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 4823682,
+          "fmt": "4.82M",
+          "longFmt": "4,823,682"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "CALTHORPE EUAN",
+        "transactionText": "Purchase at price 4.89 - 6.50 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1004486400,
+          "fmt": "2001-10-31"
+        },
+        "value": {
+          "raw": 25274085,
+          "fmt": "25.27M",
+          "longFmt": "25,274,085"
+        },
+        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 4823682,
+          "fmt": "4.82M",
+          "longFmt": "4,823,682"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ALLESCH TAYLOR STEFAN",
+        "transactionText": "Purchase at price 4.89 - 6.50 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1004486400,
+          "fmt": "2001-10-31"
+        },
+        "value": {
+          "raw": 25274085,
+          "fmt": "25.27M",
+          "longFmt": "25,274,085"
+        },
+        "filerRelation": "Chairman of the Board",
+        "shares": {
+          "raw": 4823682,
+          "fmt": "4.82M",
+          "longFmt": "4,823,682"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "STG HOLDINGS P L C",
+        "transactionText": "Purchase at price 13.44 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 977270400,
+          "fmt": "2000-12-20"
+        },
+        "value": {
+          "raw": 134376,
+          "fmt": "134.38k",
+          "longFmt": "134,376"
+        },
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "CALTHORPE EUAN",
+        "transactionText": "Purchase at price 13.44 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 977270400,
+          "fmt": "2000-12-20"
+        },
+        "value": {
+          "raw": 134376,
+          "fmt": "134.38k",
+          "longFmt": "134,376"
+        },
+        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ALLESCH TAYLOR STEFAN",
+        "transactionText": "Purchase at price 13.44 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 977270400,
+          "fmt": "2000-12-20"
+        },
+        "value": {
+          "raw": 134376,
+          "fmt": "134.38k",
+          "longFmt": "134,376"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "NILL ALEXANDER",
+        "transactionText": "Purchase at price 18.06 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 969408000,
+          "fmt": "2000-09-20"
+        },
+        "value": {
+          "raw": 27455000,
+          "fmt": "27.45M",
+          "longFmt": "27,455,000"
+        },
+        "filerRelation": "Officer and Director",
+        "shares": {
+          "raw": 1520000,
+          "fmt": "1.52M",
+          "longFmt": "1,520,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      }
+    ],
+    "maxAge": 1
+  },
+  "insiderHolders": {
+    "holders": [
+      {
+        "maxAge": 1,
+        "name": "BUSHNELL NOLAN K",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1522972800,
+          "fmt": "2018-04-06"
+        },
+        "positionDirect": {
+          "raw": 550000,
+          "fmt": "550k",
+          "longFmt": "550,000"
+        },
+        "positionDirectDate": {
+          "raw": 1522972800,
+          "fmt": "2018-04-06"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "HOLMES HUGH ROBERT",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1522972800,
+          "fmt": "2018-04-06"
+        },
+        "positionDirect": {
+          "raw": 952819,
+          "fmt": "952.82k",
+          "longFmt": "952,819"
+        },
+        "positionDirectDate": {
+          "raw": 1522972800,
+          "fmt": "2018-04-06"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "LADD ROBERT B",
+        "relation": "Chief Executive Officer",
+        "url": "",
+        "transactionDescription": "Sale",
+        "latestTransDate": {
+          "raw": 1529280000,
+          "fmt": "2018-06-18"
+        },
+        "positionDirect": {
+          "raw": 2540000,
+          "fmt": "2.54M",
+          "longFmt": "2,540,000"
+        },
+        "positionDirectDate": {
+          "raw": 1529280000,
+          "fmt": "2018-06-18"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "LOWREY ROBERT S",
+        "relation": "Chief Financial Officer",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1533081600,
+          "fmt": "2018-08-01"
+        },
+        "positionDirect": {
+          "raw": 1000000,
+          "fmt": "1M",
+          "longFmt": "1,000,000"
+        },
+        "positionDirectDate": {
+          "raw": 1533081600,
+          "fmt": "2018-08-01"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "ONGHAI MICHAEL",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1522972800,
+          "fmt": "2018-04-06"
+        },
+        "positionDirect": {
+          "raw": 836000,
+          "fmt": "836k",
+          "longFmt": "836,000"
+        },
+        "positionDirectDate": {
+          "raw": 1522972800,
+          "fmt": "2018-04-06"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "SCHAEFFER STEPHEN",
+        "relation": "Chief Operating Officer",
+        "url": "",
+        "transactionDescription": "Purchase",
+        "latestTransDate": {
+          "raw": 1534291200,
+          "fmt": "2018-08-15"
+        },
+        "positionDirect": {
+          "raw": 1165000,
+          "fmt": "1.17M",
+          "longFmt": "1,165,000"
+        },
+        "positionDirectDate": {
+          "raw": 1534291200,
+          "fmt": "2018-08-15"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "SILVERMAN JOSHUA N.",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Purchase",
+        "latestTransDate": {
+          "raw": 1444262400,
+          "fmt": "2015-10-08"
+        },
+        "positionIndirect": {
+          "raw": 1387830,
+          "fmt": "1.39M",
+          "longFmt": "1,387,830"
+        },
+        "positionIndirectDate": {
+          "raw": 1444262400,
+          "fmt": "2015-10-08"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "TRAVERSA ROBERT PAUL",
+        "relation": "Chief Financial Officer",
+        "url": "",
+        "transactionDescription": "Purchase",
+        "latestTransDate": {
+          "raw": 1400716800,
+          "fmt": "2014-05-22"
+        },
+        "positionDirect": {
+          "raw": 286616,
+          "fmt": "286.62k",
+          "longFmt": "286,616"
+        },
+        "positionDirectDate": {
+          "raw": 1400716800,
+          "fmt": "2014-05-22"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "VENTON PETER",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1299456000,
+          "fmt": "2011-03-07"
+        },
+        "positionDirect": {
+          "raw": 16666,
+          "fmt": "16.67k",
+          "longFmt": "16,666"
+        },
+        "positionDirectDate": {
+          "raw": 1299456000,
+          "fmt": "2011-03-07"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "WYMAN NEAL",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1299456000,
+          "fmt": "2011-03-07"
+        },
+        "positionDirectDate": {
+          "raw": 1299456000,
+          "fmt": "2011-03-07"
+        }
+      }
+    ],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "maxAge": 1,
+    "period": "6m",
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 141202816,
+      "fmt": "141.2M",
+      "longFmt": "141,202,816"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0.17537001,
+      "fmt": "17.54%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0.0022,
+      "fmt": "0.22%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0.0026699998,
+      "fmt": "0.27%"
+    },
+    "institutionsCount": {
+      "raw": 1,
+      "fmt": "1",
+      "longFmt": "1"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "profitMargins": {
+      "raw": 26.70309,
+      "fmt": "2,670.31%"
+    },
+    "grossMargins": {
+      "raw": 0.078379996,
+      "fmt": "7.84%"
+    },
+    "operatingCashflow": {
+      "raw": -1017000,
+      "fmt": "-1.02M",
+      "longFmt": "-1,017,000"
+    },
+    "revenueGrowth": {
+      "raw": -0.37,
+      "fmt": "-37.00%"
+    },
+    "operatingMargins": {
+      "raw": -3.17391,
+      "fmt": "-317.39%"
+    },
+    "ebitda": {
+      "raw": -1295000,
+      "fmt": "-1.29M",
+      "longFmt": "-1,295,000"
+    },
+    "targetLowPrice": {},
+    "recommendationKey": "none",
+    "grossProfits": {},
+    "freeCashflow": {
+      "raw": -15144125,
+      "fmt": "-15.14M",
+      "longFmt": "-15,144,125"
+    },
+    "targetMedianPrice": {},
+    "currentPrice": {
+      "raw": 0.0038,
+      "fmt": "0.00"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 0.067,
+      "fmt": "0.07"
+    },
+    "returnOnAssets": {
+      "raw": -0.50183,
+      "fmt": "-50.18%"
+    },
+    "numberOfAnalystOpinions": {},
+    "targetMeanPrice": {},
+    "debtToEquity": {},
+    "returnOnEquity": {},
+    "targetHighPrice": {},
+    "totalCash": {
+      "raw": 24000,
+      "fmt": "24k",
+      "longFmt": "24,000"
+    },
+    "totalDebt": {
+      "raw": 934000,
+      "fmt": "934k",
+      "longFmt": "934,000"
+    },
+    "totalRevenue": {
+      "raw": 421000,
+      "fmt": "421k",
+      "longFmt": "421,000"
+    },
+    "totalCashPerShare": {
+      "raw": 0,
+      "fmt": "0"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 0.001,
+      "fmt": "0.00"
+    },
+    "quickRatio": {
+      "raw": 0.011,
+      "fmt": "0.01"
+    },
+    "recommendationMean": {}
+  },
+  "quoteType": {
+    "exchange": "PNK",
+    "shortName": "MGT CAPITAL INVESTMENTS INC",
+    "longName": "MGT Capital Investments, Inc.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "MGTI",
+    "messageBoardId": "finmb_411388",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1688083200,
+          "fmt": "2023-06-30"
+        },
+        "organization": "Old Second National Bank of Aurora",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 37974,
+          "fmt": "37.97k",
+          "longFmt": "37,974"
+        },
+        "value": {
+          "raw": 144,
+          "fmt": "144",
+          "longFmt": "144"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [
+        {
+          "raw": 1702465140,
+          "fmt": "2023-12-13"
+        }
+      ],
+      "earningsAverage": {},
+      "earningsLow": {},
+      "earningsHigh": {},
+      "revenueAverage": {
+        "raw": 500000,
+        "fmt": "500k",
+        "longFmt": "500,000"
+      },
+      "revenueLow": {
+        "raw": 500000,
+        "fmt": "500k",
+        "longFmt": "500,000"
+      },
+      "revenueHigh": {
+        "raw": 500000,
+        "fmt": "500k",
+        "longFmt": "500,000"
+      }
+    },
+    "exDividendDate": {},
+    "dividendDate": {}
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 0.004,
+      "fmt": "0.0040"
+    },
+    "regularMarketOpen": {
+      "raw": 0.0033,
+      "fmt": "0.0033"
+    },
+    "twoHundredDayAverage": {
+      "raw": 0.0044007,
+      "fmt": "0.0044"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.0047,
+      "fmt": "0.0047"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 6316707,
+      "fmt": "6.32M",
+      "longFmt": "6,316,707"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 0.004,
+      "fmt": "0.0040"
+    },
+    "fiftyDayAverage": {
+      "raw": 0.002017,
+      "fmt": "0.0020"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 0.0033,
+      "fmt": "0.0033"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 6316707,
+      "fmt": "6.32M",
+      "longFmt": "6,316,707"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 3.028,
+      "fmt": "3.03"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 0.0033,
+      "fmt": "0.0033"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "trailingPE": {
+      "raw": 0.19000001,
+      "fmt": "0.19"
+    },
+    "regularMarketVolume": {
+      "raw": 1431280,
+      "fmt": "1.43M",
+      "longFmt": "1,431,280"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 3059650,
+      "fmt": "3.06M",
+      "longFmt": "3,059,650"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 1827104,
+      "fmt": "1.83M",
+      "longFmt": "1,827,104"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 7.267577,
+      "fmt": "7.27"
+    },
+    "dayLow": {
+      "raw": 0.0033,
+      "fmt": "0.0033"
+    },
+    "ask": {},
+    "ytdReturn": {},
+    "askSize": {},
+    "volume": {
+      "raw": 1431280,
+      "fmt": "1.43M",
+      "longFmt": "1,431,280"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 0.0125,
+      "fmt": "0.0125"
+    },
+    "forwardPE": {
+      "raw": -0.095000006,
+      "fmt": "-0.10"
+    },
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 0.0001,
+      "fmt": "0.0001"
+    },
+    "bid": {},
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {},
+    "dayHigh": {
+      "raw": 0.0047,
+      "fmt": "0.0047"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "MGTI",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {},
+  "pageViews": {}
+}

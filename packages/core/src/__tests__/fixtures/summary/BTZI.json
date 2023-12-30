@@ -1,0 +1,710 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {},
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "enterpriseToEbitda": {
+      "raw": -54.321,
+      "fmt": "-54.32"
+    },
+    "52WeekChange": {
+      "raw": -0.16666669,
+      "fmt": "-16.67%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {},
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 780376000,
+      "fmt": "780.38M",
+      "longFmt": "780,376,000"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 0.009,
+      "fmt": "0.01"
+    },
+    "sharesShort": {},
+    "sharesPercentSharesOut": {},
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1619740800,
+      "fmt": "2021-04-30"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "netIncomeToCommon": {
+      "raw": -64934260,
+      "fmt": "-64.93M",
+      "longFmt": "-64,934,260"
+    },
+    "trailingEps": {
+      "raw": -0.09,
+      "fmt": "-0.0900"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.2508303,
+      "fmt": "25.08%"
+    },
+    "priceToBook": {
+      "raw": 0.4777778,
+      "fmt": "0.48"
+    },
+    "heldPercentInsiders": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1651276800,
+      "fmt": "2022-04-30"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1643587200,
+      "fmt": "2022-01-31"
+    },
+    "shortRatio": {},
+    "sharesShortPreviousMonthDate": {},
+    "floatShares": {},
+    "beta": {
+      "raw": 0.632,
+      "fmt": "0.63"
+    },
+    "enterpriseValue": {
+      "raw": 3941735,
+      "fmt": "3.94M",
+      "longFmt": "3,941,735"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1377734400,
+      "fmt": "2013-08-29"
+    },
+    "lastSplitFactor": "10:1",
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {},
+    "pegRatio": {},
+    "ytdReturn": {},
+    "forwardPE": {},
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {},
+    "sharesShortPriorMonth": {},
+    "impliedSharesOutstanding": {
+      "raw": 780376000,
+      "fmt": "780.38M",
+      "longFmt": "780,376,000"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Software - Application",
+    "zip": "00907",
+    "industryKey": "software-application",
+    "sector": "Technology",
+    "sectorDisp": "Technology",
+    "fullTimeEmployees": 3,
+    "longBusinessSummary": "BOTS, Inc. focuses on developing and servicing blockchain and robotics solutions. The company offers decentralized finance applications, cybersecurity, crypto generation, mining, equipment repair, and extended warranties on Bitcoin mining equipment. It has a partnership with Cyber Security Group, Ltd. to introduce a new Web Application Firewall, a real-time solution that provides protection against both bots-based (DDoS) and application, API, user, or infrastructure threats. The company was formerly known as mCig, Inc. and changed its name to BOTS, Inc. in May 2020. BOTS, Inc. was incorporated in 2010 and is headquartered in San Juan, Puerto Rico.",
+    "city": "San Juan",
+    "phone": "939 212 9068",
+    "state": "PR",
+    "country": "United States",
+    "sectorKey": "technology",
+    "companyOfficers": [],
+    "website": "https://www.bots.bz",
+    "maxAge": 86400,
+    "address1": "1064 Avenue Ponce De Leon",
+    "industry": "Software - Application",
+    "address2": "Suite 200"
+  },
+  "recommendationTrend": {},
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {},
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 0.004,
+      "fmt": "0.0040"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 527050,
+      "fmt": "527.05k",
+      "longFmt": "527,050"
+    },
+    "exchange": "PNK",
+    "regularMarketTime": 1703883510,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.0064,
+      "fmt": "0.0064"
+    },
+    "shortName": "BOTS INC",
+    "averageDailyVolume10Day": {
+      "raw": 487158,
+      "fmt": "487.16k",
+      "longFmt": "487,158"
+    },
+    "longName": "BOTS, Inc.",
+    "regularMarketChange": {
+      "raw": -0.00069999974,
+      "fmt": "-0.0007"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 0.005,
+      "fmt": "0.0050"
+    },
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {},
+    "postMarketPrice": {},
+    "exchangeName": "Other OTC",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 0.0034,
+      "fmt": "0.0034"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 0.0043,
+      "fmt": "0.0043"
+    },
+    "regularMarketVolume": {
+      "raw": 729814,
+      "fmt": "729.81k",
+      "longFmt": "729,814.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "DELAYED",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 3355617,
+      "fmt": "3.36M",
+      "longFmt": "3,355,617.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "symbol": "BTZI",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.13999996,
+      "fmt": "-14.00%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": []
+  },
+  "insiderTransactions": {
+    "transactions": [
+      {
+        "filerName": "ROSENBERG PAUL",
+        "transactionText": "Sale at price 0.04 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1572307200,
+          "fmt": "2019-10-29"
+        },
+        "value": {
+          "raw": 1465200,
+          "fmt": "1.47M",
+          "longFmt": "1,465,200"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 36000000,
+          "fmt": "36M",
+          "longFmt": "36,000,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "HAWKINS MICHAEL W",
+        "transactionText": "Sale at price 0.12 - 0.15 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1552608000,
+          "fmt": "2019-03-15"
+        },
+        "value": {
+          "raw": 39869,
+          "fmt": "39.87k",
+          "longFmt": "39,869"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 275000,
+          "fmt": "275k",
+          "longFmt": "275,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ROSENBERG PAUL",
+        "transactionText": "Sale at price 0.12 - 0.16 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1552521600,
+          "fmt": "2019-03-14"
+        },
+        "value": {
+          "raw": 50262,
+          "fmt": "50.26k",
+          "longFmt": "50,262"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 341100,
+          "fmt": "341.1k",
+          "longFmt": "341,100"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ROSENBERG PAUL",
+        "transactionText": "Stock Award(Grant) at price 0.11 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1419379200,
+          "fmt": "2014-12-24"
+        },
+        "value": {
+          "raw": 6600,
+          "fmt": "6.6k",
+          "longFmt": "6,600"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 60000,
+          "fmt": "60k",
+          "longFmt": "60,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      }
+    ],
+    "maxAge": 1
+  },
+  "insiderHolders": {
+    "holders": [
+      {
+        "maxAge": 1,
+        "name": "HAWKINS MICHAEL W",
+        "relation": "Chief Financial Officer",
+        "url": "",
+        "transactionDescription": "Sale",
+        "latestTransDate": {
+          "raw": 1552608000,
+          "fmt": "2019-03-15"
+        },
+        "positionIndirect": {
+          "raw": 11054700,
+          "fmt": "11.05M",
+          "longFmt": "11,054,700"
+        },
+        "positionIndirectDate": {
+          "raw": 1552608000,
+          "fmt": "2019-03-15"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "ROSENBERG PAUL",
+        "relation": "Chief Executive Officer",
+        "url": "",
+        "transactionDescription": "Sale",
+        "latestTransDate": {
+          "raw": 1572307200,
+          "fmt": "2019-10-29"
+        },
+        "positionDirect": {
+          "raw": 45008200,
+          "fmt": "45.01M",
+          "longFmt": "45,008,200"
+        },
+        "positionDirectDate": {
+          "raw": 1572307200,
+          "fmt": "2019-10-29"
+        }
+      }
+    ],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "maxAge": 1,
+    "period": "6m",
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "institutionsCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "grossMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "operatingCashflow": {
+      "raw": 113603,
+      "fmt": "113.6k",
+      "longFmt": "113,603"
+    },
+    "revenueGrowth": {},
+    "operatingMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "ebitda": {
+      "raw": -72564,
+      "fmt": "-72.56k",
+      "longFmt": "-72,564"
+    },
+    "targetLowPrice": {},
+    "recommendationKey": "none",
+    "grossProfits": {},
+    "freeCashflow": {
+      "raw": -185691,
+      "fmt": "-185.69k",
+      "longFmt": "-185,691"
+    },
+    "targetMedianPrice": {},
+    "currentPrice": {
+      "raw": 0.0043,
+      "fmt": "0.00"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 2.136,
+      "fmt": "2.14"
+    },
+    "returnOnAssets": {
+      "raw": -0.00213,
+      "fmt": "-0.21%"
+    },
+    "numberOfAnalystOpinions": {},
+    "targetMeanPrice": {},
+    "debtToEquity": {
+      "raw": 8.47,
+      "fmt": "8.47%"
+    },
+    "returnOnEquity": {
+      "raw": -1.5737,
+      "fmt": "-157.37%"
+    },
+    "targetHighPrice": {},
+    "totalCash": {
+      "raw": 2272,
+      "fmt": "2.27k",
+      "longFmt": "2,272"
+    },
+    "totalDebt": {
+      "raw": 585112,
+      "fmt": "585.11k",
+      "longFmt": "585,112"
+    },
+    "totalRevenue": {},
+    "totalCashPerShare": {
+      "raw": 0,
+      "fmt": "0"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {},
+    "quickRatio": {
+      "raw": 0.012,
+      "fmt": "0.01"
+    },
+    "recommendationMean": {}
+  },
+  "quoteType": {
+    "exchange": "PNK",
+    "shortName": "BOTS INC",
+    "longName": "BOTS, Inc.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "BTZI",
+    "messageBoardId": "finmb_53031257",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1640908800,
+          "fmt": "2021-12-31"
+        },
+        "organization": "Ifp Advisors, Inc",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 6000,
+          "fmt": "6k",
+          "longFmt": "6,000"
+        },
+        "value": {
+          "raw": 25,
+          "fmt": "25",
+          "longFmt": "25"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [],
+      "earningsAverage": {},
+      "earningsLow": {},
+      "earningsHigh": {},
+      "revenueAverage": {},
+      "revenueLow": {},
+      "revenueHigh": {}
+    },
+    "exDividendDate": {},
+    "dividendDate": {}
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 0.005,
+      "fmt": "0.0050"
+    },
+    "regularMarketOpen": {
+      "raw": 0.004,
+      "fmt": "0.0040"
+    },
+    "twoHundredDayAverage": {
+      "raw": 0.00524225,
+      "fmt": "0.0052"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 0.0064,
+      "fmt": "0.0064"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 487158,
+      "fmt": "487.16k",
+      "longFmt": "487,158"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 0.005,
+      "fmt": "0.0050"
+    },
+    "fiftyDayAverage": {
+      "raw": 0.004334,
+      "fmt": "0.0043"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 0.004,
+      "fmt": "0.0040"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 487158,
+      "fmt": "487.16k",
+      "longFmt": "487,158"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 0.632,
+      "fmt": "0.63"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 0.0034,
+      "fmt": "0.0034"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 729814,
+      "fmt": "729.81k",
+      "longFmt": "729,814"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 3355617,
+      "fmt": "3.36M",
+      "longFmt": "3,355,617"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 527050,
+      "fmt": "527.05k",
+      "longFmt": "527,050"
+    },
+    "priceToSalesTrailing12Months": {},
+    "dayLow": {
+      "raw": 0.0034,
+      "fmt": "0.0034"
+    },
+    "ask": {},
+    "ytdReturn": {},
+    "askSize": {},
+    "volume": {
+      "raw": 729814,
+      "fmt": "729.81k",
+      "longFmt": "729,814"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 0.0308,
+      "fmt": "0.0308"
+    },
+    "forwardPE": {},
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 0.0001,
+      "fmt": "0.0001"
+    },
+    "bid": {},
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {},
+    "dayHigh": {
+      "raw": 0.0064,
+      "fmt": "0.0064"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "BTZI",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {},
+  "pageViews": {}
+}

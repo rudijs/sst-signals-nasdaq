@@ -1,0 +1,1669 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 3.99,
+      "fmt": "3.99"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "enterpriseToEbitda": {
+      "raw": -2.972,
+      "fmt": "-2.97"
+    },
+    "52WeekChange": {
+      "raw": 0.6836735,
+      "fmt": "68.37%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {
+      "raw": -1.69,
+      "fmt": "-1.69"
+    },
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 14355300,
+      "fmt": "14.36M",
+      "longFmt": "14,355,300"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 2.265,
+      "fmt": "2.27"
+    },
+    "sharesShort": {
+      "raw": 721826,
+      "fmt": "721.83k",
+      "longFmt": "721,826"
+    },
+    "sharesPercentSharesOut": {
+      "raw": 0.050300002,
+      "fmt": "5.03%"
+    },
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.008719999,
+      "fmt": "0.87%"
+    },
+    "netIncomeToCommon": {
+      "raw": -131583000,
+      "fmt": "-131.58M",
+      "longFmt": "-131,583,000"
+    },
+    "trailingEps": {
+      "raw": -13.58,
+      "fmt": "-13.5800"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.2508303,
+      "fmt": "25.08%"
+    },
+    "priceToBook": {
+      "raw": 1.4657836,
+      "fmt": "1.47"
+    },
+    "heldPercentInsiders": {
+      "raw": 0.03164,
+      "fmt": "3.16%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1703980800,
+      "fmt": "2023-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1696032000,
+      "fmt": "2023-09-30"
+    },
+    "shortRatio": {
+      "raw": 0.24,
+      "fmt": "0.24"
+    },
+    "sharesShortPreviousMonthDate": {
+      "raw": 1700006400,
+      "fmt": "2023-11-15"
+    },
+    "floatShares": {
+      "raw": 13958985,
+      "fmt": "13.96M",
+      "longFmt": "13,958,985"
+    },
+    "beta": {
+      "raw": 2.027,
+      "fmt": "2.03"
+    },
+    "enterpriseValue": {
+      "raw": 62413716,
+      "fmt": "62.41M",
+      "longFmt": "62,413,716"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1687996800,
+      "fmt": "2023-06-29"
+    },
+    "lastSplitFactor": "1:7",
+    "legalType": null,
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {
+      "raw": 1702598400,
+      "fmt": "2023-12-15"
+    },
+    "pegRatio": {
+      "raw": -0.11,
+      "fmt": "-0.11"
+    },
+    "ytdReturn": {},
+    "forwardPE": {
+      "raw": -1.964497,
+      "fmt": "-1.96"
+    },
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {
+      "raw": 0.0507,
+      "fmt": "5.07%"
+    },
+    "sharesShortPriorMonth": {
+      "raw": 45840,
+      "fmt": "45.84k",
+      "longFmt": "45,840"
+    },
+    "impliedSharesOutstanding": {
+      "raw": 14355300,
+      "fmt": "14.36M",
+      "longFmt": "14,355,300"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "industryDisp": "Software - Application",
+    "zip": "06831",
+    "industryKey": "software-application",
+    "sector": "Technology",
+    "sectorDisp": "Technology",
+    "fullTimeEmployees": 27,
+    "longBusinessSummary": "Sphere 3D Corp. focuses on operating as a carbon neutral bitcoin mining company. The company also provides data management and desktop and application virtualization solutions through hybrid cloud, cloud, and on-premises implementations directly and through its reseller network and professional services organization. Its products portfolio includes HVE-STACK high density server, which provides computer and storage appliance for the data centers; HVE-VELOCITY, a high availability dual enclosure storage area network that offers reliability and integrity for optimal data storage, protection, and recovery; HVE 3DGFX, a virtual desktop infrastructure solution; HVE STAGE, a server virtualization platform; and HVE VAULT, an appliance designed to handle requirements for backup and replication storage. In addition, the company offers on-site service and installation, and self-service and support services. Sphere 3D Corp. is based in Greenwich, Connecticut.",
+    "city": "Greenwich",
+    "phone": "647 952 5049",
+    "state": "CT",
+    "country": "United States",
+    "sectorKey": "technology",
+    "companyOfficers": [],
+    "website": "https://sphere3d.com",
+    "maxAge": 86400,
+    "address1": "4 Greenwich Office Park",
+    "industry": "Software - Application",
+    "address2": "Suite 100 1st Floor"
+  },
+  "recommendationTrend": {
+    "trend": [
+      {
+        "period": "0m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 1,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 0,
+        "buy": 1,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 0,
+        "buy": 1,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 1,
+        "sell": 0,
+        "strongSell": 0
+      }
+    ],
+    "maxAge": 86400
+  },
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {
+    "maxAge": 86400,
+    "earningsChart": {
+      "quarterly": [],
+      "currentQuarterEstimate": {
+        "raw": -0.28,
+        "fmt": "-0.28"
+      },
+      "earningsDate": [
+        {
+          "raw": 1711709940,
+          "fmt": "2024-03-29"
+        },
+        {
+          "raw": 1712059200,
+          "fmt": "2024-04-02"
+        }
+      ]
+    },
+    "financialsChart": {
+      "yearly": [
+        {
+          "date": 2019,
+          "revenue": {
+            "raw": 5579000,
+            "fmt": "5.58M",
+            "longFmt": "5,579,000"
+          },
+          "earnings": {
+            "raw": -4281000,
+            "fmt": "-4.28M",
+            "longFmt": "-4,281,000"
+          }
+        },
+        {
+          "date": 2020,
+          "revenue": {
+            "raw": 4848000,
+            "fmt": "4.85M",
+            "longFmt": "4,848,000"
+          },
+          "earnings": {
+            "raw": -5779000,
+            "fmt": "-5.78M",
+            "longFmt": "-5,779,000"
+          }
+        },
+        {
+          "date": 2021,
+          "revenue": {
+            "raw": 3720000,
+            "fmt": "3.72M",
+            "longFmt": "3,720,000"
+          },
+          "earnings": {
+            "raw": -17289000,
+            "fmt": "-17.29M",
+            "longFmt": "-17,289,000"
+          }
+        },
+        {
+          "date": 2022,
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "3Q2022",
+          "revenue": {
+            "raw": 1356000,
+            "fmt": "1.36M",
+            "longFmt": "1,356,000"
+          },
+          "earnings": {
+            "raw": -20523000,
+            "fmt": "-20.52M",
+            "longFmt": "-20,523,000"
+          }
+        },
+        {
+          "date": "4Q2022",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        },
+        {
+          "date": "1Q2023",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        },
+        {
+          "date": "2Q2023",
+          "revenue": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "earnings": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          }
+        }
+      ]
+    },
+    "financialCurrency": "USD"
+  },
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 3.49,
+      "fmt": "3.4900"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 1830869,
+      "fmt": "1.83M",
+      "longFmt": "1,830,869"
+    },
+    "exchange": "NCM",
+    "regularMarketTime": 1703883601,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 3.805,
+      "fmt": "3.8050"
+    },
+    "shortName": "Sphere 3D Corp.",
+    "averageDailyVolume10Day": {
+      "raw": 4492980,
+      "fmt": "4.49M",
+      "longFmt": "4,492,980"
+    },
+    "longName": "Sphere 3D Corp.",
+    "regularMarketChange": {
+      "raw": 0.01999998,
+      "fmt": "0.0200"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 3.3,
+      "fmt": "3.3000"
+    },
+    "postMarketTime": 1703898000,
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {
+      "raw": -0.01999998,
+      "fmt": "-0.02"
+    },
+    "postMarketPrice": {
+      "raw": 3.3,
+      "fmt": "3.3000"
+    },
+    "exchangeName": "NasdaqCM",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 3.25,
+      "fmt": "3.2500"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 3.32,
+      "fmt": "3.3200"
+    },
+    "regularMarketVolume": {
+      "raw": 4002882,
+      "fmt": "4.00M",
+      "longFmt": "4,002,882.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "FREE_REALTIME",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 47659596,
+      "fmt": "47.66M",
+      "longFmt": "47,659,596.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "postMarketSource": "DELAYED",
+    "strikePrice": {},
+    "symbol": "ANY",
+    "postMarketChangePercent": {
+      "raw": -0.0060240906,
+      "fmt": "-0.60%"
+    },
+    "preMarketSource": "FREE_REALTIME",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": 0.0060606003,
+      "fmt": "0.61%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Vanguard Total Stock Market Index Fund",
+        "pctHeld": {
+          "raw": 0.0058,
+          "fmt": "0.58%"
+        },
+        "position": {
+          "raw": 83035,
+          "fmt": "83.03k",
+          "longFmt": "83,035"
+        },
+        "value": {
+          "raw": 275676,
+          "fmt": "275.68k",
+          "longFmt": "275,676"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1690761600,
+          "fmt": "2023-07-31"
+        },
+        "organization": "Dimensional ETF Tr-Dimensional U.S. Targeted Value ETF",
+        "pctHeld": {
+          "raw": 0.0008,
+          "fmt": "0.08%"
+        },
+        "position": {
+          "raw": 11950,
+          "fmt": "11.95k",
+          "longFmt": "11,950"
+        },
+        "value": {
+          "raw": 39673,
+          "fmt": "39.67k",
+          "longFmt": "39,673"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1698710400,
+          "fmt": "2023-10-31"
+        },
+        "organization": "Fidelity NASDAQ Composite Index Fund",
+        "pctHeld": {
+          "raw": 0.0002,
+          "fmt": "0.02%"
+        },
+        "position": {
+          "raw": 3243,
+          "fmt": "3.24k",
+          "longFmt": "3,243"
+        },
+        "value": {
+          "raw": 10766,
+          "fmt": "10.77k",
+          "longFmt": "10,766"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      }
+    ]
+  },
+  "insiderTransactions": {
+    "transactions": [
+      {
+        "filerName": "HARNETT SUSAN S",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1702944000,
+          "fmt": "2023-12-19"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 46082,
+          "fmt": "46.08k",
+          "longFmt": "46,082"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "HANLEY TIMOTHY P.",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1702944000,
+          "fmt": "2023-12-19"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 46082,
+          "fmt": "46.08k",
+          "longFmt": "46,082"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KALBFLEISCH KURT L",
+        "transactionText": "Sale at price 1.55 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1701820800,
+          "fmt": "2023-12-06"
+        },
+        "value": {
+          "raw": 15637,
+          "fmt": "15.64k",
+          "longFmt": "15,637"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 10070,
+          "fmt": "10.07k",
+          "longFmt": "10,070"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "O'DANIEL JOSEPH",
+        "transactionText": "Sale at price 1.07 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1701734400,
+          "fmt": "2023-12-05"
+        },
+        "value": {
+          "raw": 22929,
+          "fmt": "22.93k",
+          "longFmt": "22,929"
+        },
+        "filerRelation": "President",
+        "shares": {
+          "raw": 21429,
+          "fmt": "21.43k",
+          "longFmt": "21,429"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KALBFLEISCH KURT L",
+        "transactionText": "Sale at price 0.63 - 0.91 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1701388800,
+          "fmt": "2023-12-01"
+        },
+        "value": {
+          "raw": 51712,
+          "fmt": "51.71k",
+          "longFmt": "51,712"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 64857,
+          "fmt": "64.86k",
+          "longFmt": "64,857"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KALBFLEISCH KURT L",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1701388800,
+          "fmt": "2023-12-01"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 97143,
+          "fmt": "97.14k",
+          "longFmt": "97,143"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "O'DANIEL JOSEPH",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1701388800,
+          "fmt": "2023-12-01"
+        },
+        "filerRelation": "President",
+        "shares": {
+          "raw": 28572,
+          "fmt": "28.57k",
+          "longFmt": "28,572"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "TROMPETER PATRICIA",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1701388800,
+          "fmt": "2023-12-01"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 110600,
+          "fmt": "110.6k",
+          "longFmt": "110,600"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KALBFLEISCH KURT L",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1700006400,
+          "fmt": "2023-11-15"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 13928,
+          "fmt": "13.93k",
+          "longFmt": "13,928"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KALBFLEISCH KURT L",
+        "transactionText": "Sale at price 0.30 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684972800,
+          "fmt": "2023-05-25"
+        },
+        "value": {
+          "raw": 24112,
+          "fmt": "24.11k",
+          "longFmt": "24,112"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 80000,
+          "fmt": "80k",
+          "longFmt": "80,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "O'DANIEL JOSEPH",
+        "transactionText": "Sale at price 0.30 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684972800,
+          "fmt": "2023-05-25"
+        },
+        "value": {
+          "raw": 15070,
+          "fmt": "15.07k",
+          "longFmt": "15,070"
+        },
+        "filerRelation": "President",
+        "shares": {
+          "raw": 50000,
+          "fmt": "50k",
+          "longFmt": "50,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "TROMPETER PATRICIA",
+        "transactionText": "Sale at price 0.33 - 0.34 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684800000,
+          "fmt": "2023-05-23"
+        },
+        "value": {
+          "raw": 23666,
+          "fmt": "23.67k",
+          "longFmt": "23,666"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 71000,
+          "fmt": "71k",
+          "longFmt": "71,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KALBFLEISCH KURT L",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684713600,
+          "fmt": "2023-05-22"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 170000,
+          "fmt": "170k",
+          "longFmt": "170,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "O'DANIEL JOSEPH",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684713600,
+          "fmt": "2023-05-22"
+        },
+        "filerRelation": "President",
+        "shares": {
+          "raw": 50000,
+          "fmt": "50k",
+          "longFmt": "50,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "TROMPETER PATRICIA",
+        "transactionText": "Sale at price 0.33 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684713600,
+          "fmt": "2023-05-22"
+        },
+        "value": {
+          "raw": 3302,
+          "fmt": "3.3k",
+          "longFmt": "3,302"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "TROMPETER PATRICIA",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1684713600,
+          "fmt": "2023-05-22"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 193550,
+          "fmt": "193.55k",
+          "longFmt": "193,550"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "TROMPETER PATRICIA",
+        "transactionText": "",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1682985600,
+          "fmt": "2023-05-02"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 150000,
+          "fmt": "150k",
+          "longFmt": "150,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      }
+    ],
+    "maxAge": 1
+  },
+  "insiderHolders": {
+    "holders": [
+      {
+        "maxAge": 1,
+        "name": "HANLEY TIMOTHY P.",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Conversion of Exercise of derivative security",
+        "latestTransDate": {
+          "raw": 1702944000,
+          "fmt": "2023-12-19"
+        },
+        "positionDirect": {
+          "raw": 46082,
+          "fmt": "46.08k",
+          "longFmt": "46,082"
+        },
+        "positionDirectDate": {
+          "raw": 1702944000,
+          "fmt": "2023-12-19"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "HARNETT SUSAN S",
+        "relation": "Director",
+        "url": "",
+        "transactionDescription": "Conversion of Exercise of derivative security",
+        "latestTransDate": {
+          "raw": 1702944000,
+          "fmt": "2023-12-19"
+        },
+        "positionDirect": {
+          "raw": 46082,
+          "fmt": "46.08k",
+          "longFmt": "46,082"
+        },
+        "positionDirectDate": {
+          "raw": 1702944000,
+          "fmt": "2023-12-19"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "KALBFLEISCH KURT L",
+        "relation": "Chief Financial Officer",
+        "url": "",
+        "transactionDescription": "Sale",
+        "latestTransDate": {
+          "raw": 1701820800,
+          "fmt": "2023-12-06"
+        },
+        "positionDirect": {
+          "raw": 72223,
+          "fmt": "72.22k",
+          "longFmt": "72,223"
+        },
+        "positionDirectDate": {
+          "raw": 1701820800,
+          "fmt": "2023-12-06"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "O'DANIEL JOSEPH",
+        "relation": "President",
+        "url": "",
+        "transactionDescription": "Sale",
+        "latestTransDate": {
+          "raw": 1701734400,
+          "fmt": "2023-12-05"
+        },
+        "positionDirect": {
+          "raw": 1517,
+          "fmt": "1.52k",
+          "longFmt": "1,517"
+        },
+        "positionDirectDate": {
+          "raw": 1701734400,
+          "fmt": "2023-12-05"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "TROMPETER PATRICIA",
+        "relation": "Chief Executive Officer",
+        "url": "",
+        "transactionDescription": "Conversion of Exercise of derivative security",
+        "latestTransDate": {
+          "raw": 1701388800,
+          "fmt": "2023-12-01"
+        },
+        "positionDirect": {
+          "raw": 128079,
+          "fmt": "128.08k",
+          "longFmt": "128,079"
+        },
+        "positionDirectDate": {
+          "raw": 1701388800,
+          "fmt": "2023-12-01"
+        }
+      }
+    ],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "period": "6m",
+    "netPercentInsiderShares": {
+      "raw": 1.082,
+      "fmt": "108.20%"
+    },
+    "netInfoCount": {
+      "raw": 10,
+      "fmt": "10",
+      "longFmt": "10"
+    },
+    "totalInsiderShares": {
+      "raw": 454202,
+      "fmt": "454.2k",
+      "longFmt": "454,202"
+    },
+    "buyInfoShares": {
+      "raw": 342407,
+      "fmt": "342.41k",
+      "longFmt": "342,407"
+    },
+    "buyPercentInsiderShares": {
+      "raw": 1.57,
+      "fmt": "157.00%"
+    },
+    "sellInfoCount": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "sellInfoShares": {
+      "raw": 106356,
+      "fmt": "106.36k",
+      "longFmt": "106,356"
+    },
+    "sellPercentInsiderShares": {
+      "raw": 0.488,
+      "fmt": "48.80%"
+    },
+    "maxAge": 1,
+    "buyInfoCount": {
+      "raw": 6,
+      "fmt": "6",
+      "longFmt": "6"
+    },
+    "netInfoShares": {
+      "raw": 236051,
+      "fmt": "236.05k",
+      "longFmt": "236,051"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0.03164,
+      "fmt": "3.16%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0.008719999,
+      "fmt": "0.87%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0.00901,
+      "fmt": "0.90%"
+    },
+    "institutionsCount": {
+      "raw": 16,
+      "fmt": "16",
+      "longFmt": "16"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": -1.34235,
+      "fmt": "-134.24%"
+    },
+    "profitMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "grossMargins": {
+      "raw": 0.23594,
+      "fmt": "23.59%"
+    },
+    "operatingCashflow": {
+      "raw": -8689000,
+      "fmt": "-8.69M",
+      "longFmt": "-8,689,000"
+    },
+    "revenueGrowth": {
+      "raw": 3.221,
+      "fmt": "322.10%"
+    },
+    "operatingMargins": {
+      "raw": -0.84871,
+      "fmt": "-84.87%"
+    },
+    "ebitda": {
+      "raw": -20999750,
+      "fmt": "-21M",
+      "longFmt": "-20,999,750"
+    },
+    "targetLowPrice": {
+      "raw": 5,
+      "fmt": "5.00"
+    },
+    "recommendationKey": "buy",
+    "grossProfits": {},
+    "freeCashflow": {
+      "raw": 19031250,
+      "fmt": "19.03M",
+      "longFmt": "19,031,250"
+    },
+    "targetMedianPrice": {
+      "raw": 5,
+      "fmt": "5.00"
+    },
+    "currentPrice": {
+      "raw": 3.32,
+      "fmt": "3.32"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 0.783,
+      "fmt": "0.78"
+    },
+    "returnOnAssets": {
+      "raw": -0.11452,
+      "fmt": "-11.45%"
+    },
+    "numberOfAnalystOpinions": {
+      "raw": 1,
+      "fmt": "1",
+      "longFmt": "1"
+    },
+    "targetMeanPrice": {
+      "raw": 5,
+      "fmt": "5.00"
+    },
+    "debtToEquity": {},
+    "returnOnEquity": {
+      "raw": -1.04071,
+      "fmt": "-104.07%"
+    },
+    "targetHighPrice": {
+      "raw": 5,
+      "fmt": "5.00"
+    },
+    "totalCash": {
+      "raw": 613000,
+      "fmt": "613k",
+      "longFmt": "613,000"
+    },
+    "totalDebt": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalRevenue": {
+      "raw": 15644000,
+      "fmt": "15.64M",
+      "longFmt": "15,644,000"
+    },
+    "totalCashPerShare": {
+      "raw": 0.043,
+      "fmt": "0.04"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 1.43,
+      "fmt": "1.43"
+    },
+    "quickRatio": {
+      "raw": 0.116,
+      "fmt": "0.12"
+    },
+    "recommendationMean": {
+      "raw": 2,
+      "fmt": "2.00"
+    }
+  },
+  "quoteType": {
+    "exchange": "NCM",
+    "shortName": "Sphere 3D Corp.",
+    "longName": "Sphere 3D Corp.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "EQUITY",
+    "symbol": "ANY",
+    "messageBoardId": "finmb_215497349",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Vanguard Group Inc",
+        "pctHeld": {
+          "raw": 0.0058,
+          "fmt": "0.58%"
+        },
+        "position": {
+          "raw": 83035,
+          "fmt": "83.03k",
+          "longFmt": "83,035"
+        },
+        "value": {
+          "raw": 275676,
+          "fmt": "275.68k",
+          "longFmt": "275,676"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Group One Trading, L.P.",
+        "pctHeld": {
+          "raw": 0.0014,
+          "fmt": "0.14%"
+        },
+        "position": {
+          "raw": 20601,
+          "fmt": "20.6k",
+          "longFmt": "20,601"
+        },
+        "value": {
+          "raw": 68395,
+          "fmt": "68.39k",
+          "longFmt": "68,395"
+        },
+        "pctChange": {
+          "raw": 0.4697,
+          "fmt": "46.97%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Citadel Advisors Llc",
+        "pctHeld": {
+          "raw": 0.00059999997,
+          "fmt": "0.06%"
+        },
+        "position": {
+          "raw": 8716,
+          "fmt": "8.72k",
+          "longFmt": "8,716"
+        },
+        "value": {
+          "raw": 28937,
+          "fmt": "28.94k",
+          "longFmt": "28,937"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Tower Research Capital LLC (TRC)",
+        "pctHeld": {
+          "raw": 0.0001,
+          "fmt": "0.01%"
+        },
+        "position": {
+          "raw": 1260,
+          "fmt": "1.26k",
+          "longFmt": "1,260"
+        },
+        "value": {
+          "raw": 4183,
+          "fmt": "4.18k",
+          "longFmt": "4,183"
+        },
+        "pctChange": {
+          "raw": -0.7518,
+          "fmt": "-75.18%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Sandy Spring Bank",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 122,
+          "fmt": "122",
+          "longFmt": "122"
+        },
+        "value": {
+          "raw": 405,
+          "fmt": "405",
+          "longFmt": "405"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Cornerstone Planning Group LLC                          ",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 114,
+          "fmt": "114",
+          "longFmt": "114"
+        },
+        "value": {
+          "raw": 378,
+          "fmt": "378",
+          "longFmt": "378"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "UBS Group AG",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 285,
+          "fmt": "285",
+          "longFmt": "285"
+        },
+        "value": {
+          "raw": 946,
+          "fmt": "946",
+          "longFmt": "946"
+        },
+        "pctChange": {
+          "raw": -0.9406,
+          "fmt": "-94.06%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Steward Partners Investment Advisory, LLC",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 571,
+          "fmt": "571",
+          "longFmt": "571"
+        },
+        "value": {
+          "raw": 1895,
+          "fmt": "1.9k",
+          "longFmt": "1,895"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Morgan Stanley",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 697,
+          "fmt": "697",
+          "longFmt": "697"
+        },
+        "value": {
+          "raw": 2314,
+          "fmt": "2.31k",
+          "longFmt": "2,314"
+        },
+        "pctChange": {
+          "raw": -0.1018,
+          "fmt": "-10.18%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1696032000,
+          "fmt": "2023-09-30"
+        },
+        "organization": "Royal Bank of Canada",
+        "pctHeld": {
+          "raw": 0,
+          "fmt": "0.00%"
+        },
+        "position": {
+          "raw": 132,
+          "fmt": "132",
+          "longFmt": "132"
+        },
+        "value": {
+          "raw": 438,
+          "fmt": "438",
+          "longFmt": "438"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [
+        {
+          "raw": 1711709940,
+          "fmt": "2024-03-29"
+        },
+        {
+          "raw": 1712059200,
+          "fmt": "2024-04-02"
+        }
+      ],
+      "earningsAverage": {
+        "raw": -0.28,
+        "fmt": "-0.28"
+      },
+      "earningsLow": {
+        "raw": -0.28,
+        "fmt": "-0.28"
+      },
+      "earningsHigh": {
+        "raw": -0.28,
+        "fmt": "-0.28"
+      },
+      "revenueAverage": {
+        "raw": 7700000,
+        "fmt": "7.7M",
+        "longFmt": "7,700,000"
+      },
+      "revenueLow": {
+        "raw": 7700000,
+        "fmt": "7.7M",
+        "longFmt": "7,700,000"
+      },
+      "revenueHigh": {
+        "raw": 7700000,
+        "fmt": "7.7M",
+        "longFmt": "7,700,000"
+      }
+    },
+    "exDividendDate": {},
+    "dividendDate": {
+      "raw": 1541462400,
+      "fmt": "2018-11-06"
+    }
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 3.3,
+      "fmt": "3.3000"
+    },
+    "regularMarketOpen": {
+      "raw": 3.49,
+      "fmt": "3.4900"
+    },
+    "twoHundredDayAverage": {
+      "raw": 1.935025,
+      "fmt": "1.9350"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 3.805,
+      "fmt": "3.8050"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 4492980,
+      "fmt": "4.49M",
+      "longFmt": "4,492,980"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 3.3,
+      "fmt": "3.3000"
+    },
+    "fiftyDayAverage": {
+      "raw": 1.35082,
+      "fmt": "1.3508"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "open": {
+      "raw": 3.49,
+      "fmt": "3.4900"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 4492980,
+      "fmt": "4.49M",
+      "longFmt": "4,492,980"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 2.027,
+      "fmt": "2.03"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 3.25,
+      "fmt": "3.2500"
+    },
+    "priceHint": {
+      "raw": 4,
+      "fmt": "4",
+      "longFmt": "4"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 4002882,
+      "fmt": "4M",
+      "longFmt": "4,002,882"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 47659596,
+      "fmt": "47.66M",
+      "longFmt": "47,659,596"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 1830869,
+      "fmt": "1.83M",
+      "longFmt": "1,830,869"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 3.0465095,
+      "fmt": "3.05"
+    },
+    "dayLow": {
+      "raw": 3.25,
+      "fmt": "3.2500"
+    },
+    "ask": {
+      "raw": 3.39,
+      "fmt": "3.3900"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 2200,
+      "fmt": "2.2k",
+      "longFmt": "2,200"
+    },
+    "volume": {
+      "raw": 4002882,
+      "fmt": "4M",
+      "longFmt": "4,002,882"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 4.09,
+      "fmt": "4.0900"
+    },
+    "forwardPE": {
+      "raw": -1.964497,
+      "fmt": "-1.96"
+    },
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 0.571,
+      "fmt": "0.5710"
+    },
+    "bid": {
+      "raw": 3.27,
+      "fmt": "3.2700"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {
+      "raw": 1200,
+      "fmt": "1.2k",
+      "longFmt": "1,200"
+    },
+    "dayHigh": {
+      "raw": 3.805,
+      "fmt": "3.8050"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "ANY",
+  "esgScores": {},
+  "upgradeDowngradeHistory": {
+    "history": [
+      {
+        "epochGradeDate": 1453208676,
+        "firm": "Ladenburg Thalmann",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1435132420,
+        "firm": "Roth Capital",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      }
+    ],
+    "maxAge": 86400
+  },
+  "pageViews": {
+    "shortTermTrend": "UP",
+    "midTermTrend": "UP",
+    "longTermTrend": "UP",
+    "maxAge": 1
+  }
+}
