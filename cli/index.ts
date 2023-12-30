@@ -3,11 +3,23 @@ import { Command } from "commander"
 // for this use case of compiling the typescript code to javascript and running it in node
 import { main } from "../packages/core/src/nasdaq.js"
 import { main as tvList } from "../packages/core/src/tradingViewList.js"
-import { main as process } from "../packages/core/src/process.js"
+import { main as processSignals } from "../packages/core/src/process.js"
+import { fetchData } from "../packages/core/src/fetchData.js"
+import { fetchHistoricalData } from "../packages/core/src/fetchHistoricalData.js"
 
 const program = new Command()
 
 program.name("signals-nasdaq").description("CLI for NASDAQ signals").version("1.0.0")
+
+const requiredEnvironmanetVars = ["RAPIDAPI_API_KEY"]
+
+requiredEnvironmanetVars.forEach((item) => {
+  if (!process.env[item]) {
+    throw new Error(`Required environment variable missing: ${item}`)
+  }
+})
+
+const RAPIDAPI_API_KEY = process.env.RAPIDAPI_API_KEY as string
 
 // Usage
 // node dist/cli nasdaq >! dist/curl.sh
@@ -24,7 +36,7 @@ program
   .command("signals")
   .description("Read data and generate signals")
   .action(async () => {
-    await process()
+    await processSignals()
   })
 
 program
@@ -32,6 +44,20 @@ program
   .description("Print list of symbols for tradingview")
   .action(async () => {
     await tvList()
+  })
+
+program
+  .command("fetch-summary")
+  .description("Fetch symbol summary data from Yahoo finance")
+  .action(async () => {
+    await fetchData(RAPIDAPI_API_KEY)
+  })
+
+program
+  .command("fetch-data")
+  .description("Fetch symbol historical data from Yahoo finance")
+  .action(async () => {
+    await fetchHistoricalData(RAPIDAPI_API_KEY)
   })
 
 program.parse()
