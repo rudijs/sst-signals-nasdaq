@@ -1,11 +1,13 @@
 export type NasdaqSymbol = {
   name: string
   symbol: string
+  yahooFinanceSymbol?: string
   exchange: string
   type?: string
   url?: string
   lists?: string[]
   tradableAt?: string[]
+  region: "US" | "BR" | "AU" | "CA" | "FR" | "DE" | "HK" | "IN" | "IT" | "ES" | "GB" | "SG"
 }
 
 export const miners: NasdaqSymbol[] = [
@@ -16,6 +18,17 @@ export const miners: NasdaqSymbol[] = [
     lists: ["ia", "ap"],
     url: "https://finance.yahoo.com/quote/WULF",
     type: "Hosted Mining",
+    region: "US",
+  },
+  {
+    symbol: "SATO",
+    yahooFinanceSymbol: "SATO.V",
+    name: "Sato Technologies Corp.",
+    exchange: "TSXV",
+    url: "https://finance.yahoo.com/quote/SATO.V",
+    lists: ["ap"],
+    type: "Hosted Mining,High-Performance Computing,Artificial Intelligence",
+    region: "CA",
   },
   {
     symbol: "CBTTF",
@@ -23,7 +36,16 @@ export const miners: NasdaqSymbol[] = [
     exchange: "OTC",
     url: "https://finance.yahoo.com/quote/CBTTF",
     type: "Prop Mining",
+    region: "US",
   },
+  // {
+  //   symbol: "CBIT",
+  //   name: "Cathedra Bitcoin Inc",
+  //   exchange: "TSVX",
+  //   url: "https://finance.yahoo.com/quote/CBTTF",
+  //   type: "Prop Mining",
+  //   region: "CA",
+  // },
   {
     symbol: "BTCM",
     name: "BIT Mining Ltd",
@@ -31,6 +53,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/BTCM",
     tradableAt: ["boom"],
     type: "Prop Mining",
+    region: "US",
   },
   {
     symbol: "CIFR",
@@ -40,6 +63,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/CIFR",
     tradableAt: ["boom"],
     type: "Hosted Mining",
+    region: "US",
   },
   {
     symbol: "BLQC",
@@ -47,6 +71,7 @@ export const miners: NasdaqSymbol[] = [
     exchange: "OTC",
     url: "https://finance.yahoo.com/quote/BLQC",
     type: "Hosted Mining",
+    region: "US",
   },
   {
     symbol: "BITF",
@@ -56,6 +81,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/BITF",
     tradableAt: ["boom"],
     type: "Prop Mining",
+    region: "US",
   },
   {
     symbol: "MARA",
@@ -64,6 +90,7 @@ export const miners: NasdaqSymbol[] = [
     lists: ["ia", "ap"],
     url: "https://finance.yahoo.com/quote/MARA",
     type: "Hosted Mining",
+    region: "US",
   },
   {
     symbol: "HUT",
@@ -72,6 +99,7 @@ export const miners: NasdaqSymbol[] = [
     lists: ["ia", "ap"],
     url: "https://finance.yahoo.com/quote/HUT",
     type: "Prop Mining",
+    region: "US",
   },
   {
     symbol: "GREE",
@@ -80,6 +108,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/GREE",
     type: "Diversified",
     lists: ["ap"],
+    region: "US",
   },
   {
     symbol: "SDIG",
@@ -88,6 +117,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/SDIG",
     type: "Hosted Mining",
     lists: ["ap"],
+    region: "US",
   },
   {
     symbol: "HIVE",
@@ -96,6 +126,7 @@ export const miners: NasdaqSymbol[] = [
     lists: ["ia", "ap"],
     url: "https://finance.yahoo.com/quote/HIVE",
     type: "Prop Mining",
+    region: "CA",
   },
   {
     symbol: "DGHI",
@@ -105,6 +136,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/DGHI",
     tradableAt: ["boom"],
     type: "Hosted Mining",
+    region: "US",
   },
   {
     symbol: "CLSK",
@@ -114,6 +146,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/CLSK",
     tradableAt: ["boom"],
     type: "Hosted Mining",
+    region: "US",
   },
   {
     symbol: "ANY",
@@ -123,6 +156,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/ANY",
     tradableAt: ["boom"],
     type: "Diversified",
+    region: "US",
   },
   {
     symbol: "IREN",
@@ -132,6 +166,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/IREN",
     tradableAt: ["boom"],
     type: "Prop Mining",
+    region: "US",
   },
   {
     symbol: "ARBK",
@@ -140,6 +175,7 @@ export const miners: NasdaqSymbol[] = [
     lists: ["ia", "ap"],
     url: "https://finance.yahoo.com/quote/ARBK",
     tradableAt: ["boom"],
+    region: "US",
   },
   {
     symbol: "CORZQ",
@@ -148,6 +184,7 @@ export const miners: NasdaqSymbol[] = [
     lists: ["ia", "ap"],
     url: "https://finance.yahoo.com/quote/CORZQ",
     type: "Diversified",
+    region: "US",
   },
   {
     symbol: "MGTI",
@@ -156,6 +193,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/MGTI",
     tradableAt: ["boom"],
     type: "Prop Mining",
+    region: "US",
   },
   {
     symbol: "BTZI",
@@ -164,6 +202,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/BTZI",
     tradableAt: ["boom"],
     type: "Diversified",
+    region: "US",
   },
   {
     symbol: "WELX",
@@ -172,6 +211,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/WELX",
     tradableAt: ["boom"],
     type: "Hosted Mining",
+    region: "US",
   },
   {
     symbol: "CSTR",
@@ -180,6 +220,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/CSTR",
     tradableAt: ["boom"],
     type: "Prop Mining and Hosting",
+    region: "US",
   },
   {
     symbol: "INTV",
@@ -187,6 +228,7 @@ export const miners: NasdaqSymbol[] = [
     exchange: "OTC",
     url: "https://finance.yahoo.com/quote/INTV",
     type: "Hosted Mining",
+    region: "US",
   },
   {
     symbol: "INVU",
@@ -195,6 +237,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/INVU",
     tradableAt: ["boom"],
     type: "Hosted Mining",
+    region: "US",
   },
   {
     symbol: "MIGI",
@@ -204,6 +247,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/MIGI",
     tradableAt: ["boom"],
     type: "Prop Mining",
+    region: "US",
   },
   {
     symbol: "CCTL",
@@ -212,6 +256,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/CCTL",
     tradableAt: ["boom"],
     type: "Hosted Mining",
+    region: "US",
   },
   {
     symbol: "EBON",
@@ -220,6 +265,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/EBON",
     tradableAt: ["boom"],
     type: "Manufacturer",
+    region: "US",
   },
   {
     symbol: "CBTC",
@@ -228,6 +274,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/CBTC",
     tradableAt: ["boom"],
     type: "Prop Mining",
+    region: "US",
   },
   {
     symbol: "RIOT",
@@ -236,22 +283,27 @@ export const miners: NasdaqSymbol[] = [
     lists: ["ia", "ap"],
     url: "https://finance.yahoo.com/quote/RIOT",
     type: "Hosted Mining",
+    region: "US",
   },
   {
     symbol: "DMGI",
+    yahooFinanceSymbol: "DMGI.V",
     name: "DMG Blockchain Solutions",
     exchange: "TSXV",
     url: "https://finance.yahoo.com/quote/DMGI",
     type: "Prop Mining and Hosting",
     lists: ["ap"],
+    region: "CA",
   },
   {
     symbol: "NB2",
+    yahooFinanceSymbol: "NB2.DE",
     name: "Northern Data AG",
     exchange: "XETR",
     url: "https://finance.yahoo.com/quote/NB2",
     tradableAt: ["boom"],
     type: "Prop Mining and Hosting",
+    region: "DE",
   },
   {
     symbol: "BFCH",
@@ -260,6 +312,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/BFCH",
     tradableAt: ["boom"],
     type: "Hosted Mining",
+    region: "US",
   },
   {
     symbol: "SOS",
@@ -268,6 +321,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/SOS",
     tradableAt: ["boom"],
     type: "Diversified",
+    region: "US",
   },
   {
     symbol: "SASR",
@@ -276,6 +330,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/SASR",
     tradableAt: ["boom"],
     type: "Prop Mining",
+    region: "US",
   },
   {
     symbol: "CAN",
@@ -284,35 +339,32 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/CAN",
     tradableAt: ["boom"],
     type: "Manufacturer",
+    region: "US",
   },
-  {
-    symbol: "LEAS",
-    name: "Strategic Asset Leasing Inc.",
-    exchange: "OTC",
-    url: "https://finance.yahoo.com/quote/LEAS",
-    tradableAt: ["boom"],
-    type: "Prop Mining",
-  },
+  // {
+  //   symbol: "LEAS",
+  //   name: "Strategic Asset Leasing Inc.",
+  //   exchange: "OTC",
+  //   url: "https://finance.yahoo.com/quote/LEAS",
+  //   tradableAt: ["boom"],
+  //   type: "Prop Mining",
+  //   region: "US",
+  // },
   {
     symbol: "BTBT",
     name: "Bit Digital Inc.",
     exchange: "NASDAQ",
     lists: ["ia", "ap"],
     url: "https://finance.yahoo.com/quote/BTBT",
-    type: "Hosted Mining",
-  },
-  {
-    symbol: "SATO",
-    name: "Sato Technologies Corp.",
-    exchange: "TSXV",
-    url: "https://finance.yahoo.com/quote/SATO.V",
-    lists: ["ap"],
+    type: "Hosted Mining and AI",
+    region: "US",
   },
   {
     symbol: "WGMI",
     name: "Valkyrie Bitcoin Miners ETF",
     exchange: "NASDAQ",
     url: "https://finance.yahoo.com/quote/WGMI",
+    region: "US",
   },
   {
     symbol: "BTDR",
@@ -321,6 +373,7 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/BTDR",
     tradableAt: ["boom"],
     lists: ["ap"],
+    region: "US",
   },
   {
     symbol: "SLNH",
@@ -329,82 +382,82 @@ export const miners: NasdaqSymbol[] = [
     url: "https://finance.yahoo.com/quote/SLNH",
     tradableAt: ["boom"],
     lists: ["ap"],
+    region: "US",
   },
-  {
-    symbol: "PHX",
-    name: "Phoenix Group Plc",
-    exchange: "ADX",
-    url: "https://www.tradingview.com/symbols/ADX-PHX/",
-    tradableAt: [],
-    lists: [],
-  },
+  // {
+  //   symbol: "PHX",
+  //   name: "Phoenix Group Plc",
+  //   exchange: "ADX",
+  //   url: "https://www.tradingview.com/symbols/ADX-PHX/",
+  //   tradableAt: [],
+  //   lists: [],
+  // },
 ]
-
-const ai: NasdaqSymbol[] = [
-  {
-    symbol: "METV",
-    name: "MRoundhill Ball Metaverse ETF",
-    exchange: "NYSE",
-    url: "https://finance.yahoo.com/quote/METV",
-  },
-  {
-    symbol: "TECB",
-    name: "iShares U.S. Tech Breakthrough Multisector ETF",
-    exchange: "NYSE",
-    url: "https://finance.yahoo.com/quote/TECB",
-  },
-  {
-    symbol: "AIQ",
-    name: "Global X Artificial Intelligence & Technology ETF",
-    exchange: "NASDAQ",
-    url: "https://finance.yahoo.com/quote/AIQ",
-  },
-  {
-    symbol: "BOTZ",
-    name: "Global X Robotics & Artificial Intelligence ETF",
-    exchange: "NASDAQ",
-    url: "https://finance.yahoo.com/quote/BOTZ",
-  },
-  {
-    symbol: "ROBT",
-    name: "First Trust Nasdaq Artificial Intelligence and Robotics ETF",
-    exchange: "NASDAQ",
-    url: "https://finance.yahoo.com/quote/ROBT",
-  },
-  {
-    symbol: "PNQI",
-    name: "Invesco NASDAQ Internet ETF",
-    exchange: "NASDAQ",
-    url: "https://finance.yahoo.com/quote/PNQI",
-  },
-  {
-    symbol: "QQQ",
-    name: "Invesco QQQ Trust",
-    exchange: "NASDAQ",
-    url: "https://finance.yahoo.com/quote/QQQ",
-  },
-  {
-    symbol: "LOUP",
-    name: "Innovator Deepwater Frontier Tech ETF",
-    exchange: "NYSE",
-    url: "https://finance.yahoo.com/quote/LOUP",
-  },
-  {
-    symbol: "IXN",
-    name: "iShares Global Tech ETF",
-    exchange: "NYSE",
-    url: "https://finance.yahoo.com/quote/IXN",
-  },
-  {
-    symbol: "IYW",
-    name: "iShares U.S. Technology ETF",
-    exchange: "NYSE",
-    url: "https://finance.yahoo.com/quote/IYW",
-  },
-  {
-    symbol: "XLK",
-    name: "Technology Select Sector SPDR Fund",
-    exchange: "NYSE",
-    url: "https://finance.yahoo.com/quote/XLK",
-  },
-]
+// const ai: NasdaqSymbol[] = [
+//   {
+//     symbol: "METV",
+//     name: "MRoundhill Ball Metaverse ETF",
+//     exchange: "NYSE",
+//     url: "https://finance.yahoo.com/quote/METV",
+//   },
+//   {
+//     symbol: "TECB",
+//     name: "iShares U.S. Tech Breakthrough Multisector ETF",
+//     exchange: "NYSE",
+//     url: "https://finance.yahoo.com/quote/TECB",
+//   },
+//   {
+//     symbol: "AIQ",
+//     name: "Global X Artificial Intelligence & Technology ETF",
+//     exchange: "NASDAQ",
+//     url: "https://finance.yahoo.com/quote/AIQ",
+//   },
+//   {
+//     symbol: "BOTZ",
+//     name: "Global X Robotics & Artificial Intelligence ETF",
+//     exchange: "NASDAQ",
+//     url: "https://finance.yahoo.com/quote/BOTZ",
+//   },
+//   {
+//     symbol: "ROBT",
+//     name: "First Trust Nasdaq Artificial Intelligence and Robotics ETF",
+//     exchange: "NASDAQ",
+//     url: "https://finance.yahoo.com/quote/ROBT",
+//   },
+//   {
+//     symbol: "PNQI",
+//     name: "Invesco NASDAQ Internet ETF",
+//     exchange: "NASDAQ",
+//     url: "https://finance.yahoo.com/quote/PNQI",
+//   },
+//   {
+//     symbol: "QQQ",
+//     name: "Invesco QQQ Trust",
+//     exchange: "NASDAQ",
+//     url: "https://finance.yahoo.com/quote/QQQ",
+//   },
+//   {
+//     symbol: "LOUP",
+//     name: "Innovator Deepwater Frontier Tech ETF",
+//     exchange: "NYSE",
+//     url: "https://finance.yahoo.com/quote/LOUP",
+//   },
+//   {
+//     symbol: "IXN",
+//     name: "iShares Global Tech ETF",
+//     exchange: "NYSE",
+//     url: "https://finance.yahoo.com/quote/IXN",
+//   },
+//   {
+//     symbol: "IYW",
+//     name: "iShares U.S. Technology ETF",
+//     exchange: "NYSE",
+//     url: "https://finance.yahoo.com/quote/IYW",
+//   },
+//   {
+//     symbol: "XLK",
+//     name: "Technology Select Sector SPDR Fund",
+//     exchange: "NYSE",
+//     url: "https://finance.yahoo.com/quote/XLK",
+//   },
+// ]
