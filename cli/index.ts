@@ -26,19 +26,19 @@ const RAPIDAPI_API_KEY = process.env.RAPIDAPI_API_KEY as string
 // node dist/cli nasdaq >! dist/curl.sh
 // bash dist/curl.sh
 
-program
-  .command("nasdaq")
-  .description("Fetch, store, process and create report from nasdaq data")
-  .action(async () => {
-    await main()
-  })
+// program
+//   .command("nasdaq")
+//   .description("Fetch, store, process and create report from nasdaq data")
+//   .action(async () => {
+//     await main()
+//   })
 
-program
-  .command("signals")
-  .description("Read data and generate signals")
-  .action(async () => {
-    await processSignals()
-  })
+// program
+//   .command("signals")
+//   .description("Read data and generate signals")
+//   .action(async () => {
+//     await processSignals()
+//   })
 
 program
   .command("list")
