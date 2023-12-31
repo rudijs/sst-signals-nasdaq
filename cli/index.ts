@@ -7,6 +7,8 @@ import { main as processSignals } from "../packages/core/src/process.js"
 import { fetchData } from "../packages/core/src/fetchData.js"
 import { fetchHistoricalData } from "../packages/core/src/fetchHistoricalData.js"
 import { main as processSignals2 } from "../packages/core/src/process2.js"
+import { summary } from "../packages/core/src/summary.js"
+import Table from "cli-table"
 
 const program = new Command()
 
@@ -66,6 +68,26 @@ program
   .description("Read data and generate signals")
   .action(async () => {
     await processSignals2()
+  })
+
+program
+  .command("summary")
+  .description("Summary data")
+  .action(async () => {
+    const res = await summary()
+    // console.log(res)
+    // instantiate
+    var table = new Table({
+      head: ["Stock", "Market Cap"],
+      // colWidths: [100, 200],
+    })
+
+    // table is an Array, so you can `push`, `unshift`, `splice` and friends
+    res.forEach((element) => {
+      table.push([element.symbol, element.marketCapFmt])
+    })
+
+    console.log(table.toString())
   })
 
 program.parse()
