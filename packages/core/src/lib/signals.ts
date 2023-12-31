@@ -99,7 +99,28 @@ plot(nz(nFish[1]), color=red, title="Trigger")
   //   d.push({ date: data.t[i], high: data.h[i], low: data.l[i] })
   // }
 
-  const d = data.map((item) => ({ high: item.high, low: item.low }))
+  // filter out the data we need
+  // the yahoo data can have weird object like these instead of candlestick data
+  // {
+  //   "amount": 0.055,
+  //   "date": 1703082600,
+  //   "type": "DIVIDEND",
+  //   "data": 0.055
+  // },
+  // //
+  // {
+  //   "date": 1701700200,
+  //   "numerator": 1,
+  //   "denominator": 5,
+  //   "splitRatio": "1:5",
+  //   "type": "SPLIT",
+  //   "data": "1:5"
+  // },
+  const d = data.filter((item) => {
+    if (item.high && item.low) {
+      return { high: item.high, low: item.low }
+    }
+  })
 
   // const dataReversed = d.reverse()
   // console.log("dataReversed[0] :>> ", dataReversed[0])
@@ -112,18 +133,18 @@ plot(nz(nFish[1]), color=red, title="Trigger")
   // example:
   // dataReversed.shift()
   // fisherTransformCalc(dataReversed)
-  d.shift()
-  fisherTransformCalc(d)
-  d.shift()
-  fisherTransformCalc(d)
-  d.shift()
-  fisherTransformCalc(d)
-  d.shift()
-  fisherTransformCalc(d)
-  d.shift()
-  fisherTransformCalc(d)
-  d.shift()
-  fisherTransformCalc(d)
+  // d.shift()
+  // fisherTransformCalc(d)
+  // d.shift()
+  // fisherTransformCalc(d)
+  // d.shift()
+  // fisherTransformCalc(d)
+  // d.shift()
+  // fisherTransformCalc(d)
+  // d.shift()
+  // fisherTransformCalc(d)
+  // d.shift()
+  // fisherTransformCalc(d)
 
   // const signal: ISignal = {
   const signal = {
@@ -155,12 +176,16 @@ function fisherTransformCalc(data: { high: number; low: number }[]) {
     // console.log("i :>> ", i, i + LENGTH)
     // console.log("nValue1s :>> ", nValue1s)
     const dataPeriods = data.slice(i, i + LENGTH)
+    // console.log("dataPeriods :>> ", dataPeriods)
 
     const currPeriod = dataPeriods[0]
 
     // (high + low)/2
     //  xHL2 = hl2
-    const xHL2Periods = dataPeriods.map((item) => new Decimal(item.high).plus(item.low).div(2).toNumber())
+    const xHL2Periods = dataPeriods.map((item) => {
+      // console.log(item.high, item.low)
+      return new Decimal(item.high).plus(item.low).div(2).toNumber()
+    })
     // console.log("xHL2Periods :>> ", xHL2Periods)
 
     const xHL2 = new Decimal(currPeriod.high).plus(currPeriod.low).div(2).toNumber()

@@ -6,6 +6,7 @@ import { main as tvList } from "../packages/core/src/tradingViewList.js"
 import { main as processSignals } from "../packages/core/src/process.js"
 import { fetchData } from "../packages/core/src/fetchData.js"
 import { fetchHistoricalData } from "../packages/core/src/fetchHistoricalData.js"
+import { main as processSignals2 } from "../packages/core/src/process2.js"
 
 const program = new Command()
 
@@ -58,6 +59,13 @@ program
   .description("Fetch symbol historical data from Yahoo finance")
   .action(async () => {
     await fetchHistoricalData(RAPIDAPI_API_KEY)
+  })
+
+program
+  .command("signals2")
+  .description("Read data and generate signals")
+  .action(async () => {
+    await processSignals2()
   })
 
 program.parse()

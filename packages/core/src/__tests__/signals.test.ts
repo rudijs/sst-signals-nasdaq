@@ -3,6 +3,7 @@ import { rsi, fisherTransform } from "../lib/signals"
 // import mockCandles from "./fixtures/IREN_1D_30.json"
 import mockCandles2 from "./fixtures/historical-data/WULF.json"
 import mockCandles3 from "./fixtures/historical-data/NB2.json"
+import mockCandles4 from "./fixtures/historical-data/HUT.json"
 
 describe("rsi", () => {
   // it("RSI should be overbought", () => {
@@ -54,12 +55,21 @@ describe("rsi", () => {
     expect(result.side).toBe("bearish")
   })
 
-  it.skip("Fisher Transform should be bullish", () => {
+  it("Fisher Transform should be bullish", () => {
     const result = fisherTransform(mockCandles3.prices, "NB2")
     // console.log("result :>> ", result)
     expect(result.name).toBe("Fisher Transform")
     expect(result.type).toBe("Momentum")
     expect(result.symbol).toBe("NB2")
     expect(result.side).toBe("bullish")
+  })
+
+  it("Fisher Transform should be bullish", () => {
+    const result = fisherTransform(mockCandles4.prices, "HUT")
+    // console.log("result :>> ", result)
+    expect(result.name).toBe("Fisher Transform")
+    expect(result.type).toBe("Momentum")
+    expect(result.symbol).toBe("HUT")
+    expect(result.side).toBe("bearish")
   })
 })
