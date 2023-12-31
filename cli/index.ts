@@ -9,6 +9,7 @@ import { fetchHistoricalData } from "../packages/core/src/fetchHistoricalData.js
 import { main as processSignals2 } from "../packages/core/src/process2.js"
 import { summary } from "../packages/core/src/summary.js"
 import Table from "cli-table"
+import ObjectsToCsv from "objects-to-csv"
 
 const program = new Command()
 
@@ -88,6 +89,10 @@ program
     })
 
     console.log(table.toString())
+
+    // write csv to file
+    const csv = new ObjectsToCsv(res)
+    await csv.toDisk("./dist/Miners-Market-Cap.csv")
   })
 
 program.parse()
