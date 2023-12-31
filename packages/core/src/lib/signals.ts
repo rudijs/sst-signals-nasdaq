@@ -49,7 +49,17 @@ type CandleSticks = {
   v: number[]
 }
 
-export const fisherTransform = (data: CandleSticks, symbol: string): any => {
+type CandleSticks2 = {
+  date: number
+  open: number
+  high: number
+  low: number
+  close: number
+  volume: number
+  adjclose: number
+}
+
+export const fisherTransform = (data: CandleSticks2[], symbol: string): any => {
   // https://gist.githubusercontent.com/marketcalls/e7889dd1d4dbc1d7b1af/raw/864544ad7db297ca3607bf0d337bc7c664489f61/Fisher%2520Transform%2520Indicator%2520by%2520Ehlers
 
   ////////////////////////////////////////////////////////////
@@ -81,26 +91,39 @@ plot(nFish, color=green, title="Fisher")
 plot(nz(nFish[1]), color=red, title="Trigger")
 */
 
-  const d: { date: string; high: number; low: number }[] = []
+  // const d: { date: string; high: number; low: number }[] = []
 
-  // const dataReversed = data.reverse()
-  // const d: { high: number[]; low: number[] } = { high: [], low: [] }
-  const length = data.h.length
+  // const length = data.h.length
 
-  for (let i = 0; i < length; i++) {
-    d.push({ date: data.t[i], high: data.h[i], low: data.l[i] })
-  }
+  // for (let i = 0; i < length; i++) {
+  //   d.push({ date: data.t[i], high: data.h[i], low: data.l[i] })
+  // }
 
-  const dataReversed = d.reverse()
+  const d = data.map((item) => ({ high: item.high, low: item.low }))
+
+  // const dataReversed = d.reverse()
+  // console.log("dataReversed[0] :>> ", dataReversed[0])
 
   // current period
-  const { fisher, trigger } = fisherTransformCalc(dataReversed)
+  const { fisher, trigger } = fisherTransformCalc(d)
 
   // if you need the previous period, for example to look for a crossover
   // you must remove the first element and recalculate
   // example:
   // dataReversed.shift()
   // fisherTransformCalc(dataReversed)
+  d.shift()
+  fisherTransformCalc(d)
+  d.shift()
+  fisherTransformCalc(d)
+  d.shift()
+  fisherTransformCalc(d)
+  d.shift()
+  fisherTransformCalc(d)
+  d.shift()
+  fisherTransformCalc(d)
+  d.shift()
+  fisherTransformCalc(d)
 
   // const signal: ISignal = {
   const signal = {
@@ -120,7 +143,7 @@ plot(nz(nFish[1]), color=red, title="Trigger")
   return signal
 }
 
-function fisherTransformCalc(data: { date: string; high: number; low: number }[]) {
+function fisherTransformCalc(data: { high: number; low: number }[]) {
   // console.log("data :>> ", data[0])
   // console.log("data :>> ", data[1])
   const LENGTH = 13
