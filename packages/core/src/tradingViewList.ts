@@ -6,6 +6,7 @@ export const main = () => {
   const minersIa: string[] = []
   const minersAp: string[] = []
   const minersBoom: string[] = []
+  const minersETF: string[] = []
 
   const currentWorkingDirectory = process.cwd()
   // console.log(`Current working directory: ${currentWorkingDirectory}`)
@@ -28,10 +29,15 @@ export const main = () => {
     if (miner.tradableAt?.includes("boom")) {
       minersBoom.push(`${exchange}:${symbol}`)
     }
+
+    if (miner.type === "ETF") {
+      minersETF.push(`${exchange}:${symbol}`)
+    }
   }
 
   fs.writeFileSync(outDir + "/Miners-BTC.txt", minersBTC.join(","))
   fs.writeFileSync(outDir + "/Miners-IA.txt", minersIa.join(","))
   fs.writeFileSync(outDir + "/Miners-AP.txt", minersAp.join(","))
   fs.writeFileSync(outDir + "/Miners-Boom.txt", minersBoom.join(","))
+  fs.writeFileSync(outDir + "/Miners-ETF.txt", minersETF.join(","))
 }
