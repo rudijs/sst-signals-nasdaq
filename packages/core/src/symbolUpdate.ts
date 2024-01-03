@@ -96,16 +96,16 @@ export const main = (data: NasdaqSymbol[]) => {
   ]
 
   const bitqTickers = bitq.map((item) => item.symbol)
-  // console.log("bitqTickers :>> ", bitqTickers)
+  // console.log("BITQ Tickers :>> ", bitqTickers)
 
   const bkchTickers = bkch.map((item) => item.symbol)
-  // console.log("bkchTickers :>> ", bkchTickers)
+  // console.log("BKCH Tickers :>> ", bkchTickers)
 
   const wgmiTickers = wgmi.map((item) => item.symbol)
-  // console.log("wgmiTickers :>> ", wgmiTickers)
+  // console.log("WGMI Tickers :>> ", wgmiTickers)
 
   const dappTickers = dapp.map((item) => item.symbol)
-  // console.log("dappTickers :>> ", dappTickers)
+  // console.log("DAPP Tickers :>> ", dappTickers)
 
   for (const miner of data) {
     // add url

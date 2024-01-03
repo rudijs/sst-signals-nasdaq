@@ -5,6 +5,6 @@ import { miners } from "../symbolsList"
 describe("boomTickers", () => {
   it.skip("should contain all the expected tickers", () => {
     const res = main(miners)
-    console.log(JSON.stringify(res, null, 2))
+    // console.log(JSON.stringify(res, null, 2))
   })
 })
