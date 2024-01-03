@@ -1,3 +1,4 @@
+import { min } from "mathjs"
 import { miners } from "./symbolsList.js"
 import * as fs from "fs"
 
@@ -7,6 +8,8 @@ export const main = () => {
   const minersAp: string[] = []
   const minersBoom: string[] = []
   const minersETF: string[] = []
+  const minersETFHoldings: string[] = []
+  const minersETFNonHoldings: string[] = []
 
   const currentWorkingDirectory = process.cwd()
   // console.log(`Current working directory: ${currentWorkingDirectory}`)
@@ -33,6 +36,12 @@ export const main = () => {
     if (miner.type === "ETF") {
       minersETF.push(`${exchange}:${symbol}`)
     }
+
+    if (miner.etfs.length) {
+      minersETFHoldings.push(`${exchange}:${symbol}`)
+    } else {
+      minersETFNonHoldings.push(`${exchange}:${symbol}`)
+    }
   }
 
   fs.writeFileSync(outDir + "/Miners-BTC.txt", minersBTC.join(","))
@@ -40,4 +49,6 @@ export const main = () => {
   fs.writeFileSync(outDir + "/Miners-AP.txt", minersAp.join(","))
   fs.writeFileSync(outDir + "/Miners-Boom.txt", minersBoom.join(","))
   fs.writeFileSync(outDir + "/Miners-ETF.txt", minersETF.join(","))
+  fs.writeFileSync(outDir + "/Miners-ETF-Holdings.txt", minersETFHoldings.join(","))
+  fs.writeFileSync(outDir + "/Miners-ETF-Non-Holdings.txt", minersETFNonHoldings.join(","))
 }

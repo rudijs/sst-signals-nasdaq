@@ -1,0 +1,875 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {},
+    "beta3Year": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "profitMargins": {},
+    "enterpriseToEbitda": {},
+    "52WeekChange": {},
+    "morningStarRiskRating": {},
+    "forwardEps": {},
+    "revenueQuarterlyGrowth": {},
+    "fundInceptionDate": {
+      "raw": 1619481600,
+      "fmt": "2021-04-27"
+    },
+    "annualReportExpenseRatio": {},
+    "totalAssets": {
+      "raw": 99665760,
+      "fmt": "99.67M",
+      "longFmt": "99,665,760"
+    },
+    "bookValue": {},
+    "fundFamily": "Exchange Traded Concepts",
+    "lastFiscalYearEnd": {},
+    "netIncomeToCommon": {},
+    "trailingEps": {},
+    "lastDividendValue": {},
+    "SandP52WeekChange": {},
+    "priceToBook": {},
+    "nextFiscalYearEnd": {},
+    "yield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "mostRecentQuarter": {},
+    "enterpriseValue": {},
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {},
+    "lastSplitFactor": null,
+    "legalType": "Exchange Traded Fund",
+    "lastDividendDate": {},
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "pegRatio": {},
+    "ytdReturn": {
+      "raw": 2.8925412,
+      "fmt": "289.25%"
+    },
+    "forwardPE": {},
+    "maxAge": 1,
+    "lastCapGain": {},
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "fundProfile": {
+    "initInvestment": {},
+    "family": "Exchange Traded Concepts",
+    "categoryName": null,
+    "initAipInvestment": {},
+    "subseqIraInvestment": {},
+    "brokerages": [],
+    "managementInfo": {
+      "managerName": null,
+      "managerBio": null,
+      "startdate": {}
+    },
+    "subseqInvestment": {},
+    "legalType": "Exchange Traded Fund",
+    "styleBoxUrl": "https://s.yimg.com/lq/i/fi/3_0stylelargeeq9.gif",
+    "feesExpensesInvestment": {
+      "annualHoldingsTurnover": {
+        "raw": 0.63,
+        "fmt": "63.00%"
+      },
+      "frontEndSalesLoad": {},
+      "annualReportExpenseRatio": {
+        "raw": 0.0085,
+        "fmt": "0.85%"
+      },
+      "netExpRatio": {},
+      "projectionValues": {},
+      "grossExpRatio": {},
+      "deferredSalesLoad": {},
+      "totalNetAssets": {
+        "raw": 3192.62,
+        "fmt": "3,192.62"
+      },
+      "twelveBOne": {}
+    },
+    "maxAge": 1,
+    "feesExpensesInvestmentCat": {
+      "annualReportExpenseRatio": {},
+      "frontEndSalesLoad": {},
+      "deferredSalesLoad": {},
+      "twelveBOne": {},
+      "annualHoldingsTurnover": {},
+      "totalNetAssets": {
+        "raw": 3192.62,
+        "fmt": "3,192.62"
+      },
+      "projectionValuesCat": {}
+    },
+    "initIraInvestment": {},
+    "subseqAipInvestment": {}
+  },
+  "financialsTemplate": {},
+  "topHoldings": {
+    "preferredPosition": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "bondPosition": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "convertiblePosition": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "sectorWeightings": [
+      {
+        "realestate": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "consumer_cyclical": {
+          "raw": 0.0147,
+          "fmt": "1.47%"
+        }
+      },
+      {
+        "basic_materials": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "consumer_defensive": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "technology": {
+          "raw": 0.2879,
+          "fmt": "28.79%"
+        }
+      },
+      {
+        "communication_services": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "financial_services": {
+          "raw": 0.6974,
+          "fmt": "69.74%"
+        }
+      },
+      {
+        "utilities": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "industrials": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "energy": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "healthcare": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      }
+    ],
+    "holdings": [
+      {
+        "symbol": "COIN",
+        "holdingName": "Coinbase Global Inc Ordinary Shares - Class A",
+        "holdingPercent": {
+          "raw": 0.1443207,
+          "fmt": "14.43%"
+        }
+      },
+      {
+        "symbol": "MSTR",
+        "holdingName": "MicroStrategy Inc Class A",
+        "holdingPercent": {
+          "raw": 0.12780909,
+          "fmt": "12.78%"
+        }
+      },
+      {
+        "symbol": "MARA",
+        "holdingName": "Marathon Digital Holdings Inc",
+        "holdingPercent": {
+          "raw": 0.0900479,
+          "fmt": "9.00%"
+        }
+      },
+      {
+        "symbol": "GLXY.TO",
+        "holdingName": "Galaxy Digital Holdings Ltd",
+        "holdingPercent": {
+          "raw": 0.0663189,
+          "fmt": "6.63%"
+        }
+      },
+      {
+        "symbol": "NB2.MU",
+        "holdingName": "Northern Data AG",
+        "holdingPercent": {
+          "raw": 0.0620178,
+          "fmt": "6.20%"
+        }
+      },
+      {
+        "symbol": "RIOT",
+        "holdingName": "Riot Platforms Inc",
+        "holdingPercent": {
+          "raw": 0.046175197,
+          "fmt": "4.62%"
+        }
+      },
+      {
+        "symbol": "BITF.TO",
+        "holdingName": "Bitfarms Ltd",
+        "holdingPercent": {
+          "raw": 0.0409494,
+          "fmt": "4.09%"
+        }
+      },
+      {
+        "symbol": "BKKT",
+        "holdingName": "Bakkt Holdings Inc Ordinary Shares - Class A",
+        "holdingPercent": {
+          "raw": 0.0374052,
+          "fmt": "3.74%"
+        }
+      },
+      {
+        "symbol": "HUT",
+        "holdingName": "Hut 8 Mining Corp",
+        "holdingPercent": {
+          "raw": 0.032956198,
+          "fmt": "3.30%"
+        }
+      },
+      {
+        "symbol": "APLD",
+        "holdingName": "Applied Digital Corp",
+        "holdingPercent": {
+          "raw": 0.0328208,
+          "fmt": "3.28%"
+        }
+      }
+    ],
+    "bondHoldings": {
+      "maturity": {},
+      "duration": {},
+      "creditQuality": {},
+      "maturityCat": {},
+      "durationCat": {},
+      "creditQualityCat": {}
+    },
+    "bondRatings": [
+      {
+        "us_government": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      }
+    ],
+    "equityHoldings": {
+      "priceToCashflow": {
+        "raw": 0,
+        "fmt": "0"
+      },
+      "priceToSales": {
+        "raw": 0.59666,
+        "fmt": "0.6"
+      },
+      "priceToBookCat": {},
+      "priceToEarningsCat": {},
+      "medianMarketCapCat": {},
+      "threeYearEarningsGrowthCat": {},
+      "threeYearEarningsGrowth": {},
+      "medianMarketCap": {},
+      "priceToEarnings": {
+        "raw": 0,
+        "fmt": "0"
+      },
+      "priceToBook": {
+        "raw": 0.44273,
+        "fmt": "0.44"
+      },
+      "priceToSalesCat": {},
+      "priceToCashflowCat": {}
+    },
+    "otherPosition": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "maxAge": 1,
+    "cashPosition": {
+      "raw": 0.0023999999,
+      "fmt": "0.24%"
+    },
+    "stockPosition": {
+      "raw": 0.9975,
+      "fmt": "99.75%"
+    }
+  },
+  "price": {
+    "quoteSourceName": "Delayed Quote",
+    "regularMarketOpen": {
+      "raw": 12.65,
+      "fmt": "12.65"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 166190,
+      "fmt": "166.19k",
+      "longFmt": "166,190"
+    },
+    "exchange": "PCX",
+    "regularMarketTime": 1704229200,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 12.65,
+      "fmt": "12.65"
+    },
+    "shortName": "Bitwise Crypto Industry Innovat",
+    "averageDailyVolume10Day": {
+      "raw": 369750,
+      "fmt": "369.75k",
+      "longFmt": "369,750"
+    },
+    "longName": "Bitwise Crypto Industry Innovators ETF",
+    "regularMarketChange": {
+      "raw": -0.26000023,
+      "fmt": "-0.26"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 11.59,
+      "fmt": "11.59"
+    },
+    "postMarketTime": 1704243036,
+    "preMarketPrice": {
+      "raw": 12.7,
+      "fmt": "12.70"
+    },
+    "preMarketTime": 1704204853,
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {
+      "raw": 0.42000008,
+      "fmt": "0.42"
+    },
+    "postMarketPrice": {
+      "raw": 11.75,
+      "fmt": "11.75"
+    },
+    "exchangeName": "NYSEArca",
+    "preMarketChange": {
+      "raw": 1.1099997,
+      "fmt": "1.11"
+    },
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 11.26,
+      "fmt": "11.26"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 11.33,
+      "fmt": "11.33"
+    },
+    "regularMarketVolume": {
+      "raw": 434654,
+      "fmt": "434.65k",
+      "longFmt": "434,654.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "DELAYED",
+    "openInterest": {},
+    "marketState": "POSTPOST",
+    "underlyingSymbol": null,
+    "marketCap": {},
+    "quoteType": "ETF",
+    "preMarketChangePercent": {
+      "raw": 0.09577219,
+      "fmt": "9.58%"
+    },
+    "volumeAllCurrencies": {},
+    "postMarketSource": "DELAYED",
+    "strikePrice": {},
+    "symbol": "BITQ",
+    "postMarketChangePercent": {
+      "raw": 0.037069734,
+      "fmt": "3.71%"
+    },
+    "preMarketSource": "DELAYED",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.02243315,
+      "fmt": "-2.24%"
+    }
+  },
+  "fundPerformance": {
+    "trailingReturns": {
+      "threeMonth": {
+        "raw": 0.9578212,
+        "fmt": "95.78%"
+      },
+      "oneYear": {
+        "raw": 3.1108148,
+        "fmt": "311.08%"
+      },
+      "ytd": {
+        "raw": 2.8925412,
+        "fmt": "289.25%"
+      },
+      "lastBearMkt": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "lastBullMkt": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "fiveYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "asOfDate": {
+        "raw": 1703721600,
+        "fmt": "2023-12-28"
+      },
+      "tenYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "oneMonth": {
+        "raw": 0.5709185,
+        "fmt": "57.09%"
+      },
+      "threeYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      }
+    },
+    "performanceOverview": {
+      "bestThreeYrTotalReturn": {},
+      "morningStarReturnRating": {},
+      "ytdReturnPct": {
+        "raw": 2.8925412,
+        "fmt": "289.25%"
+      },
+      "fiveYrAvgReturnPct": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "numYearsUp": {},
+      "worstOneYrTotalReturn": {},
+      "oneYearTotalReturn": {
+        "raw": 3.1108148,
+        "fmt": "311.08%"
+      },
+      "numYearsDown": {},
+      "asOfDate": {
+        "raw": 1703721600,
+        "fmt": "2023-12-28"
+      },
+      "worstThreeYrTotalReturn": {},
+      "bestOneYrTotalReturn": {},
+      "threeYearTotalReturn": {
+        "raw": 0,
+        "fmt": "0.00%"
+      }
+    },
+    "riskOverviewStatistics": {
+      "riskRating": {},
+      "riskStatistics": [
+        {
+          "year": "5y",
+          "alpha": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "beta": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "meanAnnualReturn": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "rSquared": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "stdDev": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "sharpeRatio": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "treynorRatio": {
+            "raw": 0,
+            "fmt": "0"
+          }
+        },
+        {
+          "year": "3y",
+          "alpha": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "beta": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "meanAnnualReturn": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "rSquared": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "stdDev": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "sharpeRatio": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "treynorRatio": {
+            "raw": 0,
+            "fmt": "0"
+          }
+        },
+        {
+          "year": "10y",
+          "alpha": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "beta": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "meanAnnualReturn": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "rSquared": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "stdDev": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "sharpeRatio": {
+            "raw": 0,
+            "fmt": "0"
+          },
+          "treynorRatio": {
+            "raw": 0,
+            "fmt": "0"
+          }
+        }
+      ]
+    },
+    "riskOverviewStatisticsCat": {
+      "riskStatisticsCat": []
+    },
+    "performanceOverviewCat": {
+      "bestThreeYrTotalReturn": {},
+      "morningStarReturnRating": {},
+      "ytdReturnPct": {},
+      "fiveYrAvgReturnPct": {},
+      "numYearsUp": {},
+      "worstOneYrTotalReturn": {},
+      "oneYearTotalReturn": {},
+      "numYearsDown": {},
+      "asOfDate": {},
+      "worstThreeYrTotalReturn": {},
+      "bestOneYrTotalReturn": {},
+      "threeYearTotalReturn": {}
+    },
+    "trailingReturnsCat": {
+      "threeMonth": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "oneYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "ytd": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "lastBearMkt": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "lastBullMkt": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "fiveYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "tenYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "oneMonth": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "threeYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      }
+    },
+    "maxAge": 1,
+    "pastQuarterlyReturns": {
+      "returns": []
+    },
+    "trailingReturnsNav": {
+      "ytd": {
+        "raw": 2.8925412,
+        "fmt": "289.25%"
+      },
+      "oneMonth": {
+        "raw": 0.5709185,
+        "fmt": "57.09%"
+      },
+      "threeMonth": {
+        "raw": 0.9578212,
+        "fmt": "95.78%"
+      },
+      "oneYear": {
+        "raw": 3.1108148,
+        "fmt": "311.08%"
+      },
+      "threeYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "fiveYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      },
+      "tenYear": {
+        "raw": 0,
+        "fmt": "0.00%"
+      }
+    },
+    "annualTotalReturns": {
+      "returns": [
+        {
+          "year": "2022",
+          "annualValue": {
+            "raw": -0.8386483,
+            "fmt": "-83.86%"
+          }
+        }
+      ],
+      "returnsCat": []
+    }
+  },
+  "quoteType": {
+    "exchange": "PCX",
+    "shortName": "Bitwise Crypto Industry Innovat",
+    "longName": "Bitwise Crypto Industry Innovators ETF",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-18000000",
+    "quoteType": "ETF",
+    "symbol": "BITQ",
+    "messageBoardId": "finmb_706371483",
+    "market": "us_market"
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 11.59,
+      "fmt": "11.59"
+    },
+    "regularMarketOpen": {
+      "raw": 12.65,
+      "fmt": "12.65"
+    },
+    "twoHundredDayAverage": {
+      "raw": 7.616625,
+      "fmt": "7.62"
+    },
+    "trailingAnnualDividendYield": {},
+    "payoutRatio": {},
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 12.65,
+      "fmt": "12.65"
+    },
+    "navPrice": {
+      "raw": 11.61,
+      "fmt": "11.61"
+    },
+    "averageDailyVolume10Day": {
+      "raw": 369750,
+      "fmt": "369.75k",
+      "longFmt": "369,750"
+    },
+    "totalAssets": {
+      "raw": 99665760,
+      "fmt": "99.67M",
+      "longFmt": "99,665,760"
+    },
+    "regularMarketPreviousClose": {
+      "raw": 11.59,
+      "fmt": "11.59"
+    },
+    "fiftyDayAverage": {
+      "raw": 8.6608,
+      "fmt": "8.66"
+    },
+    "trailingAnnualDividendRate": {},
+    "open": {
+      "raw": 12.65,
+      "fmt": "12.65"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 369750,
+      "fmt": "369.75k",
+      "longFmt": "369,750"
+    },
+    "expireDate": {},
+    "yield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {},
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 11.26,
+      "fmt": "11.26"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "regularMarketVolume": {
+      "raw": 434654,
+      "fmt": "434.65k",
+      "longFmt": "434,654"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {},
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 166190,
+      "fmt": "166.19k",
+      "longFmt": "166,190"
+    },
+    "priceToSalesTrailing12Months": {},
+    "dayLow": {
+      "raw": 11.26,
+      "fmt": "11.26"
+    },
+    "ask": {
+      "raw": 11.78,
+      "fmt": "11.78"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 1100,
+      "fmt": "1.1k",
+      "longFmt": "1,100"
+    },
+    "volume": {
+      "raw": 434654,
+      "fmt": "434.65k",
+      "longFmt": "434,654"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 13.68,
+      "fmt": "13.68"
+    },
+    "forwardPE": {},
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 3.465,
+      "fmt": "3.46"
+    },
+    "bid": {
+      "raw": 11.52,
+      "fmt": "11.52"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {
+      "raw": 1000,
+      "fmt": "1k",
+      "longFmt": "1,000"
+    },
+    "dayHigh": {
+      "raw": 12.65,
+      "fmt": "12.65"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "BITQ",
+  "assetProfile": {
+    "phone": "+1 405 7788377",
+    "longBusinessSummary": "The index was designed by Bitwise Index Services, LLC to measure the performance of companies involved in servicing the cryptocurrency markets, including crypto mining firms, crypto mining equipment suppliers, crypto financial services companies, or other financial institutions servicing primarily crypto-related clientele (i.e., the crypto ecosystem). Normally, the fund invests at least 80% of its net assets in securities of Crypto Innovators. It is non-diversified.",
+    "companyOfficers": [],
+    "maxAge": 86400
+  },
+  "esgScores": {},
+  "pageViews": {
+    "shortTermTrend": "UP",
+    "midTermTrend": "UP",
+    "longTermTrend": "UP",
+    "maxAge": 1
+  }
+}

@@ -1,5 +1,5 @@
-import { ap } from "vitest/dist/reporters-OH1c16Kq.js"
 import { NasdaqSymbol } from "./symbolsList.js"
+import { bitq, bkch, wgmi, dapp } from "./etf-holdings"
 
 export const main = (data: NasdaqSymbol[]) => {
   // console.log("data :>> ", data)
@@ -95,28 +95,43 @@ export const main = (data: NasdaqSymbol[]) => {
     { name: "BTBT", type: "Hosted Mining" },
   ]
 
+  const bitqTickers = bitq.map((item) => item.symbol)
+  // console.log("bitqTickers :>> ", bitqTickers)
+
+  const bkchTickers = bkch.map((item) => item.symbol)
+  // console.log("bkchTickers :>> ", bkchTickers)
+
+  const wgmiTickers = wgmi.map((item) => item.symbol)
+  // console.log("wgmiTickers :>> ", wgmiTickers)
+
+  const dappTickers = dapp.map((item) => item.symbol)
+  // console.log("dappTickers :>> ", dappTickers)
+
   for (const miner of data) {
     // add url
-    miner.url = `https://finance.yahoo.com/quote/${miner.symbol}`
+    // miner.url = `https://finance.yahoo.com/quote/${miner.symbol}`
     // https://finance.yahoo.com/quote/WULF
-
     // if (boomTickers.includes(miner.symbol)) {
     //   miner.tradableAt = ["boom"]
     // }
-
     // // add type
     // const found = equityTypes.find((item) => item.name === miner.symbol)
     // if (found) {
     //   // console.log("found :>> ", found)
     //   miner.type = found.type
     // }
-    if (apListTickers.includes(miner.symbol)) {
-      if (miner.lists) {
-        miner.lists.push("ap")
-      } else {
-        miner.lists = ["ap"]
-      }
-    }
+    // if (apListTickers.includes(miner.symbol)) {
+    //   if (miner.lists) {
+    //     miner.lists.push("ap")
+    //   } else {
+    //     miner.lists = ["ap"]
+    //   }
+    // }
+
+    if (bitqTickers.includes(miner.symbol)) miner.etfs.push("BITQ")
+    if (bkchTickers.includes(miner.symbol)) miner.etfs.push("BKCH")
+    if (wgmiTickers.includes(miner.symbol)) miner.etfs.push("WGMI")
+    if (dappTickers.includes(miner.symbol)) miner.etfs.push("DAPP")
   }
 
   return data
