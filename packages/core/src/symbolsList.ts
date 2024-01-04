@@ -34,13 +34,14 @@ export const miners: NasdaqSymbol[] = [
     region: "CA",
   },
   {
-    symbol: "CBTTF",
+    symbol: "CBIT",
+    yahooFinanceSymbol: "CBIT.V",
     name: "Cathedra Bitcoin Inc",
-    exchange: "OTC",
+    exchange: "TSXV",
     url: "https://finance.yahoo.com/quote/CBTTF",
     type: "Prop Mining",
     etfs: [],
-    region: "US",
+    region: "CA",
   },
   {
     symbol: "BTCM",
