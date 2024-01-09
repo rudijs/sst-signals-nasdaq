@@ -29,12 +29,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/WULF",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=WULF",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:WULF&interval=1D",
       },
     ],
   },
@@ -49,8 +53,12 @@ export const miners: NasdaqSymbol[] = [
     region: "CA",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/SATO.V",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=TSXV:SATO&interval=1D",
       },
     ],
   },
@@ -64,8 +72,12 @@ export const miners: NasdaqSymbol[] = [
     region: "CA",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/CBTTF",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=TSXV:CBIT&interval=1D",
       },
     ],
   },
@@ -79,12 +91,16 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/BTCM",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=BTCM",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NYSE:BTCM&interval=1D",
       },
     ],
   },
@@ -100,12 +116,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["ia", "BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/CIFR",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=CIFR",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:CIFR&interval=1D",
       },
     ],
   },
@@ -118,8 +138,12 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/BLQC",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=OTC:BLQC&interval=1D",
       },
     ],
   },
@@ -135,12 +159,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["ia"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/BITF",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=BITF",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:BITF&interval=1D",
       },
     ],
   },
@@ -155,12 +183,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/MARA",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=MARA",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:MARA&interval=1D",
       },
     ],
   },
@@ -174,12 +206,16 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/HUT",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=HUT",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:HUT&interval=1D",
       },
     ],
   },
@@ -194,12 +230,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/GREE",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=GREE",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:GREE&interval=1D",
       },
     ],
   },
@@ -215,12 +255,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/SDIG",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=SDIG",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:SDIG&interval=1D",
       },
     ],
   },
@@ -235,12 +279,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/HIVE",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=HIVE",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:HIVE&interval=1D",
       },
     ],
   },
@@ -255,12 +303,16 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/DGHI",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=DGHI",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:DGHI&interval=1D",
       },
     ],
   },
@@ -276,12 +328,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["ia", "BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/CLSK",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=CLSK",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:CLSK&interval=1D",
       },
     ],
   },
@@ -297,12 +353,16 @@ export const miners: NasdaqSymbol[] = [
     notes: ["Bearish post halving: https://twitter.com/CK_Cryptoklepto/status/1743060713264816194?t=BFGRAb4FSLu4n1X25amy8A"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/ANY",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=ANY",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:ANY&interval=1D",
       },
     ],
   },
@@ -317,12 +377,16 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/IREN",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=IREN",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:IREN&interval=1D",
       },
     ],
   },
@@ -336,12 +400,16 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/ARBK",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=ARBK",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:ARBK&interval=1D",
       },
     ],
   },
@@ -355,8 +423,12 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/CORZQ",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=OTC:CORZQ&interval=1D",
       },
     ],
   },
@@ -370,8 +442,12 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/MGTI",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=OTC:MGTI&interval=1D",
       },
     ],
   },
@@ -385,8 +461,12 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/BTZI",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=OTC:BTZI&interval=1D",
       },
     ],
   },
@@ -400,8 +480,12 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/WELX",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=OTC:WELX&interval=1D",
       },
     ],
   },
@@ -416,12 +500,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/CSTR",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=CSTR",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:CSTR&interval=1D",
       },
     ],
   },
@@ -434,8 +522,12 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/INTV",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=OTC:INTV&interval=1D",
       },
     ],
   },
@@ -449,8 +541,12 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/INVU",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=OTC:INVU&interval=1D",
       },
     ],
   },
@@ -467,12 +563,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/MIGI",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=MIGI",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:MIGI&interval=1D",
       },
     ],
   },
@@ -486,8 +586,12 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/CCTL",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=OTC:CCTL&interval=1D",
       },
     ],
   },
@@ -502,12 +606,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/EBON",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=EBON",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:EBON&interval=1D",
       },
     ],
   },
@@ -521,8 +629,12 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/CBTC",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=OTC:CBTC&interval=1D",
       },
     ],
   },
@@ -537,12 +649,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["ia", "BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/RIOT",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=RIOT",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:RIOT&interval=1D",
       },
     ],
   },
@@ -557,8 +673,12 @@ export const miners: NasdaqSymbol[] = [
     region: "CA",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/DMGI",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=TSXV:DMGI&interval=1D",
       },
     ],
   },
@@ -573,8 +693,12 @@ export const miners: NasdaqSymbol[] = [
     region: "DE",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/NB2",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=XETR:NB2&interval=1D",
       },
     ],
   },
@@ -588,8 +712,12 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/BFCH",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=OTC:BFCH&interval=1D",
       },
     ],
   },
@@ -604,12 +732,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/SOS",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=SOS",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NYSE:SOS&interval=1D",
       },
     ],
   },
@@ -624,12 +756,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/SASR",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=SASR",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:SASR&interval=1D",
       },
     ],
   },
@@ -644,12 +780,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/CAN",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=CAN",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:CAN&interval=1D",
       },
     ],
   },
@@ -664,12 +804,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/BTBT",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=BTBT",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:BTBT&interval=1D",
       },
     ],
   },
@@ -682,8 +826,12 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/WGMI",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:WGMI&interval=1D",
       },
     ],
   },
@@ -696,8 +844,12 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/BITQ",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=AMEX:BITQ&interval=1D",
       },
     ],
   },
@@ -710,8 +862,12 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/DAPP",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:DAPP&interval=1D",
       },
     ],
   },
@@ -724,8 +880,12 @@ export const miners: NasdaqSymbol[] = [
     region: "US",
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/BKCH",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:BKCH&interval=1D",
       },
     ],
   },
@@ -740,8 +900,12 @@ export const miners: NasdaqSymbol[] = [
     holders: ["BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/BTDR",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:BTDR&interval=1D",
       },
     ],
   },
@@ -756,12 +920,16 @@ export const miners: NasdaqSymbol[] = [
     holders: ["BlackRock"],
     links: [
       {
-        name: "Yahoo Finance",
+        name: "yahooFinance",
         url: "https://finance.yahoo.com/quote/SLNH",
       },
       {
-        name: "Vizual Stocks",
+        name: "vizualStocks",
         url: "https://vizualstocks.com/premium/companies?ticker=SLNH",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:SLNH&interval=1D",
       },
     ],
   },
