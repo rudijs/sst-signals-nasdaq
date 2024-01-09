@@ -95,6 +95,26 @@ export const main = (data: NasdaqSymbol[]) => {
     { name: "BTBT", type: "Hosted Mining" },
   ]
 
+  const blackrock = [
+    "BTBT",
+    "BTDR",
+    "CAN",
+    "CIFR",
+    "CLSK",
+    "CSTR",
+    "EBON",
+    "GREE",
+    "HIVE",
+    "MARA",
+    "MIGI",
+    "RIOT",
+    "SASR",
+    "SDIG",
+    "SLNH",
+    "SOS",
+    "WULF",
+  ]
+
   const bitqTickers = bitq.map((item) => item.symbol)
   // console.log("BITQ Tickers :>> ", bitqTickers)
 
@@ -127,11 +147,24 @@ export const main = (data: NasdaqSymbol[]) => {
     //     miner.lists = ["ap"]
     //   }
     // }
+    //   if (bitqTickers.includes(miner.symbol)) miner.etfs.push("BITQ")
+    //   if (bkchTickers.includes(miner.symbol)) miner.etfs.push("BKCH")
+    //   if (wgmiTickers.includes(miner.symbol)) miner.etfs.push("WGMI")
+    //   if (dappTickers.includes(miner.symbol)) miner.etfs.push("DAPP")
+    // if (blackrock.includes(miner.symbol)) {
+    //   if (miner.holders) {
+    //     miner.holders.push("BlackRock")
+    //   } else {
+    //     miner.holders = ["BlackRock"]
+    //   }
+    // }
 
-    if (bitqTickers.includes(miner.symbol)) miner.etfs.push("BITQ")
-    if (bkchTickers.includes(miner.symbol)) miner.etfs.push("BKCH")
-    if (wgmiTickers.includes(miner.symbol)) miner.etfs.push("WGMI")
-    if (dappTickers.includes(miner.symbol)) miner.etfs.push("DAPP")
+    miner.links = [
+      { name: "Yahoo Finance", url: miner.url },
+      { name: "Vizual Stocks", url: `https://vizualstocks.com/premium/companies?ticker=${miner.symbol}` },
+    ]
+
+    delete miner.url
   }
 
   return data
