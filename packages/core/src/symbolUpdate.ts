@@ -158,13 +158,18 @@ export const main = (data: NasdaqSymbol[]) => {
     //     miner.holders = ["BlackRock"]
     //   }
     // }
-
-    miner.links = [
-      { name: "Yahoo Finance", url: miner.url },
-      { name: "Vizual Stocks", url: `https://vizualstocks.com/premium/companies?ticker=${miner.symbol}` },
-    ]
-
-    delete miner.url
+    // miner.links = [
+    //   { name: "Yahoo Finance", url: miner.url },
+    //   { name: "Vizual Stocks", url: `https://vizualstocks.com/premium/companies?ticker=${miner.symbol}` },
+    // ]
+    // delete miner.url
+    // console.log(`https://www.tradingview.com/chart/?symbol=${miner.exchange}:${miner.symbol}&interval=1D`)
+    // fitler and update miner link that name matches tradingView
+    // const filteredLinks = miner.links.filter((link) => link.name !== "tradingView")
+    // miner.links.push({
+    //   name: "tradingView",
+    //   url: `https://www.tradingview.com/chart/?symbol=${miner.exchange}:${miner.symbol}&interval=1D`,
+    // })
   }
 
   return data
