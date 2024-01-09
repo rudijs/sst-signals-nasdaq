@@ -131,8 +131,11 @@ export const main = (data: NasdaqSymbol[]) => {
     // add url
     // miner.url = `https://finance.yahoo.com/quote/${miner.symbol}`
     // https://finance.yahoo.com/quote/WULF
-    // if (boomTickers.includes(miner.symbol)) {
-    //   miner.tradableAt = ["boom"]
+    // if (miner.tradableAt && miner.tradableAt.includes("boom")) {
+    //   // miner.tradableAt = ["boom"]
+    //   console.log(`==> Miner: ${miner.symbol}`)
+    //   console.log(`https://trade.boom.com.hk/allmarkets/newBuyOrderPlace.jsp?code=${miner.symbol}&market=US&quantity=1`)
+    //   console.log("")
     // }
     // // add type
     // const found = equityTypes.find((item) => item.name === miner.symbol)
