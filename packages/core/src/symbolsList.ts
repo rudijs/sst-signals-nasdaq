@@ -398,6 +398,7 @@ export const miners: NasdaqSymbol[] = [
     tradableAt: ["boom"],
     etfs: [],
     region: "US",
+    notes: ["High debt"],
     links: [
       {
         name: "yahooFinance",
