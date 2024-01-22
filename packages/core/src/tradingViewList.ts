@@ -6,6 +6,7 @@ export const main = () => {
   const minersBTC: string[] = []
   const minersIa: string[] = []
   const minersAp: string[] = []
+  const minersRjs: string[] = []
   const minersBoom: string[] = []
   const minersBlackrock: string[] = []
   const minersETF: string[] = []
@@ -24,6 +25,10 @@ export const main = () => {
 
     if (miner.lists?.includes("ia")) {
       minersIa.push(`${exchange}:${symbol}`)
+    }
+
+    if (miner.lists?.includes("rjs")) {
+      minersRjs.push(`${exchange}:${symbol}`)
     }
 
     if (miner.lists?.includes("ap")) {
@@ -51,6 +56,7 @@ export const main = () => {
 
   fs.writeFileSync(outDir + "/Miners-BTC.txt", minersBTC.join(","))
   fs.writeFileSync(outDir + "/Miners-IA.txt", minersIa.join(","))
+  fs.writeFileSync(outDir + "/Miners-RJS.txt", minersRjs.join(","))
   fs.writeFileSync(outDir + "/Miners-AP.txt", minersAp.join(","))
   fs.writeFileSync(outDir + "/Miners-Boom.txt", minersBoom.join(","))
   fs.writeFileSync(outDir + "/Miners-BlackRock.txt", minersBlackrock.join(","))
