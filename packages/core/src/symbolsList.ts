@@ -416,9 +416,9 @@ export const miners: NasdaqSymbol[] = [
     ],
   },
   {
-    symbol: "CORZQ",
+    symbol: "CORZ",
     name: "Core Scientific, Inc.",
-    exchange: "OTC",
+    exchange: "NASDAQ",
     lists: ["ia", "ap"],
     type: "Diversified",
     etfs: [],
@@ -426,12 +426,13 @@ export const miners: NasdaqSymbol[] = [
     links: [
       {
         name: "yahooFinance",
-        url: "https://finance.yahoo.com/quote/CORZQ",
+        url: "https://finance.yahoo.com/quote/CORZ",
       },
       {
         name: "tradingView",
-        url: "https://www.tradingview.com/chart/?symbol=OTC:CORZQ&interval=1D",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:CORZ&interval=1D",
       },
+      { name: "vizualStocks", url: "https://vizualstocks.com/premium/companies?ticker=CORZ" },
     ],
   },
   {
