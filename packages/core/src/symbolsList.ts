@@ -419,7 +419,7 @@ export const miners: NasdaqSymbol[] = [
     symbol: "CORZ",
     name: "Core Scientific, Inc.",
     exchange: "NASDAQ",
-    lists: ["ia", "ap"],
+    lists: ["rjs", "ia", "ap"],
     type: "Diversified",
     etfs: [],
     region: "US",
