@@ -938,7 +938,6 @@ export const miners: NasdaqSymbol[] = [
       },
     ],
   },
-
   {
     symbol: "GRDI",
     yahooFinanceSymbol: "GRDI.NE",
@@ -957,6 +956,29 @@ export const miners: NasdaqSymbol[] = [
       {
         name: "tradingView",
         url: "https://www.tradingview.com/chart/?symbol=NEO:GRDI&interval=1D",
+      },
+    ],
+  },
+  {
+    symbol: "LMFA",
+    name: "LM Funding America, Inc.",
+    exchange: "NASDAQ",
+    tradableAt: ["boom"],
+    region: "US",
+    lists: [],
+    etfs: [],
+    links: [
+      {
+        name: "vizualStocks",
+        url: "https://vizualstocks.com/premium/companies?ticker=LMFA",
+      },
+      {
+        name: "tradingView",
+        url: "https://www.tradingview.com/chart/?symbol=NASDAQ:LMFA&interval=1D",
+      },
+      {
+        name: "yahooFinance",
+        url: "https://finance.yahoo.com/quote/LMFA",
       },
     ],
   },
